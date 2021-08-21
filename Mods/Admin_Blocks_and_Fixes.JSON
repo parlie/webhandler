@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/admin-blocks-and-fixes/",
+  "modCreatedTime": "2020-05-02T02:41:18+00:00",
+  "modLastUpdatedTime": "2020-05-02T02:41:19+00:00",
+  "modName": "Admin Blocks and Fixes",
+  "modImages": [],
+  "modShortDescription": "Adds a unbreakable and paintable block helper, a indestructible landmine, a few indestructible doors, powered doors and lights.",
+  "modDescription": "Adds a unbreakable and paintable block helper, a indestructible landmine, a few indestructible doors, powered doors and [lights](https://7daystodiemods.com/tag/7-days-to-die-lights/).\n\nAdds all the rotations to the garage doors and adds an item that gives 10000 xP. Also fixes the vehicle and apparel stacknumber to 1 to fix problems with other mods, specially the ones the add new dyes.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Snufki-n/Snufkin_Modlets/tree/master/Snufkin_AdminBlocksAndFixes)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/18673-snufkins-assorted-modlets/).\n\n**Credits:** [Snufkin](https://7daystodiemods.com/tag/snufkin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Snufki-n/Snufkin_Modlets/tree/master/Snufkin_AdminBlocksAndFixes",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/18673-snufkins-assorted-modlets/",
+  "modAuthors": [
+    "Snufkin"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die doors",
+    "7 days to die lights",
+    "Snufkin"
+  ]
+}
