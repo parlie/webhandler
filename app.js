@@ -22,7 +22,7 @@ var siteMapXML;
 /**
  * Last timestamp from sitemap.
  */
-var siteMapTimestamp;
+var sitemapTimestamp;
 
 /**
  * Programwide XML parser.
@@ -51,8 +51,9 @@ const parserMD = new NHMO.NodeHtmlMarkdown();
 
 /**
  * Two dimensional array for storing mod timestamps and URLs.
+ * @type {Map<string,ModData>} 
  */
-var modURLsTimestamps = [];
+var modDataArray = new Map();
 
 /**
  * Constant that defines update frequency in hours
@@ -69,6 +70,15 @@ var fs = require('fs');
 const nodemail = require('nodemailer');
 
 const rimraf = require('rimraf');
+
+
+class ModData{
+    constructor(modURL, modTimestamp, modName){
+        this.modURL = modURL;
+        this.modTimestamp = modTimestamp;
+        this.modName = modName;
+    }
+}
 
 /**
  * This class serves the purpose of storing data about individual mods.
@@ -109,24 +119,17 @@ class ModItem{
  */
 function Startup(){
     GetFullDayPeriod();
-    if(fs.existsSync(modsPath)){
-        if(!IsEmpty(modsPath)){
-            try{
-            fs.readdirSync(modsPath).forEach(file => {
-                var mod = JSON.parse(fs.readFileSync(modsPath + "/" + file));
-                modURLsTimestamps.push([file.split("-")[0],mod.modLastUpdatedTime,mod.modURL]);
-            });
-            //console.log(modURLsTimestamps);
-        } catch(error){
-             console.log(error);
-            }
-        }
+    if(fs.existsSync("variables.json")){
+        sitemapTimestamp = JSON.parse(fs.readFileSync("variables.json")).siteMapTimestamp;
     }
-    else
-    {
+
+    if(!fs.existsSync(modsPath)){
         fs.mkdirSync(modsPath);
     }
-   // console.log(modURLsTimestamps);
+
+    if(fs.existsSync("./Mods/modData.json")){
+        modDataArray = JSON.parse(fs.readFileSync("./Mods/modData.json"),reviver);
+    }
     CheckForSiteMapUpdate();
 }
 
@@ -140,7 +143,7 @@ function IsEmpty(path) {
  * @returns Returns input string formated with current time.
  */
 function TimeNow(logText){
-    return DateTime.utc().format('D/MM/YYYY | h:mm:ss') + " | " + logText;
+    return DateTime.utc().format('D/MM/YYYY | hh:mm:ss') + " | " + logText;
 }
 
 /**
@@ -286,7 +289,8 @@ function ProcessModImagesFromPage(attribut) {
  * @returns {string} Trimmed mod name.
  */
 function ProcessModNameFromPage(attribut){
-    return attribut.substr(0,attribut.length-21);
+    var loc = attribut.replace(':',' ');
+    return loc.substr(0,attribut.length-21);
 }
 
 //#endregion
@@ -319,15 +323,20 @@ function ProcessModNameFromPage(attribut){
  */
  function GetSiteMapTimestamp(){
     const element = siteMapXML['urlset']['url'][0];
-    if(element['lastmod'] == siteMapTimestamp && fullDayPeriod < 24 && siteMapTimestamp != undefined)
+    if(element['lastmod'] == sitemapTimestamp && fullDayPeriod < 24 && sitemapTimestamp != undefined)
     {
         console.log(TimeNow("The sitemap is up-to-date. Next check is planned in "+timeForUpdate+" hour/s"));
         setTimeout(CheckForSiteMapUpdate,timeForUpdate*3600000);
     }
-    else if(fullDayPeriod == 24 && siteMapTimestamp != undefined)
+    else if(element['lastmod'] != sitemapTimestamp){
+        console.log(TimeNow("Current mod list is outdated"));
+        setTimeout(CheckForSiteMapUpdate,timeForUpdate*3600000);
+        UpdateModObjects();
+    }
+    else if(fullDayPeriod == 24 && sitemapTimestamp != undefined)
     {
         console.log(TimeNow("Commencing daily backup timestamp validation..."));
-        if(modURLsTimestamps.length == siteMapXML['urlset']['url'].length)
+        if(modDataArray.length == siteMapXML['urlset']['url'].length)
         {
             console.log(TimeNow("Daily backup check has been succesfully completed."));
             fullDayPeriod = 0;
@@ -340,80 +349,55 @@ function ProcessModNameFromPage(attribut){
             UpdateModObjects();
         }
     }
-    else if(siteMapTimestamp == undefined)
+    else if(sitemapTimestamp == undefined)
     {
         console.log(TimeNow("Local timestamp has not been found."));
         setTimeout(CheckForSiteMapUpdate,timeForUpdate*3600000);
-        FirstTimeUpdate();
+        UpdateModObjects();
     }
     
 }
 
-function FirstTimeUpdate(){
-    var modAmount = siteMapXML['urlset']['url'].length-1;
-    siteMapTimestamp = siteMapXML['urlset']['url'][0]['lastmod'];
-    var i = 1;
-    var p = setInterval(() => {
-        if(i < modAmount){
-        GetModPage(siteMapXML['urlset']['url'][i]['loc'].toString(),i,modAmount);
-        i++;
-        }
-        else{
-            console.log(TimeNow("All mods have been processed. The next check will ocure in ~2 hours."));
-            clearInterval(p);
-        }
-    },
-    500
-    );
-    //console.log(TimeNow("All mods have been processed."))
-}
-
 function UpdateModObjects()
 {
-    var currentLenght = modURLsTimestamps.length;
-    var newLenght = siteMapXML['urlset']['url'].length - 1;
+    var newLenght = siteMapXML['urlset']['url'].length;
 
-    siteMapTimestamp = siteMapXML['urlset']['url'][0]['lastmod'];
+    sitemapTimestamp = siteMapXML['urlset']['url'][0]['lastmod'];
+    fs.writeFileSync("variables.json",JSON.stringify({siteMapTimestamp:sitemapTimestamp}));
 
     var tempArray = [];
 
-
-    if(modURLsTimestamps.length < 1){
-        FirstTimeUpdate();
-    }
-    else if(currentLenght < newLenght){
-
-        var tempCurrentLenght = currentLenght;
-        while(tempCurrentLenght < newLenght)
-        {
-            tempArray.push(siteMapXML['urlset']['url'][tempCurrentLenght+1].toString());
-            tempCurrentLenght++;
+    for (let i = 1; i < newLenght; i++) {
+        var currentElement = siteMapXML['urlset']['url'][i]
+        var url = currentElement['loc'].toString();
+        var timestamp = currentElement['lastmod'].toString();
+        if(modDataArray.has(url) && modDataArray.get(url).modTimestamp == timestamp){
+            continue
         }
+
+        tempArray.push(url);
+        
     }
 
-    for (let i = 1; i < modURLsTimestamps.length; i++) {
-        if(modURLsTimestamps[i][0] != siteMapXML['urlset']['url'][i]['lastmod'])
-        {
-            tempArray.push(siteMapXML['urlset']['url'][i]['loc'].toString(),modURLsTimestamps[i][0]);
-        }
-    }
     var i = 1;
     var p = setInterval(() => {
         if(i < tempArray.length){
-        GetModPage(tempArray[i][0],tempArray[i][1],tempArray.length);
+        GetModPage(tempArray[i],i,tempArray.length);
         i++;
         }
         else{
             console.log(TimeNow("All mods have been processed. The next check will ocure in ~2 hours."));
+            fs.writeFileSync("./Mods/modData.json",JSON.stringify(modDataArray,replacer));
             clearInterval(p);
         }
     },
     500
-    );
+    );  
 }
 
 function GetModPage(url,id,amount)
 {
+    console.log(id);
     var $;
     var $modURL;
     var $modCreatedTime;
@@ -434,21 +418,23 @@ function GetModPage(url,id,amount)
             await got(url).then(
                 response => {
                 $ = parserHTML.load(response.body);
-                $modURL = $('meta[property=og:url]').attr('content');
+                $modURL = url;
                 $modCreatedTime = $('meta[property=article:published_time]').attr('content');
                 $modLastUpdateTime = $('meta[property=article:modified_time]').attr('content');
+                $modName = ProcessModNameFromPage($('meta[property=og:title]').attr('content'));
 
-                if(modURLsTimestamps[id] == $modURL)
+                if(modDataArray.has(url))
                 {
-                    modURLsTimestamps[id] = [id,$modLastUpdateTime,$modURL];
+                    var v = modDataArray.get(url);
+                    v.modTimestamp = $modLastUpdateTime;
+                    modDataArray.set(url, v);
                 }
                 else
                 {
-                    modURLsTimestamps.push([id,$modLastUpdateTime,$modURL]);
+                    modDataArray.set(url,new ModData(url,$modLastUpdateTime,$modName.toString().replace(/\s/g, "_").replace(/\//g,"_")));
                 }
                     
                 
-                $modName = ProcessModNameFromPage($('meta[property=og:title]').attr('content'));
                 $modImages = ProcessModImagesFromPage(parserHTML.load($('article > div > p > img').toString(),null,false));
                 $modShortDescription = $('meta[name=description]').attr('content');
                 $modDescription = ProcessModDescriptionFromPage(parserHTML.load($('article > div.entry-content').toString(),null,false));
@@ -458,17 +444,42 @@ function GetModPage(url,id,amount)
                 $modAuthors = ProcessModAuthors(parserHTML.load($('article > div.entry-content > p:last-of-type').toString()));
                 $modTags = ProcessModTags(parserHTML.load($('article > footer.entry-footer > div.tags-links').toString(),null,false));
                 }); 
-                process.stdout.write(TimeNow(id + "/" + amount)+ " | " + $modName.padEnd(50) +"\r");
-                WriteObject(id-1,new ModItem($modURL,$modCreatedTime,$modLastUpdateTime,$modName,$modImages,$modShortDescription,$modDescription,$modDownloadURLs,$modPotentialyOutdated,$modForumURL,$modAuthors,$modTags));
+                process.stdout.write(TimeNow(id + "/" + amount)+ " | " + $modName.padEnd(100) +"\r");
+                WriteObject(new ModItem($modURL,$modCreatedTime,$modLastUpdateTime,$modName,$modImages,$modShortDescription,$modDescription,$modDownloadURLs,$modPotentialyOutdated,$modForumURL,$modAuthors,$modTags));
     })();
 }
+
+
+
+function reviver(key, value) {
+    if(typeof value === 'object' && value !== null) {
+      if (value.dataType === 'Map') {
+        return new Map(value.value);
+      }
+    }
+    return value;
+  }
+
+
+function replacer(key, value) {
+if(value instanceof Map) {
+    return {
+    dataType: 'Map',
+    value: Array.from(value.entries()), // or with spread: value: [...value]
+    };
+} else {
+    return value;
+}
+}
+
+
 
 /**
  * 
  * @param {ModItem} obj 
  */
-function WriteObject(modID,obj){
-    var fileName = "./Mods/" + modID + "-" + obj.modName.toString().replace(/\s/g, "_").replace(/\//g,"_") + ".JSON";
+function WriteObject(obj){
+    var fileName = "./Mods/"+obj.modName.toString().replace(/\s/g, "_").replace(/\//g,"_") + ".JSON";
     if(fs.existsSync(fileName))
     {
         fs.unlinkSync(fileName);
