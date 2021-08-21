@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/chess/",
+  "modCreatedTime": "2020-05-02T02:42:47+00:00",
+  "modLastUpdatedTime": "2020-05-02T02:42:49+00:00",
+  "modName": "Chess",
+  "modImages": [],
+  "modShortDescription": "Just a craftable chess table and chess pieces, using red, blue and classic notation for the pieces. The set is crafted as a bundle that includes the table.",
+  "modDescription": "Just a craftable chess table and chess pieces, using red, blue and classic notation for the pieces. The set is crafted as a bundle that includes the table. Gathering all the pieces again lets you craft a bundle without the table.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Snufki-n/Snufkin_Modlets/tree/master/Snufkin_Chess)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/18673-snufkins-assorted-modlets/).\n\n**Credits:** [Snufkin](https://7daystodiemods.com/tag/snufkin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Snufki-n/Snufkin_Modlets/tree/master/Snufkin_Chess",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/18673-snufkins-assorted-modlets/",
+  "modAuthors": [
+    "Snufkin"
+  ],
+  "modTags": [
+    "Snufkin"
+  ]
+}
