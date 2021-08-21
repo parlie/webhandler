@@ -392,7 +392,7 @@ function UpdateModObjects()
         else{
             console.log(TimeNow("All mods have been processed. The next check will ocure in ~2 hours."));
             fs.writeFileSync("./Mods/modData.json",JSON.stringify(modDataArray,replacer));
-            exec('git add . && git commit -m "mods update" && git push', (error, stdout, stderr) => {
+            exec('git add . && git commit -m "mods update'+ DateTime.now('D/MM/YYYY H_mm_ss')+'" && git push', (error, stdout, stderr) => {
                 if (error) {
                     console.log(`error: ${error.message}`);
                     return;
@@ -401,7 +401,6 @@ function UpdateModObjects()
                     console.log(`stderr: ${stderr}`);
                     return;
                 }
-                console.log(`stdout: ${stdout}`);
             });
             clearInterval(p);
         }
