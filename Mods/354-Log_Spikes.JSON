@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/log-spikes/",
+  "modCreatedTime": "2020-07-01T00:27:00+00:00",
+  "modLastUpdatedTime": "2020-08-13T23:17:07+00:00",
+  "modName": "Log Spikes",
+  "modImages": [],
+  "modShortDescription": "Makes Wood Log and Iron Spikes craftable again. They should upgrade from wood all the way up to steel, or at least the code implies they do.",
+  "modDescription": "Makes Wood Log and Iron Spikes craftable again. The [spikes](https://7daystodiemods.com/tag/7-days-to-die-spikes/) actually already exist in the code, but they’re marked as creative mode dev only. The buff they apply did not exist, so KhaineGB quickly threw one together and it will now bleed approx 40hp out of the player and hopefully any zombies that land on it.\n\nThey should upgrade from wood all the way up to steel, or at least the code implies they do. So if you want the log spikes back, download the zip file, unzip it and place the folder into your **7 Days to Die/Mods** folder.\n\n**[Download](https://gitlab.com/KhaineGB/khaines-modlets-a19/-/archive/master/khaines-modlets-a19-master.zip?path=KHA19-LogSpikes)** for A19  \n**[Download](https://github.com/KhaineGB/LogSpikeModlet/archive/master.zip)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19558-khaines-a19-modlets-bigger-backpacks-backpack-buttons-hp-bars-etc/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/KhaineGB/khaines-modlets-a19/-/archive/master/khaines-modlets-a19-master.zip?path=KHA19-LogSpikes",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://github.com/KhaineGB/LogSpikeModlet/archive/master.zip",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19558-khaines-a19-modlets-bigger-backpacks-backpack-buttons-hp-bars-etc/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "7 days to die spikes",
+    "7 days to die traps",
+    "KhaineGB"
+  ]
+}

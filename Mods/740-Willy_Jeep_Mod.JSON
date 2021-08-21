@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/willy-jeep-mod/",
+  "modCreatedTime": "2020-09-06T03:33:00+00:00",
+  "modLastUpdatedTime": "2021-04-29T20:50:46+00:00",
+  "modName": "Willy Jeep Mod",
+  "modImages": [],
+  "modShortDescription": "This mod adds a WW2 style Jeep to the 7 Days to Die. A classic all terrain vehicle, perfect for the end of the world! Crafts with the same parts as the 4x4.",
+  "modDescription": "This mod adds a WW2 style Jeep to the 7 Days to Die. A classic all terrain [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/), perfect for the end of the world! Crafts with the same parts as the 4×4\\. Also tweaked the suspension sound that plays on rough terrain so it doesn’t play as often and is more quiet. Bdubyah assume it will apply to all vehicles.\n\n## Changelog\n\nAdded new engine/horn sounds.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Willy%20Jeep)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/Willy%20Jeep)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11875-bdubyahs-modlets/).\n\n**Credits:** [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Willy%20Jeep",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/Willy%20Jeep",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11875-bdubyahs-modlets/",
+  "modAuthors": [
+    "Bdubyah"
+  ],
+  "modTags": [
+    "7 days to die truck mods",
+    "7 days to die vehicles",
+    "Bdubyah"
+  ]
+}

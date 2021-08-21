@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/vanilla-ak-47-replacer/",
+  "modCreatedTime": "2020-02-25T05:10:18+00:00",
+  "modLastUpdatedTime": "2020-06-03T21:30:44+00:00",
+  "modName": "Vanilla AK-47 Replacer",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/02/7-days-to-die-vanilla-ak-47-replacer-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/02/7-days-to-die-vanilla-ak-47-replacer-screenshot-2.jpg"
+  ],
+  "modShortDescription": "This 7DTD mod replaces the vanilla AK-47 model with a cleaner version that has proper, precise iron-sights. It's completely functional to vanilla standards.",
+  "modDescription": "This 7DTD mod replaces the vanilla AK-47 model with a cleaner version that has proper, precise iron-sights. It is completely functional to vanilla standards, all attachments are hand placed and work as expected, and it has fire and reload animations.\n\n## Notes\n\nThis modlet, and his other ‘replacement’ modlets, do not actually overwrite any of the vanilla files and can be installed/uninstalled on an existing save with zero ill effects. They should also be compatible with other modlets that alter [weapon](https://7daystodiemods.com/tag/7-days-to-die-weapons/) properties as long as this mod loads first (which is why the mod folder names start with AAA).\n\n## Installation Instructions\n\nExtract archive to mods folder.\n\n**[Download](http://www.mediafire.com/file/c8zyu2g5i27r1ei/Vanilla_AK47_Replacer_1-0.zip/file)**  \n**[Download](http://www.mediafire.com/file/indh4pzd7v6eru9/Vanilla_AK47_Replacer_1-0_-_PIP_Optics_Patch.zip/file)** Compatibility Patch for His [PIP Optics Replacer](https://7daystodiemods.com/picture-in-picture-vanilla-optics-replacer/)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17714-vanilla-ak-47-replacer-fully-animated-proper-ironsights-and-attachments-etc/).\n\n**Credits:** [Sykriss](https://7daystodiemods.com/tag/sykriss/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "http://www.mediafire.com/file/c8zyu2g5i27r1ei/Vanilla_AK47_Replacer_1-0.zip/file",
+      "Version": "v19"
+    },
+    {
+      "Info": "Compatibility Patch for His PIP Optics Replacer",
+      "URL": "http://www.mediafire.com/file/indh4pzd7v6eru9/Vanilla_AK47_Replacer_1-0_-_PIP_Optics_Patch.zip/file",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17714-vanilla-ak-47-replacer-fully-animated-proper-ironsights-and-attachments-etc/",
+  "modAuthors": [
+    "Sykriss"
+  ],
+  "modTags": [
+    "7 days to die weapons",
+    "Sykriss"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/enemy-health-bar/",
+  "modCreatedTime": "2021-07-23T03:52:19+00:00",
+  "modLastUpdatedTime": "2021-07-23T03:52:21+00:00",
+  "modName": "Enemy Health Bar",
+  "modImages": [],
+  "modShortDescription": "Adds a visible health bar to enemies to the top of the screen under the compass.",
+  "modDescription": "Adds a visible health bar to enemies to the top of the screen under the compass.\n\n**[Download](https://damned.cloud/files/MeanCloud__EnemyHealth_v1.00.zip)**\n\nIf you appreciate MeanCloud’s work and you want to show support, use this [donate link](https://paypal.me/MeanCloud).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24859-meanclouds-modlets-collection/).\n\n**Credits:** [MeanCloud](https://7daystodiemods.com/tag/meancloud/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://damned.cloud/files/MeanCloud__EnemyHealth_v1.00.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/24859-meanclouds-modlets-collection/",
+  "modAuthors": [
+    "MeanCloud"
+  ],
+  "modTags": [
+    "MeanCloud"
+  ]
+}

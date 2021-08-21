@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/slingshot/",
+  "modCreatedTime": "2020-10-05T12:33:00+00:00",
+  "modLastUpdatedTime": "2020-12-13T03:52:37+00:00",
+  "modName": "Slingshot",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/10/7-days-to-die-slingshot-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "This mod adds slingshot weapon to the game.",
+  "modDescription": "This mod adds slingshot [weapon](https://7daystodiemods.com/tag/7-days-to-die-weapons/) to the game.\n\n## Changelog\n\n* **_(new)_** Added a deer slingshot. You need to kill the deer and get the deer head before you can make it.\n* Fixed ammo problem.\n\n**[Download](https://budingserver.lanzoux.com/ii978hvqqni)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17782-slingshot/).\n\n**Credits:** Huannan5300",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://budingserver.lanzoux.com/ii978hvqqni",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17782-slingshot/",
+  "modAuthors": [
+    "Huannan5300"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die weapons"
+  ]
+}

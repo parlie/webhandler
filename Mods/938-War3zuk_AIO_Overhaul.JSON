@@ -1,0 +1,74 @@
+{
+  "modURL": "https://7daystodiemods.com/war3zuk-aio-overhaul/",
+  "modCreatedTime": "2021-07-30T17:08:00+00:00",
+  "modLastUpdatedTime": "2021-07-30T19:44:31+00:00",
+  "modName": "War3zuk AIO Overhaul",
+  "modImages": [],
+  "modShortDescription": "What this Mod is about, This Mod changes around 90% of the Total game Mechanics in the sense of Code, It adds many weapons.",
+  "modDescription": "What this Mod is about, This Mod changes around 90% of the Total game Mechanics in the sense of Code, It adds many weapons All of which have been bought from various stores to try to get the best looking and playing Mod he can manage, Its constantly being worked on and improved and should always be kept upto date with the latest version of the main core game, The AIO also adds many Blocks and Different items that require abit more learning in order to understand how it all works, A good example of this is the main weapons are no longer repaired using the default repair kits but instead use 4 Custom made varients that are crafted on the player to do with each type of gun. Some of His Original Modlets that were used to create this AIO are as follows. Around 20 or so more have been added directly to the AIO that cant be made into Modlets due to them needing certain bits of code from the AIO so would cause Conflicts.\n\n## Items Added Within the Overhaul\n\nThe Following Below Modlets are versions of the original Alpha 16.4 Code updated to 19.4 latest. As each Alpha comes out more & more of the original Modlets become non updatable.\n\n* [Biome Cleaner](https://7daystodiemods.com/biome-cleaner/)\n* [25K Stack Sizes](https://7daystodiemods.com/25k-stack-sizes/)\n* [Advanced Junk Turret](https://7daystodiemods.com/advanced-junk-turret/)\n* [Battery Acid](https://7daystodiemods.com/battery-acid/)\n* [Custom Foods](https://7daystodiemods.com/custom-foods/)\n* [Demolisher](https://7daystodiemods.com/demolisher-mod-by-war3zuk/)\n* [Disassemble Ammo](https://7daystodiemods.com/disassemble-ammo/)\n* [Ethans Bam Hammer](https://7daystodiemods.com/ethans-bam-hammer/)\n* [Extended Farming](https://7daystodiemods.com/extended-farming/)\n* [Extra Deco Ore](https://7daystodiemods.com/extra-deco-ore/)\n* [Fat Soaked Log Bundle](https://7daystodiemods.com/fat-soaked-log-bundle/)\n* [Golden Ticket](https://7daystodiemods.com/golden-ticket/)\n* [Grand Spartan](https://7daystodiemods.com/grand-spartan/)\n* [HD Cement Mixer](https://7daystodiemods.com/hd-cement-mixer/)\n* [HD First Aid Kit](https://7daystodiemods.com/hd-first-aid-kit/)\n* [HD Forge](https://7daystodiemods.com/hd-forge/)\n* [HD Generator](https://7daystodiemods.com/hd-generator/)\n* [HD JukeBoxes](https://7daystodiemods.com/hd-jukeboxes/)\n* [HD Katanas](https://7daystodiemods.com/hd-katanas/)\n* [HD Mega Vault](https://7daystodiemods.com/hd-mega-vault/)\n* [HD Mini Hatched](https://7daystodiemods.com/hd-mini-hatchet/)\n* [HD Pump Jack](https://7daystodiemods.com/hd-pump-jack/)\n* [HD Supply Boxes](https://7daystodiemods.com/hd-supply-boxes/)\n* [HD Tools](https://7daystodiemods.com/hd-tools/)\n* [HD Truck Elevator](https://7daystodiemods.com/hd-truck-elevator/)\n* [HD Wrench](https://7daystodiemods.com/hd-wrench/)\n* [HD Xcalibur](https://7daystodiemods.com/hd-xcalibur/)\n* [Healing Bedroll](https://7daystodiemods.com/healing-bedroll/)\n* [Improved Progression Points](https://7daystodiemods.com/improved-progression-points/)\n* [Indestructible Blocks](https://7daystodiemods.com/indestructible-blocks/)\n* [Kitchen Utils](https://7daystodiemods.com/kitchen-utils/)\n* [Lootable Storage](https://7daystodiemods.com/lootable-storage/)\n* [Move Speeds](https://7daystodiemods.com/move-speeds/)\n* [Movie Posters PBH](https://7daystodiemods.com/movie-posters-pbh/)\n* [No Falling Trees](https://7daystodiemods.com/no-falling-trees/)\n* [Noob Block](https://7daystodiemods.com/noob-block/)\n* [Penthrox Injection](https://7daystodiemods.com/penthrox-injection/)\n* [Reduced glue](https://7daystodiemods.com/reduced-glue/)\n* [ReGrow Overhaul](https://7daystodiemods.com/regrow-overhaul/)\n* [Replacements](https://7daystodiemods.com/replacements-by-war3zuk-tallon/)\n* [Rolling Door](https://7daystodiemods.com/rolling-door/)\n* [Starter Classes](https://7daystodiemods.com/starter-classes/)\n* [Stealth Military](https://7daystodiemods.com/stealth-military/)\n* [Supply Crates](https://7daystodiemods.com/supply-crates/)\n* [Vehicle Revamp](https://7daystodiemods.com/vehicle-revamp/)\n* [Weed Wacker 5000](https://7daystodiemods.com/weed-wacker-5000/)\n* [Zombie Loot](https://7daystodiemods.com/zombie-loot/)\n* [Zombie Modifications](https://7daystodiemods.com/zombie-modifications-by-war3zuk/)\n* [Zombie Tramp PBH](https://7daystodiemods.com/zombie-tramp-pbh/)\n* [Zombies Infections](https://7daystodiemods.com/zombies-infections/)\n\n## Changelog\n\n**Updated v5.7 to v5.8**\n\nUpdated For Alpha 19.6 B8\n\n**Updated v5.6 to v5.7**\n\n* Updated To 19.5 B60\n* Updated LootTables Due To 19.5 (B53)\n* Updated Loot Table (Duplicates) Due To 19.5 (B50)\n* Updated Lootlist (Custom Blocks) Due To 19.5 (B50)\n* Updated LootList (Custom Items) Due To 19.5 (B50)\n* Fixed HD M3 Auto Perk\n* Fixed HD Glock 18 Auto Stats\n* Fixed HD Colt M1911 Stats\n* Fixed HD Colt M1911A Stats\n* Fixed HD Desert Eagle Degradation\n* Fixed HD Desert Eagle Punisher Degradation\n* Fixed HD Mac10 Auto Stats\n* Fixed HD M3 Auto Stats\n* Fixed HD HK33 Hybrid Stats\n* Fixed HD AK Hybrid ACP Stats\n* Re-Built Model HD Desert Eagle (Addons) Scope Texture\n* Re-Built Model HD Desert Eagle Punisher Scope Texture\n* Re-Built Model HD Double Barrel (Flashlight)\n* Re-Built Model HD Snub (Flashlight)\n* Fixed HD M3 Auto (Skill Attributes)\n* Fixed HD Mac10 Auto (Skill Attributes)\n* Fixed HD Vulcan 9mm (Skill Attributes)\n* Fixed HD Vulcan 7.62mm (Skill Attributes)\n* Fixed HD Vulcan 50mm (Skill Attributes)\n* Launcher Edits: Removed Duplicate Entries (Animals)\n* Update 5.7 Final 9mm Vulcan Fix\n\n[Previous changes](https://github.com/War3zuk/War3zuk-Alpha-19-Stable-AIO/blob/master/Readme.md). (from the start)\n\n## How to Install War3zuk AIO Mod?\n\n### Standalone Version\n\nThe standalone version includes the main War3zuk AIO Overhaul Mod.\n\n### Full Launcher Version\n\nThe full launcher version adds many different mods along with the main War3zuk AIO Overhaul Mod. Thank you to the following Mod creators who helped shape out the world with their mods: Xyth, DUST2DEATH, Moongaming, Bdubyah, Khelldon, Sirillion, Eric Beaudon, Bison33, Valmar, Snufkin, Manux, Telric.\n\nAll models have been paid for are tagged War3zuk & are Protected Under Unity License.\n\n**NOTE:** This 7DTD mod adds many items, blocks, prefabs and other custom items so make sure your not running any mods that will cause a conflict.\n\n**Alpha 19 Versions**  \n**[Download](https://github.com/War3zuk/War3zuk-Alpha-19-Stable-AIO/archive/master.zip)** standalone version for **A19**  \n**[Download](https://gitlab.com/war3zuk/war3zuk-alpha-19-aio-mod-launcher_2021/-/archive/master/war3zuk-alpha-19-aio-mod-launcher_2021-master.zip)** full launcher version for **A19**  \nAlso available on the mod launcher!  \n**Alpha 18 Versions**  \n**[Download](https://github.com/War3zuk/War3zuk-Alpha-18-Stable-AIO/archive/master.zip)** standalone version for **A18**  \n**[Download](https://gitlab.com/war3zuk/War3zuk-Alpha-18-AIO/-/archive/master/War3zuk-Alpha-18-AIO-master.zip)** full launcher version for **A18**  \nAlso available on the mod launcher!\n\nIf you appreciate War3zuk’s work and you want to show support, use this [donate link](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=S9RGW4NRARBUL&source=url).\n\nIf you need help, you can use this [support link](https://discord.gg/FcDrGvMHeT).\n\n**Credits:** [War3zuk](https://7daystodiemods.com/tag/war3zuk/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Alpha 19 Versions",
+      "Version": "v19"
+    },
+    {
+      "Info": "standalone version for A19",
+      "URL": "https://github.com/War3zuk/War3zuk-Alpha-19-Stable-AIO/archive/master.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "full launcher version for A19",
+      "URL": "https://gitlab.com/war3zuk/war3zuk-alpha-19-aio-mod-launcher_2021/-/archive/master/war3zuk-alpha-19-aio-mod-launcher_2021-master.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Also available on the mod launcher!",
+      "Version": "v19"
+    },
+    {
+      "Info": "Alpha 18 Versions",
+      "Version": "v18"
+    },
+    {
+      "Info": "standalone version for A18",
+      "URL": "https://github.com/War3zuk/War3zuk-Alpha-18-Stable-AIO/archive/master.zip",
+      "Version": "v18"
+    },
+    {
+      "Info": "full launcher version for A18",
+      "URL": "https://gitlab.com/war3zuk/War3zuk-Alpha-18-AIO/-/archive/master/War3zuk-Alpha-18-AIO-master.zip",
+      "Version": "v18"
+    },
+    {
+      "Info": "Also available on the mod launcher!",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "War3zuk"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die biomes",
+    "7 days to die building materials",
+    "7 days to die clothing",
+    "7 days to die doors",
+    "7 days to die electricity",
+    "7 days to die farming",
+    "7 days to die food",
+    "7 days to die loot",
+    "7 days to die medical supplies",
+    "7 days to die perks",
+    "7 days to die poster",
+    "7 days to die quests",
+    "7 days to die skill points",
+    "7 days to die stack size",
+    "7 days to die starting items",
+    "7 days to die tools",
+    "7 days to die traps",
+    "7 days to die weapons",
+    "7 days to die zombies",
+    "War3zuk"
+  ]
+}

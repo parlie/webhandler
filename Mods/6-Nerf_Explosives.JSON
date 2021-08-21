@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/nerf-explosives/",
+  "modCreatedTime": "2020-05-02T02:46:17+00:00",
+  "modLastUpdatedTime": "2020-05-02T02:46:18+00:00",
+  "modName": "Nerf Explosives",
+  "modImages": [],
+  "modShortDescription": "This mod reduces the damage of rockets and dynamite to blocks and increases the damage of the explosive arrows/bolts to entities.",
+  "modDescription": "A little tweaking on the explosive damage, reducing the damage of rockets and dynamite to blocks and increasing the damage of the explosive arrows/bolts to entities.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Snufki-n/Snufkin_Modlets/tree/master/Snufkin_NerfExplosives)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/18673-snufkins-assorted-modlets/).\n\n**Credits:** [Snufkin](https://7daystodiemods.com/tag/snufkin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Snufki-n/Snufkin_Modlets/tree/master/Snufkin_NerfExplosives",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/18673-snufkins-assorted-modlets/",
+  "modAuthors": [
+    "Snufkin"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die weapons",
+    "Snufkin"
+  ]
+}

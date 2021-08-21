@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/frobscottle-mod/",
+  "modCreatedTime": "2020-09-18T20:12:00+00:00",
+  "modLastUpdatedTime": "2020-09-18T20:20:59+00:00",
+  "modName": "Frobscottle Mod",
+  "modImages": [],
+  "modShortDescription": "Frobscottle, the fizzy green drink that bubbles downward! This mod adds Frobscottle drink to the 7 Days to Die. Craftable in a chemistry station.",
+  "modDescription": "Frobscottle, the fizzy green drink that bubbles downward! This mod adds Frobscottle [drink](https://7daystodiemods.com/tag/7-days-to-die-drinks/) to the 7 Days to Die.\n\nStraight out of Roald Dahl’s “The BFG”, Frobscottle will allow the drinker to propel themselves to fantastic heights by means of ‘whizzpoppers’ for 1 minute.\n\nAdds 4.2 to jump height (about 11 blocks), breakleg protection on jump (not continuous, don’t drop off a ledge), and fun sounds to go along.\n\nCraftable in a Chem Station using 1 pumpkin, 2 aloe leaves, 5 nitrate, and 1 murky water.\n\n## Changelog\n\nIt had some weirdness in the xpath append statements of ui\\_display.xml that made them not very friendly with other mods coming behind them. Resolved that. If you got errors for duplicate entries with other mods, and that didn’t seem to make sense, it should no longer happen.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stamplesmods/7d2dmodlets/tree/master/Frobscottle)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/16096-stamples-modlets/).\n\n**Credits:** [Stample](https://7daystodiemods.com/tag/stample/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stamplesmods/7d2dmodlets/tree/master/Frobscottle",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/16096-stamples-modlets/",
+  "modAuthors": [
+    "Stample"
+  ],
+  "modTags": [
+    "7 days to die beverages",
+    "7 days to die drinks",
+    "7 days to die food",
+    "Stample"
+  ]
+}

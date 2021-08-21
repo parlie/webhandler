@@ -1,0 +1,29 @@
+{
+  "modURL": "https://7daystodiemods.com/one-hour-of-daylight/",
+  "modCreatedTime": "2020-09-27T18:39:00+00:00",
+  "modLastUpdatedTime": "2020-12-03T13:34:25+00:00",
+  "modName": "One Hour of Daylight",
+  "modImages": [],
+  "modShortDescription": "Adds additional options to the starting game UI to allow for 0 hours of daylight to 24 and other options in between.",
+  "modDescription": "Adds additional options to the starting game UI to allow for 0 hours of daylight to 24 and other options in between. Note: Original mod was named for 1 hour daylight. To make the mod a bit more accessible, Doughphunghus added more options.\n\nYou can select these hours of daylight (the default vanilla game allows only 12, 14, 16, 18): **0, 1, 2, 3, 4, 8, 12, 14, 16, 18, 20, 23, or 24**\n\n* 0 is “Perpetual Daytime Darkness” which looks mostly like Twilight/Moonlight during regular daytime hours. Its still nighttime though as the game sees it (zombies run, etc)\n* 1 is “Perpetual Daytime Darkness” all the time, except for 1 hour of actual daylight. If you choose 1 hour of daylight, the “Day” begins at 21:00 and ends at Midnight. This means you start the game at 7:00 and have no light for 14 more hours. The sun comes up and races across the sky. Barely enough time to run to another POI, let alone clear it out.\n* (The intermediate times are self explanatory)\n* 23 is 23 hours of “Perpetual Daylight”, 1 hour of Night time\n* 24 is “Perpetual Daylight”. He doesn’t know if blood moon hordes will even spawn. Hasn’t tested as he doesn’t plan to play with this setting, just providing it for completeness\n\n## Notes\n\n* Nothing in this mod was changed for a19, a18 was just much darker at night than a19\\. He recommend also loading his [Buff Ambiance – Darker Nights](https://7daystodiemods.com/buff-ambiance-darker-nights/) with this to make it as much like the pre a19 version as possible!\n* Apparently some other people have similar mods containing this functionality (and possibly more): [More Options by Claymore](https://7daystodiemods.com/more-options-by-claymore/)\n\n## Changelog\n\nUpdated (bugfixes) for a19.1 b8 stable.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-OneHourOfDayLight)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a18/tree/main/Doughs-OneHourOfDayLight)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-OneHourOfDayLight",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a18/tree/main/Doughs-OneHourOfDayLight",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "Doughphunghus"
+  ]
+}

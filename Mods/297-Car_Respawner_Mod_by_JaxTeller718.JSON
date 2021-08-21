@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/car-respawner-mod-by-jaxteller718/",
+  "modCreatedTime": "2020-07-07T00:32:00+00:00",
+  "modLastUpdatedTime": "2020-07-19T02:13:50+00:00",
+  "modName": "Car Respawner Mod by JaxTeller718",
+  "modImages": [],
+  "modShortDescription": "Adds a car respawner when a shell of a car is broken down, it turns into a small piece of grass that will grow over time to a new car to harvest.",
+  "modDescription": "Adds a car [respawner](https://7daystodiemods.com/tag/7-days-to-die-respawn/) when a shell of a car is broken down, it turns into a small piece of grass that will grow over time (roughly 30 days) to a new car to harvest.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_CarRespawner)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/JaxTeller718_Modlets_Stable/tree/master/JaxTeller718_CarRespawner)** for A18\n\nIf you appreciate JaxTeller718’s work here feel free to use this [donate link](https://www.paypal.me/FrankCirabisiJr) to show support.\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19674-jaxteller718-a19-modlet-collection/).\n\n**Credits:** [JaxTeller718](https://7daystodiemods.com/tag/jaxteller718/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_CarRespawner",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/JaxTeller718_Modlets_Stable/tree/master/JaxTeller718_CarRespawner",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19674-jaxteller718-a19-modlet-collection/",
+  "modAuthors": [
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die car mods",
+    "7 days to die respawn",
+    "7 days to die vehicles",
+    "JaxTeller718"
+  ]
+}

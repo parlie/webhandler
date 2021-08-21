@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/vanilla-firearms-extended-patch-a19/",
+  "modCreatedTime": "2020-10-09T04:09:31+00:00",
+  "modLastUpdatedTime": "2020-10-09T04:09:32+00:00",
+  "modName": "Vanilla Firearms Extended Patch A19",
+  "modImages": [],
+  "modShortDescription": "This is a small patch that makes the \"Vanilla Firearms Extended\" mod created by Sykriss compatible with the alpha 19.",
+  "modDescription": "This is a small patch that makes the “[Vanilla Firearms Extended](https://7daystodiemods.com/vanilla-firearms-extended/)” mod created by Sykriss compatible with the alpha 19.\n\nWhile playing I found the problem that the mod weapons could not be created in the new alpha, so I started to check the files and found the problem.\n\n## Very Important\n\nIt is required that you download and install the original mod that you will find [here](https://7daystodiemods.com/vanilla-firearms-extended/).\n\nTested with Alpha 19.1 (B8)\n\n## Instructions\n\nDownload and install the original mod normally, then download the patch and paste it inside the folder where you installed the original mod replacing. Example of the 7daystodie / mods / Vanilla Firearms Extended path. By default there you will paste the “patch” folder.\n\nI did this because I couldn’t find another weapon mod that would add as many as this, i don’t really know how to edit or create mods, just look at the xml and replace.\n\n**[Download](http://www.mediafire.com/file/gypqi025fnex1df/Config.rar/file)**\n\n**Credits:** Sykriss",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "http://www.mediafire.com/file/gypqi025fnex1df/Config.rar/file",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Sykriss"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die weapons"
+  ]
+}

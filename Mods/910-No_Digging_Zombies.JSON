@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/no-digging-zombies/",
+  "modCreatedTime": "2020-09-17T20:27:00+00:00",
+  "modLastUpdatedTime": "2021-07-25T02:13:08+00:00",
+  "modName": "No Digging Zombies",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod makes zombies not able to dig. Zombies can destroy blocks and jump (vanilla values).",
+  "modDescription": "This 7 Days to Die mod makes [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) not able to dig. Zombies can destroy blocks and jump (vanilla values).\n\nThis mod does not work with [Zombie Modification Mod](https://7daystodiemods.com/zombie-modification-for-a18/).\n\n## Changelog\n\nUpdated models to new models.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/Stallionsdens%20No%20Digging%20Zombies)**\n\nIf you appreciate Stallionsden’s work and you want to show support, use this [donate link](http://paypal.me/AnthonyCar78).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19911-stallionsdens-and-valmars-a19-mod-thread/).\n\n**Credits:** [Stallionsden](https://7daystodiemods.com/tag/stallionsden/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/Stallionsdens%20No%20Digging%20Zombies",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19911-stallionsdens-and-valmars-a19-mod-thread/",
+  "modAuthors": [
+    "Stallionsden"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "Stallionsden"
+  ]
+}

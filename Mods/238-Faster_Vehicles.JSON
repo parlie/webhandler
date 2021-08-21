@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/faster-vehicles/",
+  "modCreatedTime": "2019-11-26T00:35:48+00:00",
+  "modLastUpdatedTime": "2020-06-27T01:20:58+00:00",
+  "modName": "Faster Vehicles",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod makes the vehicles faster for A17 and A18. Bicycle, Minibike, Motorcycle, 4x4 Truck and Gyrocopter vehicles will now move faster.",
+  "modDescription": "This 7 Days to Die mod makes the vehicles faster for A17 and A18\\. Moreover, it makes changes to all vehicles. Bicycle, Minibike, Motorcycle, 4×4 Truck and Gyrocopter [vehicles](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) will now move faster.\n\nTo return to the glorious period of the A16 (the Minibike was fast), Razor made a mod that increased the maximum speed of all vehicles by at least 50%.\n\n## Changes\n\n* **Faster Bicycle:** 36 km/h (before) —> 54 km/h (after)\n* **Faster Minibike:** 36 km/h (before) —> 64.8 km/h (after)\n* **Faster Motorcycle:** 50.4 km/h (before) —> 86.4 km/h (after)\n* **Faster 4×4 Truck:** 46.8 km/h (before) —> 81 km/h (after)\n* **Faster Gyrocopter:** 36 km/h (before) —> 54 km/h (after)\n\nRazor doesn’t think this is too strong or weak changes compared to A16, but feel free to adjust values to your heart’s desire.\n\n## Installing\n\nTo install this mod, unzip the file and place it inside “/7 Days to Die/Mods”. If “Mods” folder doesn’t exist, just create one.\n\n[Download](https://docs.google.com/uc?export=download&id=1Fir7PczRXsD-jTZM6esjjaMHSebME0WE)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/8303-faster-vehicles/).\n\n**Credits:** Razor",
+  "modDownloadURLs": [
+    {
+      "Info": "\nThis 7 Days to Die mod makes the vehicles faster for A17 and A18. Moreover, it makes changes to all vehicles. Bicycle, Minibike, Motorcycle, 4×4 Truck and Gyrocopter vehicles will now move faster.\nTo return to the glorious period of the A16 (the Minibike was fast), Razor made a mod that increased the maximum speed of all vehicles by at least 50%.Changes\nFaster Bicycle: 36 km/h (before) —> 54 km/h (after)Faster Minibike: 36 km/h (before) —> 64.8 km/h (after)Faster Motorcycle: 50.4 km/h (before) —> 86.4 km/h (after)Faster 4×4 Truck: 46.8 km/h (before) —> 81 km/h (after)Faster Gyrocopter: 36 km/h (before) —> 54 km/h (after)\nRazor doesn’t think this is too strong or weak changes compared to A16, but feel free to adjust values to your heart’s desire.\nInstalling\nTo install this mod, unzip the file and place it inside “/7 Days to Die/Mods”. If “Mods” folder doesn’t exist, just create one.\nDownload\nThe forum topic of the mod is here.\nCredits: Razor\nShare this mod with your friends:",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/8303-faster-vehicles/",
+  "modAuthors": [
+    "Razor"
+  ],
+  "modTags": [
+    "7 days to die bicycle",
+    "7 days to die fastest vehicle",
+    "7 days to die motorcycle",
+    "7 days to die truck mods",
+    "7 days to die vehicles"
+  ]
+}

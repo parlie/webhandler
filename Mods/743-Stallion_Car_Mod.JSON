@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/stallion-car-mod/",
+  "modCreatedTime": "2020-09-06T03:52:00+00:00",
+  "modLastUpdatedTime": "2021-04-29T20:51:00+00:00",
+  "modName": "Stallion Car Mod",
+  "modImages": [],
+  "modShortDescription": "This mod adds a cool vehicle to the 7 Days to Die. It's no Eleanor, but it's close! Unlocks with Grease Monkey 4. 2 seats. Poor fuel mileage.",
+  "modDescription": "This mod adds a cool [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) to the 7 Days to Die. It’s no Eleanor, but it’s close!\n\n## Features\n\n* Unlocks with Grease Monkey 4.\n* 2 seats.\n* Poor fuel mileage.\n\n## Changelog\n\nAdded new engine/horn sounds.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Stallion)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/Stallion)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11875-bdubyahs-modlets/).\n\n**Credits:** [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Stallion",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/Stallion",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11875-bdubyahs-modlets/",
+  "modAuthors": [
+    "Bdubyah"
+  ],
+  "modTags": [
+    "7 days to die car mods",
+    "7 days to die vehicles",
+    "Bdubyah"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/dungeon-blocks/",
+  "modCreatedTime": "2020-07-03T00:06:00+00:00",
+  "modLastUpdatedTime": "2021-01-15T18:50:30+00:00",
+  "modName": "Dungeon Blocks",
+  "modImages": [],
+  "modShortDescription": "This is a core mod to create dungeons and indestructible POIs in the 7 Days to Die. Optional addon: Dungeon Blocks GSS Bifroest.",
+  "modDescription": "This is a core mod to create dungeons and indestructible POIs in the 7 Days to Die.\n\nThe Dungeon Blocks Mod has 200+ colorable and indestructible block shapes. The selection of the shape can be opened by a long press on the R key. You need the Dungeon Block Variant Helper to repair it. To destroy you need Mjölnir (Admin Hammer) – first right click then left click. The Mod also includes 187 glass shapes and 40 misc blocks.\n\n* **200+ Block Shapes**  \n   * Indestructible and colorable\n* **180+ Glass Shapes**  \n   * Indestructible\n* **40+ Misc Blocks**  \n   * Indestructible doors (normal / locked / electric)  \n   * Indestructible printing plates / switches / signs / fence  \n   * Invisible pillars\n* **Summarized in 3 Variant Helper (Creative + Dev)**  \n   * Dungeon Blocks / Dungeon Glass / Dungeon Misc\n* **Reworked Mjölnir (admin hammer)**  \n   * Unlucky to unleash his true strength you can break Uru and tear it fast down afterwards.\n* **Seperate Admin Mod (inside mod folder)**  \n   * Drag and Drop the Mod out to activate extra options  \n   * Makes invisible blocks visible  \n   * Let you pick up all blocks with E  \n   * Give all block adv. rotation\n\n**Copyrights: Attribution-NonCommercial-NoDerivatives 4.0 International**\n\n* You are allowed to use this mod for your private use (singleplayer/multiplayer/server).\n* You are allowed to use this mod as part of your custom modpack (as separated mod).\n* You are not allow to reupload it without permission!\n* You are not allow to charge money for it!\n* You are not allow to copy over hole parts of it for your own Mod and release it under your name.Of cause your allow to take inspiration or copy single parts (no assets) to improve your existing code!\n* Its all about respect – just ask for it and do not steal it.\n\n**Optional addon:** [Dungeon Blocks GSS Bifroest](https://7daystodiemods.com/dungeon-blocks-gss-bifroest/)\n\n**Manuell Installation:**\n\n1. Download and unpack the Zip data.\n2. Place it into your “Mods” folder.\n3. Have fun!\n\n**[Download](https://gitlab.com/EihwazDE/7D2D/-/archive/master/7D2D-master.zip?path=Dungeon%20Blocks)**\n\nIf you appreciate Eihwaz’s work and you want to show support, use this [donate link](https://www.paypal.com/pools/c/8nSUn4KFGL).\n\nIf you need help, you can use this [support link](https://discord.com/invite/StrFn7X).\n\n**Credits:** [Eihwaz](https://7daystodiemods.com/tag/eihwaz/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/EihwazDE/7D2D/-/archive/master/7D2D-master.zip?path=Dungeon%20Blocks",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Eihwaz"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die tools",
+    "Eihwaz"
+  ]
+}

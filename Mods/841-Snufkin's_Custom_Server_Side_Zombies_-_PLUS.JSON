@@ -1,0 +1,44 @@
+{
+  "modURL": "https://7daystodiemods.com/snufkins-custom-server-side-zombies-plus/",
+  "modCreatedTime": "2021-07-05T14:51:00+00:00",
+  "modLastUpdatedTime": "2021-07-07T12:31:55+00:00",
+  "modName": "Snufkin's Custom Server Side Zombies - PLUS",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/01/7-days-to-die-snufkins-custom-server-side-zombies-plus-additional-screenshot-6.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/11/7-days-to-die-snufkins-custom-server-side-zombies-plus-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/11/7-days-to-die-snufkins-custom-server-side-zombies-plus-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/11/7-days-to-die-snufkins-custom-server-side-zombies-plus-additional-screenshot-3.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/11/7-days-to-die-snufkins-custom-server-side-zombies-plus-additional-screenshot-4.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/11/7-days-to-die-snufkins-custom-server-side-zombies-plus-additional-screenshot-5.jpg"
+  ],
+  "modShortDescription": "Snufkin's Custom Server Side Zombies Plus is a combination of Snufkin's Server Side Custom Zombies and additional community made zombies as an integrated 'Plus Add On'.",
+  "modDescription": "Snufkin’s Custom Server Side Zombies Plus is a combination of [Snufkin’s Server Side Custom Zombies](https://7daystodiemods.com/server-side-zombies/) and additional community made zombies as an integrated ‘Plus Add On’. As such, please remove the base mod from your Mods folder if you wish to run this PLUS mod to avoid conflicts. There are currently 29 entities (15 Snufkin and 15 Snufkin PLUS)\n\nThey attempted to run the PLUS zombies as a stand alone mod but spawning was unstable and it was better to compile them together.\n\nThe Snufkin Custom Zombies Plus contains the following entities:\n\n## All of the Well Known Snufkin’s Server Side Custom Zombies\n\n* Archon\n* Banshee\n* Bomber\n* Cowhead\n* Geist\n* Juggernaut\n* Mantis\n* Parasite\n* Psycho\n* Scarecrow\n* Scorcher\n* Siren\n* Undertaker\n* Wendigo\n* Wrestler\n\n## Plus Add on Server Side Custom Zombies\n\n* Golden Juggernaut (Snufkin base with edits by arramus – based on Tipsy Squatch Gaming/Evil Spartan’s concept and intensive testing)\n* Hell Bear (oakraven)\n* Hell Boar (oakraven)\n* Hell Flyer (oakraven – Inspired by Robeloto)\n* Hell Lion (oakraven)\n* Hell Shocker (oakraven)\n* Hell Wolf (oakraven)\n* Mittens (arramus – Lonestarcanuck request)\n* Motorhead (arramus)\n* Paindeer (arramus – based on kdthehun’s Rudolph suggestion – Sorry about the nose and light color and lack of Santa hat. Advice needed on those)\n* Shark WFLB (arramus)\n* Tipsy Pink Squatch (arramus – Tipsy Squatch Gaming)\n* Tipsy Squatch (arramus – Tipsy Squatch Gaming)\n* Zombie Direwolf (oakraven and arramus)\n\nIn addition, a new entitygroups.xml has been added to expand the Snufkin group list and also increase the probability. If you would like a challenge, the Snufkin’s Custom Server Side Zombies – PLUS is for you. If you prefer a more relaxed environment, then stick with the original or amend the entitygroups.xml to suit your needs.\n\nThank you, as always, to Snufkin for the base, and Slawa for continual support from the beginning. In addition, Dre, BubbaJoe, Catman and Ti2xGr have been adding their very own unique modifications to create an environment that suits their players; some of which they have gratefully incorporated to this Plus version.\n\n### The New PLUS Entities\n\noakraven is incredibly active in the background and specializes in both stabilising existing mods and creating new mods. Here are oakraven’s land based ‘Hell group’ zombies with Archon standing among them. These new characters ustilise their wings for additional jump height and will add to the demands of defending your base. Hell Lion, Hell Boar, Hell Wolf, and Hell Bear make a formidable team and will certainly come out in force during a Blood Moon event.\n\nThis is one which arramus always wanted to bring into game play as an entity ever since he spied the concept within Snufkin’s base mod. The Shark WFLB is a play on a ‘James Bond’ type evil villain over dramatic weapon. It flies, homes in, and then unleashes its lasers. It is not an overly powerful threat while on foot but will pick up the pace while in a vehicle as it is based on the vulture game code.\n\noakraven’s Hell Flyer and Hell Shocker swarming and inflicting damage. This pair shoot darts or shock bolts and have their own unique audible narration as they come into closer proximity. These will add to the airborne threats and give this PLUS version a wider balance of ground, mid level leaping, and airborne threats.\n\nMittens guarding her territory. She spits acid and is something that Lonestarcanuck requested.\n\nPaindeer taking care of its friends. The Paindeer has a flashlight attachment built into its nose which is covered by a snowball. Defintely easy to spot at night. One warning about the Paindeer; her axe also gives her protection from frontal melee attack.\n\nMotorhead, the mechanical marvel teaming up with his biker brethren. Don’t let him come knocking at your door for too long as his block damage will make him an unwelcome guest.\n\nSnufkin was keen for other modders to take advantage of the game assets to create unique server side characters with their own special skill sets. By emulating Snufkin’s approach and expanding with further features, they hope you will enjoy these additional zombies in addition to the Snufkin regulars.\n\n## Changelog\n\nAnd here is the next update.\n\nThis version introduces the Tipsy Pink Squatch. This gives a running mate to the Tipsy Squatch and they’ll be seen together from time to time.\n\nIn addition, there is a new folder called ‘Server Admin Spawning Options’. This contains additional entitygroup options for Server Admin who want to replace the default version. They offer the following options:\n\nentitygroups\\_lite\\_no\\_horde\\_night\\_version (rename to entitygroups and place in Config to reduce spawning) This is a lighter version with less spawning in regular game and zero spawning during horde night.\n\nentitygroups\\_lite\\_version (rename to entitygroups and place in Config to reduce spawning) This is a lighter version with less spawning in regular game and default spawning during horde night.\n\nentitygroups\\_no\\_horde\\_night\\_version (rename to entitygroups and place in Config) This is the default with no spawning during horde night.\n\nentitygroups\\_only\\_horde\\_night\\_version (rename to entitygroups and place in Config) This version will only spawn during horde night.\n\n**[Download](https://github.com/arramus/SnufkinCustomZombiesPLUS-A19-2021July04/archive/refs/heads/main.zip)** Snufkin’s Custom Server Side Zombies – PLUS  \n**[Download](https://github.com/arramus/Snufkin-Party-Plus-Starter-Kit-A19/archive/refs/heads/master.zip)** Snufkin Party Plus Starter Kit\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/22698-snufkins-custom-server-side-zombies-plus/).\n\n**Credits:** [Arramus](https://7daystodiemods.com/tag/arramus/), Snufkin, oakraven, Slawa, Dre, BubbaJoe, Catman, Ti2xGr",
+  "modDownloadURLs": [
+    {
+      "Info": "Snufkin’s Custom Server Side Zombies – PLUS",
+      "URL": "https://github.com/arramus/SnufkinCustomZombiesPLUS-A19-2021July04/archive/refs/heads/main.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Snufkin Party Plus Starter Kit",
+      "URL": "https://github.com/arramus/Snufkin-Party-Plus-Starter-Kit-A19/archive/refs/heads/master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/22698-snufkins-custom-server-side-zombies-plus/",
+  "modAuthors": [
+    "Arramus",
+    "Snufkin",
+    "oakraven",
+    "Slawa",
+    "Dre",
+    "BubbaJoe",
+    "Catman",
+    "Ti2xGr"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "Arramus"
+  ]
+}

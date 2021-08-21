@@ -1,0 +1,23 @@
+{
+  "modURL": "https://7daystodiemods.com/craft-acid/",
+  "modCreatedTime": "2020-09-01T04:54:00+00:00",
+  "modLastUpdatedTime": "2020-09-01T04:54:32+00:00",
+  "modName": "Craft Acid",
+  "modImages": [],
+  "modShortDescription": "This small mod adds Acid to the list of craftable items in your chemistry station.",
+  "modDescription": "This small mod adds Acid to the list of craftable items in your chemistry station.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftacid)**\n\nIf you find any issues or have a suggestion for improvement, please [open an issue](https://github.com/Donovan522/donovan-7d2d-modlets/issues) and Donovan will look into it ASAP.\n\n**Credits:** [Donovan](https://7daystodiemods.com/tag/donovan/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftacid",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Donovan"
+  ],
+  "modTags": [
+    "Donovan"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/better-dyes/",
+  "modCreatedTime": "2020-09-01T02:53:00+00:00",
+  "modLastUpdatedTime": "2020-09-01T03:34:19+00:00",
+  "modName": "Better Dyes",
+  "modImages": [],
+  "modShortDescription": "This mod adds the ability to craft dyes from paint.",
+  "modDescription": "This mod adds the ability to craft dyes from paint.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterdyes)**\n\nIf you find any issues or have a suggestion for improvement, please [open an issue](https://github.com/Donovan522/donovan-7d2d-modlets/issues) and Donovan will look into it ASAP.\n\n**Credits:** [Donovan](https://7daystodiemods.com/tag/donovan/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterdyes",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Donovan"
+  ],
+  "modTags": [
+    "7 days to die dye mod",
+    "Donovan"
+  ]
+}

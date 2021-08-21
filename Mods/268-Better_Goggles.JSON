@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/better-goggles/",
+  "modCreatedTime": "2020-07-05T17:25:00+00:00",
+  "modLastUpdatedTime": "2020-07-05T17:52:48+00:00",
+  "modName": "Better Goggles",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/07/7-days-to-die-better-goggles-aditional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/07/7-days-to-die-better-goggles-aditional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "Adjusting the stats of some Eyewear in the game that feels more fair. All Goggles have +10% Exp Gain & +4 Loot Bonus.",
+  "modDescription": "Adjusting the stats of some Eyewear in the game that feels more fair.\n\n* All Goggles have +10% Exp Gain & +4 Loot Bonus\n* Aviator Goggles have +1 Fortitude\n* Treasure Radius -1 still exclusive to Aviator Goggles\n* Crafting Time -10% still exclusive to Nerdy Glasses\n\n**Note:** Might be adding Cold Resistance to Ski Goggles & Heat Resistance to Shades in the future so that they all have an additional exclusive Stat.\n\n**[Download](https://docs.google.com/uc?export=download&id=1uoFjiZpMh8plr-1s1Bmt8cOBPO05YChG)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19830-gnexs-a19-modlet-collection/).\n\n**Credits:** GneX",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://docs.google.com/uc?export=download&id=1uoFjiZpMh8plr-1s1Bmt8cOBPO05YChG",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19830-gnexs-a19-modlet-collection/",
+  "modAuthors": [
+    "GneX"
+  ],
+  "modTags": [
+    "7 days to die clothing"
+  ]
+}

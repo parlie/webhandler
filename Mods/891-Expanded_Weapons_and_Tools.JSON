@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/expanded-weapons-and-tools/",
+  "modCreatedTime": "2020-09-17T20:40:00+00:00",
+  "modLastUpdatedTime": "2021-07-25T01:44:20+00:00",
+  "modName": "Expanded Weapons and Tools",
+  "modImages": [],
+  "modShortDescription": "Adds old game version weapons to the game.",
+  "modDescription": "Adds old game version weapons to the game.\n\n## Changelog\n\nUpdated to remove the extra rubbish.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/Valmar-Modlets/tree/master/Valmars%20Expanded%20Weapons%20and%20Tools)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20079-valmars-a19-modlets/).\n\n**Credits:** [Valmar](https://7daystodiemods.com/tag/valmar/), [Stallionsden](https://7daystodiemods.com/tag/stallionsden/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/Valmar-Modlets/tree/master/Valmars%20Expanded%20Weapons%20and%20Tools",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20079-valmars-a19-modlets/",
+  "modAuthors": [
+    "Valmar",
+    "Stallionsden"
+  ],
+  "modTags": [
+    "7 days to die tools",
+    "7 days to die weapons",
+    "Stallionsden",
+    "Valmar"
+  ]
+}

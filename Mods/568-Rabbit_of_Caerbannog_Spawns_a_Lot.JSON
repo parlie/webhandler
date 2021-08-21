@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/rabbit-of-caerbannog-spawns-a-lot/",
+  "modCreatedTime": "2020-09-27T18:38:00+00:00",
+  "modLastUpdatedTime": "2020-12-03T13:34:38+00:00",
+  "modName": "Rabbit of Caerbannog Spawns a Lot",
+  "modImages": [],
+  "modShortDescription": "This mod is an override mod for Rabbit of Caerbannog Mod in order to make it spawn \"more frequently\" in game, if you want the additional challenge.",
+  "modDescription": "This mod is an override mod for Rabbit of Caerbannog Mod in order to make it spawn “more frequently” in game, if you want the additional challenge.\n\nIt causes the rabbit to spawn anywhere [animals](https://7daystodiemods.com/tag/7-days-to-die-animals/) can spawn (still a fairly low probibilty) and in some zombie groups. Highest spawn rate is in the Wasteland.\n\n**Required mod:** [Rabbit of Caerbannog Mod](https://7daystodiemods.com/rabbit-of-caerbannog-mod/)\n\n## Changelog\n\nUpdated (bugfixes) for a19.1 b8 stable.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-RabbitOfCaerbannog-SpawnsALot)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a18/tree/main/Doughs-RabbitOfCaerbannog-SpawnsALot)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-RabbitOfCaerbannog-SpawnsALot",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a18/tree/main/Doughs-RabbitOfCaerbannog-SpawnsALot",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die zombies",
+    "Doughphunghus"
+  ]
+}

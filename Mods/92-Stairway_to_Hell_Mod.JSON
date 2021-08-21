@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/stairway-to-hell-mod/",
+  "modCreatedTime": "2019-12-22T17:48:21+00:00",
+  "modLastUpdatedTime": "2020-06-02T13:52:01+00:00",
+  "modName": "Stairway to Hell Mod",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod selects random wood stair blocks and makes them into trap blocks, where you or a zombie might fall through the stairs.",
+  "modDescription": "This 7 Days to Die mod selects random wood stair blocks and makes them into “[trap](https://7daystodiemods.com/tag/7-days-to-die-traps/)” blocks, where you or a [zombie](https://7daystodiemods.com/zombie-mods/) might fall through the stairs. Only set for normal wood stairs, none of the fancy railing stuff works well at the moment.\n\n[Download](https://gitlab.com/guppycur/guppymods/-/archive/master/guppymods-master.zip?path=Guppycur%27s_StairwayToHell)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/9144-guppycurs-modlets/).\n\n**Credits:** [Guppycur](https://7daystodiemods.com/tag/guppycur/)",
+  "modDownloadURLs": [
+    {
+      "Info": "\nThis 7 Days to Die mod selects random wood stair blocks and makes them into “trap” blocks, where you or a zombie might fall through the stairs. Only set for normal wood stairs, none of the fancy railing stuff works well at the moment.\n <iframe loading=\"lazy\" title=\"7 Days to Die - Stair Trap Demo\" width=\"930\" height=\"523\" src=\"https://www.youtube.com/embed/4STU-UGxsog?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\nDownload\nThe forum topic of the mod is here.\nCredits: Guppycur\nShare this mod with your friends:",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/9144-guppycurs-modlets/",
+  "modAuthors": [
+    "Guppycur"
+  ],
+  "modTags": [
+    "7 days to die traps",
+    "Guppycur"
+  ]
+}

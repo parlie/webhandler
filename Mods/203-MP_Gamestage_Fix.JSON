@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/mp-gamestage-fix/",
+  "modCreatedTime": "2020-01-18T18:41:40+00:00",
+  "modLastUpdatedTime": "2020-06-20T17:20:15+00:00",
+  "modName": "MP Gamestage Fix",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod brings MP horde night spawns more back in line with SP play.",
+  "modDescription": "This 7 Days to Die mod brings MP horde night spawns more back in line with SP play.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/wolfbain5/7dtd-a18/tree/master/mp%20gs%20fix)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/14626-wolfbain5-modlets/).\n\n**Credits:** [Wolfbain5](https://7daystodiemods.com/tag/wolfbain5/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/wolfbain5/7dtd-a18/tree/master/mp%20gs%20fix",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/14626-wolfbain5-modlets/",
+  "modAuthors": [
+    "Wolfbain5"
+  ],
+  "modTags": [
+    "Wolfbain5"
+  ]
+}

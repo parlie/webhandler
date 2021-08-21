@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/no-perk-crafting/",
+  "modCreatedTime": "2020-09-23T14:08:01+00:00",
+  "modLastUpdatedTime": "2020-09-23T14:11:15+00:00",
+  "modName": "No Perk Crafting",
+  "modImages": [],
+  "modShortDescription": "This changes the crafting system by removing the ability to just craft after learning the perk.",
+  "modDescription": "This changes the crafting system by removing the ability to just craft after learning the perk. It now requires you to read the schematic and have a point in the perk to be able to craft items.\n\nThere is a work around if you want to test out certain weapons, If you acquire enough schematics of a given item you will be able to craft a level 1 and try the weapon out. The leveling of weapons still goes off of the [perks](https://7daystodiemods.com/tag/7-days-to-die-perks/), so if you want to craft higher tier gear you need to spend the points.\n\n**[Download](https://docs.google.com/uc?export=download&id=1JhVZPxDePq1B-uNzwVZaqjopCBUu55gW)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21700-rickyralph-modlets/).\n\n**Credits:** [Rickyralph](https://7daystodiemods.com/tag/rickyralph/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://docs.google.com/uc?export=download&id=1JhVZPxDePq1B-uNzwVZaqjopCBUu55gW",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/21700-rickyralph-modlets/",
+  "modAuthors": [
+    "Rickyralph"
+  ],
+  "modTags": [
+    "7 days to die perks",
+    "Rickyralph"
+  ]
+}

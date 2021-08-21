@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/salvaged-electronics/",
+  "modCreatedTime": "2020-03-01T16:52:00+00:00",
+  "modLastUpdatedTime": "2020-06-02T15:08:58+00:00",
+  "modName": "Salvaged Electronics",
+  "modImages": [],
+  "modShortDescription": "Here is a 7DTD modlet pack ShoudenKalferas has been working on. This is a heavy Work in Progress (WIP), so please be kind with any problem reports.",
+  "modDescription": "Here is a 7DTD modlet pack ShoudenKalferas has been working on. This is a heavy Work in Progress (WIP), so please be kind with any problem reports.\n\nIt kept annoying him that he would pass a military base with a generator (destroyed) and be unable to wrench on it and have at least a **chance** at recovering a working unit. The same with solar panels. Just because the world went to crap and everyone turned to zombies doesn’t mean all the [electronics](https://7daystodiemods.com/tag/7-days-to-die-electricity/) of the world stop functioning. So he is working through a modlet pack that will allow the players to wrench at any electronics (solar, generator, battery, signs, [lights](https://7daystodiemods.com/tag/7-days-to-die-lights/), and misc parts), and at least have a chance at obtaining a usable item that they can place in their own base.\n\n**Tested as Working**\n\n* Battery Bank\n* Generator\n* Solar Bank\n* Lights\n* Parts\n\n**Untested**\n\n* Signs\n\nHe has split this into multiple modlets to make it easy for you to enable/disable any specific category of items:\n\n* Salvaged Electronics – Battery Bank (tested)\n* Salvaged Electronics – Generator (tested)\n* Salvaged Electronics – Lights (untested, use at own risk)\n* Salvaged Electronics – Parts (untested, use at own risk)\n* Salvaged Electronics – Signs (untested, use at own risk)\n* Salvaged Electronics – Solar (tested)\n\n**Changelog**  \nUpdated to 1.1 version.\n\n**[Download](https://github.com/XelaNull/7DTD-SalvagedElectronics/archive/A18.3_1.1.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17673-salvaged-electronics-solar-battery-generator-lights-signs-misc/).\n\n**Credits:** [ShoudenKalferas](https://7daystodiemods.com/tag/shoudenkalferas/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/XelaNull/7DTD-SalvagedElectronics/archive/A18.3_1.1.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17673-salvaged-electronics-solar-battery-generator-lights-signs-misc/",
+  "modAuthors": [
+    "ShoudenKalferas"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die electricity",
+    "7 days to die lights",
+    "ShoudenKalferas"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "modURL": "https://7daystodiemods.com/faster-levelling/",
+  "modCreatedTime": "2020-08-07T23:53:27+00:00",
+  "modLastUpdatedTime": "2020-08-07T23:53:29+00:00",
+  "modName": "Faster Levelling",
+  "modImages": [],
+  "modShortDescription": "This mod reduces the XP required to level up. It is now easier to level up. There are 3 different versions: 7000xp Version, 6000xp Version, 5000xp Version.",
+  "modDescription": "This mod reduces the [XP](https://7daystodiemods.com/tag/7-days-to-die-experience/) required to level up. It is now easier to level up.\n\nThere are 3 different versions:\n\n1. **7000xp Version**  \nReduces the XP needed to level from 10000 to 7000.\n2. **6000xp Version**  \nReduces the XP needed to level from 10000 to 6000.\n3. **5000xp Version**  \nReduces the XP needed to level from 10000 to 5000.\n\nThis mod is an edited version of [Slower Levelling](https://7daystodiemods.com/slower-levelling/) mod. Thanks and credits goes to JaxTeller718.\n\nUse this on a new save and don’t remove once your game is started with it.\n\n**[Download](https://www.dropbox.com/s/qbvly77ii1953oy/Faster%20Levelling%207000xp.zip?dl=1)** 7000xp Version  \n**[Download](https://www.dropbox.com/s/om92psur5molsiw/Faster%20Levelling%206000xp.zip?dl=1)** 6000xp Version  \n**[Download](https://www.dropbox.com/s/813fipmpy3dmaxu/Faster%20Levelling%205000xp.zip?dl=1)** 5000xp Version\n\n**Credits:** [Abasiyanik](https://7daystodiemods.com/tag/abasiyanik/), JaxTeller718",
+  "modDownloadURLs": [
+    {
+      "Info": "7000xp Version",
+      "URL": "https://www.dropbox.com/s/qbvly77ii1953oy/Faster%20Levelling%207000xp.zip?dl=1",
+      "Version": "v19"
+    },
+    {
+      "Info": "6000xp Version",
+      "URL": "https://www.dropbox.com/s/om92psur5molsiw/Faster%20Levelling%206000xp.zip?dl=1",
+      "Version": "v19"
+    },
+    {
+      "Info": "5000xp Version",
+      "URL": "https://www.dropbox.com/s/813fipmpy3dmaxu/Faster%20Levelling%205000xp.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Abasiyanik",
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die experience",
+    "Abasiyanik"
+  ]
+}

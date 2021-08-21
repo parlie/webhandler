@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/golf-cart-and-golf-club-melee-weapon/",
+  "modCreatedTime": "2020-09-06T03:42:00+00:00",
+  "modLastUpdatedTime": "2021-04-29T20:51:40+00:00",
+  "modName": "Golf Cart and Golf Club Melee Weapon",
+  "modImages": [],
+  "modShortDescription": "This mod adds a simple Golf Cart to cruise around in to the 7 Days to Die. Also this vehicle comes with a Golf Club melee weapon!",
+  "modDescription": "This mod adds a simple Golf Cart to cruise around in to the 7 Days to Die. Doesn’t hold a lot of fuel at once, but gets good mileage. Also this [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) comes with a Golf Club melee weapon!\n\n## Changelog\n\nAdded new engine/horn sounds.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Golf%20Cart)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/Golf%20Cart)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11875-bdubyahs-modlets/).\n\n**Credits:** [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Golf%20Cart",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/Golf%20Cart",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11875-bdubyahs-modlets/",
+  "modAuthors": [
+    "Bdubyah"
+  ],
+  "modTags": [
+    "7 days to die melee weapons",
+    "7 days to die vehicles",
+    "7 days to die weapons",
+    "Bdubyah"
+  ]
+}

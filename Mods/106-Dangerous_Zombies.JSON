@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/dangerous-zombies/",
+  "modCreatedTime": "2020-04-15T19:34:31+00:00",
+  "modLastUpdatedTime": "2020-06-02T14:27:29+00:00",
+  "modName": "Dangerous Zombies",
+  "modImages": [],
+  "modShortDescription": "All zombies do 2.5x as much damage as normal, and nothing else. For those that want more dangerous zombies without them being bullet sponges.",
+  "modDescription": "All zombies do 2.5x as much damage as normal, and nothing else. For those that want more dangerous [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) without them being bullet sponges.\n\n**[Download](https://github.com/dcsobral/7d2d/releases/download/4.1.0/Dan.s.Dangerous.Zombies-1.0.0.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17350-dcsobrals-mods/).\n\n**Credits:** [Dcsobral](https://7daystodiemods.com/tag/dcsobral/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/dcsobral/7d2d/releases/download/4.1.0/Dan.s.Dangerous.Zombies-1.0.0.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17350-dcsobrals-mods/",
+  "modAuthors": [
+    "Dcsobral"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "Dcsobral"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/more-rebar-frames/",
+  "modCreatedTime": "2020-01-04T16:40:21+00:00",
+  "modLastUpdatedTime": "2020-06-20T15:27:21+00:00",
+  "modName": "More Rebar Frames",
+  "modImages": [],
+  "modShortDescription": "This 7DTD mod adds in Rebar Frames (and recipes) for Half, Quarter, Pole, Plate & Pillar 50 blocks. Should work just like the vanilla rebar frames.",
+  "modDescription": "This 7DTD mod adds in [Rebar Frames](https://7daystodiemods.com/tag/7-days-to-die-building-materials/) (and recipes) for Half, Quarter, Pole, Plate & Pillar 50 blocks.\n\nShould work just like the vanilla rebar frames; craft in a forge, placeable (rotatable), and pick-up-able, upgrade with 10 concrete mix to wet and then they’ll dry to reinforced concrete blocks.\n\nFileMachete is not sure what some of the lines in their normal, blocks.xml properties do, so he has left them in.\n\nHe has no idea how to get/call icons that look like the vanilla ones. So he used CustomIcon & CustomIconTint: so Icons look like the full block but rusty red in color to differentiate.\n\n**[Download](https://www.sendspace.com/file/jc1cpf)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11063-a-few-more-rebar-frames/).\n\n**Credits:** FileMachete",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.sendspace.com/file/jc1cpf",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11063-a-few-more-rebar-frames/",
+  "modAuthors": [
+    "FileMachete"
+  ],
+  "modTags": [
+    "7 days to die building materials"
+  ]
+}

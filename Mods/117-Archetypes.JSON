@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/archetypes/",
+  "modCreatedTime": "2020-02-16T18:58:06+00:00",
+  "modLastUpdatedTime": "2020-06-02T14:40:13+00:00",
+  "modName": "Archetypes",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod adds one new Del Stryker archetype to the archetypes.xml. This is just an example of how to create additional archetypes.",
+  "modDescription": "This 7 Days to Die mod adds one new Del Stryker archetype to the archetypes.xml. This is just an example of how to create additional archetypes to use within the game.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/DelStryker/Delmod/tree/master/Delmod_Archetypes)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11141-del-stryker-a17-modlet-collection/).\n\n**Credits:** [Del Stryker](https://7daystodiemods.com/tag/del-stryker/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/DelStryker/Delmod/tree/master/Delmod_Archetypes",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11141-del-stryker-a17-modlet-collection/",
+  "modAuthors": [
+    "Del Stryker"
+  ],
+  "modTags": [
+    "Del Stryker"
+  ]
+}

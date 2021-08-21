@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/pick-me-up/",
+  "modCreatedTime": "2020-09-01T04:55:00+00:00",
+  "modLastUpdatedTime": "2020-09-01T04:55:17+00:00",
+  "modName": "Pick Me Up",
+  "modImages": [],
+  "modShortDescription": "This mod enabled certain blocks to be picked up after being placed. Modified blocks are: Wood Spikes and Iron Spikes.",
+  "modDescription": "This mod enabled certain blocks to be picked up after being placed.\n\nModified blocks are:\n\n* Wood [Spikes](https://7daystodiemods.com/tag/7-days-to-die-spikes/)\n* Iron Spikes\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-pickmeup)**\n\nIf you find any issues or have a suggestion for improvement, please [open an issue](https://github.com/Donovan522/donovan-7d2d-modlets/issues) and Donovan will look into it ASAP.\n\n**Credits:** [Donovan](https://7daystodiemods.com/tag/donovan/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-pickmeup",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Donovan"
+  ],
+  "modTags": [
+    "7 days to die spikes",
+    "7 days to die traps",
+    "Donovan"
+  ]
+}

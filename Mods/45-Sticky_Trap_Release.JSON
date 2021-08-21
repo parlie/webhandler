@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/sticky-trap-release/",
+  "modCreatedTime": "2020-06-01T03:11:51+00:00",
+  "modLastUpdatedTime": "2020-06-01T03:11:52+00:00",
+  "modName": "Sticky Trap Release",
+  "modImages": [],
+  "modShortDescription": "A lubricant that will release you from the Sticky Trap. Will not prevent damage caused by Sticky Spike Trap. Pointless without atleast one sticky trap mod.",
+  "modDescription": "A lubricant that will release you from the Sticky Trap. Will not prevent damage caused by the Sticky Spike Trap.\n\n3 types of releases. Early game is oil (is this safe to drink?) that is found in normal loot/crafted, a mediocre version (made in campfire with beaker) that has better releasing abilities plus other perks, a best version (mad in the chem bench) that gives the most releasing abilities to free you.\n\nPointless without atleast one [sticky trap mod](https://7daystodiemods.com/sticky-traps/). Designed to work with all or only one.\n\nCan be adjusted to your liking if you feel it isn’t effective enough.\n\nThanks to rewtgr for the extensive code testing and the modding community helping to find a way around the limits. Mulitplayer requires the client that is connecting has the mod installed or you wont see the images for the icons he added to the items in inventory.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Su1C1daL/Su1C1dal-7DTD-Mods/tree/master/Su1C1dal%207DTD%20Sticky%20Trap%20Release%20Drink)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19055-su1c1dal-modlets/).\n\n**Credits:** [Su1C1daL](https://7daystodiemods.com/tag/su1c1dal/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Su1C1daL/Su1C1dal-7DTD-Mods/tree/master/Su1C1dal%207DTD%20Sticky%20Trap%20Release%20Drink",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19055-su1c1dal-modlets/",
+  "modAuthors": [
+    "Su1C1daL"
+  ],
+  "modTags": [
+    "7 days to die traps",
+    "Su1C1daL"
+  ]
+}

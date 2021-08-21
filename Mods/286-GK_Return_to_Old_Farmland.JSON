@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/gk-return-to-old-farmland/",
+  "modCreatedTime": "2020-07-14T01:29:00+00:00",
+  "modLastUpdatedTime": "2020-07-14T01:29:38+00:00",
+  "modName": "GK Return to Old Farmland",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/02/features-of-hoe.jpg"
+  ],
+  "modShortDescription": "This 7DTD mod adds again the old Alpha 17 cultivation system that was removed in the Alpha 18.",
+  "modDescription": "This 7DTD mod adds again the old Alpha 17 cultivation system that was removed in the Alpha 18 introducing its Farm Plots, also enables the [hoe](https://7daystodiemods.com/tag/7-days-to-die-tools/), its recipe and its schema to unlock it, [farm](https://7daystodiemods.com/tag/7-days-to-die-farming/) plots and fertile farmland work without any problem, you decide how to grow.\n\n**[Download](http://www.mediafire.com/file/4kaiuggwx1goiib/GK_Return_to_Old_Farmland_A19.rar/file)** for A19  \n**[Download](http://www.mediafire.com/file/sbcv9n974ckm3ug/GK_Return_to_Old_Farmland.rar/file)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20168-gouki%C2%B4s-a19-modlets/).\n\n**Credits:** [Gouki](https://7daystodiemods.com/tag/gouki/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "http://www.mediafire.com/file/4kaiuggwx1goiib/GK_Return_to_Old_Farmland_A19.rar/file",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "http://www.mediafire.com/file/sbcv9n974ckm3ug/GK_Return_to_Old_Farmland.rar/file",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20168-gouki%C2%B4s-a19-modlets/",
+  "modAuthors": [
+    "Gouki"
+  ],
+  "modTags": [
+    "7 days to die farming",
+    "7 days to die tools",
+    "Gouki"
+  ]
+}

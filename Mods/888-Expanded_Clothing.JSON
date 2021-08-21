@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/expanded-clothing/",
+  "modCreatedTime": "2020-09-17T20:37:00+00:00",
+  "modLastUpdatedTime": "2021-07-25T01:44:12+00:00",
+  "modName": "Expanded Clothing",
+  "modImages": [],
+  "modShortDescription": "Adds some different clothing options to the game.",
+  "modDescription": "Adds some different [clothing](https://7daystodiemods.com/tag/7-days-to-die-clothing/) options to the game.\n\n## Changelog\n\nUpdated to remove the extra rubbish.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/Valmar-Modlets/tree/master/Valmars%20Expanded%20Clothing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20079-valmars-a19-modlets/).\n\n**Credits:** [Valmar](https://7daystodiemods.com/tag/valmar/), [Stallionsden](https://7daystodiemods.com/tag/stallionsden/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/Valmar-Modlets/tree/master/Valmars%20Expanded%20Clothing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20079-valmars-a19-modlets/",
+  "modAuthors": [
+    "Valmar",
+    "Stallionsden"
+  ],
+  "modTags": [
+    "7 days to die clothing",
+    "Stallionsden",
+    "Valmar"
+  ]
+}

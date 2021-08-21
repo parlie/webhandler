@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/menu-music/",
+  "modCreatedTime": "2020-10-27T19:37:43+00:00",
+  "modLastUpdatedTime": "2020-12-26T17:27:59+00:00",
+  "modName": "Menu Music",
+  "modImages": [],
+  "modShortDescription": "Allows you to change the menu background music at the start of the game without needing to patch the resources.assets file.",
+  "modDescription": "Allows you to change the menu background [music](https://7daystodiemods.com/tag/7-days-to-die-sound-mod/) at the start of the game without needing to patch the resources.assets file. A sample music file in the ogg format has been provided for you to play around with.\n\nThis is a DMT mod. So requires [DMT Modding Tool](https://community.7daystodie.com/topic/13037-dmt-modding-tool/).\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/TormentedEmu/7DTD-A19-DMTMods/tree/master/TE_MenuMusic)**\n\nPlease let her know if you have any questions, or have any problems/bugs with it. She is usually found on [Guppycur’s Discord](https://discord.gg/mh3J3dS). Her nickname on the Discord is V.\n\n**Credits:** [TormentedEmu](https://7daystodiemods.com/tag/tormentedemu/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/TormentedEmu/7DTD-A19-DMTMods/tree/master/TE_MenuMusic",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "TormentedEmu"
+  ],
+  "modTags": [
+    "7 days to die menu",
+    "7 days to die sound mod",
+    "TormentedEmu"
+  ]
+}

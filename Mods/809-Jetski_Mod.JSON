@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/jetski-mod/",
+  "modCreatedTime": "2021-06-12T20:57:08+00:00",
+  "modLastUpdatedTime": "2021-06-12T21:19:50+00:00",
+  "modName": "Jetski Mod",
+  "modImages": [],
+  "modShortDescription": "A slightly faster form of water transport with two seats so take a friend.",
+  "modDescription": "A slightly faster form of water transport with two seats so take a friend.\n\nExperimental work in progress version 1.\n\n## Launch\n\nPlace the jetski on/in water in a ‘shallow water’ area that has fairly flat ground underneath, if you have no shallow water in your map then build a small launch dock, then add fuel to the Jetski and off you go.\n\nThe Jetski will behave irratically if placed on land and will damage player made blocks and is not controllable.\n\n## Controls\n\n* Steering is A and D as per vanilla settings… mouse is for looking around only and has no affect on steering a boat.\n* Space bar and c control the up and down angles (same as a gyro) which you will need to adjust slightly as you travel on water otherwise you may sink.\n* W is forwards and S is slow down/reverse. If you let go of w and shift (Turbo) then the [Jetski](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) slowly comes to a stop, pressing s will slow the Jetski down more quickly this replaces spacebar as the brake key.\n\n## Crafting\n\nThe Jetski is craftable in a standard workbench with no progression needed at the cost of resources by creating the required assemblies to build it, it will help early game if you actually find a ‘working workbench’ and allow you to make the bath tub a lot sooner.\n\n## Other Info\n\nTo anchor the Jetski and stop it drifting away use c and spacebar to level the Jetski till it stops drifting.\n\nParticle system added… this can be toggled via the ‘F’ key (headlight function)\n\nThe Jetski can be picked up into inventory, if you sink it at any point, although be careful if you sink it too far away from the shores as it could be a long swim back.\n\nBest to not store stuff as Zombies now can attack water vehicles in game.\n\n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Jet_Ski)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/14070-water-vehicle-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/), ActiniumTiger (for new rusted texture for Jetski)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Jet_Ski",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/14070-water-vehicle-modlets/",
+  "modAuthors": [
+    "Ragsy2145",
+    "ActiniumTiger (for new rusted texture for Jetski)"
+  ],
+  "modTags": [
+    "7 days to die boat",
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

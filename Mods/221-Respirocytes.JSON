@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/respirocytes/",
+  "modCreatedTime": "2020-02-20T20:35:43+00:00",
+  "modLastUpdatedTime": "2020-06-21T15:48:39+00:00",
+  "modName": "Respirocytes",
+  "modImages": [],
+  "modShortDescription": "A mod that uses a body modification technology to enhance the players stamina and abilities that would require greater amounts of oxygen in there blood.",
+  "modDescription": "This is a mod that uses a body modification technology to enhance the players [stamina](https://7daystodiemods.com/tag/7-days-to-die-stamina/) and abilities that would require greater amounts of oxygen in there blood.\n\nJust take one of the three versions and you will start to notice the alterations to your abilities.\n\nThe following doses (Child’s dose, Civilian dose and Military dose) give a small boost in stamina, run speed, entity damage, hypothermal resistance, carry capacity, healing and holding your breath.\n\nEach type gives larger boosts with child being the lowest and the military being the highest.\n\nRespirocyte remover – removes the buff that the respirocytes add to the player.\n\nThere is also a loot container and door that are included in the mod. The door needs a bit of a rework.\n\n[**Download**](https://gitlab.com/adredengaming/adreden_modlets/-/archive/master/adreden_modlets-master.zip?path=Adredens_Respirocytes)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/16328-adredens-modlets/).\n\n**Credits:** [Adreden](https://7daystodiemods.com/tag/adreden/)",
+  "modDownloadURLs": [
+    {
+      "Info": "\nThis is a mod that uses a body modification technology to enhance the players stamina and abilities that would require greater amounts of oxygen in there blood.\nJust take one of the three versions and you will start to notice the alterations to your abilities.\nThe following doses (Child’s dose, Civilian dose and Military dose) give a small boost in stamina, run speed, entity damage, hypothermal resistance, carry capacity, healing and holding your breath.Each type gives larger boosts with child being the lowest and the military being the highest.\nRespirocyte remover – removes the buff that the respirocytes add to the player.\nThere is also a loot container and door that are included in the mod. The door needs a bit of a rework.\nDownload\nThe forum topic of the mod is here.\nCredits: Adreden\nShare this mod with your friends:",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/16328-adredens-modlets/",
+  "modAuthors": [
+    "Adreden"
+  ],
+  "modTags": [
+    "7 days to die stamina",
+    "Adreden"
+  ]
+}

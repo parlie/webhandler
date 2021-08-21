@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/mead-hall/",
+  "modCreatedTime": "2020-07-02T23:56:00+00:00",
+  "modLastUpdatedTime": "2021-01-15T18:52:03+00:00",
+  "modName": "Mead Hall",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod adds Viking fantasy mead hall (POI) to the game. This POI must be placed manually - no rwg support yet.",
+  "modDescription": "This 7 Days to Die mod adds Viking fantasy mead hall (POI) to the game. This POI must be placed manually – no rwg support yet.\n\n**Manuell Installation:**\n\n1. Download and unpack the Zip data.\n2. Place it into your “Mods” folder.\n3. Place it in your world and have fun!\n\n**[Download](https://gitlab.com/EihwazDE/7D2D/-/archive/master/7D2D-master.zip?path=Mead%20Hall)**\n\nIf you appreciate Eihwaz’s work and you want to show support, use this [donate link](https://www.paypal.com/pools/c/8nSUn4KFGL).\n\nIf you need help, you can use this [support link](https://discord.com/invite/StrFn7X).\n\n**Credits:** [Eihwaz](https://7daystodiemods.com/tag/eihwaz/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/EihwazDE/7D2D/-/archive/master/7D2D-master.zip?path=Mead%20Hall",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Eihwaz"
+  ],
+  "modTags": [
+    "7 days to die prefab",
+    "Eihwaz"
+  ]
+}

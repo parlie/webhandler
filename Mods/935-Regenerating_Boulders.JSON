@@ -1,0 +1,49 @@
+{
+  "modURL": "https://7daystodiemods.com/regenerating-boulders/",
+  "modCreatedTime": "2021-07-20T20:50:00+00:00",
+  "modLastUpdatedTime": "2021-07-30T15:59:47+00:00",
+  "modName": "Regenerating Boulders",
+  "modImages": [],
+  "modShortDescription": "MeanCloud wanted surface boulders to be able to regenerate after a while so he can go harvest them again. This makes the game less challenging.",
+  "modDescription": "MeanCloud wanted surface boulders to be able to regenerate after a while so he can go harvest them again. This makes the game less challenging by not requiring deeper [mining](https://7daystodiemods.com/tag/7-days-to-die-mining/) for resources, but that’s kind of what he wanted (specifically when paired with other mods that drop materials from boulders).\n\n## Using This Mod\n\nWith this mod, when boulders are destroyed past their final cracked form, they will turn into a small stone, except you can’t pick it up. You can leave this stone alone and it will eventually turn back into a boulder (after a few real life hours) or you can keep smashing it and it will be permanently destroyed (in case you want to clear the area to build on).\n\nThis small stone can’t be picked up and does not give any yield for harvesting, it’s just there to let you know the mod is working and will regenerate in that position.\n\n## Changelog\n\n**v1.05 Changes:**\n\n* Compatible with A19.\n* Localization for German, Spanish, French, Italian, Japanese, Korean, Polish, Portuguese (BR), Russian, Turkish, and Chinese (both)\n* Perk updates by doughphungus as suggested by Eko\n\n**v1.03 Changes:**\n\nSubversion that supplements [his mining mod](https://7daystodiemods.com/mining-mod-with-copper-zinc-and-excavators/), which adds regenerating boulder support for copper and zinc boulders.\n\n**v1.02 Changes:**\n\n* Compatible with A18\n* Adds support for the ore boulders, including Iron, Lead, Coal, Potassium Nitrate, and Oil Shale\n\n## How to Install\n\nDownload and extract this mod to your 7 Days to Die Mods folder.\n\nFor Steam users, that’s **\\\\steamapps\\\\common\\\\7 Days To Die\\\\Mods** (create ‘Mods’ if it doesn’t exist).\n\n**Alpha 19 Versions**  \n**[Download](https://damned.cloud/files/MeanCloud__RegeneratingBoulders_v1.05.zip)** for **A19**  \n**[Download](https://damned.cloud/files/MeanCloud__RegeneratingBoulders_CaZ_v1.05.zip)** for Copper & Zinc **(A19)**  \n**Alpha 18 Versions**  \n**[Download](https://damned.cloud/files/MeanCloud__RegeneratingBoulders_v1.03.zip)** for **A18**  \n**[Download](https://damned.cloud/files/MeanCloud__RegeneratingBoulders_CaZ_v1.03.zip)** for Copper & Zinc **(A18)**\n\nIf you appreciate MeanCloud’s work and you want to show support, use this [donate link](https://paypal.me/MeanCloud).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/14622-regenerating-boulders-modlet/).\n\n**Credits:** [MeanCloud](https://7daystodiemods.com/tag/meancloud/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Alpha 19 Versions",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://damned.cloud/files/MeanCloud__RegeneratingBoulders_v1.05.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "for Copper & Zinc (A19)",
+      "URL": "https://damned.cloud/files/MeanCloud__RegeneratingBoulders_CaZ_v1.05.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Alpha 18 Versions",
+      "Version": "v18"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://damned.cloud/files/MeanCloud__RegeneratingBoulders_v1.03.zip",
+      "Version": "v18"
+    },
+    {
+      "Info": "for Copper & Zinc (A18)",
+      "URL": "https://damned.cloud/files/MeanCloud__RegeneratingBoulders_CaZ_v1.03.zip",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/14622-regenerating-boulders-modlet/",
+  "modAuthors": [
+    "MeanCloud"
+  ],
+  "modTags": [
+    "7 days to die mining",
+    "7 days to die respawn",
+    "MeanCloud"
+  ]
+}

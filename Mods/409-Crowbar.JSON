@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/crowbar/",
+  "modCreatedTime": "2020-04-29T04:20:00+00:00",
+  "modLastUpdatedTime": "2020-08-28T21:15:35+00:00",
+  "modName": "Crowbar",
+  "modImages": [],
+  "modShortDescription": "You've waited a half life for this! Quality of crafted Crowbar is governed by Miner69er perk, but this tool won't help you much to crack boulders.",
+  "modDescription": "You’ve waited a half life for this! Quality of crafted Crowbar is governed by Miner69er perk, but this [tool](https://7daystodiemods.com/tag/7-days-to-die-tools/) won’t help you much to crack boulders. However safes, doors (including jail doors), hatches and heads are a different story as Crowbar does extra damage to them!\n\nRepair with a Repair Kit and repair often as it can break!\n\n**How to obtain Crowbar:**\n\n* Crafting at workbench – You must first learn how to craft it by using Crowbar Schematic.\n* Find it as a rare tool in loot.\n* You can buy it from trader if it’s available.\n\nThis is mr.devolver’s first real mod for 7 Days to Die using Unity3D.\n\nA big thank you to everyone who made creating this mod possible!\n\n**Update**  \nFixed Localization.txt – now it shows full Crowbar description.\n\n**[Download](http://www.mediafire.com/file/v6isqh224tdapxw/Crowbar.rar)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/18590-crowbar/).\n\n**Credits:** [mr.devolver](https://7daystodiemods.com/tag/mr-devolver/)  \n_Additional Credits:_ Xyth, FunFant",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "http://www.mediafire.com/file/v6isqh224tdapxw/Crowbar.rar",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/18590-crowbar/",
+  "modAuthors": [
+    "mr.devolverAdditional Credits: Xyth",
+    "FunFant"
+  ],
+  "modTags": [
+    "7 days to die melee weapons",
+    "7 days to die tools",
+    "7 days to die weapons",
+    "mr.devolver"
+  ]
+}

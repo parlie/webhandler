@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/ammo-bundle-maker/",
+  "modCreatedTime": "2020-07-06T10:10:00+00:00",
+  "modLastUpdatedTime": "2021-07-25T02:12:33+00:00",
+  "modName": "Ammo Bundle Maker",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod turns loose ammo into bundles. Adds gascanBundle, RocketHE and RocketFragBundles and JunkTurretBundles.",
+  "modDescription": "This 7 Days to Die mod turns loose [ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/) into bundles. Adds gascanBundle, RocketHE and RocketFragBundles and JunkTurretBundles.\n\n**Changelog**\n\n* **_(new)_** Update to A19\n* Corrected exploding arrows to 75 (From 100 to match vanilla)\n* Changed ammogasbundle from 100 to 1000\n* Added localization.txt thanks to Dancapo\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/Stallionsdens%20Ammo%20Bundle%20Maker)**\n\nIf you appreciate Stallionsden’s work and you want to show support, use this [donate link](http://paypal.me/AnthonyCar78).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19911-stallionsdens-and-valmars-a19-mod-thread/).\n\n**Credits:** [Stallionsden](https://7daystodiemods.com/tag/stallionsden/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/Stallionsdens%20Ammo%20Bundle%20Maker",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19911-stallionsdens-and-valmars-a19-mod-thread/",
+  "modAuthors": [
+    "Stallionsden"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "Stallionsden"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/chicken-coop/",
+  "modCreatedTime": "2020-08-07T15:08:00+00:00",
+  "modLastUpdatedTime": "2020-08-11T13:05:22+00:00",
+  "modName": "FRK Chicken Coop",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/08/7-days-to-die-chicken-coop-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/08/7-days-to-die-chicken-coop-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "Adds a Chicken Coop to generate eggs and feathers. Coop generates eggs (1-5) and feathers (1-5) every 2-3 in-game days. Placeable anywhere.",
+  "modDescription": "Adds a Chicken Coop to generate eggs and feathers.\n\n* Adds a craftable Chicken Coop to the game.\n* Coop generates eggs (1-5) and feathers (1-5) every 2-3 in-game days.\n* Unlocked via the Living off the Land Perk (level 1)\n* Placeable anywhere\n\n**Important:** Needs to be installed on both the server and client sides, due to custom icon(s)/assets.\n\n**[Download](https://drive.google.com/file/d/15XeieUcPuvF2RSFmzAqCDlkNpZLESamo/view?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20806-freakuks-modlets/).\n\n**Credits:** [FreakUK](https://7daystodiemods.com/tag/freakuk/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/15XeieUcPuvF2RSFmzAqCDlkNpZLESamo/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20806-freakuks-modlets/",
+  "modAuthors": [
+    "FreakUK"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die farming",
+    "7 days to die food",
+    "FreakUK"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/chaos-motorcycle-mod/",
+  "modCreatedTime": "2021-06-14T18:03:00+00:00",
+  "modLastUpdatedTime": "2021-06-14T18:05:41+00:00",
+  "modName": "Chaos Motorcycle Mod",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-chaos-motorcycle-mod-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Chaos Bike! You may recognise the bike or you may not but it's better to ride past the dead than walk.",
+  "modDescription": "This is Ragsy’s first attempt in unity at putting a motorcycle into the game although he has been known to like tweaking the original vanilla [motorcycle](https://7daystodiemods.com/tag/7-days-to-die-motorcycle/) physics xml and this bike incorperates some of what was learned along the way from the xml tweaking adventures.\n\n## Chaos Bike\n\nYou may recognise the bike or you may not but it’s better to ride past the dead than walk.\n\n### Crafting Method\n\nYou can find the base chassis, seat and handlebar assembly in loot at the appropriate level (same as Vanilla Motorcycle).\n\nRecipes are also included to be able to craft the parts on a workbench if required or you are darned unlucky not to find them, once you have a completed chassis assembly you will have to craft an engine.\n\nThe Chaos engine comprises of 2x small engines and some other parts, add wheels along with the engine to the completed chassis and you can complete the [bike](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) in the workbench.\n\n## Credits\n\nChaos for the model (You are not allowed to extract and alter the unity file in any way without first gaining permission from the modder or the model creator)\n\n### Additional Credits\n\nMembers of Guppy’s Unnoficial Modding Discord for tip’s, advise and support along the way, Guppy, Xyth, Bdubyah, DUST2DEATH, ActiniumTiger and many others.\n\n## Changelog\n\n‘Quickfix’ for Chaos Motorcycle as one ingredient was missing from the progression file.\n\n**Mod is required on both client and server as per all mods that contain custom assets.**\n\n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Chaos_Motorbike)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Chaos_Motorbike",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die motorcycle",
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

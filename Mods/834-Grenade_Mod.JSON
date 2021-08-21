@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/grenade-mod/",
+  "modCreatedTime": "2020-04-29T20:58:00+00:00",
+  "modLastUpdatedTime": "2021-07-01T21:58:05+00:00",
+  "modName": "Grenade Mod",
+  "modImages": [],
+  "modShortDescription": "Converted Guppycur's smoke grenade over to a pin-pull type effect and added a flashbang. Basically, don't be near it when it goes off.",
+  "modDescription": "Converted Guppycur’s smoke grenade over to a pin-pull type effect and added a flashbang. Many thanks to both Tin and Xyth, Tin for the xml help with buffs (Guppycur really suck at buffs, he spend a day on something Tin spends a minute on) and Xyth for the pointer on making it so that only the buff recipient gets the camera effects from the flash bang.\n\n…basically, don’t be near it when it goes off. :))\n\nThere is, of course, a game limitation that allows him to either have the flashbang bounce and be able to be picked up (and re-used over and over) vs having the flashbang just explode but not being able to be exploited, so Guppycur chose the latter. He would have loved to have had it bounce around, but that exploit was just too much.\n\n**[Download](https://gitlab.com/guppycur/guppymods/-/archive/master/guppymods-master.zip?path=Guppycur%27s_Grenades)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/9144-guppycurs-modlets/).\n\n**Credits:** [Guppycur](https://7daystodiemods.com/tag/guppycur/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/guppycur/guppymods/-/archive/master/guppymods-master.zip?path=Guppycur%27s_Grenades",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/9144-guppycurs-modlets/",
+  "modAuthors": [
+    "Guppycur"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "Guppycur"
+  ]
+}

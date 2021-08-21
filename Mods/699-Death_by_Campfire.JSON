@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/death-by-campfire/",
+  "modCreatedTime": "2020-10-27T01:05:10+00:00",
+  "modLastUpdatedTime": "2021-03-15T06:38:15+00:00",
+  "modName": "Death by Campfire",
+  "modImages": [],
+  "modShortDescription": "Magejosh's aim was to make a server side mod that would alter the campfires to be as dangerous to walk on as they were when he started playing in a18.",
+  "modDescription": "Magejosh’s aim was to make a server side mod that would alter the campfires to be as dangerous to walk on as they were when he started playing in a18\\. Then decided that made them more valuable, so to counterbalance the advantage they offer, he raised the heatmap strength of the campfire so it will call in screamers faster.\n\nHere’s a video of him testing it out:\n\n**[Download](https://gitlab.com/magejoshplays/7-days-to-die-a19-mods/-/archive/master/7-days-to-die-a19-mods-master.zip?path=Death%20by%20Campfire)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/22328-death-by-campfire-server-side-mod/).\n\n**Credits:** [Magejosh](https://7daystodiemods.com/tag/magejosh/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/magejoshplays/7-days-to-die-a19-mods/-/archive/master/7-days-to-die-a19-mods-master.zip?path=Death%20by%20Campfire",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/22328-death-by-campfire-server-side-mod/",
+  "modAuthors": [
+    "Magejosh"
+  ],
+  "modTags": [
+    "Magejosh"
+  ]
+}

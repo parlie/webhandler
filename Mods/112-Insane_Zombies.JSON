@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/insane-zombies/",
+  "modCreatedTime": "2020-01-31T19:04:42+00:00",
+  "modLastUpdatedTime": "2020-06-02T14:31:21+00:00",
+  "modName": "Insane Zombies",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod multiplies zombies hit points by 2.5, multiply zombie melee damage by 2.5, and multiply headshots on zombies by 2.5.",
+  "modDescription": "This 7 Days to Die mod multiplies [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) hit points by 2.5, multiply zombie melee damage by 2.5 (but not puke/explosion), and multiply headshots on zombies by 2.5.\n\nDcsobral wanted something to make headshots very important, so he made difficulty Insane. At which point he realized that not only the gamestage skyrockets, but rage becomes insanely (pun intended) common, which is a problem since he wanted to do blades as melee weapon, and bleeding is a rage machine. This mod, when played at Nomad difficulty, gives the tougher zombies of Insane difficulty without any of the drawbacks, while keeping headshot at Nomad difficulty.\n\n**[Download](https://github.com/dcsobral/7d2d/releases/download/2.0.0/Insane.Zombies-1.0.1.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17350-dcsobrals-mods/).\n\n**Credits:** [Dcsobral](https://7daystodiemods.com/tag/dcsobral/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/dcsobral/7d2d/releases/download/2.0.0/Insane.Zombies-1.0.1.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17350-dcsobrals-mods/",
+  "modAuthors": [
+    "Dcsobral"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "Dcsobral"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/dont-use-up-water/",
+  "modCreatedTime": "2021-07-23T03:40:00+00:00",
+  "modLastUpdatedTime": "2021-07-23T03:49:54+00:00",
+  "modName": "Don't Use Up Water",
+  "modImages": [],
+  "modShortDescription": "Prevents empty jars from depleting water sources that the player placed with a bucket.",
+  "modDescription": "Prevents empty jars from depleting water sources that the player placed with a bucket.\n\n## Changelog\n\n* **_(new)_** Updated to support A19 now. (Official Update)\n* Updated for A19 by Doughphunghus.\n\n**[Download](https://damned.cloud/files/MeanCloud__DontUseUpWater_v1.01.zip)**\n\nIf you appreciate MeanCloud’s work and you want to show support, use this [donate link](https://paypal.me/MeanCloud).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24859-meanclouds-modlets-collection/).\n\n**Credits:** [MeanCloud](https://7daystodiemods.com/tag/meancloud/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://damned.cloud/files/MeanCloud__DontUseUpWater_v1.01.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/24859-meanclouds-modlets-collection/",
+  "modAuthors": [
+    "MeanCloud"
+  ],
+  "modTags": [
+    "7 days to die drinks",
+    "MeanCloud"
+  ]
+}

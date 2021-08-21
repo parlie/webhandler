@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/anti-block-bullets/",
+  "modCreatedTime": "2020-07-06T10:18:00+00:00",
+  "modLastUpdatedTime": "2021-07-25T02:34:36+00:00",
+  "modName": "Anti Block Bullets",
+  "modImages": [],
+  "modShortDescription": "Ammo can't break blocks anymore. This 7 Days to Die mod removes the block damage capabilities of all ammo types, grenade type and mine types.",
+  "modDescription": "Ammo can’t break blocks anymore. This 7 Days to Die mod removes the block damage capabilities of all [ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/) types, grenade type and mine types so they only kill zombies, people and animals.\n\nGlass and cloth still are damageable tho. (will work on it to remove them as well if possible)\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/stallionsdens%20Anti%20Block%20Bullets)**\n\nIf you appreciate Stallionsden’s work and you want to show support, use this [donate link](http://paypal.me/AnthonyCar78).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19911-stallionsdens-and-valmars-a19-mod-thread/).\n\n**Credits:** [Stallionsden](https://7daystodiemods.com/tag/stallionsden/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/stallionsdens%20Anti%20Block%20Bullets",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19911-stallionsdens-and-valmars-a19-mod-thread/",
+  "modAuthors": [
+    "Stallionsden"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "Stallionsden"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/ammo-disassembly/",
+  "modCreatedTime": "2020-08-05T13:08:00+00:00",
+  "modLastUpdatedTime": "2020-08-05T13:08:43+00:00",
+  "modName": "Ammo Disassembly",
+  "modImages": [],
+  "modShortDescription": "This mod allows you to disassemble ammunition you find in the game. Compatible with Alpha 19, needs to have new ammo added.",
+  "modDescription": "This mod allows you to disassemble ammunition you find in the game. If the [ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/) normally requires a workbench to build, you need one to disassemble it, though you do not learn the recipe to disassemble it. Compatible with Alpha 19, needs to have new ammo added.\n\n**[Download](http://cdgroup.org/files/7dtd/AmmoDisassembly.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/8777-lucs-modlet-collection-quality-bonuses-better-stamina-terrain-mv-spd-etc/).\n\n**Credits:** [Luc](https://7daystodiemods.com/tag/luc/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "http://cdgroup.org/files/7dtd/AmmoDisassembly.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/8777-lucs-modlet-collection-quality-bonuses-better-stamina-terrain-mv-spd-etc/",
+  "modAuthors": [
+    "Luc"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "Luc"
+  ]
+}

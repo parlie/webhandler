@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/zombiome/",
+  "modCreatedTime": "2020-07-23T11:11:00+00:00",
+  "modLastUpdatedTime": "2020-10-19T14:44:10+00:00",
+  "modName": "ZomBiome",
+  "modImages": [],
+  "modShortDescription": "The world has permanent random activity, structured by biomes and geographic areas. Most are apocalyptic natural disasters. A few of them are more supernatural.",
+  "modDescription": "Behold survivors! Mother Hearth has been soiled long enough by these nasty Zombies… It can stand no more. Its revolt has started, and biomes won’t make a distinction between the livings and the undeads.\n\nApocalypse is upon us… let’s hope it is fun.\n\n## Features\n\nThe world has permanent random activity, structured by biomes and geographic areas. Most are apocalyptic natural disasters. A few of them are more “supernatural”.\n\n### Biome Activity Includes\n\n* Earthquake, ground motions, flood, geyser\n* Bushfire, wissfire, electric phenomena, meteore strike, starfall\n* Moving and flying biome decorations, slime blocks\n* Toxic emanations with various effects (poison, freeze, enlighten, blinded…)\n* Altered gravity, sizes\n\n### Gameplay Hints\n\nGlobally, ZomBiome only makes it harder for the player.\n\nDepending on your location, biome activity may be fun, or it may be a pain. If you don’t like what is happening around you, move and change area! You’ll find worse. Some activities may be used to your advantage. Observe your surroundings, explore, adapt or uninstall!\n\n* **Current Status:** Experimental\n* **SP:** Playable\n* **MP:** Probably too buggy\n\n### Important Warnings to Players\n\n* It can mess up your saves. Duplicate your savefile or start a new one!\n* It could break at any release (tested through A18.2/4). The A19 version is also available (less tested).\n* It is not yet balanced, and performances are not optimized.\n* Errors are still too frequent in multiplayer. He wasn’t able to test MP much.\n* Expect that any container could be destroyed in a second (content vanishes).\n\nThe biome ground-motions are not friendly to containers (yet?), but there are 2 things you can do for your most precious safes:\n\nThere is a landclaim/bedroll protection for all biome activity. In particular, the game should not destroy containers in these area  \nActivity depends on the map position you are at. If you see no ground motion for a long enough time period, there might not be any in the area.\n\n### Emergency Manual\n\n* You can check if Zombiome is running by looking at the logged messages in the console (F1): “ZombiomeManager update 1+…”. If it failed to start for any reason, run command “zb start”.\n* In case of error / crash, feel free to share the log file …/Mods/zb\\_err.txt He created a [special page](https://community.7daystodie.com/topic/20302-zombiome-bug-reporting-thread/) for that. Please add these info: worldseed, worldsize, MP/SP, short description\n\n## Implementation Details\n\nThat could be of interest to other modders. Should be extracted in a “utils” mod:\n\n* Insert block (move existing block up or down). Eject entities that otherwise would be stuck.\n* Move entities (player or [zombie](https://7daystodiemods.com/tag/7-days-to-die-zombies/)) “manually”. Does not (yet) check for collisions, so used sparingly.\n* Use a ghost (a mere Zombie made passive unkillable and invisible) as a controler for thrown items (actually mere dropped itemstack) to have biome-controled projectiles (controler=player would give xp).\n* Use ghost to attach particle and buff triggers.\n* Explore surface hexes around player to detect decorations.\n* Transform decorations to projectile and vice versa.\n* New blocks: waters (boiling/evaporating/freezing), slime, freezing stalagmites.\n* New buffs (20+) for Zombiome effects\n\n## Changelog\n\nA few improvments available for A19:\n\n* Changed graphical particles that were no longer working in a19 (biome projectile, ghost size increased)\n* Added sounds to Ground motions.\n* 1 new Biome activity\n* Bagpack’s zip is stuck and bag can’t open\n\n## Installation\n\nZomBiome is distributed under a BSD 2 License.\n\n1. Install [DMT Tool](https://community.7daystodie.com/topic/13037-dmt-modding-tool/)  \nHe just noted an issue with DMT 2.x. Please use DMT 1.x while he investigate it.\n2. Download Zombiome\n3. Use DMT to build Zombiome\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Umbrella7D/7Dmods/tree/master/ZombiomeA19)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Umbrella7D/7Dmods/tree/master/Zombiome)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20269-zombiome/).\n\n**Credits:** Umbrella",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Umbrella7D/7Dmods/tree/master/ZombiomeA19",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Umbrella7D/7Dmods/tree/master/Zombiome",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20269-zombiome/",
+  "modAuthors": [
+    "Umbrella"
+  ],
+  "modTags": [
+    "7 days to die biomes",
+    "7 days to die zombies"
+  ]
+}

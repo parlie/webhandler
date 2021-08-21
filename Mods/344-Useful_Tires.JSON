@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/useful-tires/",
+  "modCreatedTime": "2020-08-09T20:55:00+00:00",
+  "modLastUpdatedTime": "2020-08-09T21:02:01+00:00",
+  "modName": "Useful Tires",
+  "modImages": [],
+  "modShortDescription": "It is a small mod based on the work of Ragsy2145, which gives you the possibility to harvest the vehicleWheels by destroying from the floor.",
+  "modDescription": "**v1.1**\n\nIt is a small mod based on the work of Ragsy2145, which gives you the possibility to harvest the vehicleWheels by destroying from the floor, they will give you:\n\n1. vehicleWheels count = 1 prob = 0.14\n2. resourceForgedSteel count = 1 prob = 0.12\n3. resourceOil count = 1 prob = 0.14\n4. resourceScrapPolymers count = 6 prob = 0.75\n\nThey only change the values of vehicleWheels for decoCarTirePile and decoCarTireStack which can give you 1 to 2 wheels.\n\n**v1.2**\n\nIt gives you the possibility to obtain decoCarTireSmallFlat to make vehicleWheels and adds its recipe (the original recipe remains).\n\n```\n        <drop event=\"Destroy\" name=\"decoCarTireSmallFlat\" count=\"1\" prob=\"0.20\" tag=\"salvageHarvest\"/>\n        <drop event=\"Destroy\" name=\"resourceForgedSteel\" count=\"1\" prob=\"0.12\" tag=\"salvageHarvest\"/>\n        <drop event=\"Destroy\" name=\"resourceOil\" count=\"1\" prob=\"0.14\" tag=\"salvageHarvest\"/>\n        <drop event=\"Destroy\" name=\"resourceScrapPolymers\" count=\"6\" prob=\"0.16\" tag=\"salvageHarvest\"/>\n```\n\n**[Download](http://www.mediafire.com/file/v0bx3ts6zxuw5jb/GK_Useful_Tires_A19.rar/file)** v1.1  \n**[Download](http://www.mediafire.com/file/zx95oxovl8xm3vq/GK_Useful_Tires_A19%25282%2529.rar/file)** v1.2\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20168-gouki%C2%B4s-a19-modlets/).\n\n**Credits:** [Gouki](https://7daystodiemods.com/tag/gouki/), Ragsy2145",
+  "modDownloadURLs": [
+    {
+      "Info": "v1.1",
+      "URL": "http://www.mediafire.com/file/v0bx3ts6zxuw5jb/GK_Useful_Tires_A19.rar/file",
+      "Version": "v19"
+    },
+    {
+      "Info": "v1.2",
+      "URL": "http://www.mediafire.com/file/zx95oxovl8xm3vq/GK_Useful_Tires_A19%25282%2529.rar/file",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20168-gouki%C2%B4s-a19-modlets/",
+  "modAuthors": [
+    "Gouki",
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "7 days to die vehicles",
+    "Gouki"
+  ]
+}

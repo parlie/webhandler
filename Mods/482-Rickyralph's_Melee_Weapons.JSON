@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/rickyralphs-melee-weapons/",
+  "modCreatedTime": "2020-09-17T11:39:33+00:00",
+  "modLastUpdatedTime": "2020-09-21T21:45:26+00:00",
+  "modName": "Rickyralph's Melee Weapons",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/09/7-days-to-die-rickyralphs-melee-weapons-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Adds in 4 Blade weapons (Tanto (Deep Cuts), Hisu Knife (Deep Cuts), Wakizashi (Deep Cuts), and Katana (Deep Cuts)) and 1 Axe Tomahawk.",
+  "modDescription": "Adds in 4 Blade weapons ((T1) Tanto (Deep Cuts), (T2) Hisu Knife (Deep Cuts), (T2) Wakizashi (Deep Cuts), and (T3) Katana (Deep Cuts)) and 1 Axe ((T2) Tomahawk (Miner 69r)).\n\nThe Tanto, Hisu Knife, and Wakizashi can be unlocked by their respective perks or schematics, while the Katana and Tomahawk are schematic only. They all level off of there perks and all mods should work and show properly.\n\n**Important:** Needs to be installed on both the server and client sides, due to custom icon(s)/assets.\n\n**[Download](https://drive.google.com/file/d/1pO9QI4R3J1nCVQeLmUth1SbPDO8XPJRa/view?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21700-rickyralph-modlets/).\n\n**Credits:** [Rickyralph](https://7daystodiemods.com/tag/rickyralph/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1pO9QI4R3J1nCVQeLmUth1SbPDO8XPJRa/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/21700-rickyralph-modlets/",
+  "modAuthors": [
+    "Rickyralph"
+  ],
+  "modTags": [
+    "7 days to die melee weapons",
+    "7 days to die weapons",
+    "Rickyralph"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/telrics-assassin/",
+  "modCreatedTime": "2021-01-01T05:33:49+00:00",
+  "modLastUpdatedTime": "2021-04-28T22:07:16+00:00",
+  "modName": "Telric's Assassin",
+  "modImages": [],
+  "modShortDescription": "Adds a new enemy: the assassin. These enemies will start off in stealth with slow movement. If they are attacked or attack the player, they get out of stealth.",
+  "modDescription": "This mod adds a new enemy: the assassin. These enemies will start off in stealth with slow movement. If they are attacked or attack the player, they get out of stealth. They deal bonus damage from their attack while in stealth, based on which biome they are in (wasteland hits the hardest, forest the weakest). If the [assassin](https://7daystodiemods.com/tag/7-days-to-die-npcs/) cannot attack the player for a few seconds (about 20), they will return to stealth, reducing their movement speed again.\n\nDoes not require restart.\n\nRequires client to install as well as server.\n\nTested and works with Alpha 19.4 b3\n\nRecommended to be played single player or multiplayer. Works fine on servers as well.\n\n**[Download](https://www.dropbox.com/s/emkf8fmiax2nkdu/TelricsAssassinA19.zip?dl=1)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19976-telrics-a19-modlets/).\n\n**Credits:** [Telric](https://7daystodiemods.com/tag/telric/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/s/emkf8fmiax2nkdu/TelricsAssassinA19.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19976-telrics-a19-modlets/",
+  "modAuthors": [
+    "Telric"
+  ],
+  "modTags": [
+    "7 days to die npcs",
+    "Telric"
+  ]
+}

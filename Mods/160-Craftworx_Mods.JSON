@@ -1,0 +1,34 @@
+{
+  "modURL": "https://7daystodiemods.com/craftworx-mods/",
+  "modCreatedTime": "2019-11-10T02:33:34+00:00",
+  "modLastUpdatedTime": "2020-06-04T14:03:05+00:00",
+  "modName": "Craftworx Mods",
+  "modImages": [],
+  "modShortDescription": "Makes beakers, jail doors, and jail bars craftable. These items require learning either the Advanced Engineering or Yeah Science perks.",
+  "modDescription": "As Latheos is getting Craftworx overhauled for A18, he has been making mods to test things as he go. The first couple are out and functional, and more will be forthcoming, with the emphasis on the things people like most about past versions coming out soonest.\n\n## Quicker Crossbow\n\nIncreases the reload speed for the iron and compound crossbows to make them more useful.\n\n## Double-Barreled Shotgun Melee\n\nRemoves the aiming mechanic from the double-barreled shotgun and replaces it with a melee attack, useful for when you run out of ammo, or those first two shots don’t drop your target. It’s not fast, but it works.\n\n## Scrap Iron Items\n\nScrap iron tools (axe, pickaxe, shovel, and knife) and archery ammo (arros and bolts, crafted from scrap iron, wood, and scrap polymers). Balanced to bridge the gap between stone and iron tools and ammo.\n\n## Quality of Life\n\nMakes beakers, jail doors, and jail bars craftable. These items require learning either the Advanced Engineering or Yeah Science perks to unlock to maintain balance with the vanilla game. Also increases the amount of wood harvested from empty pallets and pallet stacks, with a small chance to also harvest nails, and allows for harvesting crushed cars for a few extra resources. Makes decorative car motors harvestable with a wrench.\n\n## Lit Jack’o’Lanterns\n\nMakes the Jack’o’Lanterns flicker like candles and produce light.\n\n[Download](https://github.com/LatheosMod/Craftworx-A18-Modlets/archive/master.zip)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/14683-craftworx-modlets-a18/).\n\n**Credits:** Latheos",
+  "modDownloadURLs": [
+    {
+      "Info": "\nAs Latheos is getting Craftworx overhauled for A18, he has been making mods to test things as he go. The first couple are out and functional, and more will be forthcoming, with the emphasis on the things people like most about past versions coming out soonest.\nQuicker Crossbow\nIncreases the reload speed for the iron and compound crossbows to make them more useful.\nDouble-Barreled Shotgun Melee\nRemoves the aiming mechanic from the double-barreled shotgun and replaces it with a melee attack, useful for when you run out of ammo, or those first two shots don’t drop your target. It’s not fast, but it works.Scrap Iron Items\nScrap iron tools (axe, pickaxe, shovel, and knife) and archery ammo (arros and bolts, crafted from scrap iron, wood, and scrap polymers). Balanced to bridge the gap between stone and iron tools and ammo.\nQuality of Life\nMakes beakers, jail doors, and jail bars craftable. These items require learning either the Advanced Engineering or Yeah Science perks to unlock to maintain balance with the vanilla game. Also increases the amount of wood harvested from empty pallets and pallet stacks, with a small chance to also harvest nails, and allows for harvesting crushed cars for a few extra resources. Makes decorative car motors harvestable with a wrench.\nLit Jack’o’Lanterns\nMakes the Jack’o’Lanterns flicker like candles and produce light.\nDownload\nThe forum topic of the mod is here.\nCredits: Latheos\nShare this mod with your friends:",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/14683-craftworx-modlets-a18/",
+  "modAuthors": [
+    "Latheos"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die beaker",
+    "7 days to die building materials",
+    "7 days to die crossbow",
+    "7 days to die door mod",
+    "7 days to die doors",
+    "7 days to die jack o lantern",
+    "7 days to die jail bars",
+    "7 days to die jail door",
+    "7 days to die melee weapons",
+    "7 days to die shotgun",
+    "7 days to die weapons"
+  ]
+}

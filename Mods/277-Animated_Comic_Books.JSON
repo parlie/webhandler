@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/animated-comic-books/",
+  "modCreatedTime": "2020-07-10T22:53:00+00:00",
+  "modLastUpdatedTime": "2020-07-10T22:53:47+00:00",
+  "modName": "Animated Comic Books",
+  "modImages": [],
+  "modShortDescription": "Another proof of concept. Adds 2 in game magazines to read on those long nights in base. Goal is to provide a method to allow for in game documentation.",
+  "modDescription": "Another proof of concept. Adds 2 in game magazines to read on those long nights in base. Goal is to provide a method to allow for in game documentation that includes images.\n\n**Changelog**  \nUpdated for latest experimental.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/BetterBooks)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/BetterBooks)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/8400-xyths-modlet-collection/).\n\n**Credits:** [Xyth](https://7daystodiemods.com/tag/xyth/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/BetterBooks",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/BetterBooks",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/8400-xyths-modlet-collection/",
+  "modAuthors": [
+    "Xyth"
+  ],
+  "modTags": [
+    "7 days to die books",
+    "Xyth"
+  ]
+}

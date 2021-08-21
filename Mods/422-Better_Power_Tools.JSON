@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/better-power-tools/",
+  "modCreatedTime": "2020-09-01T02:55:00+00:00",
+  "modLastUpdatedTime": "2020-09-01T03:34:27+00:00",
+  "modName": "Better Power Tools",
+  "modImages": [],
+  "modShortDescription": "This mod makes the chainsaw, auger and nailgun way more useful.",
+  "modDescription": "This mod makes the [chainsaw](https://7daystodiemods.com/tag/7-days-to-die-tools/), auger and nailgun way more useful.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterpowertools)**\n\nIf you find any issues or have a suggestion for improvement, please [open an issue](https://github.com/Donovan522/donovan-7d2d-modlets/issues) and Donovan will look into it ASAP.\n\n**Credits:** [Donovan](https://7daystodiemods.com/tag/donovan/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterpowertools",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Donovan"
+  ],
+  "modTags": [
+    "7 days to die tools",
+    "Donovan"
+  ]
+}

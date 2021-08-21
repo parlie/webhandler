@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/ultimate-rock/",
+  "modCreatedTime": "2020-07-03T22:49:57+00:00",
+  "modLastUpdatedTime": "2020-07-09T14:46:32+00:00",
+  "modName": "Ultimate Rock",
+  "modImages": [],
+  "modShortDescription": "This changes the boulders (ResourceStones) in game to give you a small chance at mining: Coal, Potassium Nitrate Powder, Lead, Sand and Clay.",
+  "modDescription": "This is a small mod AaronG85 modified based on the work of [Claymore](https://7daystodiemods.com/tag/claymore/).\n\nThis changes the boulders (ResourceStones) in game to give you a small chance at [mining](https://7daystodiemods.com/tag/7-days-to-die-mining/): Coal, Potassium Nitrate Powder, Lead, Sand and Clay\n\nThis also gives you a rare chance of mining: Brass, Silver, Gold and Dimond\n\nAlso gives the ability to mine a small amount of iron from terrestrial stone boulders.\n\nThe percentages can be changed higher or lower to suit your gaming needs via the blocks.xml.\n\n**NOTE:** This changes all boulders currently, If anyone has any tips on how to make the changes ONLY affect the ResourceStone Boulder, not the specialized boulders, they are very welcome to [PM](https://community.7daystodie.com/profile/17912-aarong85/) him so he can implement it.\n\n**[Download](https://docs.google.com/uc?export=download&id=1rI34W9VePcpvOIZQqCogfLudb80GL36u)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19748-aarong85s-ultimate-rock-a19/).\n\n**Credits:** [AaronG85](https://7daystodiemods.com/tag/aarong85/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://docs.google.com/uc?export=download&id=1rI34W9VePcpvOIZQqCogfLudb80GL36u",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19748-aarong85s-ultimate-rock-a19/",
+  "modAuthors": [
+    "AaronG85"
+  ],
+  "modTags": [
+    "7 days to die mining",
+    "AaronG85"
+  ]
+}

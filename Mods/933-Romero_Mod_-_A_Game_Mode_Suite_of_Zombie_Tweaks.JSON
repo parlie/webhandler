@@ -1,0 +1,42 @@
+{
+  "modURL": "https://7daystodiemods.com/romero-mod-a-game-mode-suite-of-zombie-tweaks/",
+  "modCreatedTime": "2021-07-30T07:21:00+00:00",
+  "modLastUpdatedTime": "2021-07-30T07:23:45+00:00",
+  "modName": "Romero Mod - A Game Mode/Suite of Zombie Tweaks",
+  "modImages": [],
+  "modShortDescription": "This is a mod KhaineGB created to try out a few different things regarding code. He has tried to keep it as vanilla as possible.",
+  "modDescription": "This is a mod KhaineGB created to try out a few different things regarding code. He has tried to keep it as vanilla as possible, to maintain modlet compatibility, and just messed around with how zombie work.\n\n## Features\n\n* Zombies only take full damage from headshots.\n* Bloodmoons disabled.\n* Included Jax’s Wilderness Spawn increase modlet (5x more [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/))\n* Added a difficulty tweaks mod to remove damage reduction from higher difficulties.\n* Removed zombie rage mode.\n* Added 10 slot toolbelt.\n* Added [backpack](https://7daystodiemods.com/tag/7-days-to-die-backpack/) stash buttons.\n* Added craftable log spikes.\n* Added ability to pick up plants with E.\n* Removed cop ability to puke.\n* Removed radiated vulture ability to puke.\n* Wandering hordes start from Day 2 at midnight.\n* Wandering horde configured to 30 zombies every 6 hours.\n* Wandering horde frequency and zombie amount can now be configured by XML (1-RomeroModCore\\\\Config\\\\blocks.xml at the top)\n* Added Guppy’s PUSHABLE shopping cart (works like a bicycle for stam usage).\n* Added scrap iron arrows and arrow heads.\n* Added scrap club, scrap knuckles, scrap machete and scrap spear.\n* Added Pipe Pistol and Pipe Rifle.\n* Edited loot to remove stone arrows, leather knuckles, stone spear and wooden clubs from loot (replaced with scrap).\n* Edited loot to remove stone [tools](https://7daystodiemods.com/tag/7-days-to-die-tools/) and replaced with scrap tools.\n* Moved iron tools, baseball bat, iron knuckles, iron spear and hunting knife from Level 1 of appropriate perk to Level 3 (localization updated to reflect this).\n* Scrap tools/weapons now locked behind schematics or level 1 of appropriate perk. (scrap arrows are NOT locked).\n\nAs you can see, it’s mostly adding some extra T0 guns (pipe [weapons](https://7daystodiemods.com/tag/7-days-to-die-weapons/)), a scrap tier and modifying the zombies. Please consider this a base for you to build your own apocalypse on, rather than a full-fat overhaul.\n\n## Terms of Use\n\nFrom what KhaineGB remember, the models included in this overhaul have very generous licences for use. As such, anyone may use Romero Mod as a base to build on for their own work/overhaul. However, if you use his models and code included in this mod, then you MUST link back forum topic and give credit as appropriate. You MAY NOT generate revenue of any kind with this mod without giving credit as appropriate.\n\nOtherwise, do with it as you see fit, especially for private use. He tried to keep it as light as possible for folks to modify with modlets and other such things.\n\n## Changelog\n\n**v1.6**\n\n* Updated for A19.6b8.\n* Fixed the lockable slots mod so it doesn’t overlap and buttons are always visible.\n* Added a harmony patch that forces zombies to walk and bloodmoon to off.\n* Updated the wandering horde mod so hours and zombies can now be random if the player wishes. This is configurable in Mods\\\\1-RomeroModCore\\\\Config\\\\blocks.xml. Default is 4 to 8 hours for the horde, 20 to 50 zombies.\n\n## Installation Instructions (If you don’t use the mod launcher)\n\nMake a copy of your 7 Days to Die folder first!\n\nDownload the zip file. Unzip the 7DaysToDie\\_Data and Mods folder to your 7 Days to Die folder and overwrite when prompted. The mod uses Harmony so both folders (and their contents) are needed or you’ll have problems.\n\nSame for the server files, except in this case it will be 7DaysToDieServer\\_Data and Mods.\n\nVideo for folks who may need it (It’s for Darkness Falls, but the basic idea is the same):\n\n## Installation Instructions for macOS Users\n\n**IMPORTANT NOTE:** KhaineGB does not have a mac. This is a guide he found for Starvation Mod and Ravenhearst, but it also works on War of the Walkers so it should be fine here.\n\n1. Uninstall 7dtd. Open Finder, from taskbar choose Go -> Home. Open Library -> Application Support -> Steam -> steamapps -> common. Delete 7 Days to Die folder. Reinstall 7 Days to Die.\n2. Unzip downloaded mod. Open unzipped folder. You should see 3 folders: 7DaysToDie\\_Data and Mods. He will be referring to this as a “home screen”.\n3. Open Steam. In your games Library, right-click 7 Days to Die and choose Properties from the drop-down menu. Choose the LOCAL FILES tab and choose BROWSE LOCAL FILES.\n4. Copy & paste (do not drag-and-drop) the Mods folder to this location.\n5. Open 7DaysToDie\\_Data -> Managed.\n6. Right-click 7DaysToDie.app and choose Show Package Contents. Here you should see 2 folders: Contents and Data. This will be the other “home screen”.\n7. Open Contents -> Resources -> Data -> Managed.\n8. Copy & paste (do not drag-and-drop) the .dll files into this location. Mac OSX will ask if you want to keep both or replace. Choose replace.\n9. Navigate back to each home screen.\n10. Drag-and-drop the 7DaysToDie\\_Data and Mods folders into this location.\n11. Open the Data folders in each location. You will see there are Config, Prefabs, and UMATextures folders in each.\n12. For each of these three folders, open up its corresponding folder so you can see the contents. Drag-and-drop the mod’s contents into its respective folder. For duplicate files, mac OSX will ask if you want to Skip, Stop, or Replace. Check the “Apply to All” checkbox, then choose Replace.\n13. Start 7 Days to Die and enjoy the mod!\n\n**[Download](https://gitlab.com/KhaineGB/romero-mod-a19-client/-/archive/master/romero-mod-a19-client-master.zip)** A19 Client (Does not work with EAC Enabled)  \n**[Download](https://gitlab.com/KhaineGB/romero-mod-a19-server/-/archive/master/romero-mod-a19-server-master.zip)** A19 Server (Does not work with EAC enabled)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21581-romero-mod-a-game-modesuite-of-zombie-tweaks/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "A19 Client (Does not work with EAC Enabled)",
+      "URL": "https://gitlab.com/KhaineGB/romero-mod-a19-client/-/archive/master/romero-mod-a19-client-master.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "A19 Server (Does not work with EAC enabled)",
+      "URL": "https://gitlab.com/KhaineGB/romero-mod-a19-server/-/archive/master/romero-mod-a19-server-master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/21581-romero-mod-a-game-modesuite-of-zombie-tweaks/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die backpack",
+    "7 days to die buttons",
+    "7 days to die farming",
+    "7 days to die loot",
+    "7 days to die melee weapons",
+    "7 days to die spikes",
+    "7 days to die toolbelt",
+    "7 days to die tools",
+    "7 days to die traps",
+    "7 days to die vehicles",
+    "7 days to die weapons",
+    "7 days to die zombies",
+    "KhaineGB"
+  ]
+}

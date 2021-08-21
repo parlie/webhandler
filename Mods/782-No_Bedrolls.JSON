@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/no-bedrolls/",
+  "modCreatedTime": "2020-12-25T20:56:00+00:00",
+  "modLastUpdatedTime": "2021-05-19T09:14:51+00:00",
+  "modName": "No Bedrolls",
+  "modImages": [],
+  "modShortDescription": "This is a 7DTD mod that will remove player-usable bedrolls and beds from the game. It is designed to be used with \"dead is mostly dead\" play styles.",
+  "modDescription": "This is a 7DTD mod that will remove player-usable bedrolls and beds from the game.\n\nSpecifically:\n\n* Bedrolls and beds no longer act as player spawn points, and no longer prevent zombie spawns. **Note:** They are still craftable, now they are merely ornamental\n* Bedrolls are removed from loot groups.\n* The first “basic survival” quest, to craft a bedroll, is removed (the second quest grants extra XP to compensate).\n\nIt is designed to be used with **dead is mostly dead** play styles. In this play style, when players die, they restart as **new characters**. Unlike **permadeath** or **dead is dead**, they spawn into the same world in which they died.\n\n## Changelog\n\n* **_(new)_** Updated for A19.\n* Now beds and bedrolls do not act as player spawn points, and do not protect against zombie respawns. But they are once again craftable (they are just ornamental now).\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=khzmusik_No_Bedrolls)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/).\n\n**Credits:** [Khzmusik](https://7daystodiemods.com/tag/khzmusik/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=khzmusik_No_Bedrolls",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/",
+  "modAuthors": [
+    "Khzmusik"
+  ],
+  "modTags": [
+    "Khzmusik"
+  ]
+}

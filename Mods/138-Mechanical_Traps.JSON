@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/mechanical-traps/",
+  "modCreatedTime": "2020-02-10T20:15:59+00:00",
+  "modLastUpdatedTime": "2020-06-03T20:36:22+00:00",
+  "modName": "Mechanical Traps",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod adds 4 mechanical traps and 3 explosive traps to the game. It includes Bear Trap, Fire Trap, Pierce Trap, Acid Trap and Spike Trap.",
+  "modDescription": "This 7 Days to Die mod adds 4 mechanical [traps](https://7daystodiemods.com/tag/7-days-to-die-traps/) and 3 explosive traps to the game. It includes Bear Trap, Fire Trap, Pierce Trap, Acid Trap and the classic Spike Trap. Version 3 adds Proximity Mine, Claymore and remote-controlled C4.\n\nYou can craft them in the Workbench using basic resources. You can also pick up every traps as long as you repaired them with the hammer before.\n\nThis is still a work-in-progress and some of the traps (like the piercing one) can be buggy.\n\n**[Download](https://gitlab.com/oignonchaud/oignonchaud-7d2d-mods-a18/-/archive/master/oignonchaud-7d2d-mods-a18-master.zip?path=Traps+and+stuff)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/14215-mechanical-traps-bear-trap-spike-trap-fire-trap-etc/).\n\n**Credits:** [Moongaming](https://7daystodiemods.com/tag/moongaming/)  \n_Special Thanks:_ Haidrgna, Mdf25",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/oignonchaud/oignonchaud-7d2d-mods-a18/-/archive/master/oignonchaud-7d2d-mods-a18-master.zip?path=Traps+and+stuff",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/14215-mechanical-traps-bear-trap-spike-trap-fire-trap-etc/",
+  "modAuthors": [
+    "MoongamingSpecial Thanks: Haidrgna",
+    "Mdf25"
+  ],
+  "modTags": [
+    "7 days to die traps",
+    "Moongaming"
+  ]
+}

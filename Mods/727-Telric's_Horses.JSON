@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/telrics-horses/",
+  "modCreatedTime": "2020-10-05T00:40:00+00:00",
+  "modLastUpdatedTime": "2021-04-28T21:41:55+00:00",
+  "modName": "Telric's Horses",
+  "modImages": [],
+  "modShortDescription": "This mod adds horses to the game. They will spawn throughout the world as you explore. Craft a saddle for the color horse you want, find that horse in the wild.",
+  "modDescription": "This mod adds [horses](https://7daystodiemods.com/tag/7-days-to-die-animals/) to the game. They will spawn throughout the world as you explore. Apples will also start appearing on the ground, as well as being obtainable through chopping trees, at a low rate. Once you find an apple, craft a saddle for the color horse you want, find that horse in the wild, feed it, then quickly use the saddle on it to get your very own horse mount of that color.\n\nDoes not require restart.\n\nRequires client to install as well as server.\n\nTested and works with Alpha 19.4 b7\n\nRecommended to be played single player or multiplayer. Works fine on servers as well.\n\nThis mod does NOT work with [Telric’s Horses 2.0](https://7daystodiemods.com/telrics-horses-2-0/) (TelricsHorses2.0A19).\n\n## Changelog\n\n* **_(new)_** Telric has fixed the mod. For some reason using an entitytagcompare check on a useother item now doesn’t work. Replacing it with target\\_tags made it work.\n* Added German Localization.\n* Added them to trader loots, but at a lower rate.\n* Did a quick edit to the horses mod to make apples despawn after a while so the world isnt full of apple blocks.\n\n**[Download](https://www.dropbox.com/s/7po82kilabqzjj4/TelricsHorsesA19.zip?dl=1)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19976-telrics-a19-modlets/).\n\n**Credits:** [Telric](https://7daystodiemods.com/tag/telric/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/s/7po82kilabqzjj4/TelricsHorsesA19.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19976-telrics-a19-modlets/",
+  "modAuthors": [
+    "Telric"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die vehicles",
+    "Telric"
+  ]
+}

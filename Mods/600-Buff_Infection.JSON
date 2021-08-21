@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/buff-infection/",
+  "modCreatedTime": "2020-12-12T20:53:00+00:00",
+  "modLastUpdatedTime": "2020-12-12T20:56:20+00:00",
+  "modName": "Buff Infection",
+  "modImages": [],
+  "modShortDescription": "This mod makes infections much more deadly by taking less time to reach 100%, and being randomly rolled each time you get infected.",
+  "modDescription": "This mod makes infections much more deadly by taking less time to reach 100%, and being randomly rolled each time you get infected.\n\nThe vanilla game (in a19) takes approx 7 hours \\[real time\\] for an untreated infection to reach 100%.\n\nThis mod changes that to 3 hours (max allowed real time) and adds an element of randomness so each time you get infected so you may have a chance of having less time to treat the infection.\n\nThe odds of “time left” \\[real time, not game time\\] once you are infected, are currently:\n\n**% Chance – Time \\[real time, not game time\\] to 100% infection if untreated**\n\n* %15 – 3 hours\n* %20 – 2 hours\n* %25 – 1.5 hours\n* %25 – 1 hour\n* %10 – 45 minutes\n* %5 – 30 minutes\n\n## Why?\n\n* Increase game difficulty.\n* More immersion. You never know how badly you are infected until you are scratched. Maybe it was a deep scratch, maybe it was a mutant strain, who knows.\n* More incentive to not get touched by zombies.\n* More incentive to not ignore infections. You may have to carry antibiotics at all times, or run back to your base/trader/other players immediately to get some.\n* An untreated infection during a horde night or early game where you cannot loot or barter/trade can easily prove fatal.\n\n## Changelog\n\nFixed invalid XML formatting.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-Buff-Infection)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-Buff-Infection",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "Doughphunghus"
+  ]
+}

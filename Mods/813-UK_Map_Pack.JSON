@@ -1,0 +1,53 @@
+{
+  "modURL": "https://7daystodiemods.com/uk-map-pack/",
+  "modCreatedTime": "2020-08-27T03:14:00+00:00",
+  "modLastUpdatedTime": "2021-06-16T20:57:15+00:00",
+  "modName": "UK Map Pack",
+  "modImages": [],
+  "modShortDescription": "All 8 UK map list: UK flat 8k plain, UK flat 8k biomes, UK flat 16k plain, UK flat 16k biomes, UK hills 8k plain, UK hills 8k biomes and more.",
+  "modDescription": "Wolves Hero was first time make UK 8k flat land used from google UK map image & put on NitroGen much easy draw map with heighmap & fixed POI city/town worked well no more random map generate.\n\nHe been make 16k UK map with heighmap map from OpenTTD website. He use custom biomes from GIMP no more random biomes & on NitroGen just 50/50 chance spawn roads on between North England to North Ireland on. He feel awesome make UK map on 7 Day to Die feel like apocalypse on UK.\n\nAll 8 UK [map](https://7daystodiemods.com/tag/7-days-to-die-maps/) list:\n\n* UK flat 8k plain\n* UK flat 8k biomes\n* UK flat 16k plain\n* UK flat 16k biomes\n* UK hills 8k plain\n* UK hills 8k biomes\n* UK hills 16k plain\n* UK hills 16k biomes\n\nOnly small issued about few water was chopped off on near land can’t find any fix it bug could on NitroGen. [Water bug screenshot](https://steamcommunity.com/sharedfiles/filedetails/?id=2015516575)\n\nDepend on people would like plain or biomes or hills or flat land on UK map. But beware 16k map lots of RAM usage best use 32Gb RAM when loading game & this map need [prefab](https://7daystodiemods.com/tag/7-days-to-die-prefab/) pack, if loading start new game will no building around map because custom prefab pack mod in my 7 Day to Die folder. Make sure download custom prefab pack.\n\n## Changelog\n\n* Been re-generated world fixed 8k UK flat with biomes no more snow whole UK & re-generated all map packs fixed traders quest.\n\n**Alpha 19 Versions**  \n**[Download](https://drive.google.com/file/d/1bmiNnR3B-dOwPkCFpK_bP2r8t-UUOhh0/view?usp=sharing)** Custom prefab only for **A19** _(Make sure download from [compo-pack](https://community.7daystodie.com/topic/2866-compo-pack-for-random-gen/))_  \n**[Download](https://drive.google.com/file/d/1AZzJ6uDLaH_6U19Y-Awt9waxX5j_50li/view)** Vanilla prefab only for **A19**  \n**Alpha 18 Versions**  \n**[Download](https://drive.google.com/file/d/1ZNB529tXl-0YtKGcVW8GJdJXNQn0HRcN/view)** Custom prefab only for **A18**  \n**[Download](https://drive.google.com/open?id=1eIgYNvG3BQCGusTWc8yAuyIazd93Fy71)** Prefab Pack for **A18**  \n**[Download](https://drive.google.com/open?id=1S01LD6HazQuS0K1YBDjtsCvo0OeSoDvx)** Vanilla prefab only for **A18**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17893-uk-map-pack-with-8k-amp-16k/).\n\n**Credits:** Wolves Hero",
+  "modDownloadURLs": [
+    {
+      "Info": "Alpha 19 Versions",
+      "Version": "v19"
+    },
+    {
+      "Info": "Custom prefab only for A19 (Make sure download from compo-pack)",
+      "URL": "https://drive.google.com/file/d/1bmiNnR3B-dOwPkCFpK_bP2r8t-UUOhh0/view?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "Vanilla prefab only for A19",
+      "URL": "https://drive.google.com/file/d/1AZzJ6uDLaH_6U19Y-Awt9waxX5j_50li/view",
+      "Version": "v19"
+    },
+    {
+      "Info": "Alpha 18 Versions",
+      "Version": "v18"
+    },
+    {
+      "Info": "Custom prefab only for A18",
+      "URL": "https://drive.google.com/file/d/1ZNB529tXl-0YtKGcVW8GJdJXNQn0HRcN/view",
+      "Version": "v18"
+    },
+    {
+      "Info": "Prefab Pack for A18",
+      "URL": "https://drive.google.com/open?id=1eIgYNvG3BQCGusTWc8yAuyIazd93Fy71",
+      "Version": "v18"
+    },
+    {
+      "Info": "Vanilla prefab only for A18",
+      "URL": "https://drive.google.com/open?id=1S01LD6HazQuS0K1YBDjtsCvo0OeSoDvx",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17893-uk-map-pack-with-8k-amp-16k/",
+  "modAuthors": [
+    "Wolves Hero"
+  ],
+  "modTags": [
+    "7 days to die maps",
+    "7 days to die prefab"
+  ]
+}

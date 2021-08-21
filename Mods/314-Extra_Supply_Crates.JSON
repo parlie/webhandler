@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/extra-supply-crates/",
+  "modCreatedTime": "2020-07-21T15:49:04+00:00",
+  "modLastUpdatedTime": "2020-07-21T15:49:06+00:00",
+  "modName": "Extra Supply Crates",
+  "modImages": [],
+  "modShortDescription": "KhaineGB added some new supply crates (Melee, Ranged, Food, Construction, Medical, Ammo) and the game now randomly picks one of those when it spawns a crate.",
+  "modDescription": "When the game spawns a supply crate, it’s hardcoded to spawn sc\\_general from entityclasses. This mod changes that so it pulls a random supply crate from the SupplyCrates\\_General entitygroup instead.\n\nKhaineGB added some new supply crates to that group (sc\\_Melee, sc\\_Ranged, sc\\_Food, sc\\_Construction, sc\\_Medical, sc\\_Ammo) and the game now randomly picks one of those when it spawns a crate. There is a slight bug with the “plane” audio that he need to look into, but it works.\n\nLoot in the crates is absolutely NOT balanced with the new progression that TFP have for A19\\. This was more of a “Proof of Concept” and learning exercise for himself. However, it might be useful for other mod makers who want some more randomness to their supply crates in their content.\n\nIf you use this, KhaineGB STRONGLY recommend re-writing the entries in loot.xml so it’s more balanced with TFP’s loot system.\n\n[DMT](https://community.7daystodie.com/topic/13037-dmt-modding-tool/) V2 is required for this mod.\n\n**[Download](https://gitlab.com/KhaineGB/khainedmt-a19/-/archive/master/khainedmt-a19-master.zip?path=ExtraSupplyCrates/Harmony)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20376-extra-supply-crates/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/KhaineGB/khainedmt-a19/-/archive/master/khainedmt-a19-master.zip?path=ExtraSupplyCrates/Harmony",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20376-extra-supply-crates/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "7 days to die airdrop",
+    "7 days to die loot",
+    "KhaineGB"
+  ]
+}

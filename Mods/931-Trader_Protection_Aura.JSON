@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/trader-protection-aura/",
+  "modCreatedTime": "2021-07-27T08:45:45+00:00",
+  "modLastUpdatedTime": "2021-07-27T08:45:47+00:00",
+  "modName": "Trader Protection Aura",
+  "modImages": [],
+  "modShortDescription": "The mod adds a buff to traders which protects any players within range, making them invulnerable to damage and immune to ailments and debuffs.",
+  "modDescription": "Trader Protection Aura is a very simple, niche mod that is designed for use with custom trader POIs, such as those found in Compopack, but can also be used without them. This is mainly aimed at the multi-trader POIs which are susceptible to zombies wandering in and interrupting you while you’re bartering for that sweet new cowboy hat.\n\nThe mod adds a buff to [traders](https://7daystodiemods.com/tag/7-days-to-die-trader/) which protects any players within range, making them invulnerable to damage and immune to ailments and debuffs. The protective aura persists for 3 seconds after leaving the trader’s vicinty, providing a small grace period from damage.\n\nCompatible with new and existing worlds.\n\n## Mod Versions\n\n### Trader Protection Aura\n\nSimply applies protection to players.\n\n### Trader Protection Aura Anti-Cheese (Recommended for Servers)\n\nApplies protection to players and zombies, and prevents usage of weapons and tools.\n\nThis prevents players from being able to cheese the mechanic by fighting zombies near the trader while they’re invulnerable.\n\n**[Download](https://github.com/Jegethy/trader-aura/releases/download/v1.0.0/Trader.Protection.Aura.zip)** Trader Protection Aura  \n**[Download](https://github.com/Jegethy/trader-aura/releases/download/v1.0.0/Trader.Protection.Aura.Anti-Cheese.zip)** Trader Protection Aura Anti-Cheese\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24442-jegethys-modlets/).\n\n**Credits:** [Jegethy](https://7daystodiemods.com/tag/jegethy/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Trader Protection Aura",
+      "URL": "https://github.com/Jegethy/trader-aura/releases/download/v1.0.0/Trader.Protection.Aura.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Trader Protection Aura Anti-Cheese",
+      "URL": "https://github.com/Jegethy/trader-aura/releases/download/v1.0.0/Trader.Protection.Aura.Anti-Cheese.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/24442-jegethys-modlets/",
+  "modAuthors": [
+    "Jegethy"
+  ],
+  "modTags": [
+    "7 days to die trader",
+    "Jegethy"
+  ]
+}

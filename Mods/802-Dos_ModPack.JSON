@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/dos-modpack/",
+  "modCreatedTime": "2021-06-01T19:19:12+00:00",
+  "modLastUpdatedTime": "2021-06-01T19:19:14+00:00",
+  "modName": "Dos ModPack",
+  "modImages": [],
+  "modShortDescription": "The aim of the mods is to continue to accompany the player in the game and to offer him a story-like content.",
+  "modDescription": "Dos is happy to provide you with his finished ModPack v2.0.10 for download.\n\nThe aim of the mods is to continue to accompany the player in the game and to offer him a story-like content. Some existing elements have also been made available and slightly adapted. In doing so, the original feel of the game should not be changed or the impression of a later added extension should be created.\n\n**Note:**\n\nLanguages: English and German\n\nSo that the texts and given times fit, the mod should be played with the following settings:\n\n* Blood Moon Frequency = 7 days\n* Air Drops = Every 7 days\n\nSo far, tests have only been carried out in singleplayer, but multiplayer should also work.\n\n## General\n\nThe ModPack was created on the basis of the vanilla version and should be compatible with common vanilla mods & modlets.\n\nThe aim of the mods is to continue to accompany the player in the game and to offer more content. However, this should not change the original feel of the game or create the impression of a later added expansion.\n\n### Dos\\_Balance-Mod\n\nThe Dos\\_Balance-Mod was developed to make aspects of the game feel more rounded. It was important, however, not to decisively influence the style of play or to change the balance of items, consumption values and loot.\n\n#### MasterChef\n\nIn order to be able to cook effectively in the later course of the game, independent farming is essential. For this reason, the “[MasterChef](https://7daystodiemods.com/tag/7-days-to-die-perks/)” has also been moved to the “Fortitude”.\n\n#### Solar\n\nThe use of solar energy was only possible very late in the game, as the costs for solar panels were disproportionately higher than other items that could be bought at the Joe. The price has been reduced accordingly. Furthermore, the use with the basic values of the battery bank was rather uninteresting, as they did not correspond to a standard generator. The use of 6x level 6 batteries was possible, but exceeded by twice the possible output.\n\n#### Advanced Constructor\n\nThe skill of the “Advanced Constructor” is supposed to relativize the drop / loot rate of the schematics for power tools. The recipes can be unlocked in this way, but due to the cost of the skill, this can only be done later in the game. To standardize all power tools, the nail gun has also been moved from the “Advanced Engineer” to the “Advanced Constructor”.\n\n### Dos\\_AdvancedTutorial-Mod\n\nSo far, the player has been left completely to himself after completing the first basic tutorial (8x quests) and visiting Joe. So that the player still gets the feeling of being intrigued into the game, extended tutorial series have been added to the existing one.\n\n### Dos\\_Decoration-Mod\n\nIn the standard vanilla version it is possible to create a secure base, but proper housing and setup, as in prefabricated POIs, is not possible because of the decorative elements that are not available to the player. With the decoration mod, vanilla decorative objects can also be activated and manufactured.\n\n### Dos\\_StoryMod\n\nA missing aspect of the game is that apart from foraging for food and surviving the night feral hordes, no challenge to be attained is imposed on the player. Furthermore, after the end of the basic tutorial, there is only interaction between the player and the game via Joe in order to complete insignificant orders.\n\n#### Find the Vaccine\n\nFrom day one, the player is infected with a deadly buff. This can only be removed by making a final vaccine. In order for this to be produced at all, several [quest](https://7daystodiemods.com/tag/7-days-to-die-quests/) series must be successfully completed. Otherwise the player ends up in a dead loop that cannot be interrupted and focuses on a new beginning. Should be manage this, however, he will be richly rewarded with skill points.\n\n#### Letter From the Black Mountains\n\nIn order to also offer a continuing interactive element, an expandable news quest series has been added with the help of the Airdrop. The current situation and background information are provided by letters and overlay.\n\n**[Download](https://drive.google.com/drive/folders/1lyNpeuuMikvDwapTep1VDY3-haA98qaP?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24453-dos-modpack-story-balance-advanced-tutorial-decoration/).\n\n**Credits:** Dos  \n_Special Thanks:_ Eihwaz, Max Fox & Flexible Games, his wife, Khzmusik, Jack Fleischhammer, Minyas (aka Hirnsturz), DerValiser (formerly Valcry), Google",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/drive/folders/1lyNpeuuMikvDwapTep1VDY3-haA98qaP?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/24453-dos-modpack-story-balance-advanced-tutorial-decoration/",
+  "modAuthors": [
+    "DosSpecial Thanks: Eihwaz",
+    "Max Fox & Flexible Games",
+    "his wife",
+    "Khzmusik",
+    "Jack Fleischhammer",
+    "Minyas (aka Hirnsturz)",
+    "DerValiser (formerly Valcry)",
+    "Google"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die perks",
+    "7 days to die quests"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/gullivers-travels/",
+  "modCreatedTime": "2020-01-31T13:23:50+00:00",
+  "modLastUpdatedTime": "2020-12-03T14:16:27+00:00",
+  "modName": "Gullivers Travels",
+  "modImages": [],
+  "modShortDescription": "This 7DTD mod changes the zombies so they are tiny and weak, but there are tons of them. Mod originally written for A17, likely works with A18.",
+  "modDescription": "This 7DTD mod changes the [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) so they are tiny and weak, but there are tons of them.\n\nDoughphunghus’s fork – updates:\n\n* Mod originally written for A17, likely works with A18.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Khelldons-Mods-a18/tree/main/Khelldon-aGulliversTravels)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Khelldon](https://7daystodiemods.com/tag/khelldon/), [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Khelldons-Mods-a18/tree/main/Khelldon-aGulliversTravels",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Khelldon",
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "Doughphunghus",
+    "Khelldon"
+  ]
+}

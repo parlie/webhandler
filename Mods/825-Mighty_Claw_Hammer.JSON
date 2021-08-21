@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/mighty-claw-hammer/",
+  "modCreatedTime": "2021-06-29T18:35:37+00:00",
+  "modLastUpdatedTime": "2021-06-29T18:35:38+00:00",
+  "modName": "Mighty Claw Hammer",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-mighty-claw-hammer-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Mod that modifies the claw hammer block damage to 20000 damage to one shot items. Would recommend for PVE servers.",
+  "modDescription": "Mod that modifies the claw [hammer](https://7daystodiemods.com/tag/7-days-to-die-tools/) block damage to 20000 damage to one shot items. Would recommend for PVE servers.\n\n**[Download](https://drive.google.com/drive/folders/1MneUxnCeuVGzA-2JlAnAq4ELTBatKcCV?usp=sharing)**\n\n**Credits:** [Dragonaticc](https://7daystodiemods.com/tag/dragonaticc/), Vigilantos",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/drive/folders/1MneUxnCeuVGzA-2JlAnAq4ELTBatKcCV?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Dragonaticc",
+    "Vigilantos"
+  ],
+  "modTags": [
+    "7 days to die tools",
+    "Dragonaticc"
+  ]
+}

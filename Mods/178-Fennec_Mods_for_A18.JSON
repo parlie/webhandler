@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/fennec-mods-for-a18/",
+  "modCreatedTime": "2020-02-04T19:14:24+00:00",
+  "modLastUpdatedTime": "2020-06-05T19:54:21+00:00",
+  "modName": "Fennec Mods for A18",
+  "modImages": [],
+  "modShortDescription": "Greetings everybody! Now that A18 is finally in a stable point release, it's now time to get A18's FennecModlets underway! We've some awesome new features.",
+  "modDescription": "Greetings everybody! Now that A18 is finally in a stable point release, it’s now time to get A18’s FennecModlets underway! This time, Max Fox is going the whole hog down the DMT and CSharp route to add in custom functionality that he has wanted to do since the original FennecMod in A16, and so far we’ve had some awesome new features.\n\n## FennecCore – The FennecModlet Library\n\nBefore installing any of the FennecModlets, you will need to have installed the [DMT modding tool](https://community.7daystodie.com/topic/13037-dmt-modding-tool/) and then get FennecCore. This modlet doesn’t add anything on its own, rather it’s a shared library of methods and code snippets that he use across the other FennecModlets. For any modders out there that do work in CSharp, you may use FennecCore’s methods in your own modlets if you wish as there’s a few nice static helper classes that can help reduce the barriers of modding this way.\n\n## FennecModlet – CoreModlet – Transformer Blocks\n\nThis modlet is required by some of the larger FennecModlets. It adds blocks into the game that store items in an inventory and transform them into other items over time. This allows you to add recipes that, using these blocks, can have more than one item as an output, and can also have different probabilities of giving items as outputs or taking inputs. A full documentation is in the XML for this modlet.\n\n## FennecModlet – Foods – Additional Food\n\nThe A17 version returns now in A18, with some nice new features. Beehives are now using the transformer block system (so you need FennecCore and Transformer Blocks to run this modlet) and even more [foods](https://7daystodiemods.com/tag/7-days-to-die-food/) have been added. Also, [fishing](https://7daystodiemods.com/tag/7-days-to-die-fishing/) nets make a return as well as some nice new food workstations such as the sausage maker, drying rack and smoker.\n\n## Installation\n\nHere is how to download and install any of the modlets from this collection\n\n**DMT Installation**\n\n1. Download FennecModlets\n2. Locate the DMT mods folder and copy all modlets into this folder.\n3. Launch DMT. Check each modlet you wish to add and click Build.\n4. Click Play to launch 7 Days to Die. The mods will now be installed.\n\n**[Download](https://github.com/mdf25/7daystodie-fennecmodlets-a18/archive/master.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17440-fennecmodlets-for-a18/).\n\n**Credits:** Max Fox",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/mdf25/7daystodie-fennecmodlets-a18/archive/master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17440-fennecmodlets-for-a18/",
+  "modAuthors": [
+    "Max Fox"
+  ],
+  "modTags": [
+    "7 days to die fishing",
+    "7 days to die food",
+    "7 days to die loot",
+    "7 days to die tools",
+    "7 days to die zombies"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/rickyralphs-guns/",
+  "modCreatedTime": "2020-09-17T11:34:51+00:00",
+  "modLastUpdatedTime": "2020-09-21T21:44:49+00:00",
+  "modName": "Rickyralph's Guns",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/09/7-days-to-die-rickyralphs-guns-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Adds in 4 modern guns ((T1)FN57 (Gunslinger), (T2) 1911 (Gunslinger), (T2) M4A1 (Machine Gunner), and (T3)SCAR (Dead Eye). The FN57, 1911, and M4A1.",
+  "modDescription": "Adds in 4 modern [guns](https://7daystodiemods.com/tag/7-days-to-die-weapons/) ((T1)FN57 (Gunslinger), (T2) 1911 (Gunslinger), (T2) M4A1 (Machine Gunner), and (T3)SCAR (Dead Eye). The FN57, 1911, and M4A1 can be unlocked by their respective perks or schematics, while the SCAR is schematic only.\n\nThey all level off of there perks, use their own custom [ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/), and all mods should work and show properly. All animations for firing and reload should work and look somewhat “normally”.\n\nSidenote – none of the new ammo has ammo bundles setup because Rickyralph always play with larger stacks mods on. The code is partially there and can be finished if it is needed for players who don’t use stack mods.\n\n**Important:** Needs to be installed on both the server and client sides, due to custom icon(s)/assets.\n\n**[Download](https://drive.google.com/file/d/1bD1usvvLqeA_zHCy7mvHXwfM68Vaoz23/view?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21700-rickyralph-modlets/).\n\n**Credits:** [Rickyralph](https://7daystodiemods.com/tag/rickyralph/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1bD1usvvLqeA_zHCy7mvHXwfM68Vaoz23/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/21700-rickyralph-modlets/",
+  "modAuthors": [
+    "Rickyralph"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die weapons",
+    "Rickyralph"
+  ]
+}

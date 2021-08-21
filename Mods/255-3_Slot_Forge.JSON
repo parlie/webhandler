@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/3-slot-forge/",
+  "modCreatedTime": "2020-07-02T00:11:17+00:00",
+  "modLastUpdatedTime": "2020-07-02T00:11:19+00:00",
+  "modName": "3 Slot Forge",
+  "modImages": [],
+  "modShortDescription": "This mod adds an extra input slot to the forge and moves the UI around a little so there's no window overlap.",
+  "modDescription": "This mod adds an extra input [slot](https://7daystodiemods.com/tag/7-days-to-die-more-slots/) to the forge and moves the UI around a little so there’s no window overlap.\n\n**[Download](https://gitlab.com/KhaineGB/khaines-modlets-a19/-/archive/master/khaines-modlets-a19-master.zip?path=KHA19-3SlotForge)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19558-khaines-a19-modlets-bigger-backpacks-backpack-buttons-hp-bars-etc/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/KhaineGB/khaines-modlets-a19/-/archive/master/khaines-modlets-a19-master.zip?path=KHA19-3SlotForge",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19558-khaines-a19-modlets-bigger-backpacks-backpack-buttons-hp-bars-etc/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "7 days to die more slots",
+    "KhaineGB"
+  ]
+}

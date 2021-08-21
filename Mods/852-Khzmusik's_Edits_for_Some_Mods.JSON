@@ -1,0 +1,55 @@
+{
+  "modURL": "https://7daystodiemods.com/khzmusiks-edits-for-some-mods/",
+  "modCreatedTime": "2020-06-08T02:52:40+00:00",
+  "modLastUpdatedTime": "2021-07-12T08:44:17+00:00",
+  "modName": "Khzmusik's Edits for Some Mods",
+  "modImages": [],
+  "modShortDescription": "Khzmusik's edits for some mods are here for you. These edits makes important changes to some different mods you use. NPC Hire Text, Remove Ghost and more.",
+  "modDescription": "Khzmusik’s edits for some mods are here for you. These edits makes important changes to some different mods you use.\n\n## Mods for SphereII DMT Mods\n\nThese are modifications to [SphereII mods](https://7daystodiemods.com/dmt-mods-by-sphereii/). These mods require DMT. (Khzmusik’s mods are XML/XPath only.)\n\nThanks to SphereII for making these incredibly useful mods!\n\n### Remove Enemy Health Bar\n\nSwitches off the enemy health bar that is introduced in the SphereII Core mod.\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=0-SphereIICore_Remove_Enemy_Health_Bar)**\n\n### NPC Hire Text\n\nSets the NPC hire text to “I would like you to join me.” This makes more sense if you modify the NPCs to “hire” them using something other than Dukes, like canned food or medical supplies. (This mod does not do that, it only changes the text.)\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=SphereII%20NPC%20Dialog%20Windows_Hire_Text)**\n\n## NPC Mods\n\nThese mods affect the NPCs that are added by the [Creature Pack](https://7daystodiemods.com/creature-packs-a-community-entity-project/) mods (which do not require DMT), or the [DMT NPC](https://7daystodiemods.com/npcs-mod/) mods (which require DMT and add extra behavior), or both.\n\nHuge thanks to Xyth for creating the mods, and to all the people who created the NPCs themselves (including Xyth, Guppy, DarkStarDragon, and probably more by the time you read this).\n\n### NPCPackHumans: Adjust Health and Stamina\n\nAdjusts the health and stamina of human NPCs to be closer to player values. For more details, please see the [README](https://gitlab.com/karlgiesing/7d2d-modlets/-/blob/master/1-NPCPackHumans_Adjust_Health_Stamina/README.md).\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=1-NPCPackHumans_Adjust_Health_Stamina)**\n\n### NPCPackHumans: Adjust Hire Costs\n\nAdjusts the hire costs of human NPCs. For more details, please see the [README](https://gitlab.com/karlgiesing/7d2d-modlets/-/blob/master/1-NPCPackHumans_Adjust_Hire_Costs/README.md).\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=1-NPCPackHumans_Adjust_Hire_Costs)**\n\n### CreaturePackHumans/NPCPackHumans: Remove Ghost\n\nRemoves the Ghost (Motoko Kusanagi) NPC character from all spawn groups. For more details, please see the [README](https://gitlab.com/karlgiesing/7d2d-modlets/-/blob/master/2-CreaturePackHumans_Remove_Ghost/README.md).\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=2-CreaturePackHumans_Remove_Ghost)**\n\n### CreaturePackHumans/NPCPackHumans: Remove Harley\n\nRemoves the Harley Quinn NPC character from all spawn groups. For more details, please see the [README](https://gitlab.com/karlgiesing/7d2d-modlets/-/blob/master/2-CreaturePackHumans_Remove_Harley/README.md).\n\n_**Note:** This mod is currently unnecessary, since she is was not ported from Xyth’s old NPC mod to the Creature Pack. Khzmusik is including it here in case it her character is added to a later version._\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=2-CreaturePackHumans_Remove_Harley)**\n\n### CreaturePackHumans/NPCPackHumans: Remove NPC Tracking\n\nRemoves tracking of human NPCs in the game map. For more details, please see the [README](https://gitlab.com/karlgiesing/7d2d-modlets/-/blob/master/2-CreaturePackHumans_Remove_NPC_Tracking/README.md).\n\n_**Note:** This mod is currently unnecessary, since tracking is disabled by default. Khzmusik is including it here in case it is enabled in a later version._\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=2-CreaturePackHumans_Remove_NPC_Tracking)**\n\n### NPCPackHumans: Adjust Sounds\n\nAdjusts the sounds and dialog made by human NPCs. For more details, please see the [README](https://gitlab.com/karlgiesing/7d2d-modlets/-/blob/master/2-NPCPackHumans_AdjustSounds/README.md).\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=2-NPCPackHumans_AdjustSounds)**\n\n### CreaturePackHumans: Add to Vanilla Spawn Groups\n\nAdds Creature Pack humans to vanilla spawn groups. For more details, please see the [README](https://gitlab.com/karlgiesing/7d2d-modlets/-/blob/master/1-CreaturePackHumans_Add_To_Vanilla_Spawns/README.md).\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=1-CreaturePackHumans_Add_To_Vanilla_Spawns)**\n\n### NPCPackHumans: Add to Vanilla Spawn Groups\n\nAdds NPCPack humans to vanilla spawn groups. For more details, please see the [README](https://gitlab.com/karlgiesing/7d2d-modlets/-/blob/master/2-NPCPackHumans_Add_To_Vanilla_Spawns/README.md).\n\n_**Note:** Compatible with the Creature Pack version, above._\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=2-NPCPackHumans_Add_To_Vanilla_Spawns)**\n\n## Deprecated Mods for Xyth NPCs\n\nThese are modifications to the original NPC mods created by Xyth. He has now deprecated these mods in favor of the Creature Pack and NPCPack mods. Khzmusik is including them here in case you still use Xyth’s old mods – but Khzmusik recommend switching to Creature Pack or NPCPack mods as soon as possible.\n\nNearly all of them have equivalent mods for Creature Pack or NPCPack, and Khzmusik is working on updating the few that don’t.\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20Bandits_Add_To_Zombie_Spawns)** Add Bandits To Zombie Spawns  \n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20NPCs_Add_To_Zombie_Spawns)** Add NPCs To Zombie Spawns  \n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20NPCs_Reduce_Hire_Costs)** Reduce NPC Hire Costs  \n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20NPCs_Reduce_HP)** Reduce NPC Hit Points  \n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20NPCs_Remove_Ghost)** Remove Ghost  \n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20NPCs_Remove_Harley)** Remove Harley  \n**[Download](https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20NPCs_Remove_NPC_Tracking)** Remove NPC Tracking\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17014-khzmusiks-modlets/).\n\n**Credits:** [Khzmusik](https://7daystodiemods.com/tag/khzmusik/)",
+  "modDownloadURLs": [
+    {
+      "Info": "DownloadDownloadDownloadDownloadDownloadDownloadDownloadDownloadDownloadDownloadAdd Bandits To Zombie Spawns",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=0-SphereIICore_Remove_Enemy_Health_Bar",
+      "Version": "v19"
+    },
+    {
+      "Info": "Add NPCs To Zombie Spawns",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20NPCs_Add_To_Zombie_Spawns",
+      "Version": "v19"
+    },
+    {
+      "Info": "Reduce NPC Hire Costs",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20NPCs_Reduce_Hire_Costs",
+      "Version": "v19"
+    },
+    {
+      "Info": "Reduce NPC Hit Points",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20NPCs_Reduce_HP",
+      "Version": "v19"
+    },
+    {
+      "Info": "Remove Ghost",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20NPCs_Remove_Ghost",
+      "Version": "v19"
+    },
+    {
+      "Info": "Remove Harley",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20NPCs_Remove_Harley",
+      "Version": "v19"
+    },
+    {
+      "Info": "Remove NPC Tracking",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-modlets/-/archive/master/7d2d-modlets-master.zip?path=Xyth%20NPCs_Remove_NPC_Tracking",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17014-khzmusiks-modlets/",
+  "modAuthors": [
+    "Khzmusik"
+  ],
+  "modTags": [
+    "7 days to die npcs",
+    "Khzmusik"
+  ]
+}

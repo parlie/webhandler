@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/hp-bars/",
+  "modCreatedTime": "2020-07-02T00:13:03+00:00",
+  "modLastUpdatedTime": "2020-07-02T00:13:05+00:00",
+  "modName": "HP Bars",
+  "modImages": [],
+  "modShortDescription": "Remember the red HP bar that was shown off in A17? This mod adds that back into the game for folks who liked that idea.",
+  "modDescription": "Remember the red HP bar that was shown off in A17? This mod adds that back into the game for folks who liked that idea.\n\n**[Download](https://gitlab.com/KhaineGB/khaines-modlets-a19/-/archive/master/khaines-modlets-a19-master.zip?path=KHA19-HPBars)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19558-khaines-a19-modlets-bigger-backpacks-backpack-buttons-hp-bars-etc/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/KhaineGB/khaines-modlets-a19/-/archive/master/khaines-modlets-a19-master.zip?path=KHA19-HPBars",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19558-khaines-a19-modlets-bigger-backpacks-backpack-buttons-hp-bars-etc/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "KhaineGB"
+  ]
+}

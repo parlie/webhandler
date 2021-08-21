@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/no-sleeper-respawn/",
+  "modCreatedTime": "2020-12-07T08:22:00+00:00",
+  "modLastUpdatedTime": "2020-12-08T15:15:56+00:00",
+  "modName": "No Sleeper Respawn",
+  "modImages": [],
+  "modShortDescription": "This is an updated version of ExtremeLurker's mod that removes sleeper respawning from the game after you've finished clearing a building.",
+  "modDescription": "This is an updated version of ExtremeLurker’s mod that removes sleeper [respawning](https://7daystodiemods.com/tag/7-days-to-die-respawn/) from the game after you’ve finished clearing a building, a mechanic he has never cared for, as it doesn’t allow you to have the enjoyable progression of being able to clear out towns, nor does he feel like it’s entirely immersive to expect all the buildings to constantly be completely refilled.\n\nThis is a DMT mod. It requires [DMT modding tool](https://community.7daystodie.com/topic/13037-dmt-modding-tool/) in order to apply it.\n\n**[Download](https://github.com/ryuyan-ninja/7dtdmod-StayClear/releases/latest/download/StayClear.zip)** for A19  \n**[Download](https://github.com/ryuyan-ninja/7dtdmod-StayClear/releases/download/v1.1.0/StayClear.zip)** for A18\n\nYou can support ExtremeLurker’s modding efforts via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WDDCNVUYT28JC).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/22831-stayclear-no-sleeper-respawn-a19-tested/).\n\n**Credits:** ExtremeLurker",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://github.com/ryuyan-ninja/7dtdmod-StayClear/releases/latest/download/StayClear.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://github.com/ryuyan-ninja/7dtdmod-StayClear/releases/download/v1.1.0/StayClear.zip",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/22831-stayclear-no-sleeper-respawn-a19-tested/",
+  "modAuthors": [
+    "ExtremeLurker"
+  ],
+  "modTags": [
+    "7 days to die respawn",
+    "7 days to die zombies"
+  ]
+}

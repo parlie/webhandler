@@ -1,0 +1,35 @@
+{
+  "modURL": "https://7daystodiemods.com/weapon-hands-fov-camera-distance-changer/",
+  "modCreatedTime": "2021-02-02T20:14:00+00:00",
+  "modLastUpdatedTime": "2021-02-02T20:16:41+00:00",
+  "modName": "Weapon/Hands FOV (Camera Distance) Changer",
+  "modImages": [],
+  "modShortDescription": "ivailogeimara decided to create this mod to be able to set the hands/weapon FOV to something more reasonable like 60.",
+  "modDescription": "Long time ago TFP locked the hands/weapon FOV and set it to extremely low (45, lower than console games) because the hands model looked bad. Now they fixed the hands model (Magnum holding anim still looks bad but w/e) but the FOV is still locked to 45\\. ivailogeimara couldn’t find other mods doing this so he decided to create this mod to be able to set the hands/weapon FOV to something more reasonable like 60.\n\nThis mod adds a console command:\n\n```\nwfov\nwfov <number>\nwfov 58\n```\n\nThat changes the hands/weapon FOV. When executed without arguments (like wfov) it gets the current WeaponFov (by default he made it 60). When given a number (like wfov 60) it sets it to that number.\n\n## More Technical Info\n\nThis mod is actually separated to 2 mods.\n\n1. First is **0-FieryRiderCore** which has the code for managing and storing custom options (Maybe it’ll be useful to someone else). It creates a **customPrefs.xml** file inside **<GameDir>/Data/Config** where it stores the custom options.\n2. Second is **FOV Changer** which adds a custom option and using it to set the WeaponFov.\n\nThis is a DMT mod. So requires [DMT Modding Tool](https://community.7daystodie.com/topic/13037-dmt-modding-tool/).\n\n**Bonus Mod:** Pistols AAA Aim Fov – Not a DMT mod. Just vanilla. Moves the standard pistols (that are normally in the game) away from the camera while aiming like it is in many AAA games. He think it looks better.\n\n**[Download](https://github.com/FieryRider/7DaysToDie_Mods/releases/download/1.1.0.0/0-FieryRiderCore.zip)** 0-FieryRiderCore  \n**[Download](https://github.com/FieryRider/7DaysToDie_Mods/releases/download/1.1.0.0/Fov.Changer.zip)** Fov Changer  \n**[Download](https://github.com/FieryRider/7DaysToDie_Mods/releases/download/1.1.0.0/Pistols.AAA.Aim.Fov.zip)** Pistols AAA Aim Fov _(Bonus Mod. Not a DMT Mod)_\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21699-weaponhands-fov-camera-distance-changer/).\n\nCredits: [ivailogeimara](https://7daystodiemods.com/tag/ivailogeimara/)",
+  "modDownloadURLs": [
+    {
+      "Info": "0-FieryRiderCore",
+      "URL": "https://github.com/FieryRider/7DaysToDie_Mods/releases/download/1.1.0.0/0-FieryRiderCore.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Fov Changer",
+      "URL": "https://github.com/FieryRider/7DaysToDie_Mods/releases/download/1.1.0.0/Fov.Changer.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Pistols AAA Aim Fov (Bonus Mod. Not a DMT Mod)",
+      "URL": "https://github.com/FieryRider/7DaysToDie_Mods/releases/download/1.1.0.0/Pistols.AAA.Aim.Fov.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/21699-weaponhands-fov-camera-distance-changer/",
+  "modAuthors": [
+    ""
+  ],
+  "modTags": [
+    "7 days to die weapons",
+    "ivailogeimara"
+  ]
+}

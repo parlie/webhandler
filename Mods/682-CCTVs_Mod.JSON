@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/cctvs-mod/",
+  "modCreatedTime": "2021-02-24T17:57:00+00:00",
+  "modLastUpdatedTime": "2021-02-24T17:59:32+00:00",
+  "modName": "CCTVs Mod",
+  "modImages": [],
+  "modShortDescription": "Adds 8 panning security cameras and 2 CCTV wall monitors. Each comes in a large and small size. Monitors do not require power but must be wired.",
+  "modDescription": "Adds 8 panning security cameras and 2 CCTV wall monitors. Each comes in a large and small size. Monitors do not require power but must be wired, but can then be unwired. Cameras require the same wiring/unwiring if you want them to pan. The cameras will either pan or aim forward based on pressing E. Xyth can not make them pause in mid-pan, as he’s not using code for any of this.\n\nMonitors will rotate to the next camera image every 5 seconds unless you press E to pause it. The 5th screen shows all 4 cameras at once and you can also pause there. Monitor 1 shows cams 0-3, monitor 2 shows cams 4-7.\n\nYou may use multiple copies and/or sizes of the monitors, but you can only have 1 of each camera number active. For example, if you place two camera zero’s, only the last one placed will show on the monitor. Don’t do this as each camera uses FPS.\n\n**Dedi Installation:** Mod needs to be loaded on both the dedicated server and each client.\n\n**Warning:** Each camera used lowers FPS slightly so don’t use more than your rig can handle. Be sure to have VSync “Off” as that seems to hurt FPS badly.\n\nAlso, Xyth noticed at long distances, in his case cameras on a tall pole above ground and a monitor at bedrock, the cameras occasionally lose sync and transmission is intermittent. Moving the monitor closer to the cameras resolves this.\n\nYou **must** turn off Occlusion in the Video Quality settings or the camera will cull (make invisible) somethings when indoors.\n\nCredit to Eihwaz for cleaning up and improving the xml in this mod, and for providing localization for our German speaking friends.\n\n## Changelog\n\n* **_(new)_** Pushed new version. Fixed large monito placement offset. TFP changed multidim orientation. Fixed invalid layer index warning. Slowed panning significantly so you can sneak past cameras. Maybe some improvement in FPS hit but it is significantly worst in 19.3\\. Without reducing range and angle of resolution on the cameras, Xyth is not sure he can do more. TFP changed something. Unity always has issues with video components across release versions so hopefully the A20 Unity version will help.\n* Updated for latest experimental.\n* Added A19 version.\n* Added Spanish localization. Thanks Vortice!\n* Version 1.91: Changed progression for these to be Tier 3 advanced engineering.\n* Version 1.9, fixes missing camera things.\n* Fixed xml errors related to varianthelper, removed same for now. Fixed the brightness during the day, possible FPS improvements.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/CCTV)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/CCTV)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/12197-cctvs-vanilla-version/).\n\n**Credits:** [Xyth](https://7daystodiemods.com/tag/xyth/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/CCTV",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/CCTV",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/12197-cctvs-vanilla-version/",
+  "modAuthors": [
+    "Xyth"
+  ],
+  "modTags": [
+    "7 days to die camera mod",
+    "Xyth"
+  ]
+}

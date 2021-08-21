@@ -1,0 +1,34 @@
+{
+  "modURL": "https://7daystodiemods.com/military-tablet-phone-dynamic-minimap-see-through-camera/",
+  "modCreatedTime": "2019-11-18T01:24:43+00:00",
+  "modLastUpdatedTime": "2020-06-03T20:40:44+00:00",
+  "modName": "Military Tablet/Phone (Dynamic Minimap & See-Through Camera)",
+  "modImages": [],
+  "modShortDescription": "Adds a Military Tablet and a phone to the game. Tablet/phone will display the map right in the palm of your hand. Also includes a flashlight for the phone.",
+  "modDescription": "Here’s Moongaming’s latest mod that adds a Military Tablet and a phone to the game. (Can be crafted in a workbench under science)\n\nThe tablet/phone will display the map right in the palm of your hand, you can zoom in/out with left click.\n\nAlso includes a see-through camera that you can toggle with right click to see through walls when close, and a flashlight for the phone.\n\nThe tablet/phone will mark every zombies with a red arrows, animals with a paw icon, other players with a green arrow, and a yellow icon for traders.\n\nThe map is also pretty FPS hungry when being used, so for an optimal performance you’ll need decent FPS (> 60)  \nDisabling vsync can help with reducing performance impact.\n\n**Important:** You need to disable Occlusion (main menu only) and enable Shadows (nearest is enough) in the graphics setting if you want the map to display correctly, might make another one that don’t need it later.\n\n[Download](https://gitlab.com/oignonchaud/oignonchaud-7d2d-mods-a18/-/archive/master/oignonchaud-7d2d-mods-a18-master.zip?path=MilitaryTablet)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/16061-military-tablet-dynamic-minimap-see-through-camera/).\n\n**Credits:** [Moongaming](https://7daystodiemods.com/tag/moongaming/)",
+  "modDownloadURLs": [
+    {
+      "Info": "\nHere’s Moongaming’s latest mod that adds a Military Tablet and a phone to the game. (Can be crafted in a workbench under science)\nThe tablet/phone will display the map right in the palm of your hand, you can zoom in/out with left click.\nAlso includes a see-through camera that you can toggle with right click to see through walls when close, and a flashlight for the phone. <iframe loading=\"lazy\" title=\"7 Days To Die Military Tablet Modlet\" width=\"930\" height=\"523\" src=\"https://www.youtube.com/embed/sGa7Uodsby4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\nThe tablet/phone will mark every zombies with a red arrows, animals with a paw icon, other players with a green arrow, and a yellow icon for traders.\nThe map is also pretty FPS hungry when being used, so for an optimal performance you’ll need decent FPS (> 60)",
+      "Version": "v19"
+    },
+    {
+      "Info": "Disabling vsync can help with reducing performance impact.\nImportant: You need to disable Occlusion (main menu only) and enable Shadows (nearest is enough) in the graphics setting if you want the map to display correctly, might make another one that don’t need it later.\nDownload\nThe forum topic of the mod is here.\nCredits: Moongaming\nShare this mod with your friends:",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/16061-military-tablet-dynamic-minimap-see-through-camera/",
+  "modAuthors": [
+    "Moongaming"
+  ],
+  "modTags": [
+    "7 days to die camera mod",
+    "7 days to die dynamic map",
+    "7 days to die flashlight",
+    "7 days to die icons",
+    "7 days to die minimap mod",
+    "7 days to die phone",
+    "7 days to die tablet",
+    "Moongaming"
+  ]
+}

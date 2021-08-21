@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/broken-vending-machines-are-lootable/",
+  "modCreatedTime": "2020-10-22T00:42:22+00:00",
+  "modLastUpdatedTime": "2020-10-22T00:47:20+00:00",
+  "modName": "Broken Vending Machines Are Lootable",
+  "modImages": [],
+  "modShortDescription": "Broken vending machines scattered around the world are now lootable. It will take time to carefully open the machine, but in most cases it's worth it.",
+  "modDescription": "Broken vending machines scattered around the world are now lootable.\n\nThey contain the same loot as in the working version, but you can also find there just garbage (plastic, paper, empty cans). It will take time to carefully open the machine, but in most cases it’s worth it.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Okamich/FallOFBabylon-A19/tree/main/FoB-BVMAL)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/22025-okami-modlets-fall-of-babylon/).\n\n**Credits:** [Okami](https://7daystodiemods.com/tag/okami/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Okamich/FallOFBabylon-A19/tree/main/FoB-BVMAL",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/22025-okami-modlets-fall-of-babylon/",
+  "modAuthors": [
+    "Okami"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "Okami"
+  ]
+}

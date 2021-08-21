@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/bloodyaxe/",
+  "modCreatedTime": "2020-08-14T18:42:32+00:00",
+  "modLastUpdatedTime": "2020-08-15T01:44:26+00:00",
+  "modName": "Bloodyaxe",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/08/7-days-to-die-bloodyaxe-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "This is weapon one handed axe that deals fire damage.",
+  "modDescription": "This is weapon one handed axe that deals fire damage.\n\n**[Download](https://gitlab.com/Grindhouse-Farmlife/bloodyaxe/-/archive/master/bloodyaxe-master.zip)**\n\n**Credits:** [skullman678](https://7daystodiemods.com/tag/skullman678/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/Grindhouse-Farmlife/bloodyaxe/-/archive/master/bloodyaxe-master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "skullman678"
+  ],
+  "modTags": [
+    "7 days to die melee weapons",
+    "7 days to die weapons",
+    "skullman678"
+  ]
+}

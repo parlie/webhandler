@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/find-vehicle-parts-in-airdrops/",
+  "modCreatedTime": "2020-08-15T01:28:00+00:00",
+  "modLastUpdatedTime": "2020-08-15T01:30:26+00:00",
+  "modName": "Find Vehicle Parts in Airdrops",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod adds a small change to airdrop loot, small depending on your point of view. Now a possibility of finding vehicle parts in airdrops.",
+  "modDescription": "This 7 Days to Die mod added a small change to airdrop loot, small depending on your point of view that is. Now a possibility of finding [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) parts in airdrops.\n\n## Changelog\n\n**Updated for A19**\n\nWith this new version linked to the new tiered system you will get chances of the appropriate vanilla vehicle parts in air drops that correspond to player level.\n\nIf other vehicle mods have vehicle parts added to the group vehiclePartsTiered you will have chances of getting an air drop with their parts in.\n\nRagsy tested this with his new boats (coming soon for stable version) and he got boat parts after he reached greasemonkey level 4\\. This will definately not work on all of the vehicle mods out there so be warned but will work in vanilla game also.\n\nThe old vanilla parts only version is still on his git download.\n\n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Vehicle_Parts_In_Airdrops)** new version for A19  \n**[Download](https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets/-/archive/master/other-7-days-to-die-mods-and-modlets-master.zip?path=Ragsy_Vehicle_Parts_In_Airdrops)** old vanilla parts version for A18 & A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "new version for A19",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Vehicle_Parts_In_Airdrops",
+      "Version": "v19"
+    },
+    {
+      "Info": "old vanilla parts version for A18 & A19",
+      "URL": "https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets/-/archive/master/other-7-days-to-die-mods-and-modlets-master.zip?path=Ragsy_Vehicle_Parts_In_Airdrops",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die airdrop",
+    "7 days to die loot",
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

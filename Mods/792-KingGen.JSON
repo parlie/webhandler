@@ -1,0 +1,35 @@
+{
+  "modURL": "https://7daystodiemods.com/kinggen/",
+  "modCreatedTime": "2021-05-17T14:56:14+00:00",
+  "modLastUpdatedTime": "2021-05-19T10:03:56+00:00",
+  "modName": "KingGen",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-kinggen-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-kinggen-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-kinggen-additional-screenshot-3.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-kinggen-additional-screenshot-4.jpg"
+  ],
+  "modShortDescription": "Random World Generation for 7 Days to Die. Generate beautiful and unique worlds for 7 Days to Die. Customize your worlds! Faster than vanilla!",
+  "modDescription": "Random World Generation for 7 Days to Die. Generate beautiful and unique worlds for 7 Days to Die. Customize your worlds! Faster than vanilla!\n\n## USAGE\n\n* Download KingGen.\n* Run it.\n* Choose your preferences and click “Generate world”.\n* KingGen will create a folder containing the world. You have to copy it into 7 Days to Die’s worlds folder, usually: “%appdata%Roaming7 Days to DieGeneratedWorlds”\n\n## WHY KINGGEN?\n\n* The generated worlds are beautiful, with natural landscapes and large cities.\n* The generation is faster than vanilla, even on old machines.\n* Biomes are randomly placed, no repetitiveness.\n* Deserts and snow never touch.\n* KingGen is purely noise based, no stamps are used. This means that no two lakes look the same, nor two mountains.\n* Custom POIs are supported.\n* Custom heightmaps are supported.\n* Custom biome [maps](https://7daystodiemods.com/tag/7-days-to-die-maps/) are supported.\n\n**[Download](https://sourceforge.net/projects/kinggen/files/KingGen.exe/download)** Windows  \n**[Download](https://sourceforge.net/projects/kinggen/files/KingGen/download)** Linux\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/23988-kinggen-a-random-world-generator-for-7-days-to-die/).\n\n**Credits:** KingSlayerGM",
+  "modDownloadURLs": [
+    {
+      "Info": "Windows",
+      "URL": "https://sourceforge.net/projects/kinggen/files/KingGen.exe/download",
+      "Version": "v19"
+    },
+    {
+      "Info": "Linux",
+      "URL": "https://sourceforge.net/projects/kinggen/files/KingGen/download",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/23988-kinggen-a-random-world-generator-for-7-days-to-die/",
+  "modAuthors": [
+    "KingSlayerGM"
+  ],
+  "modTags": [
+    "7 days to die biomes",
+    "7 days to die maps"
+  ]
+}

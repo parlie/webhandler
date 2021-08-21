@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/duster-airplane-mod/",
+  "modCreatedTime": "2020-09-06T03:31:00+00:00",
+  "modLastUpdatedTime": "2021-04-29T20:51:45+00:00",
+  "modName": "Duster Airplane Mod",
+  "modImages": [],
+  "modShortDescription": "This mod adds Duster plane to the 7 Days to Die. It might look like it belongs in a museum, but it'll keep you off the ground and away from the zombies!",
+  "modDescription": "This mod adds Duster plane to the 7 Days to Die. It might look like it belongs in a museum, but it’ll keep you off the ground and away from the zombies!\n\n## Features\n\n* Requires Grease Monkey 5.\n* Has 2 seats.\n* Wide turn radius and low torque means you better take it easy on this ol’ girl!\n* Not very fuel efficient, but that’s the price of relative safety.\n* Speed is set to 18\\. Durability is 5k.\n\n## Changelog\n\nAdded new engine/horn sounds.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Duster)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/Duster)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11875-bdubyahs-modlets/).\n\n**Credits:** [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Duster",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/Duster",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11875-bdubyahs-modlets/",
+  "modAuthors": [
+    "Bdubyah"
+  ],
+  "modTags": [
+    "7 days to die plane",
+    "7 days to die vehicles",
+    "Bdubyah"
+  ]
+}

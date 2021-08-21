@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/zombie-modifications-2/",
+  "modCreatedTime": "2020-09-17T20:26:00+00:00",
+  "modLastUpdatedTime": "2021-07-25T02:34:03+00:00",
+  "modName": "Zombie Modifications 2",
+  "modImages": [],
+  "modShortDescription": "This mod same as Zombie Modification but with vanilla XP, vanilla loot bag drops and health. No block damage by zombies or animals. No digging, no jumping.",
+  "modDescription": "This mod same as [Zombie Modification](https://7daystodiemods.com/zombie-modification/) but with vanilla XP, vanilla loot bag drops and health (altho didn’t change health as it was the same). No block damage done by zombies or animals. No digging, no jumping.\n\n## Zombie Modifications 2 With No Rage\n\nSame as Zombie modifications 2 but with no rage.\n\n## Changelog\n\nUpdated models to new models.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/Stallionsdens%20zombie%20modifications%202)** Zombie Modifications 2  \n(Removed for further work.) Zombie Modifications 2 With No Rage\n\nIf you appreciate Stallionsden’s work and you want to show support, use this [donate link](http://paypal.me/AnthonyCar78).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19911-stallionsdens-and-valmars-a19-mod-thread/).\n\n**Credits:** [Stallionsden](https://7daystodiemods.com/tag/stallionsden/), Various",
+  "modDownloadURLs": [
+    {
+      "Info": "Zombie Modifications 2",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/Stallionsdens%20zombie%20modifications%202",
+      "Version": "v19"
+    },
+    {
+      "Info": "(Removed for further work.) Zombie Modifications 2 With No Rage",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19911-stallionsdens-and-valmars-a19-mod-thread/",
+  "modAuthors": [
+    "Stallionsden",
+    "Various"
+  ],
+  "modTags": [
+    "7 days to die textures",
+    "7 days to die zombie textures",
+    "7 days to die zombies",
+    "Stallionsden"
+  ]
+}

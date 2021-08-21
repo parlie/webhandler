@@ -1,0 +1,29 @@
+{
+  "modURL": "https://7daystodiemods.com/stainless-steel-again/",
+  "modCreatedTime": "2020-10-27T03:29:00+00:00",
+  "modLastUpdatedTime": "2020-10-27T03:42:32+00:00",
+  "modName": "Stainless Steel Again",
+  "modImages": [],
+  "modShortDescription": "Here’s a small mod that bring Stainless Steel back to the upgrade path after Steel. Adds a new Steel Polish item craftable in the chemistry station.",
+  "modDescription": "Here’s a small mod Buggi put together to bring Stainless Steel back to the upgrade path after Steel. Adds a new Steel Polish item craftable in the chemistry station. Now featuring Localization and crafting in bulk. Thanks to bodysalvage for this work!\n\nAlso, to make it actually worth it, Buggi made Stainless Steel blocks tougher, both in HP and explosive resistance. Those new explody zombies are brutal to a base.\n\n## Rebalanced Version\n\nHere is a new rebalanced version for those who like a little more challenge. Requires 4 polish to upgrade blocks now.\n\n## Changelog\n\n* **_(new)_** Uploaded a rebalanced version of the mod.\n* Added some progression details that should unlock the recipes correctly.\n* Updated the mod to include localization and crafting in bulk. Thanks to bodysalvage for this work!\n\n**[Download](https://drive.google.com/file/d/1mRR1r6S6vHaWGMcYYRC2RmKkwYOGtLe_/view?usp=sharing)**  \n**[Download](https://drive.google.com/file/d/138oVeKbk3Nu6eNbNQy1R_lRBTQS2htmc/view?usp=sharing)** Rebalanced Version\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/15180-a19-stainless-steel-again/).\n\n**Credits:** Buggi",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1mRR1r6S6vHaWGMcYYRC2RmKkwYOGtLe_/view?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "Rebalanced Version",
+      "URL": "https://drive.google.com/file/d/138oVeKbk3Nu6eNbNQy1R_lRBTQS2htmc/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/15180-a19-stainless-steel-again/",
+  "modAuthors": [
+    "Buggi"
+  ],
+  "modTags": [
+    "7 days to die building materials"
+  ]
+}

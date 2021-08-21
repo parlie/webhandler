@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/remove-the-map/",
+  "modCreatedTime": "2020-10-11T05:02:00+00:00",
+  "modLastUpdatedTime": "2020-12-16T05:08:29+00:00",
+  "modName": "Remove the Map",
+  "modImages": [],
+  "modShortDescription": "Have a bad case of wanderlust or don't want to carry a map with you? This mod obscures the player world map and disallows interaction with it.",
+  "modDescription": "Have a bad case of wanderlust or don’t want to carry a map with you? Or just want to make things more challenging?\n\nThis mod obscures the player world map and disallows interaction with it.\n\n* You can no longer see the biomes, POI’s, roads, etc. Its all greyed out\n* You can no longer set/share waypoints since the map is not interactive.\n* You can no longer see the stats that were inside the [map](https://7daystodiemods.com/tag/7-days-to-die-maps/) (elevation, temp, wind, day/time), however the temperature is accessible via the player stats menu, and the day/time is in the main game UI so all you lose is elevation and wind.\n* You can still see your location coordinates on the map screen\n* You can likely (not tested) see other allies on the map\n\nYou essentially have to rely on the compass for bedroll location (if you have one) and quests/airdrops/backpack locations as they show up as exclamation points on the compass. In addition, you should see the “distance” to an active quest marker in the main game UI.\n\n## Changelog\n\nFixed for A19+\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-Remove-TheMap)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a18/tree/main/Doughs-Remove-TheMap)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-Remove-TheMap",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a18/tree/main/Doughs-Remove-TheMap",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "7 days to die maps",
+    "Doughphunghus"
+  ]
+}

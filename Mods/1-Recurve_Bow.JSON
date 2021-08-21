@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/recurve-bow/",
+  "modCreatedTime": "2020-02-21T14:24:25+00:00",
+  "modLastUpdatedTime": "2020-02-21T14:24:26+00:00",
+  "modName": "Recurve Bow",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/02/sample-screenshot.jpg"
+  ],
+  "modShortDescription": "This mod adds a recurve bow to 7 Days to Die. There is a schematic that can be looted to learn the recipe to create the bow.",
+  "modDescription": "This mod adds a recurve bow to 7 Days to Die.\n\nThere is a schematic that can be looted to learn the recipe to create the bow. It has also been added to the loot table along side the compound bow.\n\nThis is Dorbson’s first attempt at adding a [weapon](https://7daystodiemods.com/tag/7-days-to-die-weapons/) to the game.\n\nCredit Tediuminteractive for the 3d model.\n\n**[Download](https://github.com/dorbson/Recurve-Bow/archive/master.zip)**\n\n**Credits:** Dorbson, Tediuminteractive",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/dorbson/Recurve-Bow/archive/master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Dorbson",
+    "Tediuminteractive"
+  ],
+  "modTags": [
+    "7 days to die weapons"
+  ]
+}

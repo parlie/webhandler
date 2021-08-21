@@ -1,0 +1,42 @@
+{
+  "modURL": "https://7daystodiemods.com/sittable-furnitures/",
+  "modCreatedTime": "2020-02-18T20:17:00+00:00",
+  "modLastUpdatedTime": "2020-06-03T20:35:03+00:00",
+  "modName": "Sittable Furnitures",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2019/11/chairs-set.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2019/11/various-sitting-set.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2019/11/the-fun-set.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2019/11/bed.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2019/11/the-bathroom-set.jpg"
+  ],
+  "modShortDescription": "It's a 7 Days to Die mod that uses vehicles entities to provide chairs, couches and other things that you can sit on and put in your house.",
+  "modDescription": "It’s a 7 Days to Die mod that uses vehicles entities to provide chairs, couches and other things that you can sit on and put in your house for realistic horde night chilling. All furnitures will provide you a buff. Resting buff for most chairs and couches, sleeping buff for bed and toilet buff for the toilet.\n\nIt now includes 23 furnitures that you can interact with using X (Horn key) and F (Headlight key):\n\n## Chairs Set\n\nYou can use X (horn key) to whistle while sitting in a chair.  \n**Includes:** 5 basic chairs, a recliner chair, eggchair, a bar stool and a throne that you’ll enjoy more than the ending. (Try whistle in it)\n\n## Various Sitting Set\n\n**Couch** (3 seats included for friends – You can also whistle while sitting in it)  \n**Hammock** (Provides the sleeping buff)  \n**Dining Table** (4 seats included for friends – Contains only food from 7 days)  \n**Bench** (1 seat)  \n**Swing** (3 seat)\n\n## The Fun Set\n\n**Personal Computer** (You can use X (horn key) to type on keyboard and F to turn on computer)  \n**Piano with its stool included** (You can use X (horn key) to play a random piano note while sitting in it – the piano needs tuning)  \n**Carousel** (Use Left and Right to turn around. 4 seats but rotation isn’t synchronized sadly)\n\n## Bed\n\nLie down and use X (horn key) to sleep peacefully.  \n**Bed and Hammock** grants a sleeping buff that will regen HP and provides you with a 4 min “rested” buff after a while.  \nYou can also craft a bed structure that will provide you a spawn point and use hammer on it to set it to your current bed without picking it up.\n\n## The Bathroom Set\n\n**The Mighty Toilet** (You can use X (horn key) to. moongaming will let you discover that one. Provides the toilet buff that can cure dysentery!)  \n**Bath** (Come on in and press F to make the flow happen)  \n**Shower** (Press F to wash off your sins before they catch you)  \n**Jacuzzi** (Press F to enter heaven)\n\nYou can craft them in the Saw Table using basic resources, and once you put them in the world you can pick them up like a regular vehicle.\n\n**Changelog**\n\n* Added German translations\n* Fixed recipes and missing carousel description\n\nThe mod is now translated in French, English, German and Japanese.\n\n**[Download](https://drive.google.com/file/d/1ymwQxYYfpuoX2YzT6dLT3876shQAxqnf/view?usp=sharing)** for A17  \n**[Download](https://gitlab.com/oignonchaud/oignonchaud-7d2d-mods-a18/-/archive/master/oignonchaud-7d2d-mods-a18-master.zip?path=SittableFurniture)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/13638-sittable-furnitures/).\n\n**Credits:** [Moongaming](https://7daystodiemods.com/tag/moongaming/)  \n_Special Thanks:_ Ragsy, Telric, Chiko and her friends for cool ideas / Japanese Translation, Eihwaz for German translations and a few fixes in localization/recipes",
+  "modDownloadURLs": [
+    {
+      "Info": "for A17",
+      "URL": "https://drive.google.com/file/d/1ymwQxYYfpuoX2YzT6dLT3876shQAxqnf/view?usp=sharing",
+      "Version": "v17"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://gitlab.com/oignonchaud/oignonchaud-7d2d-mods-a18/-/archive/master/oignonchaud-7d2d-mods-a18-master.zip?path=SittableFurniture",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/13638-sittable-furnitures/",
+  "modAuthors": [
+    "MoongamingSpecial Thanks: Ragsy",
+    "Telric",
+    "Chiko and her friends for cool ideas / Japanese Translation",
+    "Eihwaz for German translations and a few fixes in localization/recipes"
+  ],
+  "modTags": [
+    "7 days to die bathroom",
+    "7 days to die furniture mod",
+    "7 days to die sit on chair",
+    "7 days to die sitting",
+    "Moongaming"
+  ]
+}

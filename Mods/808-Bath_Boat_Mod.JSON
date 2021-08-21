@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/bath-boat-mod/",
+  "modCreatedTime": "2021-06-12T20:50:00+00:00",
+  "modLastUpdatedTime": "2021-06-12T20:55:20+00:00",
+  "modName": "Bath Boat Mod",
+  "modImages": [],
+  "modShortDescription": "Place the bathtub boat on/in water in a 'shallow water' area that has fairly flat ground underneath, then add fuel to bath tub boat and off you go.",
+  "modDescription": "## Launch\n\nPlace the bathtub boat on/in water in a ‘shallow water’ area that has fairly flat ground underneath, if you have no shallow water in your map then build a small launch dock, then add fuel to bath tub boat and off you go.\n\nThe Bath tub boat can be placed on land but will barely be able to move (new physics colliders experiment) rendering it unsteerable and very very slow to move.\n\n## Controls\n\n* Steering is A and D as per vanilla setings… mouse is for looking around only and has no affect on steering a boat.\n* Space bar and c control the up and down angles (same as a gyro) which you will need to adjust slightly as you travel on water otherwise you may sink.\n* W is forwards and S is slow down/reverse. If you let go of w and shift (Turbo) then the boat slowly comes to a stop, pressing S will slow the boat down more quickly this replaces spacebar as the brake key.\n* To anchor the bathtub boat and stop it drifting away use c and spacebar to level the boat till it stops drifting, useful if you have a fishing mod installed.\n\n## Anchoring\n\nTo anchor the bath boat and stop it drifting away use c and spacebar to level the boat till it stops drifting, useful if you have a [fishing](https://7daystodiemods.com/tag/7-days-to-die-fishing/) mod installed.\n\n## Crafting\n\nThe bathtub boat is craftable in a standard workbench with no progression needed at the cost of various resources and by creating the required assemblies to build it, it will help early game if you actually find a ‘working workbench’ and this allow you to make the bath tub a lot sooner.\n\nIf anyone wants to change the recipes and build methods then please do so but let him know how you improved it.\n\n## Other\n\nThe bathtub boat can be picked up into inventory providing the boats inventory is empty as per normal [vehicles](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) if you sink it at any point, although be careful if you sink it too far away from the shores as it could be a long swim back. Best to not store stuff as Zombies now can attack water vehicles in game.\n\n## Changelog\n\n**Version 2:**\n\n1. Optimised Model to reduce size of unity file.\n2. Added Particles… these can be switched on or off with the F key… (headlight function)\n3. Depth mask applied to stop water seeping effect and allow it to ride lower in water for more realism effect.\n4. Textures adjusted\n5. Added working propeller\n\n## Important Notes\n\n* The Assets in this Modlet are purchased (unless otherwise stated) and therefore you are not allowed to extract and alter them in any way.\n* The assets can be used in other mods that are purely ‘non profit’. These assets must not be used in any venture that attempts to make money out of modding.\n* If you use the xml code Ragsy came up with do the right thing and credit him for the float code.\n\n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_BathTubBoat_V2)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/14070-water-vehicle-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_BathTubBoat_V2",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/14070-water-vehicle-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die boat",
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

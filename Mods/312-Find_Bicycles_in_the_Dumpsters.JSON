@@ -1,0 +1,35 @@
+{
+  "modURL": "https://7daystodiemods.com/find-bicycles-in-the-dumpsters/",
+  "modCreatedTime": "2020-07-20T19:03:00+00:00",
+  "modLastUpdatedTime": "2020-07-20T19:03:10+00:00",
+  "modName": "Find Bicycles in the Dumpsters",
+  "modImages": [],
+  "modShortDescription": "9 million bicycles in Beijing and not one findable in game really? A simple idea came to mind that allows the player to find complete bicycles in dumpster.",
+  "modDescription": "9 million bicycles in Beijing and not one findable in game really? A simple idea came to mind that allows the player to find complete [bicycles](https://7daystodiemods.com/tag/7-days-to-die-bicycle/) in dumpster’s so now at least there are some in the world from game start.\n\nYou may find more than one bike and that is intentional… Sharing is caring.\n\n## Find Bicycle Parts in the Dumpsters\n\nRagsy put this together as an alternate version to find bicycles in dumpsters as per request in the forums and from other users… He also added possibilty of finding a schematic for bicycle at a ‘lower probabilty’, he was going to go with the loot template system but the point of this is to change from finding full Bicycles early game to finding the parts.\n\n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Find_Bicycles)** Find Bicycles in the Dumpsters  \n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Find_Bicycle_Parts)** Find Bicycle Parts in the Dumpsters\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Find Bicycles in the Dumpsters",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Find_Bicycles",
+      "Version": "v19"
+    },
+    {
+      "Info": "Find Bicycle Parts in the Dumpsters",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Find_Bicycle_Parts",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die bicycle",
+    "7 days to die bicycle mods",
+    "7 days to die bike",
+    "7 days to die bike mods",
+    "7 days to die loot",
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

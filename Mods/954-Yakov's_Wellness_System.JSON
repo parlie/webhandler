@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/yakovs-wellness-system/",
+  "modCreatedTime": "2021-08-06T16:49:08+00:00",
+  "modLastUpdatedTime": "2021-08-06T16:49:12+00:00",
+  "modName": "Yakov's Wellness System",
+  "modImages": [],
+  "modShortDescription": "This mod adds back the Wellness system from the earlier Alphas. Your maximum health and Stamina will match what your Wellness is.",
+  "modDescription": "This mod adds back the Wellness system from the earlier Alphas.\n\nYour maximum health and Stamina will match what your Wellness is. It decreases with death, injury and increases with good quality [food](https://7daystodiemods.com/tag/7-days-to-die-food/) & drink. There is a limit on how quickly you can increase Wellness, and you cannot increase it while the buffs ‘Good or Average quality Drink or Food’ are active. Enjoy.\n\nTested on Alpha 19.6.\n\n**[Download](https://dev.azure.com/yakovAU/_git/YakovsWellness)**\n\n**Credits:** Yakov, KhaineGB (for some of the Wellness code)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://dev.azure.com/yakovAU/_git/YakovsWellness",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Yakov",
+    "KhaineGB (for some of the Wellness code)"
+  ],
+  "modTags": [
+    "7 days to die drinks",
+    "7 days to die food"
+  ]
+}

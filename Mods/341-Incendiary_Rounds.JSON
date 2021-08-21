@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/incendiary-rounds/",
+  "modCreatedTime": "2020-08-09T20:58:42+00:00",
+  "modLastUpdatedTime": "2020-08-09T20:58:44+00:00",
+  "modName": "Incendiary Rounds",
+  "modImages": [],
+  "modShortDescription": "Adds a gun mod that will randomly set fire to zombies. Basically burning shaft mod but for ranged. Mod and Schematic can be found in loot and at traders.",
+  "modDescription": "Adds a [gun](https://7daystodiemods.com/tag/7-days-to-die-weapons/) mod that will randomly set fire to zombies. Basically burning shaft mod but for ranged. Mod and Schematic can be found in loot and at traders.\n\n**[Download](https://docs.google.com/uc?export=download&id=1IJH3WT06sYYbWOZ8XcL-rck4O_BTJUVG)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20895-toads-modlets/).\n\n**Credits:** [AnsontheToad](https://7daystodiemods.com/tag/ansonthetoad/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://docs.google.com/uc?export=download&id=1IJH3WT06sYYbWOZ8XcL-rck4O_BTJUVG",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20895-toads-modlets/",
+  "modAuthors": [
+    "AnsontheToad"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die weapons",
+    "AnsontheToad"
+  ]
+}

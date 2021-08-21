@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/vitamin-crafting-for-a18/",
+  "modCreatedTime": "2019-11-23T02:37:04+00:00",
+  "modLastUpdatedTime": "2020-06-03T21:49:12+00:00",
+  "modName": "Vitamin Crafting for A18",
+  "modImages": [],
+  "modShortDescription": "This mod adds a recipe for vitamins that is unlockable with level of Yeah Science. Produces 2 vitamins. Must use a chemistry station for the crafting.",
+  "modDescription": "This mod adds a [recipe](https://7daystodiemods.com/tag/7-days-to-die-recipes/) for vitamins that is unlockable with the same level of Yeah Science that antibiotics are. There is also a schematic for it that EpicSpire added to the loot tables.\n\nThe recipe has been reworked by Laokia who also helped fix an issue where the recipe wasn’t unlocked properly through the progression tree. Laokia also added a localization doc so that the game would display the proper name of the items, EpicSpire forgot they can do that now.\n\nSnowberries are now used in the recipe and therefore they are now able to be crafted and planted in order to make them more available. (unlockable seeds in the living off the land skill and seed schematic also created) Snowberry seeds can be found in loot like any other seed.\n\nProduces 2 vitamins. Must use a chemistry station for the vitamin crafting.\n\nAlso the schematics for crafting vitamins and the schematics for making snowberry seeds have been added to traders.\n\n[Download](https://drive.google.com/uc?authuser=o&id=1xbbn0ZuqbvPcTdYs_bnJbOjzJ8QKf6bn&export=download)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/15166-epicspires-a18-modlets/).\n\n**Credits:** [EpicSpire](https://7daystodiemods.com/tag/epicspire/)",
+  "modDownloadURLs": [
+    {
+      "Info": "\nThis mod adds a recipe for vitamins that is unlockable with the same level of Yeah Science that antibiotics are. There is also a schematic for it that EpicSpire added to the loot tables.\nThe recipe has been reworked by Laokia who also helped fix an issue where the recipe wasn’t unlocked properly through the progression tree. Laokia also added a localization doc so that the game would display the proper name of the items, EpicSpire forgot they can do that now.Snowberries are now used in the recipe and therefore they are now able to be crafted and planted in order to make them more available. (unlockable seeds in the living off the land skill and seed schematic also created) Snowberry seeds can be found in loot like any other seed.\nProduces 2 vitamins. Must use a chemistry station for the vitamin crafting.\nAlso the schematics for crafting vitamins and the schematics for making snowberry seeds have been added to traders.\nDownload\nThe forum topic of the mod is here.\nCredits: EpicSpire\nShare this mod with your friends:",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/15166-epicspires-a18-modlets/",
+  "modAuthors": [
+    "EpicSpire"
+  ],
+  "modTags": [
+    "7 days to die medical supplies",
+    "7 days to die recipes",
+    "7 days to die vitamins",
+    "EpicSpire"
+  ]
+}

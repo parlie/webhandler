@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/wandering-traders-mod-for-a18/",
+  "modCreatedTime": "2020-02-08T20:02:00+00:00",
+  "modLastUpdatedTime": "2021-07-12T08:48:00+00:00",
+  "modName": "Wandering Traders Mod for A18 (Closed)",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod adds 4 new traders to the A18 game version. Unlike vanilla traders, they spawn outside of trading posts, and wander the game world.",
+  "modDescription": "This 7 Days to Die mod adds 4 new traders to the A18 game version. Unlike vanilla traders, they spawn outside of trading posts, and wander the game world. The will attack all enemies ([Zombies](https://7daystodiemods.com/zombie-mods/) and dangerous animals), and will attack the player if they are damaged by the player.\n\n## Features\n\nUnlike normal traders, this new traders can be killed and will drop a specific [loot](https://7daystodiemods.com/tag/7-days-to-die-loot/) container. Unless actively alerted and approaching a target, they will stop when the player comes into range, put away their weapon and invite you to trade or do tasks. Each trader has a different inventory, configurable in XML. As setup now, one sells mostly weapons and ammo, the next sells science stuff and meds, another food, and the last sells general items.\n\nEach has a ranged [weapon](https://7daystodiemods.com/ammo-and-weapon-mods/) with xml configurable properties. These may need adjusting, but are set at various ranges and are pretty accurate. Change the [ammo](https://7daystodiemods.com/ammo-and-weapon-mods/) speed and/or the SpreadDegrees settings in xml to adjust. Some randomly shoot more than 1 projectile per shot, which is also adjustable.\n\nSpawning is handled by adding all 4 as a rare spawn to any “friendlyanimal” spawn group. Depending on your preferences, make them more or less rare, change where they spawn, and let me know what works well.\n\n## Change Log\n\n* **v1.8:** Folder rename for compatibility, patched insta-kill from zombie inflicted bleeding\n* **v1.7:** Converted to faction based targeting, improved aim\n* **v1.6:** Added ModInfo.xml to work around DMT bug\n* **v1.55:** Dedi animation fix\n* **v1.52:** Bleeding fix\n* **v1.5:** A18 version\n* **v1.34:** Removed zed buffs from weapons\n* **v1.33:** Added Food trader to spawn\n* **v1.31:** Added dependency for Patch\\_Entity to fix a bug\n* **v1.3:** Animation polishing pass.\n* **v1.2:** Added food traderVersion 1.10 : Stable Release. Added BP Tags to hopefully remove trap errors. 7D2DLauncher test version added.\n* **v1.03:** Fixed an incorrect dependency.\n* **v1.02:** Added AITasks and Targets for Bandits\n* **v1.01:** Added those 3 mods as dependencies in mods.xml so you can’t build without those enabled.\n* **v1.00:** Initial release\n\n## Known Issues\n\nThe traders ability to hit non-player entities at a distance was impacted by A18 projectile collision changes. SphereII and Xyth will look into fixing this in a future release.\n\nThe left hand position of the Heavy Trader is off on most animations. It doesn’t look too bad, and Xyth might clean that up eventually. That’s a consequence of saving time by reusing animations tuned to the weapons trader.\n\nSome minor sliding in and out of animations might still remain, especially when doing the kneeling to fire sequence. That’s a tricky combination of animations but should be good enough. Xyth plan one more tuning pass on final release.\n\n## Installing\n\nThis is a **DMT mod** so it must be compiled with DMT. This mod has onel dependency that must be compiled with this mod for it to work properly. **Required:** [0-SphereIICore](https://yehonal.github.io/DownGit/#/home?url=https://github.com/SphereII/SphereII.Mods/tree/master/0-SphereIICore)\n\n**IMPORTANT!**  \nThis modlet is now retired as it is replaced by the [Creature Packs](https://7daystodiemods.com/creature-packs-a-community-entity-project/) and for advanced features, the [NPC modlet](https://7daystodiemods.com/npcs-mod/). See you there.\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11588-wandering-traders-dmt-mod/).\n\n**Credits:** [Xyth](https://7daystodiemods.com/tag/xyth/)  \n_Additional Credits:_ SphereII, Mumpfy",
+  "modDownloadURLs": [
+    {
+      "Info": "",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11588-wandering-traders-dmt-mod/",
+  "modAuthors": [
+    "XythAdditional Credits: SphereII",
+    "Mumpfy"
+  ],
+  "modTags": [
+    "7 days to die trader",
+    "Xyth"
+  ]
+}

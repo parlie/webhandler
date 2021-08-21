@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/expanded-traps/",
+  "modCreatedTime": "2020-12-05T03:46:00+00:00",
+  "modLastUpdatedTime": "2021-07-25T01:44:18+00:00",
+  "modName": "Expanded Traps",
+  "modImages": [],
+  "modShortDescription": "Adds more trap types to the game. Some really funny ones to lol. Damn those drunk zombies.",
+  "modDescription": "Adds more [trap](https://7daystodiemods.com/tag/7-days-to-die-traps/) types to the game. Some really funny ones to lol. Damn those drunk zombies.\n\n## Changelog\n\n**Fixed:** Gave damage to the traps so they do break.\n\nYou can adjust them in the blocks.xml in the config file.\n\n```\n<property name=\"Damage\" value=\"1\" /> ( how much the trap damages the entity)\n        <property name=\"Damage_received\" value=\"1\" />(how much the entity damages the trap)\n\n\n       <property name=\"MaxDamage\" value=\"168\"/>(total amount of damage of trap before trap breaks)\n```\n\n**Please note:** The Damage and the Damage received should be the same value.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/Valmar-Modlets/tree/master/Valmars%20Expanded%20Traps)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20079-valmars-a19-modlets/).\n\n**Credits:** [Valmar](https://7daystodiemods.com/tag/valmar/), [Stallionsden](https://7daystodiemods.com/tag/stallionsden/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/Valmar-Modlets/tree/master/Valmars%20Expanded%20Traps",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20079-valmars-a19-modlets/",
+  "modAuthors": [
+    "Valmar",
+    "Stallionsden"
+  ],
+  "modTags": [
+    "7 days to die spikes",
+    "7 days to die traps",
+    "Stallionsden",
+    "Valmar"
+  ]
+}

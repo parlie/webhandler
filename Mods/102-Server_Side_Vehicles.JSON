@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/server-side-vehicles/",
+  "modCreatedTime": "2020-04-18T14:52:00+00:00",
+  "modLastUpdatedTime": "2020-06-02T14:05:59+00:00",
+  "modName": "Server Side Vehicles",
+  "modImages": [],
+  "modShortDescription": "This mod adds 6 new vehicles to the game, only using XML, no new resources. Armored Car, Army Truck, Raft, Sled, Jetpack and HellBeast.",
+  "modDescription": "This mod adds 6 new vehicles to the game, only using XML, no new resources. Credit to Ragsy2145 for the original xmlcode for the [Raft](https://7daystodiemods.com/the-working-tfp-raft/), and Manux for the inspiration to make the [jetpack](https://7daystodiemods.com/manuxs-custom-vehicles-mod/).\n\n**The Vehicles**\n\n* **Armored Car:** A bit slow, but inside you will be protected from most damage. Also, zombies that touch the spikes will get hurt. Storage: 54 slots.\n* **Army Truck:** Slower than a jeep and harder to drive, but it has 100 slots of storage.\n* **Raft:** Useful in maps with lots of water. It must be deployed on shallow water or the seafloor. Doesn’t use gasoline. Storage: 36 slots.\n* **Sled:** Faster than a bike, uses stamina. Storage: 27 slots.\n* **Jetpack:** Vertical take off and landing, burns gas like crazy and has low capacity, has more handling than a gyrocopter. Storage: 9 slots.\n* **HellBeast:** Just to make the motorcycle look cooler and see how far Snufkin could push the vehicle physics until it broke. Faster than the normal bike and with the ability to jump. The flames are part of the headlights, so you can turn them on and off. Storage: 54 slots.\n\nThese [vehicles](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) were buggy in the beginning, and the server admin where Snufkin was testing them didn’t let him update the mods, so these are pretty much untested in an online environment.\n\n**Note for modders:** Take a look at the xmls, Snufkin have been exploiting many underused functions that don’t require code and may circumvent the necessity of using custom resources.\n\n**Changelog**\n\n* Changed the code to be more stable. In technical terms, the vehicles no longer depend of the player to load the physics and the models, it turns out they accept the “Buffs” property, so now they load the necessary buff themselves. The ATV is there to play around but isn’t craftable (yet). **_(new)_**\n* Now the Armored Car has 4 seats and the Army Truck has 2.\n* Added particles to the Jetpack.\n\n**[Download](https://www.dropbox.com/sh/g4e6lp5wyisk4n9/AACVNd41CJIMZ5hDj0naoWFja?dl=1)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/18028-snukfins-server-side-vehicles/).\n\n**Credits:** [Snufkin](https://7daystodiemods.com/tag/snufkin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/sh/g4e6lp5wyisk4n9/AACVNd41CJIMZ5hDj0naoWFja?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/18028-snukfins-server-side-vehicles/",
+  "modAuthors": [
+    "Snufkin"
+  ],
+  "modTags": [
+    "7 days to die vehicles",
+    "Snufkin"
+  ]
+}

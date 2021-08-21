@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/voidsights-vanilla-tweaks/",
+  "modCreatedTime": "2021-08-05T20:57:00+00:00",
+  "modLastUpdatedTime": "2021-08-05T22:17:11+00:00",
+  "modName": "Voidsights' Vanilla Tweaks",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/08/7-days-to-die-voidsights-vanilla-tweaks-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/08/7-days-to-die-voidsights-vanilla-tweaks-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "My first modlet for 7 Days to Die which opens up some un-craftable items, retweak stacknumber and added some early game weapons. (uses vanilla assets only)",
+  "modDescription": "My first modlet for 7 Days to Die which opens up some un-craftable items, retweak [stacknumber](https://7daystodiemods.com/tag/7-days-to-die-stack-size/) and added some early game weapons. (uses vanilla assets only)\n\n**Stacknumber Increased:**\n\n* Meds/drugs/candy/food/drinks – 50\n* Resources (cement, concrete, mechanical parts, gunpowder, glue etc.) – 6000\n* Crops ([potato](https://7daystodiemods.com/tag/7-days-to-die-food/), corn, etc.) – 500\n* Gun/armor/tool parts – 500\n* All ammo type – 1000\n* Junk Ammo – 5000\n* Trowables (granade, molotov, etc.) – 100\n* Jar (empty/dirty water) & empty can – 1000\n* Dukes – 30000\n\n**Crafting Unavailable Items: (did not include solar banks, solar panels, testosterone, honey, can goods, etc. to balance the crafting)**\n\n* Candies (atom junkies, eye kandy, rockbusters. etc.)\n* Meds & Consumables (Painkillers, [vitamins](https://7daystodiemods.com/tag/7-days-to-die-medical-supplies/), megacrush, blood bag, sham sandwich etc.)\n* Resource (acid, diamond, rottingflesh, mechanical parts, sewing kit, brass, polymers, etc.)\n* All types of arrows may be crafted by using feathers or polymers which includes the bundles\n\n**Blunderbuss Festival:**\n\n* 6 New early game/mid game [weapons](https://7daystodiemods.com/tag/7-days-to-die-weapons/) using vanilla assets – each weapon uses blunderbuss as a base recipe except crossbow\n* Added new ammo type (AP blunderbuss, brass ammo, stone ammo) – only for the new weapons\n* Added 2 mods for melee and tools (different modlet will be made)\n\n**NOTICE:**\n\n* Must be used on new playthrough – old saves resets your level and probably the map\n* May clash with other mods using stack number and recipes\n* And I’m still learning (not a coder ^\\_^)\n\n**[Download](https://jumpshare.com/v/6tjYS7P8EUYfNwTQAEjs)**\n\n**Credits:** Voidsights",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://jumpshare.com/v/6tjYS7P8EUYfNwTQAEjs",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Voidsights"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die drinks",
+    "7 days to die food",
+    "7 days to die medical supplies",
+    "7 days to die stack size",
+    "7 days to die tools",
+    "7 days to die weapons"
+  ]
+}

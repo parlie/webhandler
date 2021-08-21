@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/stressed-out/",
+  "modCreatedTime": "2021-06-29T00:45:53+00:00",
+  "modLastUpdatedTime": "2021-06-29T00:53:01+00:00",
+  "modName": "Stressed Out",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-stressed-out-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-stressed-out-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-stressed-out-additional-screenshot-3.jpg"
+  ],
+  "modShortDescription": "This mod adds a stress management system to your gameplay to keep you proactive in the apocalypse.",
+  "modDescription": "This mod adds a stress management system to your gameplay to keep you proactive in the apocalypse. All players will have a stress counter active at all times that builds over time either naturally or from events such as engaging with the dead. Don’t let the counter get too high or you will experience game changing mood swings!\n\nThis mod adds lots of recipes for different ways to relieve that stress counter with new crops, [foods](https://7daystodiemods.com/tag/7-days-to-die-food/), drinks and even a perk tree not needed for stress relief but will make it much easier to craft some of the much more potent relievers. This version of the mod also is server ready using only vanilla assets.\n\n**[Download](https://github.com/IrishManJMo/7-Days-Mods/archive/refs/heads/main.zip)**\n\nIf you need help, you can use this [support link](https://discord.gg/kv2PxJPVZA).\n\n**Credits:** IrishManJmo (I created this mod myself but used Bdubyah zAlert methods to create stress interactions with zombies. In general I learned a lot from studying mods from some of this communities big modders like Bdubyah, Snufkin, Doughs and many others who have helped through discord answering questions.)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/IrishManJMo/7-Days-Mods/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "IrishManJmo (I created this mod myself but used Bdubyah zAlert methods to create stress interactions with zombies. In general I learned a lot from studying mods from some of this communities big modders like Bdubyah",
+    "Snufkin",
+    "Doughs and many others who have helped through discord answering questions.)"
+  ],
+  "modTags": [
+    "7 days to die drinks",
+    "7 days to die farming",
+    "7 days to die food",
+    "7 days to die recipes"
+  ]
+}

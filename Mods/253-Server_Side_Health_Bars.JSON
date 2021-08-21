@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/server-side-health-bars/",
+  "modCreatedTime": "2020-04-02T16:05:48+00:00",
+  "modLastUpdatedTime": "2020-07-01T22:49:46+00:00",
+  "modName": "Server Side Health Bars",
+  "modImages": [],
+  "modShortDescription": "It shows 4 bars at 3 levels each (red, yellow, empty). Activates when you damage the enemy and last 5 seconds. Disappears on death.",
+  "modDescription": "It shows 4 bars at 3 levels each (red, yellow, empty). Activates when you damage the enemy and last 5 seconds. Disappears on death. It should work on every enemy, even Snufkin’s [custom zombies](https://7daystodiemods.com/server-side-zombies/).\n\n**[Download](https://www.dropbox.com/sh/m7cloteb41a26kw/AADWDFqye5uotkmAOJOt78ZCa?dl=1)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/18240-snufkins-server-side-healthbars/).\n\n**Credits:** [Snufkin](https://7daystodiemods.com/tag/snufkin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/sh/m7cloteb41a26kw/AADWDFqye5uotkmAOJOt78ZCa?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/18240-snufkins-server-side-healthbars/",
+  "modAuthors": [
+    "Snufkin"
+  ],
+  "modTags": [
+    "Snufkin"
+  ]
+}

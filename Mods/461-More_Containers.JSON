@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/more-containers/",
+  "modCreatedTime": "2020-09-10T14:05:00+00:00",
+  "modLastUpdatedTime": "2020-09-10T14:06:12+00:00",
+  "modName": "More Containers",
+  "modImages": [],
+  "modShortDescription": "This mod adds new graphic designs for the storage boxes and also add half-block versions of the storage boxes (for more headspace).",
+  "modDescription": "Do you have friends that can’t help themselves and store everything in a specific box for each type of items? Eric Beaudoin does. This mod adds new graphic designs for the [storage](https://7daystodiemods.com/tag/7-days-to-die-storage/) boxes and also add half-block versions of the storage boxes (for more headspace).\n\n## Changelog\n\n* **1.4:** New crates  \n   * New Auto Parts and Workbench designs\n* **1.3:** Bug fixes  \n   * Secure Armors Storage now available to players (only could use Insecure version before)  \n   * Writable Storage now get drop in your inventory if you destroy it\n* **1.2:** Alpha 19 fixes  \n   * Fix: The wood container variant block changed name with Alpha 19  \n   * Work on textures to make them look better with new lighting system\n* **1.1:** Rebuilt assets for the new linear lighting (Alpha 19)\n* **1.0:** First official version which includes  \n   * New design for generic, armors, barter (trader), forge, mining, and recycle storage boxes  \n   * Everything is also available in half-cube format  \n   * All new storage boxes are added to the wood storage and furniture helper\n\nNone of this would have been possible without Xyth work on [Fun With Flags](https://7daystodiemods.com/flags-mod/) and his [video tutorials](https://community.7daystodie.com/topic/9014-unity-tutorials-for-7d2d-modders/).\n\n**Important:** For this mod to work properly, it needs to be installed on the server and every player’s computer.\n\n**[Download](https://github.com/Laotseu/7dtdMods/releases/download/MoreContainers_v1.4/MoreContainers_v1.4.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21570-morecontainers-v14-alpha-19/).\n\n**Credits:** [Eric Beaudoin](https://7daystodiemods.com/tag/eric-beaudoin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Laotseu/7dtdMods/releases/download/MoreContainers_v1.4/MoreContainers_v1.4.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/21570-morecontainers-v14-alpha-19/",
+  "modAuthors": [
+    "Eric Beaudoin"
+  ],
+  "modTags": [
+    "7 days to die storage",
+    "Eric Beaudoin"
+  ]
+}

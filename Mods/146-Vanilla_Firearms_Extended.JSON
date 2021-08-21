@@ -1,0 +1,36 @@
+{
+  "modURL": "https://7daystodiemods.com/vanilla-firearms-extended/",
+  "modCreatedTime": "2020-02-29T13:44:44+00:00",
+  "modLastUpdatedTime": "2020-06-03T21:25:53+00:00",
+  "modName": "Vanilla Firearms Extended",
+  "modImages": [],
+  "modShortDescription": "This 7DTD mod adds over twenty firearms to the game, complete with custom animations, icons, sounds, attachments, etc. It also adds two new ammo types.",
+  "modDescription": "This 7DTD mod adds over twenty [firearms](https://7daystodiemods.com/tag/7-days-to-die-weapons/) to the game, complete with custom animations, icons, sounds, attachments, etc. Sykriss did his best to make them up to vanilla standards as he doesn’t want things disrupting the players immersion.\n\nIt also adds two new [ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/) types, .45acp and 5.56x45mm, to serve as intermediate rounds. They are all balanced and integrated into the vanilla loot, trader, and recipe/schematic tables so you shouldn’t be drowning in guns everywhere (He had some testers confirm this before public release).\n\n## Full List of Included Firearms\n\n**Pistols:**\n\n* M1911\n* Mark 23\n* Glock 17\n* Makarov\n* TEC-9\n* P250\n* Walther P99\n* USP\n* .45 revolver\n* 9mm revolver\n* Desert Eagle in 44 mag\n\n**Shotguns:**\n\n* Full length side-by-side\n* RSX-1, semi auto shotgun\n* Full length over-under\n* Single barrel shotgun\n\n**Rifles:**\n\n* M1 carbine in 9mm\n* SKS\n* Ak-101\n* AR15\n* HK416\n* G36C\n* SVD\n* SCAR-H\n* SCAR-L\n* SG-553\n* Sporting Rifle (5.56x45mm bolt action)\n* Varmint Rifle (9mm bolt action)\n\n**SMGs:**\n\n* AKS-74u\n* Vz 62 Skorpion\n* Micro UZI\n* Mac-11\n* UMP-45\n* PP-19\n* Skorpion\n\n**[Download](http://www.mediafire.com/file/i9spcv1y1o5sl84/Vanilla_Firearms_Extended_1-0.zip/file)**  \n**[Download](http://www.mediafire.com/file/srk9vi7f56pi2et/Vanilla_Firearms_Extended_-_Vanilla_Optics_PIP_Patch_1-0.zip/file)** Compatibility Patch for His [PIP Optics](https://7daystodiemods.com/picture-in-picture-vanilla-optics-replacer/)  \n**[Download](http://www.mediafire.com/file/7vxjedx8k17zd5e/Vanilla_Firearms_Extended_-_Pistol_RMR_Replacer_Patch_1-0.zip/file)** Compatibility Patch for His [Pistol RMR](https://7daystodiemods.com/replacement-rmr-for-vanilla-pistols/)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17780-vanilla-firearms-extended/).\n\n**Credits:** [Sykriss](https://7daystodiemods.com/tag/sykriss/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "http://www.mediafire.com/file/i9spcv1y1o5sl84/Vanilla_Firearms_Extended_1-0.zip/file",
+      "Version": "v19"
+    },
+    {
+      "Info": "Compatibility Patch for His PIP Optics",
+      "URL": "http://www.mediafire.com/file/srk9vi7f56pi2et/Vanilla_Firearms_Extended_-_Vanilla_Optics_PIP_Patch_1-0.zip/file",
+      "Version": "v19"
+    },
+    {
+      "Info": "Compatibility Patch for His Pistol RMR",
+      "URL": "http://www.mediafire.com/file/7vxjedx8k17zd5e/Vanilla_Firearms_Extended_-_Pistol_RMR_Replacer_Patch_1-0.zip/file",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17780-vanilla-firearms-extended/",
+  "modAuthors": [
+    "Sykriss"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die weapons",
+    "Sykriss"
+  ]
+}

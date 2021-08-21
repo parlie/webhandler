@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/charger-car-mod/",
+  "modCreatedTime": "2020-09-06T03:32:00+00:00",
+  "modLastUpdatedTime": "2021-04-29T20:51:55+00:00",
+  "modName": "Charger Car Mod",
+  "modImages": [],
+  "modShortDescription": "This mod adds Charger car to the 7 Days to Die. You won't even feel those zeds as you run them over with this land barge! Unlocks with Grease Monkey 4.",
+  "modDescription": "This mod adds Charger [car](https://7daystodiemods.com/tag/7-days-to-die-car-mods/) to the 7 Days to Die. You won’t even feel those zeds as you run them over with this land barge! Unlocks with Grease Monkey 4\\. 2 seats. Poor fuel mileage.\n\n## Changelog\n\nAdded new engine/horn sounds.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Charger)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/Charger)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11875-bdubyahs-modlets/).\n\n**Credits:** [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Charger",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/Charger",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11875-bdubyahs-modlets/",
+  "modAuthors": [
+    "Bdubyah"
+  ],
+  "modTags": [
+    "7 days to die car mods",
+    "7 days to die vehicles",
+    "Bdubyah"
+  ]
+}

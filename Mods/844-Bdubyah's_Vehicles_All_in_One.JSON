@@ -1,0 +1,56 @@
+{
+  "modURL": "https://7daystodiemods.com/bdubyahs-vehicles-all-in-one/",
+  "modCreatedTime": "2021-07-10T14:29:00+00:00",
+  "modLastUpdatedTime": "2021-07-11T07:25:39+00:00",
+  "modName": "Bdubyah's Vehicles All in One",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-bdubyahs-vehicles-all-in-one-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-bdubyahs-vehicles-all-in-one-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "A collection of the vehicle mods Bdubyah has made. This mod adds all of Bdub's vehicles into one mod. Work Truck, Pickup, Hot Rods, Charger and more.",
+  "modDescription": "A collection of the vehicle mods Bdubyah has made. This mod adds all of Bdub’s vehicles into one mod.\n\nBox Truck, BRDM-2, Buggy, Charger, Cruiser, Dirt Bike, Duster Airplane, GNX, Golf Cart, Hot Rods, Humvee, Junker, LMTV, Marauder, MD 500, MRAP, Nova, Old Semi, Pickup, Rat Bike, SHERP, Stallion, UAZ-452, UH-60, Willy Jeep and Work Truck.\n\n## Some Mods in the Collection\n\n* [Box Truck](https://7daystodiemods.com/box-truck-mod/)\n* [BRDM-2 Military Vehicle](https://7daystodiemods.com/brdm-2-military-vehicle/)\n* [Buggy](https://7daystodiemods.com/buggy/)\n* [Buick GNX](https://7daystodiemods.com/buick-gnx/)\n* [Charger](https://7daystodiemods.com/charger-car-mod/)\n* [Cruiser Bike](https://7daystodiemods.com/cruiser/)\n* [Dirt Bike](https://7daystodiemods.com/dirt-bike-mod/)\n* [Duster Airplane](https://7daystodiemods.com/duster-airplane-mod/)\n* [Golf Cart](https://7daystodiemods.com/golf-cart-and-golf-club-melee-weapon/)\n* [Hot Rods](https://7daystodiemods.com/hot-rods/)\n* [Humvee](https://7daystodiemods.com/humvee/)\n* [Junker Bike](https://7daystodiemods.com/junker/)\n* [Marauder](https://7daystodiemods.com/marauder-monster-car/)\n* [MD-500 Helicopter](https://7daystodiemods.com/md-500-helicopter/)\n* [MRAP Military Vehicle](https://7daystodiemods.com/mrap-military-vehicle/)\n* [Nova](https://7daystodiemods.com/nova-vehicle-mod/)\n* [Pickup](https://7daystodiemods.com/pickup-mod/)\n* [Rat Bike](https://7daystodiemods.com/rat-bike/)\n* [SHERP](https://7daystodiemods.com/sherp-vehicle-mod/)\n* [Stallion](https://7daystodiemods.com/stallion-car-mod/)\n* [UAZ 452](https://7daystodiemods.com/uaz-452-vehicle/)\n* [UH-60 Helicopter](https://7daystodiemods.com/uh-60-helicopter/)\n* [Willy Jeep](https://7daystodiemods.com/willy-jeep-mod/)\n* [Work Truck](https://7daystodiemods.com/work-truck-mod/)\n\n## Changelog\n\n* **Updated to 3.9 for A19.5**  \n   * Added: All vehicles have smoke effects when below 25% HP  \n   * Changed: Exhaust particles will only show when driving now  \n   * Changed: Tweaked physics on a few vehicles, more to come  \n   * Fixed: Missing startup sounds for LMTV, SHERP, Box Truck and Semi\n* **Updated to 3.8 for A19.5**  \n   * Changed: Tweaked custom vehicle sounds to work better on servers  \n   * Added: LMTV  \n   * Added: Old Semi  \n   * Added: Willy Jeep color variants\n\n**Alpha 19 Versions**  \n**[Download](https://gitlab.com/bdubyah/Mods---A19/-/archive/master/Mods---A19-master.zip?path=Bdubs%20Vehicles)** for **A19**  \n**[Download](https://gitlab.com/bdubyah/Mods---A19/-/archive/master/Mods---A19-master.zip?path=Bdubs%20Vehicles%20DF%20patch)** Darkness Falls Compatibility for **A19**  \n**[Download](https://gitlab.com/bdubyah/Mods---A19/-/archive/master/Mods---A19-master.zip?path=zzz_Bdubs_Vehicles_ChikosJPLocalization)** Japanese Localization for **A19**  \n**Alpha 18 Version**  \n**[Download](https://gitlab.com/bdubyah/Mods---A18/-/archive/master/Mods---A18-master.zip?path=Bdubs%20Vehicles)** for **A18**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11875-bdubyahs-modlets/).\n\n**Credits:** [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Alpha 19 Versions",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/bdubyah/Mods---A19/-/archive/master/Mods---A19-master.zip?path=Bdubs%20Vehicles",
+      "Version": "v19"
+    },
+    {
+      "Info": "Darkness Falls Compatibility for A19",
+      "URL": "https://gitlab.com/bdubyah/Mods---A19/-/archive/master/Mods---A19-master.zip?path=Bdubs%20Vehicles%20DF%20patch",
+      "Version": "v19"
+    },
+    {
+      "Info": "Japanese Localization for A19",
+      "URL": "https://gitlab.com/bdubyah/Mods---A19/-/archive/master/Mods---A19-master.zip?path=zzz_Bdubs_Vehicles_ChikosJPLocalization",
+      "Version": "v19"
+    },
+    {
+      "Info": "Alpha 18 Version",
+      "Version": "v18"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://gitlab.com/bdubyah/Mods---A18/-/archive/master/Mods---A18-master.zip?path=Bdubs%20Vehicles",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11875-bdubyahs-modlets/",
+  "modAuthors": [
+    "Bdubyah"
+  ],
+  "modTags": [
+    "7 days to die bike",
+    "7 days to die car mods",
+    "7 days to die motorcycle",
+    "7 days to die plane",
+    "7 days to die truck mods",
+    "7 days to die vehicles",
+    "Bdubyah"
+  ]
+}

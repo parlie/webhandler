@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/bad-medicine/",
+  "modCreatedTime": "2021-06-11T12:10:00+00:00",
+  "modLastUpdatedTime": "2021-06-12T20:52:56+00:00",
+  "modName": "Bad Medicine",
+  "modImages": [],
+  "modShortDescription": "Hurting yourself is easier, healing yourself is more painful.",
+  "modDescription": "Hurting yourself is easier, healing yourself is more painful.\n\n## Features\n\n### Dirty Bandages\n\nBandages must be sterilized to prevent infection.\n\n* Dirty bandages can be crafted from only cloth fragments, but have a chance to cause infection. The chance of infection is much higher if you have a laceration.\n* Bandages must be sterilized, either with alcohol in your backpack, or by boiling with clean water in a cooking pot.\n* Crafting a first aid bandage requires a sterile (vanilla) bandage instead of cloth.\n* To make up for the increased infection chances, first aid items now have a small antibiotic effect.\n* In non-rare [medical](https://7daystodiemods.com/tag/7-days-to-die-medical-supplies/) loot, dirty bandages are found instead of bandages, and sterile (vanilla) bandages are found instead of first aid bandages.\n\n### You’re Not Rambo\n\nUsing a sewing kit to sew up lacerations is agonizing. You now make a lot of pain sounds to let the world know how agonizing it is. …Unless you’re drunk.\n\n### Fire Is Bad\n\nIf you’re on fire, do not try to put it out by dousing yourself with flammable liquids.\n\n**Flammable liquids:**\n\n* Gasoline\n* Grain alcohol\n* Grandpa’s Moonshine\n* Grandpa’s Awesome Sauce\n* Recog (you will still get the other effects)\n\n### Drinking Gasoline\n\nYou can now drink gasoline. Don’t drink gasoline.\n\n### Drinking Grain Alcohol\n\nYou can now [drink](https://7daystodiemods.com/tag/7-days-to-die-drinks/) grain alcohol. It gives you the same drunk effect as beer, but also has a chance to make you sick.\n\n## Modification\n\nKhzmusik has included a the Gimp file for the new dirty bandage icon.\n\nHe also included a lighter version of the icon. While the lighter icon looks a bit better in the inventory and toolbelt, he thought it was too hard to tell the difference between that icon and the vanilla bandage icon.\n\nIf you disagree, and want to use the lighter version:\n\n1. Delete or rename the existing _medicalBandageDirty.png_ file\n2. Rename _medicalBandageDirty.lighter.png_ to _medicalBandageDirty.png_\n\n## Re-Use of New Assets\n\nThe icon images are derivative works of The Fun Pimps original images. He does not claim any rights over these images.\n\nYou may only re-use the images under the same terms and conditions that you would use the original images from The Fun Pimps.\n\n## Changelog\n\n* **v1.0.1: Drunk Gasoline buff only fires if you’re holding gasoline**  \n   * If you use a gasoline-powered tool (like an augur), that counts as “using” the gasoline too. This change prevents getting the buff in those cases.\n\n## Technical Details\n\nThis mod uses XPath to modify XML files, and does not require SDX or DMT. It should be compatible with EAC.\n\nHowever, the mod also includes new non-XML resources (new icons). These resources are not pushed from server to client. For this reason, the mod should be installed on both servers and clients.\n\nAfter installation, it is highly recommended to start a new game.\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=khzmusik_Bad_Medicine)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/).\n\n**Credits:** [Khzmusik](https://7daystodiemods.com/tag/khzmusik/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=khzmusik_Bad_Medicine",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/",
+  "modAuthors": [
+    "Khzmusik"
+  ],
+  "modTags": [
+    "7 days to die drinks",
+    "7 days to die medical supplies",
+    "Khzmusik"
+  ]
+}

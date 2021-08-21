@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/storage-size/",
+  "modCreatedTime": "2020-09-07T14:54:00+00:00",
+  "modLastUpdatedTime": "2020-09-07T14:55:23+00:00",
+  "modName": "Storage Size",
+  "modImages": [],
+  "modShortDescription": "This is a 7 Days to Die mod that makes craftable and buyable storage blocks capacity the same as the Secure Chest.",
+  "modDescription": "This is a 7 Days to Die mod that makes craftable and buyable storage blocks capacity the same as the Secure Chest.\n\nAll the storage containers that can be selected with the new crateble Wooden Storage / Furniture have the same number of container slots (8 x 9). The containers in questions are: Storage Box, Cabinet, Cupboard, Bookcase, Pillcase, Dresser, and Wooden Desk.\n\n## Changelog\n\n* **v1.04:** Fixed for new Alpha 19 loots.xml file.\n* **v1.03:** Added desk and wall safes\n* **v1.02:** Added file cabinets\n* **v1.01:** Added military munitions ammo boxes and lockers\n* **v1.00:** Original version (Nightstands, dressers, wooden desks, cabinets, cupboards, bookcases, and pillcases)\n\n**[Download](https://github.com/Laotseu/7dtdMods/releases/download/StorageSize_v1.04/StorageSize_v1.04.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19462-motorcyclealterations-v10-alpha-18/).\n\n**Credits:** [Eric Beaudoin](https://7daystodiemods.com/tag/eric-beaudoin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Laotseu/7dtdMods/releases/download/StorageSize_v1.04/StorageSize_v1.04.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19462-motorcyclealterations-v10-alpha-18/",
+  "modAuthors": [
+    "Eric Beaudoin"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die storage",
+    "Eric Beaudoin"
+  ]
+}

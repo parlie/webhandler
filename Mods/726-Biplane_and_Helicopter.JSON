@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/biplane-and-helicopter/",
+  "modCreatedTime": "2020-08-28T01:28:00+00:00",
+  "modLastUpdatedTime": "2021-04-28T21:28:04+00:00",
+  "modName": "Biplane and Helicopter",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/08/7-days-to-die-biplane-and-helicopter-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/08/7-days-to-die-biplane-and-helicopter-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "This mod adds a biplane and helicopter the player can acquire. These are craftable from level 1, but require parts for the vehicle you want.",
+  "modDescription": "This mod adds a biplane and helicopter the player can acquire. These are craftable from level 1, but require parts for the vehicle you want and are crafted on a workbench. Biplane parts come from biplane crash sites, and heli parts from heli crash sites. These will spawn randomly while you are exploring any area. Use a wrench, ratchet, or impact driver to salvage the parts. You may also find parts in the optional POI. If you create a new RWG with this modlet, it will spawn the POI. If you don’t, the mod is still playable just fine. This POI is targetable with all trader missions at all tiers.\n\nBiplane and helicopters are much more efficient on fuel use than vanilla [vehicles](https://7daystodiemods.com/tag/7-days-to-die-vehicles/). The biplane is really useful for getting across entire maps quickly, while the helicopter is slower, but allows up to 2 passengers to ride along and can hover.\n\nDoes not require restart.\n\nRequires client to install as well as server.\n\nTested and works with Alpha 19.4 b3\n\nRecommended to be played single player or multiplayer. Works fine on servers as well.\n\n## Changelog\n\n* **_(new)_** Added them to trader loots, but at a lower rate.\n* Did a quick change to remove biplane and helicopter recipes from loot. Was left in by mistake since the first iteration required learning the recipes.\n\n**[Download](https://www.dropbox.com/s/1unvtbhdfo0q69j/TelricsBiplaneAndHelicopterA19.zip?dl=1)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19976-telrics-a19-modlets/).\n\n**Credits:** [Telric](https://7daystodiemods.com/tag/telric/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/s/1unvtbhdfo0q69j/TelricsBiplaneAndHelicopterA19.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19976-telrics-a19-modlets/",
+  "modAuthors": [
+    "Telric"
+  ],
+  "modTags": [
+    "7 days to die helicopter mod",
+    "7 days to die plane",
+    "7 days to die prefab",
+    "7 days to die vehicles",
+    "Telric"
+  ]
+}

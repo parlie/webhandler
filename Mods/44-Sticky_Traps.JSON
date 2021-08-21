@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/sticky-traps/",
+  "modCreatedTime": "2020-06-01T03:09:50+00:00",
+  "modLastUpdatedTime": "2020-06-01T03:09:52+00:00",
+  "modName": "Sticky Traps",
+  "modImages": [],
+  "modShortDescription": "One version \"Sticky Trap\" is be strictly a trap that slows walked on. The other \"Sticky Spike Trap\" is the same trap but will cause damage when walked on.",
+  "modDescription": "There are 2 individual mods that can work together or separately. (May include 2 versions that aren’t completely invisible if requested enough)\n\nOne version “Sticky Trap” is be strictly a trap that slows players/zombies/animals when walked on. The other “Sticky Spike Trap” is the same trap but will cause damage to the players/zombies/animals when walked on.\n\nThe [trap](https://7daystodiemods.com/tag/7-days-to-die-traps/) is “invisible” meaning it will replicate the same ground look you place it on. If not placed on the ground will default to the ground material of the biome.\n\nIt would be best to dig out where you want the trap if possible as the trap places the same as dirt does. It can be place on top of flat ground but will be a lump.\n\nZombies do not, atleast in Su1C1daL’s testing, attempt to go around or avoid these traps either.\n\nStickiness and/or damage of the traps can be customized in the mod to your liking.\n\nThanks to rewtgr for the extensive code testing and the modding community helping to find a way around the limits. Mulitplayer requires the client that is connecting has the mod installed or you wont see the images for the icons he added to the items in inventory.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Su1C1daL/Su1C1dal-7DTD-Mods/tree/master/Su1C1dal%207DTD%20Sticky%20Trap%20Invisible)** Sticky Trap  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Su1C1daL/Su1C1dal-7DTD-Mods/tree/master/Su1C1dal%207DTD%20Sticky%20Spike%20Trap%20Invisible)** Sticky Spike Trap\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19055-su1c1dal-modlets/).\n\n**Credits:** [Su1C1daL](https://7daystodiemods.com/tag/su1c1dal/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Sticky Trap",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Su1C1daL/Su1C1dal-7DTD-Mods/tree/master/Su1C1dal%207DTD%20Sticky%20Trap%20Invisible",
+      "Version": "v19"
+    },
+    {
+      "Info": "Sticky Spike Trap",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Su1C1daL/Su1C1dal-7DTD-Mods/tree/master/Su1C1dal%207DTD%20Sticky%20Spike%20Trap%20Invisible",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19055-su1c1dal-modlets/",
+  "modAuthors": [
+    "Su1C1daL"
+  ],
+  "modTags": [
+    "7 days to die traps",
+    "Su1C1daL"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/nuclear-power-mod/",
+  "modCreatedTime": "2020-09-06T00:34:00+00:00",
+  "modLastUpdatedTime": "2021-07-25T02:13:11+00:00",
+  "modName": "Nuclear Power Mod",
+  "modImages": [],
+  "modShortDescription": "Sick of having to refill your generators every few minutes. Well wait no more. This mod adds nuclear power to the 7 Days to Die.",
+  "modDescription": "Sick of having to refill your generators every few minutes. Not to mention carrying those heavy engines and placing them in the Generator. Over the constant changing of Batteries for your battery bank. Lugging those heavy batteries around. Sick of the sun not charging your god damn solar cells to charge your solar bank to charge your stuff. Well wait no more.\n\nThis mod adds nuclear power to the 7 Days to Die.\n\n## Features\n\n* With the Nuclear Powered Generator you get to lift even heavier Engines, Thats great for your back.\n* Lug dangerous toxics nuclear batteries now instead of the safer acid version into your Nuclear Battery Bank.\n* And well the sun just got a whole lot brighter in answering your prayers with the you beaut Nuclear solar Bank.\n* Your nuclear batteries/engine/solarcells run out. Well then easily recharge them.\n* Vanilla Car Batteries, Solar Cells and Small Engines can now also be recharged/repaired, If nuclear scares you.\n\n## Changelog\n\n* **_(new)_** Fixed nuclear generator not outputting power, now works as intended.\n* Fixed recipes and removed multiple copies\n* Fixed unlocking schematics\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/Stallionsdens%20Nuclear%20Power)**\n\nIf you appreciate Stallionsden’s work and you want to show support, use this [donate link](http://paypal.me/AnthonyCar78).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19911-stallionsdens-and-valmars-a19-mod-thread/).\n\n**Credits:** [Stallionsden](https://7daystodiemods.com/tag/stallionsden/), Various  \n_Special Thanks:_ Telric",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/Stallionsdens%20Nuclear%20Power",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19911-stallionsdens-and-valmars-a19-mod-thread/",
+  "modAuthors": [
+    "Stallionsden",
+    "VariousSpecial Thanks: Telric"
+  ],
+  "modTags": [
+    "7 days to die electricity",
+    "Stallionsden"
+  ]
+}

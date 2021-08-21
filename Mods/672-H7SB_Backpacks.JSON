@@ -1,0 +1,29 @@
+{
+  "modURL": "https://7daystodiemods.com/h7sb-backpacks/",
+  "modCreatedTime": "2021-02-12T07:28:00+00:00",
+  "modLastUpdatedTime": "2021-02-12T07:34:02+00:00",
+  "modName": "H7SB Backpacks",
+  "modImages": [],
+  "modShortDescription": "Changes the existing inventory system and adds vanilla friendly backpacks of different sizes. All backpacks can be placed as a block with inventory.",
+  "modDescription": "This server side mod changes the existing inventory system and adds vanilla friendly [backpacks](https://7daystodiemods.com/tag/7-days-to-die-backpack/) of different sizes. These can be produced in different ways and unlock up to 60/96/120 inventory slots. All backpacks can be placed as a block with inventory. 10/12/15 additional slots can be gained through different pocket mods. Steroids/Packmule have been changed and unlock another 10/12/15 [slots](https://7daystodiemods.com/tag/7-days-to-die-more-slots/) (to rach the maximum). Additional a handy lock function for inventory slots.\n\n## 4 Different Backpacks\n\n* Shabby Backpack // 10/24/30 Slots // always unlocked // Trader\n* Backpack (blue) // 30/48/60 Slots // always unlocked // Trader\n* Backpack (blue) // 30/48/60 Slots // unlock via “Needle and Thread vol.7” // Trader (Secret Stash 1)\n* Military Backpack // 40/72/90 Slots // unlock via “Needle and Thread” Complete // Trader (Secret Stash 3)\n\nAll backpacks can be placed as a block with inventory.\n\n## Pocket Mod Rework\n\n* Small Pocket Mod // 2/3/4 Slots // always unlocked\n* Large Pocket Mod // 4/5/6 Slots // unlock via “Needle and Thread” Pockets\n* Coat Pocket Mod // 6/7/9 Slots // unlock via “Needle and Thread” Complete\n\n## Steroid/Packmule Rework\n\nSteroids // 10/12/15 Slots // –\n\n## Optional Mods Inside!\n\n* Drag and Drop “zBackpacks(96)” out to activate bigger size.\n* Drag and Drop “zBackpacks(120)” out to activate mega size.\n\nWhen downloading, make sure to pull the folder that contains a modinfo.xml into your mods folder and not the master!\n\n## Changelog\n\nLocalization Update\n\n## Copyrights: Attribution-NonCommercial-NoDerivatives 4.0 International\n\n* You are allowed to use this mod for your private use (singleplayer/multiplayer/server).\n* You are allowed to use this mod as part of your custom modpack (as separated mod).\n* You are not allow to reupload it without permission!\n* You are not allow to charge money for it!\n* You are not allow to copy over hole parts of it for your own Mod and release it under your name.\n* Of cause your allow to take inspiration to improve your existing code!\n\n**[Download](https://gitlab.com/EihwazDE/7D2D/-/archive/master/7D2D-master.zip?path=H7SB%20Backpacks)**\n\nIf you appreciate Eihwaz’s work and you want to show support, use this [donate link](https://www.paypal.com/pools/c/8nSUn4KFGL).\n\nIf you need help, you can use this [support link](https://discord.com/invite/StrFn7X).\n\n**Credits:** [Eihwaz](https://7daystodiemods.com/tag/eihwaz/), KhaineGB, Donovan",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/EihwazDE/7D2D/-/archive/master/7D2D-master.zip?path=H7SB%20Backpacks",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Eihwaz",
+    "KhaineGB",
+    "Donovan"
+  ],
+  "modTags": [
+    "7 days to die backpack",
+    "7 days to die bigger backpack",
+    "7 days to die more slots",
+    "7 days to die storage",
+    "Eihwaz"
+  ]
+}

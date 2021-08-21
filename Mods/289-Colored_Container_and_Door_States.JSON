@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/colored-container-and-door-states/",
+  "modCreatedTime": "2020-07-15T10:07:00+00:00",
+  "modLastUpdatedTime": "2020-07-15T10:07:15+00:00",
+  "modName": "Colored Container and Door States",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/03/7dtd-colored-container-and-door-states-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/03/7dtd-colored-container-and-door-states-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/07/7dtd-colored-container-and-door-states-screenshot-3.jpg"
+  ],
+  "modShortDescription": "It is just a simple 7 Days to Die mod that gives you a colored feedback about the cointainer and door states. It shoud be compatible with other mods.",
+  "modDescription": "It is just a simple 7 Days to Die mod that gives you a colored feedback about the cointainer and door states.\n\nIt shoud be compatible with other mods, because it is only an simple change of the localization.txt. Scomar tested it with [Darkness Falls](https://7daystodiemods.com/darkness-falls-mod/) and it worked well.\n\n**Supported Languages:** English and German in A18 and now new in A19 all languages supported.\n\n## Changelog\n\n* v1.3: Added missing highlighting when pick-up items in the world.\n* New Version 1.25 is ready for Download: Added some new highlighted colors for some pick up and use interactions.\n* New version 1.2 for Alpha 19 with all language support uploaded.\n\n**[Download](https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_ColoredConSta-A19.zip)** for A19  \n**[Download](https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_FarblicheKennzeichnung-A18.4.zip)** for A18\n\nIf you appreciate Scomar’s work and you want to show support, use this [donate link](https://www.paypal.me/Enrico1982).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17900-colored-container-and-door-states/).\n\n**Credits:** [Scomar](https://7daystodiemods.com/tag/scomar/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_ColoredConSta-A19.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_FarblicheKennzeichnung-A18.4.zip",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17900-colored-container-and-door-states/",
+  "modAuthors": [
+    "Scomar"
+  ],
+  "modTags": [
+    "Scomar"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/zmx-ui-war3zuk-cp-for-a18/",
+  "modCreatedTime": "2020-01-30T20:59:00+00:00",
+  "modLastUpdatedTime": "2021-04-17T21:03:17+00:00",
+  "modName": "ZMX UI War3zuk CP for A18",
+  "modImages": [],
+  "modShortDescription": "The purpose of this 7DTD mod is to enable compatibility between SMX UI and War3zuk Alpha 18 AIO. Dependencies: SMX UI, War3zuk Alpha 18 AIO.",
+  "modDescription": "The purpose of this 7DTD mod is to enable compatibility between SMX UI and War3zuk Alpha 18 AIO.\n\n* **Dependencies:** [SMX UI](https://7daystodiemods.com/smxui/), [War3zuk Alpha 18 AIO](https://7daystodiemods.com/war3zuk-aio-overhaul/).\n* **Compatibility:** Sirillion expect issues with mods that change or add workstations and perks.\n\n**[Download](https://github.com/Sirillion/ZMXuiWar3zukCP/archive/master.zip)**\n\nIf you feel like making a donation to support the development of the SMX mods, use [this link](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5VLRBAFXDCXBC&item_name=SMX+Development&currency_code=NOK&source=url).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/15206-smxui-a18/).\n\n**Credits:** [Sirillion](https://7daystodiemods.com/tag/sirillion/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Sirillion/ZMXuiWar3zukCP/archive/master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/15206-smxui-a18/",
+  "modAuthors": [
+    "Sirillion"
+  ],
+  "modTags": [
+    "7 days to die smx mods",
+    "Sirillion"
+  ]
+}

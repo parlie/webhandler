@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/trader-settings/",
+  "modCreatedTime": "2021-01-23T05:02:31+00:00",
+  "modLastUpdatedTime": "2021-01-23T05:02:32+00:00",
+  "modName": "Trader Settings",
+  "modImages": [],
+  "modShortDescription": "It is possible to configure trader separately so that they differ in requirements.",
+  "modDescription": "It is possible to configure [trader](https://7daystodiemods.com/tag/7-days-to-die-trader/) separately so that they differ in requirements.\n\n**Settings that can be changed:**\n\n* Buy markup\n* Sell markdown\n* Product update in game days\n* Full reset\n* Minimum number of items\n* Maximum number of items\n* Min items swapped\n* Max items swapped\n* Trader opening time\n* Trader closing time\n\n**[Download](https://github.com/sLimLong/Trader-Settings/archive/main.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/23340-trader-settings/).\n\n**Credits:** [Slimlong103](https://7daystodiemods.com/tag/slimlong103/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/sLimLong/Trader-Settings/archive/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/23340-trader-settings/",
+  "modAuthors": [
+    "Slimlong103"
+  ],
+  "modTags": [
+    "7 days to die trader",
+    "Slimlong103"
+  ]
+}

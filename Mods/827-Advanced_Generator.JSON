@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/advanced-generator/",
+  "modCreatedTime": "2021-06-30T18:46:18+00:00",
+  "modLastUpdatedTime": "2021-06-30T18:46:19+00:00",
+  "modName": "Advanced Generator",
+  "modImages": [],
+  "modShortDescription": "Updates the battery bank to automatically shut down the generator when all batteries are fully charged and start it up when they are all flat.",
+  "modDescription": "Updates the battery bank to automatically shut down the generator when all batteries are fully charged and start it up when they are all flat.\n\nAlso adds ‘Generator Fuel’ a barrel that when placed beside the generator you can put gas in it that will be automatically added to your generator when its about to run out of fuel.\n\nThe [generator](https://7daystodiemods.com/tag/7-days-to-die-electricity/) fuel block must be placed so the pipe sits over the generators gas cap.\n\nYou can have relays between the generator and battery bank but nothing else or it wont turn it on and off.\n\nThe changes are made to the original generator and battery banks. If you want to use just the battery bank part or just the refueling part of this mod you can make changes in the config/blocks.xml\n\nYou should only connect 1 battery bank per generator or it wont function correctly. He’ll look into fixing this once he has all his other mods updated.\n\nThis is a DMT mod. So requires [DMT Modding Tool](https://community.7daystodie.com/topic/13037-dmt-modding-tool/).\n\n**[Download](https://www.mediafire.com/file/q9nu5jzbr4et3ep/Advanced_Generator_v1.0.rar/file)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24682-advanced-generator/).\n\n**Credits:** [Three08](https://7daystodiemods.com/tag/three08/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.mediafire.com/file/q9nu5jzbr4et3ep/Advanced_Generator_v1.0.rar/file",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/24682-advanced-generator/",
+  "modAuthors": [
+    "Three08"
+  ],
+  "modTags": [
+    "7 days to die electricity",
+    "Three08"
+  ]
+}

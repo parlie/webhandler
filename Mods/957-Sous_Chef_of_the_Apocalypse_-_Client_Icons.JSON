@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/sous-chef-of-the-apocalypse-client-icons/",
+  "modCreatedTime": "2021-08-10T08:33:59+00:00",
+  "modLastUpdatedTime": "2021-08-10T08:34:00+00:00",
+  "modName": "Sous Chef of the Apocalypse - Client Icons",
+  "modImages": [],
+  "modShortDescription": "This mod adds client side icons for the mod: Doughs-Food-SousChefOfTheApocalypse. This mod, containing icons, is not server side safe.",
+  "modDescription": "This mod adds client side icons for the mod: Doughs-Food-SousChefOfTheApocalypse (which is an XML only server side safe mod and does not contain custom icons). This mod, containing icons, is not server side safe.\n\nThis mod was made so as to still allow the Doughs-Food-SousChefOfTheApocalypse mod to be server side safe, but to give the option of adding the [icons](https://7daystodiemods.com/tag/7-days-to-die-icons/) if you wish to in single player, with friends, or if the server decides to require it as a mod.\n\n## Requirements\n\n[Doughs-Food-SousChefOfTheApocalypse](https://7daystodiemods.com/sous-chef-of-the-apocalypse/) must be loaded for this mod to work.\n\n## Notes\n\nIf joining a server, and the server does not have this mod, the icons will not show if you have this mod loaded (like every non server side safe mod)\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-Food-SousChefOfTheApocalypse-ClientIcons)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-Food-SousChefOfTheApocalypse-ClientIcons",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "7 days to die drinks",
+    "7 days to die food",
+    "7 days to die icons",
+    "Doughphunghus"
+  ]
+}

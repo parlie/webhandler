@@ -1,0 +1,37 @@
+{
+  "modURL": "https://7daystodiemods.com/open-door-syndrome/",
+  "modCreatedTime": "2020-12-05T03:44:00+00:00",
+  "modLastUpdatedTime": "2021-07-25T02:13:16+00:00",
+  "modName": "Open Door Syndrome",
+  "modImages": [],
+  "modShortDescription": "This mod makes all objects that have a open version to them become open state once you have looted them.",
+  "modDescription": "You ever wonder how the previous raiders looted the cabinets and left them open but for you they stayed closed. WELL not no more. This mod makes all objects that have a open version to them become open state once you have looted them.\n\nLoot a microwave bam it is now open. Loot a fridge BAM it is now open. You get the drift.\n\n**WARNING:** Disregard yellow text that can be seen in the console. Those warnings are nothing important. Just means there is a repeating cycle of down / upgrades. x goes to y goes to z goes to x.\n\nCompatible with [Lock Picking Additions](https://7daystodiemods.com/lock-picking-additions/). Not compatible with [Open Door Syndrome With Respawn and Lock Picking Additions](https://7daystodiemods.com/open-door-syndrome-with-respawn/).\n\n**WARNING:** May not work with close those darn doors altho Stallionsden doesn’t see why not ones upgrade ones downgrade. Haven’t tested.\n\n## Changelog\n\n* **_(new)_** Fixed: Continual loop when trying to destroy.  \n   * **Please Note:** The stove, the fridges, the old cabinetbottom and the steel desk will have to be destroyed twice to get rid of as the extends on those did not work. All others work fine. (No double loot tho)\n* Added: New electronic shelving\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/Stallionsdens%20Open%20Door%20Syndromes)** Open Door Syndromes  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/Stallionsdens%20Open%20Door%20Syndrome%201)** Open Door Syndrome 1\n\nIf you appreciate Stallionsden’s work and you want to show support, use this [donate link](http://paypal.me/AnthonyCar78).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19911-stallionsdens-and-valmars-a19-mod-thread/).\n\n**Credits:** [Stallionsden](https://7daystodiemods.com/tag/stallionsden/), OldManBrian, Various  \n_Additional Credits:_ KhaineGB, Khelldon, Dust2Death, Telric, Quasimiyao, SphereII and anyone else whom he forgot to mention.",
+  "modDownloadURLs": [
+    {
+      "Info": "Open Door Syndromes",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/Stallionsdens%20Open%20Door%20Syndromes",
+      "Version": "v19"
+    },
+    {
+      "Info": "Open Door Syndrome 1",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/stallionsmodlets/tree/main/Stallionsdens%20Open%20Door%20Syndrome%201",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19911-stallionsdens-and-valmars-a19-mod-thread/",
+  "modAuthors": [
+    "Stallionsden",
+    "OldManBrian",
+    "VariousAdditional Credits: KhaineGB",
+    "Khelldon",
+    "Dust2Death",
+    "Telric",
+    "Quasimiyao",
+    "SphereII and anyone else whom he forgot to mention."
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "Stallionsden"
+  ]
+}

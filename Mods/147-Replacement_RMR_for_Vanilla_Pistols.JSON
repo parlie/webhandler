@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/replacement-rmr-for-vanilla-pistols/",
+  "modCreatedTime": "2020-02-27T07:02:00+00:00",
+  "modLastUpdatedTime": "2020-06-03T21:28:35+00:00",
+  "modName": "Replacement RMR for Vanilla Pistols",
+  "modImages": [],
+  "modShortDescription": "It removes the players ability to mount the standard reflex sight on pistols, and adds a small RMR optic for players to find and use instead.",
+  "modDescription": "This is a fairly small 7 Days to Die mod that does a few things. It removes the players ability to mount the standard reflex sight on [pistols](https://7daystodiemods.com/tag/7-days-to-die-weapons/), and adds a small RMR optic for players to find and use instead.\n\nIt functions equally to the vanilla reflex and has a proper illuminated reticle. You can find it anywhere you’d be able to find a full size reflex.\n\n**Changelog**\n\n* 1.0: Initial release\n* 1.05: Restructured xpath more elegantly, improving compatibility with other mods.\n* 1.1: Raised red dot a bit to improve lower visibility and fine tuned materials. Also increased camera zoom slightly to better match vanilla.\n* 1.11: Fixed magnum offsets.\n\n**[Download](https://www.mediafire.com/file/ibr6fjt3zrxwea1/Vanilla_Pistol_RMR_Replacer_1-11.zip/file)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17701-replacement-rmr-for-vanilla-pistols/).\n\n**Credits:** [Sykriss](https://7daystodiemods.com/tag/sykriss/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.mediafire.com/file/ibr6fjt3zrxwea1/Vanilla_Pistol_RMR_Replacer_1-11.zip/file",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17701-replacement-rmr-for-vanilla-pistols/",
+  "modAuthors": [
+    "Sykriss"
+  ],
+  "modTags": [
+    "7 days to die weapons",
+    "Sykriss"
+  ]
+}

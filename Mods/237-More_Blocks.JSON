@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/more-blocks/",
+  "modCreatedTime": "2020-06-26T20:01:08+00:00",
+  "modLastUpdatedTime": "2020-06-26T20:01:10+00:00",
+  "modName": "More Blocks",
+  "modImages": [],
+  "modShortDescription": "This is a 7 Days to Die mod that adds recipes for decoration block, making them available to players in-game.",
+  "modDescription": "This is a 7 Days to Die mod that adds recipes for decoration block, making them available to players in-game.\n\n* **1.00:** Make door frames, window trims, and more doors available to players (including recipes)\n* **1.01:** Make missing gable block available (including recipes)\n* **1.02:**  \n   * Removed the gable blocks for now  \n   * Add all windows to Business Glass Pane helper block  \n   * Created new craftable helper blocks for  \n         * Wood Door Frames and Windows Trims  \n         * Metal Door Frames  \n         * Wood Doors  \n         * Metal Doors  \n   * Logan’s Special: Add Bar Stools to the craftable Metal Furniture\n* **1.03:**  \n   * Created a new craftable wood block helper to allow players to use all the wood blocks in the game including the wood gable blocks  \n   * Added Crowns to the Wood Door Frames and Window Trims helper\n\n**[Download](https://github.com/Laotseu/7dtdMods/releases/download/MoreBlocks_v1.03/MoreBlocks_v1.03.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19462-motorcyclealterations-v10-alpha-18/).\n\n**Credits:** [Eric Beaudoin](https://7daystodiemods.com/tag/eric-beaudoin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Laotseu/7dtdMods/releases/download/MoreBlocks_v1.03/MoreBlocks_v1.03.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19462-motorcyclealterations-v10-alpha-18/",
+  "modAuthors": [
+    "Eric Beaudoin"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die doors",
+    "Eric Beaudoin"
+  ]
+}

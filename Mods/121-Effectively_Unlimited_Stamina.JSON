@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/effectively-unlimited-stamina/",
+  "modCreatedTime": "2020-01-27T12:25:37+00:00",
+  "modLastUpdatedTime": "2020-06-02T15:03:23+00:00",
+  "modName": "Effectively Unlimited Stamina",
+  "modImages": [],
+  "modShortDescription": "This 7DTD reduces the stamina usage for almost everything to nothing, regeneration should outpace usage, especially when you run.",
+  "modDescription": "This 7DTD reduces the stamina usage for almost everything to nothing, regeneration should outpace usage, especially when you run, and it also reduces the food and water consumption when you use [stamina](https://7daystodiemods.com/tag/7-days-to-die-stamina/).\n\nUpdated for Alpha 18, the only thing Luc couldn’t find was stamina usage while holding a knocked arrow.\n\n**[Download](http://cdgroup.org/files/7dtd/EffectivelyUnlimitedStamina.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/8777-lucs-modlet-collection-quality-bonuses-better-stamina-terrain-mv-spd-etc/).\n\n**Credits:** [Luc](https://7daystodiemods.com/tag/luc/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "http://cdgroup.org/files/7dtd/EffectivelyUnlimitedStamina.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/8777-lucs-modlet-collection-quality-bonuses-better-stamina-terrain-mv-spd-etc/",
+  "modAuthors": [
+    "Luc"
+  ],
+  "modTags": [
+    "7 days to die stamina",
+    "Luc"
+  ]
+}

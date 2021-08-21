@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/storage-container-mod/",
+  "modCreatedTime": "2020-09-15T12:18:00+00:00",
+  "modLastUpdatedTime": "2020-09-15T12:21:06+00:00",
+  "modName": "Storage Container Mod",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/06/7-days-to-die-storage-container-mod-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Ever wish you could use those nice looking ammo/weapons/food/medical piles and those new A19 containers found in POIs as lockable containers in your base?",
+  "modDescription": "Ever wish you could use those nice looking ammo/weapons/food/medical piles and those new A19 containers found in POIs as lockable containers in your base? Well now you can with Laz Man’s latest mod. Enjoy!\n\n**v1.3**\n\n* Updated for A19 Compatibility (A19.1 B4)  \n   * block name change from “woodFurnitureBlockVariantHelper” to “cntwoodFurnitureBlockVariantHelper”  \n   * block name change from “cntAmmoPileSmall\\_02” to “cntAmmoPileSmall\\_storage”  \n   * block name change from “cntAmmoPileMedium\\_02” to “cntAmmoPileMedium\\_storage”  \n   * block name change from “cntAmmoPileLarge\\_02” to “cntAmmoPileLarge\\_storage”  \n   * block name change from “cntWeaponsBagSmall\\_02” to “cntWeaponsBagSmall\\_storage”  \n   * block name change from “cntWeaponsBagLarge\\_02” to “cntWeaponsBagLarge\\_storage”  \n   * block name change from “cntFoodPileSmall\\_02” to “cntFoodPileSmall\\_storage”  \n   * block name change from “cntFoodPileMedium\\_02” to “cntFoodPileMedium\\_storage”  \n   * block name change from “cntFoodPileLarge\\_02” to “cntFoodPileLarge\\_storage”  \n   * block name change from “cntMedicLootPileA\\_02” to “cntMedicLootPileA\\_storage”  \n   * block name change from “cntMedicLootPileB\\_02” to “cntMedicLootPileB\\_storage”\n* Added the following 43 blocks as additional lockable containers within the shape selector for the existing vanilla Storage Container / Furniture block.  \n   * cntBookShelfSingleBottomFull01\\_storage  \n   * cntBookShelfSingleBottomFull02\\_storage  \n   * cntBookShelfSingleTopFull01\\_storage  \n   * cntBookShelfSingleTopFull02\\_storage  \n   * cntGunRackLargeGuns01\\_storage  \n   * cntGunRackLargeGuns02\\_storage  \n   * cntGunRackSmallArmor\\_storage  \n   * cntGunRackSmallMagazines\\_storage  \n   * cntStoreShelfSingleTopHardware01\\_storage  \n   * cntStoreShelfSingleTopHardware02\\_storage  \n   * cntStoreShelfSingleBottomHardware01\\_storage  \n   * cntStoreShelfSingleBottomHardware02\\_storage  \n   * cntStoreShelfSingleTopFood01\\_storage  \n   * cntStoreShelfSingleBottomFood01\\_storage  \n   * cntStoreShelfSingleBottomFood02\\_storage  \n   * cntStoreShelfSingleBottomPharmaGoods01\\_storage  \n   * cntStoreShelfSingleBottomPharmaGoods02\\_storage  \n   * cntStoreShelfElectronicsSingleBottomPC\\_storage  \n   * cntStoreShelfElectronicsSingleBottomElectronicsMonitor\\_storage  \n   * cntStoreShelfElectronicsSingleBottomGoodsMisc\\_storage  \n   * cntStoreShelfElectronicsSingleBottomHeadphones\\_storage  \n   * cntStoreShelfElectronicsSingleBottomKeyboard\\_storage  \n   * cntStoreShelfElectronicsSingleBottomLaptopOpen\\_storage  \n   * cntStoreShelfElectronicsSingleBottomLaptopClosed\\_storage  \n   * cntStoreShelfElectronicsSingleBottomSpeaker\\_storage  \n   * cntClothesShelfHalfJeans01\\_storage  \n   * cntClothesShelfHalfJeans02\\_storage  \n   * cntClothesShelfHalfShirts01\\_storage  \n   * cntClothesShelfHalfShirts02\\_storage  \n   * cntClothesShelfHalfSweaters01\\_storage  \n   * cntClothesShelfStackJeans01\\_storage  \n   * cntClothesShelfStackJeans02\\_storage  \n   * cntClothesShelfStackShirts01\\_storage  \n   * cntClothesShelfStackShirts02\\_storage  \n   * cntClothesRackRoundPants\\_storage  \n   * cntClothesRackRoundShirts\\_storage  \n   * cntClothesRackRectanglePants\\_storage  \n   * cntClothesRackRectangleShirts\\_storage  \n   * cntClothesRackWallPants\\_storage  \n   * cntClothesRackWallLongSleeve\\_storage  \n   * cntClothesRackWallSweater\\_storage  \n   * cntClothesRackWallTShirts\\_storage  \n   * cntStoreShelfSingleBottomShoesFull\\_storage\n\n**v1.2:** Added the following blocks as additional lockable containers within the shape selector for the existing vanilla Storage Container / Furniture block.\n\n* cntFoodPileSmall\\_02\n* cntFoodPileMedium\\_02\n* cntFoodPileLarge\\_02\n* cntMedicLootPileA\\_02\n* cntMedicLootPileB\\_02\n\n**v1.1:** Added the following blocks as additional lockable containers within the shape selector for the existing vanilla [Storage](https://7daystodiemods.com/tag/7-days-to-die-storage/) Container / Furniture block.\n\n* cntWeaponsBagSmall\\_02\n* cntWeaponsBagLarge\\_02\n\nAdjusted HP for all Ammo/Weapons Bag containers to 225.\n\n**v1.0:** Adds the following blocks as alternate lockable containers within the shape selector for the existing vanilla Storage Container / Furniture block.\n\n* cntAmmoPileSmall\\_02\n* cntAmmoPileMedium\\_02\n* cntAmmoPileLarge\\_02\n\n**Note:** This mod creates new ammo/weapons/food/medical blocks so those within POIs are not impacted.\n\n**[Download](https://drive.google.com/file/d/1fy74uv0Pv6yEPzZjoHjfhWKpecYOihaW/view?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17240-laz-mans-modlets/).\n\n**Credits:** [Laz Man](https://7daystodiemods.com/tag/laz-man/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1fy74uv0Pv6yEPzZjoHjfhWKpecYOihaW/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17240-laz-mans-modlets/",
+  "modAuthors": [
+    "Laz Man"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die books",
+    "7 days to die clothing",
+    "7 days to die food",
+    "7 days to die medical supplies",
+    "7 days to die storage",
+    "7 days to die weapons",
+    "Laz Man"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/billboards/",
+  "modCreatedTime": "2019-11-18T04:11:53+00:00",
+  "modLastUpdatedTime": "2020-06-02T14:23:27+00:00",
+  "modName": "Billboards",
+  "modImages": [],
+  "modShortDescription": "This mod adds 2 new billboards to the game. A mechanical billboard that shows 3 unique images and an electronic billboard that will play video clips.",
+  "modDescription": "This mod adds 2 new billboards to the game:\n\n* Billboard01 is a mechanical billboard that shows 3 unique images on each side of the billboard. This is a single texture sheet which you can edit in a graphics program then import into unity and the reexport.\n* BillboardVideoMP4 is an electronic version, that will play 3 video clips (or entire movies) in rotation. Like 3 TV channels. Best part is you can replace the 3 video files in the mods/resources folder with your own.\n\nIf you put down a land claim block you can pick these up by holding the E key.\n\n## Installing\n\nThis is a modlet. Normal modlet install. If you swap out any of the videos, they must have the exact same name and file extension as the one you’re replacing. Those names are hard coded. It won’t like strange .mp4 encoding so keep it simple.\n\nThis is tested to work on dedi as well.\n\n## Known Issues\n\nSometimes the sound plays for a few seconds if you enter the game next to a billboard that has sound. This is because Xyth need to active them on start as he can’t use code to do that. Minor annoyance, but he will look for a workaround.\n\nYou need to activate a newly placed billboard by attaching a wire to it, but you can immediately remove that wire. That is because Xyth is using the switch class and it expects a wire to the switch. No way to fix that without code.\n\nVideos need to be in .mp4 format. He added a version that supports .ogv, but the game won’t play it even though Unity2018 supports it.\n\nUntil TFP updates the patch level of the Unity game engine, sounds will not decrease with distance, unless he can find a workaround.\n\n[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A17Mods/tree/master/BillBoards) for Alpha 17  \n[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/BillBoards) for Alpha 18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/8400-xyths-modlet-collection/).\n\n**Credits:** [Xyth](https://7daystodiemods.com/tag/xyth/)  \n_Special Thanks:_ SphereII",
+  "modDownloadURLs": [
+    {
+      "Info": "\nThis mod adds 2 new billboards to the game:\nBillboard01 is a mechanical billboard that shows 3 unique images on each side of the billboard. This is a single texture sheet which you can edit in a graphics program then import into unity and the reexport.\nBillboardVideoMP4 is an electronic version, that will play 3 video clips (or entire movies) in rotation. Like 3 TV channels. Best part is you can replace the 3 video files in the mods/resources folder with your own.\nIf you put down a land claim block you can pick these up by holding the E key.\n <iframe loading=\"lazy\" title=\"Billboards Modlet!\" width=\"930\" height=\"523\" src=\"https://www.youtube.com/embed/0rqmZ3dqypk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\nInstalling\nThis is a modlet. Normal modlet install. If you swap out any of the videos, they must have the exact same name and file extension as the one you’re replacing. Those names are hard coded. It won’t like strange .mp4 encoding so keep it simple.This is tested to work on dedi as well.\nKnown Issues\nSometimes the sound plays for a few seconds if you enter the game next to a billboard that has sound. This is because Xyth need to active them on start as he can’t use code to do that. Minor annoyance, but he will look for a workaround.\nYou need to activate a newly placed billboard by attaching a wire to it, but you can immediately remove that wire. That is because Xyth is using the switch class and it expects a wire to the switch. No way to fix that without code.\nVideos need to be in .mp4 format. He added a version that supports .ogv, but the game won’t play it even though Unity2018 supports it.\nUntil TFP updates the patch level of the Unity game engine, sounds will not decrease with distance, unless he can find a workaround.\nfor Alpha 17",
+      "Version": "v18"
+    },
+    {
+      "Info": "for Alpha 18\nThe forum topic of the mod is here.\nCredits: Xyth",
+      "Version": "v18"
+    },
+    {
+      "Info": "Special Thanks: SphereII\nShare this mod with your friends:",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/8400-xyths-modlet-collection/",
+  "modAuthors": [
+    "XythSpecial Thanks: SphereII"
+  ],
+  "modTags": [
+    "7 days to die billboards",
+    "Xyth"
+  ]
+}

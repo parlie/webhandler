@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/md-500-helicopter/",
+  "modCreatedTime": "2020-09-06T03:39:00+00:00",
+  "modLastUpdatedTime": "2021-04-29T20:51:27+00:00",
+  "modName": "MD-500 Helicopter",
+  "modImages": [],
+  "modShortDescription": "Need something with more comfort than the rough-edged gyrocopter? The MD-500 helicopter should suit you perfectly!",
+  "modDescription": "Need something with more comfort than the rough-edged gyrocopter? The MD-500 helicopter should suit you perfectly!\n\nIt requires Grease Monkey level 5 to craft.\n\nHas same storage as the gyro, but can carry a total of 4 people.\n\nHigh fuel consumption, but holds quite a bit.\n\nSpeed is set to 25\\. Durability is 5k. Has a wide search light.\n\nDoes fly a bit odd. Doesn’t have any roll to it, so it can be tricky lining up landings just right.\n\nLike the gyro, “W” is lift, “A” and “D” turn it, “S” makes it fall quicker, “C” rotates the nose down and “Space” rotates the nose up.\n\n## Changelog\n\nAdded new engine/horn sounds.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/MD-500)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/MD-500)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11875-bdubyahs-modlets/).\n\n**Credits:** [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/MD-500",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/MD-500",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11875-bdubyahs-modlets/",
+  "modAuthors": [
+    "Bdubyah"
+  ],
+  "modTags": [
+    "7 days to die helicopter mod",
+    "7 days to die vehicles",
+    "Bdubyah"
+  ]
+}

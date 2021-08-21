@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/quality-effectiveness-bonuses/",
+  "modCreatedTime": "2020-02-19T16:36:07+00:00",
+  "modLastUpdatedTime": "2020-06-02T15:01:43+00:00",
+  "modName": "Quality Effectiveness Bonuses",
+  "modImages": [],
+  "modShortDescription": "This one goes a step beyond just adding damage, it also adds, speed of attack for all weapons, and for ranged weapons, more accurate, less recoil and more.",
+  "modDescription": "This one goes a step beyond just adding damage, it also adds, speed of attack for all [weapons](https://7daystodiemods.com/tag/7-days-to-die-weapons/), and for ranged weapons, more accurate, less recoil, better handling, increased ranged, etc… All based on quality level.\n\n## Reduced Stamina Usage by Quality Level\n\nThis is an addon to the Quality Effectiveness Bonuses, if you also want to have items reduce the stamina usage for using them, this one is for you.\n\n**[Download](http://cdgroup.org/files/7dtd/QualityEffectivenessBonuses.zip)** Quality Effectiveness Bonuses  \n**[Download](http://cdgroup.org/files/7dtd/ReducedStaminaUsagebyQualityLevel.zip)** Reduced Stamina Usage Addon\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/8777-lucs-modlet-collection-quality-bonuses-better-stamina-terrain-mv-spd-etc/).\n\n**Credits:** [Luc](https://7daystodiemods.com/tag/luc/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Quality Effectiveness Bonuses",
+      "URL": "http://cdgroup.org/files/7dtd/QualityEffectivenessBonuses.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Reduced Stamina Usage Addon",
+      "URL": "http://cdgroup.org/files/7dtd/ReducedStaminaUsagebyQualityLevel.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/8777-lucs-modlet-collection-quality-bonuses-better-stamina-terrain-mv-spd-etc/",
+  "modAuthors": [
+    "Luc"
+  ],
+  "modTags": [
+    "7 days to die stamina",
+    "7 days to die weapons",
+    "Luc"
+  ]
+}

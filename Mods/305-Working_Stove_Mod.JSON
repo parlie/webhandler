@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/working-stove-mod/",
+  "modCreatedTime": "2020-07-01T19:14:00+00:00",
+  "modLastUpdatedTime": "2020-07-19T02:38:48+00:00",
+  "modName": "Working Stove Mod",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod adds a Stove Upgrade Kit you craft. Using a hammer or nailgun upgrade the open non lootable stoves in the 7DTD world to a working one.",
+  "modDescription": "Always wish you could cook on a real stove and not a campfire? This 7 Days to Die mod adds a Stove Upgrade Kit you craft. Using a hammer or nailgun upgrade the open non lootable stoves in the 7DTD world to a working one to use as a campfire.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_WorkingStoves)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/JaxTeller718_Modlets_Stable/tree/master/JaxTeller718_WorkingStoves)** for A18\n\nIf you appreciate JaxTeller718’s work here feel free to use this [donate link](https://www.paypal.me/FrankCirabisiJr) to show support.\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19674-jaxteller718-a19-modlet-collection/).\n\n**Credits:** [JaxTeller718](https://7daystodiemods.com/tag/jaxteller718/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_WorkingStoves",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/JaxTeller718_Modlets_Stable/tree/master/JaxTeller718_WorkingStoves",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19674-jaxteller718-a19-modlet-collection/",
+  "modAuthors": [
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "JaxTeller718"
+  ]
+}

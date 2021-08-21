@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/nerf-junk-turret/",
+  "modCreatedTime": "2020-02-27T07:06:26+00:00",
+  "modLastUpdatedTime": "2020-12-03T13:34:22+00:00",
+  "modName": "Nerf Junk Turret",
+  "modImages": [],
+  "modShortDescription": "This 7DTD modlet makes the vanilla junk turret much less powerful, especially in early game. It is basically much slower, less scaning range, and weaker.",
+  "modDescription": "This 7DTD modlet makes the vanilla junk turret much less powerful, especially in early game. Hopefully only a high tier modded junk turret will actually be capable of causing real damage to enemies vs a warning signal. The lower unmodded tier junk [turrets](https://7daystodiemods.com/tag/7-days-to-die-traps/) are more of a “watch your back” item than a “can destroy all Zombies for me” item. It is basically much slower, less scaning range, and weaker.\n\n**Details**\n\n* Junk turret damage to entities has been reduced.\n* “Recoil” from manually firing it has been increased.\n* Range (entity detection, ammo, and player activation) has been reduced.\n* When deployed its “movement speed” and “scan area” and other movement related things have been reduced.\n* Firing rate has been left alone.\n* Junk turret [ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/) stacking has been reduced. Some modding bonuses have been dropped.\n\nIn order to compensate (slightly) for all the above, more items can now make ammo for the junk turret so when carrying one around its more likely you will have something available to can quickly make ammo from. These make the same generic “Junk Turret Ammo”:\n\n* Scrap Iron <- Vanilla recipe. The cost of scrap iron for ammo has been increased.\n* Scrap Brass\n* Cobblestones\n* Scrap Lead\n* Mechanical Parts\n* Glass <- Can only be made in the forge with crucible. Basically “crude blobs of glass”.\n\n**Note:** The items were chosen as “weighty/chunky” resource items. Doughphunghus cannot find a good way to make the junk turret ammo do different damage per ammo type. If he can figure this out He will maybe make separate ammo types, add broken glass, etc.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a18/tree/main/Doughs-Nerf-JunkTurret)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a18/tree/main/Doughs-Nerf-JunkTurret",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die traps",
+    "Doughphunghus"
+  ]
+}

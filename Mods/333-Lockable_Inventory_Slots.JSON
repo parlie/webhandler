@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/lockable-inventory-slots/",
+  "modCreatedTime": "2020-08-06T20:16:00+00:00",
+  "modLastUpdatedTime": "2020-08-06T20:16:21+00:00",
+  "modName": "Lockable Inventory Slots",
+  "modImages": [],
+  "modShortDescription": "Adds the \"box\" from the backpack buttons modlet that allows the user to lock slots so they won't be moved OR sorted.",
+  "modDescription": "Adds the “box” from the [backpack buttons](https://7daystodiemods.com/backpack-buttons/) modlet that allows the user to lock slots so they won’t be moved OR sorted. Also adds one to vehicle inventory that does the same thing.\n\n## Changelog\n\nUpdated to move the box + arrows to the left of the sort button so it doesn’t overlap the “clear inventory” button.\n\n**[Download](https://gitlab.com/KhaineGB/khaines-modlets-a19/-/archive/master/khaines-modlets-a19-master.zip?path=KHA19-LockableInvSlots)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19558-khaines-a19-modlets-bigger-backpacks-backpack-buttons-hp-bars-etc/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/KhaineGB/khaines-modlets-a19/-/archive/master/khaines-modlets-a19-master.zip?path=KHA19-LockableInvSlots",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19558-khaines-a19-modlets-bigger-backpacks-backpack-buttons-hp-bars-etc/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "7 days to die backpack",
+    "7 days to die buttons",
+    "KhaineGB"
+  ]
+}

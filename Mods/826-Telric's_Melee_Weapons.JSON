@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/telrics-melee-weapons/",
+  "modCreatedTime": "2021-06-30T01:28:44+00:00",
+  "modLastUpdatedTime": "2021-06-30T01:28:45+00:00",
+  "modName": "Telric's Melee Weapons",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-telrics-melee-weapons-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-telrics-melee-weapons-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-telrics-melee-weapons-additional-screenshot-3.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-telrics-melee-weapons-additional-screenshot-4.jpg"
+  ],
+  "modShortDescription": "This is a melee weapons mod pack. At the moment this includes an acoustic guitar, a crowbar, a rusty metal pipe, and a golf club.",
+  "modDescription": "This is a melee weapons mod pack. Items can be found in loot, or crafted once you find the schematic. At the moment this includes an acoustic guitar, a crowbar, a rusty metal pipe, and a golf club. Over time when Telric create [weapon](https://7daystodiemods.com/tag/7-days-to-die-weapons/) models, he will update this mod to include them.\n\nDoes not require restart. Tested and works with Alpha 19.5 b60.\n\nRecommended to be played single player or multiplayer. Works fine on servers as well. Requires client to install as well as server.\n\n**[Download](https://www.dropbox.com/s/swjb3q9clrn20y8/TelricsMeleeWeaponsPackA19.zip?dl=1)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19976-telrics-a19-modlets/).\n\n**Credits:** [Telric](https://7daystodiemods.com/tag/telric/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/s/swjb3q9clrn20y8/TelricsMeleeWeaponsPackA19.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19976-telrics-a19-modlets/",
+  "modAuthors": [
+    "Telric"
+  ],
+  "modTags": [
+    "7 days to die melee weapons",
+    "7 days to die weapons",
+    "Telric"
+  ]
+}

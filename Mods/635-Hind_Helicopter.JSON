@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/hind-helicopter/",
+  "modCreatedTime": "2020-12-07T08:33:51+00:00",
+  "modLastUpdatedTime": "2021-01-12T00:11:14+00:00",
+  "modName": "Hind Helicopter",
+  "modImages": [],
+  "modShortDescription": "This is Heli is using different controls compared to the Gyro. This was done as a project learning curve on Helicopters in Unity for himself and Tiger.",
+  "modDescription": "Ragsy has been busy with other things of late and other real life stuff… He has started working on [Vehicle Madness](https://7daystodiemods.com/vehicle-madness/) updates and trying to get time to sort of some more watercraft.\n\nThis however was done as a project learning curve on Helicopters in Unity for himself and Tiger… They needed the practice.\n\nThis is Heli is using different controls compared to the Gyro,\n\n**Controls are**\n\n* Spacebar = up/tilt back slighlty\n* C = Down/Tiltforward Slightly\n* W = Forward and Shift for Turbo\n* S = Slow/Brake/reverse\n* AD = Left/right\n\nHelicopter will go to ground when you run out of fuel, also will not have any lift to take off from the ground if no fuel.\n\nHe think it flies quite well using these controls you can climb and use C to level, when descending hit C to go down and use S to brake if needed and use spaceback to tilt back a bit. With a bit of practice and you can get used to it.\n\nFor those interested in the xml, motor 2 is to spin the tail rotor propeller with no forces applied as the only way this style of control will work, Motor1 has to be set to input forward which without the secondary motor looks odd as tail rotor would come to a stop and spin down when hovering.\n\nAlso additional forces applied via Force 6 and 7 to add the tilt back on take off and tilt forward on decend.\n\n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_and_Tigers_Hind_Helicopter)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/), Tiger",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_and_Tigers_Hind_Helicopter",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145",
+    "Tiger"
+  ],
+  "modTags": [
+    "7 days to die helicopter mod",
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/slickster43s-modified-rwg-4k-map/",
+  "modCreatedTime": "2020-12-14T00:28:43+00:00",
+  "modLastUpdatedTime": "2021-05-09T20:11:36+00:00",
+  "modName": "Slickster43's Modified RWG 4K Map",
+  "modImages": [],
+  "modShortDescription": "Slickster43 took a vanilla RWG 4K map and modified the list of POIs and Spawn Points. The map now contains 10 traders. There are towns in every biome type.",
+  "modDescription": "Navezgane is great, but it gets boring after a while. Random World Generator (RWG) [maps](https://7daystodiemods.com/tag/7-days-to-die-maps/) are hit or miss, but are often miss with too little of certain biomes, too few of the high-quality buildings, and towns located too heavily or sparsely in each biome.\n\nSlickster43 took a vanilla RWG 4K map ([KeyedDops](https://community.7daystodie.com/topic/19792-alpha-19-seed-thread/)) and modified the list of POIs and Spawn Points. The map now contains 10 traders, including one in every town or city, and at least one of every high-value POI (stores, skyscrapers, army camps, etc). There are towns in every biome type. This map is being used on servers, such as the Dire Moon Gaming private server.\n\n**To add this to your game:**\n\n1. Open a new File Manager window and type %appdata%\n2. Double-click the 7 Days to Die folder\n3. Double-click the GeneratedWorlds folder  \nIf you do not have this folder, right-click, select New –> Folder and title it GeneratedWorlds\n4. Download the below .zip file for the map\n5. In your Downloads folder, select the file, right-click it, select Extract All into the above Generated Worlds folder\n6. Launch 7 Days to Die\n7. After choosing New Game, cycle the Game World to East Tauwi County and finish setting up your game.\n8. Enjoy!\n\n**[Download](https://drive.google.com/file/d/16wLOcnmDTFSQTG7Fe2XWdJXo920dPedp/view?usp=sharing)**\n\n**Credits:** Slickster43 Gaming, dcsobral simulated maps",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/16wLOcnmDTFSQTG7Fe2XWdJXo920dPedp/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Slickster43 Gaming",
+    "dcsobral simulated maps"
+  ],
+  "modTags": [
+    "7 days to die biomes",
+    "7 days to die maps"
+  ]
+}

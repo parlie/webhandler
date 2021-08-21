@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/mostly-dead/",
+  "modCreatedTime": "2021-01-24T02:51:42+00:00",
+  "modLastUpdatedTime": "2021-05-19T09:15:03+00:00",
+  "modName": "Mostly Dead",
+  "modImages": [],
+  "modShortDescription": "This mod deals only with the player death aspects. The idea is that when a player character dies, players respawn as an entirely new character.",
+  "modDescription": "A mod that implements the “mostly dead” character death style for 7D2D. For the manifesto, see: [Mostly Dead: A Manifesto](https://community.7daystodie.com/topic/19135-mostly-dead-a-manifesto/)\n\nThis mod deals only with the player death aspects. The idea is that when a player character dies, players respawn as an entirely new character, but they respawn into a (mostly) unchanged world.\n\n## Features\n\nWhen the player character dies:\n\n* The player’s inventory is deleted (the “DropOnDeath” setting is forced to “Delete All”).\n* [Skill points](https://7daystodiemods.com/tag/7-days-to-die-skill-points/) are reset (not removed), and books that were read are forgotten.\n* Bedrolls and beds are no longer spawn points, so players do not spawn on them.\n* The player map is reset, including any saved waypoints.\n* Player [quests](https://7daystodiemods.com/tag/7-days-to-die-quests/) are removed, and a quest is given that automatically rewards the player with the items they start with when starting a new game.\n* Player vehicles are destroyed.\n* The player’s active land claim block is rendered inoperable.\n* The player’s ACL (Access Control List – i.e. friends list) is cleared.\n\nIf you are using this mod, you do not need to install the following mods:\n\n* [No Bedrolls](https://7daystodiemods.com/no-bedrolls/)\n* [Reset Skills on Death](https://7daystodiemods.com/reset-skills-on-death/)\n\nThose mods are now for players who prefer XML-only mods.\n\n## Installation\n\nThis is a DMT mod. So requires [DMT Modding Tool](https://community.7daystodie.com/topic/13037-dmt-modding-tool/). It is not compatible with EAC. After installation, it is highly recommended to start a new game.\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=khzmusik_Mostly_Dead_DMT)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/).\n\n**Credits:** [Khzmusik](https://7daystodiemods.com/tag/khzmusik/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=khzmusik_Mostly_Dead_DMT",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/",
+  "modAuthors": [
+    "Khzmusik"
+  ],
+  "modTags": [
+    "7 days to die books",
+    "7 days to die quests",
+    "7 days to die skill points",
+    "Khzmusik"
+  ]
+}

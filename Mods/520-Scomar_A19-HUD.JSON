@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/scomar-a19-hud/",
+  "modCreatedTime": "2020-10-20T13:17:00+00:00",
+  "modLastUpdatedTime": "2020-10-20T13:19:54+00:00",
+  "modName": "Scomar A19-HUD",
+  "modImages": [],
+  "modShortDescription": "Scomar is new in modifying HUD's. So its his first try. He like to play with Deep Pockets, so the HUD is yery close to bottom.",
+  "modDescription": "Scomar is new in modifying HUD’s. So its his first try. He like to play with [Deep Pockets](https://7daystodiemods.com/deep-pockets/), so the HUD is yery close to bottom.\n\n## Changelog\n\n* **v1.3:** Alpha 19.1 – Added Zombiekills left and Deaths right from the Toolbelt, switched health and stamina bar.\n* **v1.2:** Alpha 19.1 – 10 slot toolbelt support.\n* **v1.1:** Added a Center-Marker to the Compass and slight improvements to the visual display.\n* **v1.05:** Toolbeltnumbers are better shown now.\n\n**[Download](https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_A19-HUD.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21124-scomar82_a19-hud/).\n\n**Credits:** [Scomar](https://7daystodiemods.com/tag/scomar/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_A19-HUD.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/21124-scomar82_a19-hud/",
+  "modAuthors": [
+    "Scomar"
+  ],
+  "modTags": [
+    "7 days to die hud mod",
+    "Scomar"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/less-grass/",
+  "modCreatedTime": "2020-08-23T13:29:06+00:00",
+  "modLastUpdatedTime": "2020-08-23T13:29:07+00:00",
+  "modName": "Less Grass",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/08/7-days-to-die-less-grass-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "This mod causes less grass to be generated in forest and snow. If you want much less grass edit \"0.04\" in the biomes.xml file to \"0.001\".",
+  "modDescription": "This mod causes less grass to be generated in forest and snow. If you want much less grass edit “0.04” in the biomes.xml file to “0.001”.\n\n**[Download](http://www.mediafire.com/file/f9v9wc3xq48fgr9/GK_Less_Grass.rar/file)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20168-gouki%C2%B4s-a19-modlets/).\n\n**Credits:** [Gouki](https://7daystodiemods.com/tag/gouki/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "http://www.mediafire.com/file/f9v9wc3xq48fgr9/GK_Less_Grass.rar/file",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20168-gouki%C2%B4s-a19-modlets/",
+  "modAuthors": [
+    "Gouki"
+  ],
+  "modTags": [
+    "7 days to die biomes",
+    "Gouki"
+  ]
+}

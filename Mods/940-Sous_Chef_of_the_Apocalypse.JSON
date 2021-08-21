@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/sous-chef-of-the-apocalypse/",
+  "modCreatedTime": "2021-07-31T19:13:00+00:00",
+  "modLastUpdatedTime": "2021-07-31T19:16:11+00:00",
+  "modName": "Sous Chef of the Apocalypse",
+  "modImages": [],
+  "modShortDescription": "This modlet adds mods food items and recipes. Purposefully no new icons/models so its server side safe. Toasted Pumpkin, Beef Jerky, Sweet Nut Milk and more.",
+  "modDescription": "This modlet adds mods food items and recipes. Purposefully no new icons/models so its server side safe.\n\nIngredients/items are not supposed to be super easy to find to encourage more crafting/waiting for items and to not make you awash with [food](https://7daystodiemods.com/tag/7-days-to-die-food/) early game, so if its not balanced well let him know! Final recipes/food is supposed to be slightly better or equal to the games best/final recipes, but not OP. Some stuff is just for fun.\n\n**Note:** This mod is intended to be the initial “Food Expansion Pack” to “[Doughs-You’ve Got Mail](https://7daystodiemods.com/youve-got-mail/)“, and both can be installed together or separately. Additional “story” for this will come at some other time. Eventually they may both be merged together.\n\nSome items can be found in containers, or bought at traders. Item semi-rarity is hopefully a norm as you are supposed to be cooking and preparing, not buying and finding!\n\n**It “currently” includes:**\n\n* New perk: Sous Chef of the Apocalypse. Works similar to vanilla perk Master Chef but with its own special foods\n* 4 New Cookbooks to unlock certain foods/ingredients\n* 20 New Schematics to unlock certain foods/ingredients\n* 55+ Food/[drink](https://7daystodiemods.com/tag/7-days-to-die-drinks/) items (either found/crafted/perk unlock/or schematic). These are:\n* 13 moldy/old foods that can be only looted (and eaten if starving) or processed into ‘scraps’ these scraps can also be eaten or made into a soup: Mulligan Au Jus\n* Toasted Pumpkin, Pine, and Acorn seeds\n* Cooking Oil\n* Bouillon Cube\n* Sauteed Mushrooms\n* Flour\n* Red Wine\n* Sweet and Salty Extracts\n* Cream Of Tartar\n* Hard Tack\n* Beef Jerky\n* Pemmican\n* Bone Marrow\n* Raw and boiled Sweet Bread\n* Sweet Bread Cuisine\n* Steak And Potato Cuisine\n* Au Jus\n* Beef Au Jus Sandwich\n* Pop Corn\n* Milk Curds\n* Raw Milk, Milk, and Cream\n* Cheese\n* Butter\n* Butter Of The Gods\n* Bread Batter\n* Bread\n* Buttered Toast\n* Sweet Corn Blueberry Muffin\n* Ice Cream\n* Red Wine Blueberry Sorbet\n* Turkish Delight\n* Sweet Nut Milk\n* Egg Souffle\n* Potatoes Dauphinoise\n* Boeuf Bourguignon\n* Croque Monsieur\n\n## Changelog\n\n* **_(new)_** Added more localization.\n* Added some “rotten” food items that can be used to craft some new food items or eaten. Basically another small side line of craftable food, and to give players with no perks into its perk tree something to collect/eat if they really need it. Used these items to add to additional containers where you would normally find them.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-Food-SousChefOfTheApocalypse)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-Food-SousChefOfTheApocalypse",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "7 days to die drinks",
+    "7 days to die food",
+    "7 days to die recipes",
+    "Doughphunghus"
+  ]
+}

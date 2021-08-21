@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/working-jail-doors-and-powered-jail-doors/",
+  "modCreatedTime": "2020-01-08T17:44:00+00:00",
+  "modLastUpdatedTime": "2020-06-01T23:57:48+00:00",
+  "modName": "Working Jail Doors & Powered Jail Doors",
+  "modImages": [],
+  "modShortDescription": "The jail doors were working was the last time in Alpha 16 version. So Claymore ported the original recipe over to 7 Days to Die Alpha 18 version.",
+  "modDescription": "If you remember, that jail doors once worked. The doors were working was the last time in Alpha 16 version. So Claymore ported the original recipe over to 7 Days to Die Alpha 18 version. Same recipe, same harvest loot, same everything.\n\nOne exception: To make them 100% work again, Claymore had to remove the multiblockdim. But doesn’t really matter, since it simply works great. And he currently added powered jail doors too. Simply add 2 electrical components and craft the powered variants. If you have unlocked it like all powered doors need to.\n\nCompatible with Alpha 18 game version.\n\n**Changelogs**\n\n* 1.0.1: Collision: Bullets don’t collide anymore with the jaildoor.\n* 1.0.2: Added: Powered Jaildoors. Gated like other powered doors.\n* 1.0.3: Added: Secondary recipe for Powered Jaildoors: If you already have normal jaildoors crafted, simply add 2 electrical components to it in the workbench.\n* 1.0.4: XPATH correction: Somehow worked, but missed an important thing.\n* 1.1.0: Major bugfix: Powered ones could be crafted without unlocking them via perks or recipe.\n* 1.2.0: Major bugfix: Unlocking via schematic didn’t work properly.\n* 1.2.1: Update for post 18.3 versions: Localizationfix\n* 1.3.0: Missed the repair material. Fixed. **_(New)_**\n\n[Download](https://www.mediafire.com/file/vnvwemtknjyyscr/Claymore_Working_Jaildoors.zip)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/15031-claymores-modlets/).\n\n**Credits:** [Claymore](https://7daystodiemods.com/tag/claymore/)",
+  "modDownloadURLs": [
+    {
+      "Info": "\nIf you remember, that jail doors once worked. The doors were working was the last time in Alpha 16 version. So Claymore ported the original recipe over to 7 Days to Die Alpha 18 version. Same recipe, same harvest loot, same everything.\nOne exception: To make them 100% work again, Claymore had to remove the multiblockdim. But doesn’t really matter, since it simply works great. And he currently added powered jail doors too. Simply add 2 electrical components and craft the powered variants. If you have unlocked it like all powered doors need to.Compatible with Alpha 18 game version.\nChangelogs\n1.0.1: Collision: Bullets don’t collide anymore with the jaildoor.1.0.2: Added: Powered Jaildoors. Gated like other powered doors.1.0.3: Added: Secondary recipe for Powered Jaildoors: If you already have normal jaildoors crafted, simply add 2 electrical components to it in the workbench.1.0.4: XPATH correction: Somehow worked, but missed an important thing.1.1.0: Major bugfix: Powered ones could be crafted without unlocking them via perks or recipe.1.2.0: Major bugfix: Unlocking via schematic didn’t work properly.1.2.1: Update for post 18.3 versions: Localizationfix1.3.0: Missed the repair material. Fixed. (New)\nDownload\nThe forum topic of the mod is here.\nCredits: Claymore\nShare this mod with your friends:",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/15031-claymores-modlets/",
+  "modAuthors": [
+    "Claymore"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die door mod",
+    "7 days to die doors",
+    "7 days to die jail door",
+    "7 days to die powered doors",
+    "Claymore"
+  ]
+}

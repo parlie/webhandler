@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/starter-kit/",
+  "modCreatedTime": "2020-01-01T19:30:24+00:00",
+  "modLastUpdatedTime": "2020-06-20T15:21:52+00:00",
+  "modName": "Starter Kit",
+  "modImages": [],
+  "modShortDescription": "Basic starter kit mod for 7 Days to Die. Use the dukes note to create your class crate. This is an early version.",
+  "modDescription": "Basic [starter kit](https://7daystodiemods.com/tag/7-days-to-die-starting-items/) mod for 7 Days to Die. Use the dukes note to create your class crate.\n\nThis is an early version, when it goes public, Wolfbain5 will be adding some new classes and expanding upon the concept. Will be tying in the class crate with the white river citizen quest.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/wolfbain5/7dtd-a18/tree/master/wolfbain5%20-%20Starter%20Crate)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/14626-wolfbain5-modlets/).\n\n**Credits:** [Wolfbain5](https://7daystodiemods.com/tag/wolfbain5/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/wolfbain5/7dtd-a18/tree/master/wolfbain5%20-%20Starter%20Crate",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/14626-wolfbain5-modlets/",
+  "modAuthors": [
+    "Wolfbain5"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "7 days to die starting items",
+    "Wolfbain5"
+  ]
+}

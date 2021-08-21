@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/friendlier-recipes/",
+  "modCreatedTime": "2020-07-04T01:55:37+00:00",
+  "modLastUpdatedTime": "2020-07-04T01:55:38+00:00",
+  "modName": "Friendlier Recipes",
+  "modImages": [],
+  "modShortDescription": "This mod lowers some recipe requirements. Meant for multiplayer games.",
+  "modDescription": "This mod lowers some recipe requirements. Meant for multiplayer games.\n\n**[Download](https://github.com/wolfbain5/7dtd-a19/raw/master/friendlier%20recipes.rar)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19825-wolfbain5s-a19-mods/).\n\n**Credits:** [Wolfbain5](https://7daystodiemods.com/tag/wolfbain5/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/wolfbain5/7dtd-a19/raw/master/friendlier%20recipes.rar",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19825-wolfbain5s-a19-mods/",
+  "modAuthors": [
+    "Wolfbain5"
+  ],
+  "modTags": [
+    "7 days to die recipes",
+    "Wolfbain5"
+  ]
+}

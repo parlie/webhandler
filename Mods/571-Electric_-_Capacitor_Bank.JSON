@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/electric-capacitor-bank/",
+  "modCreatedTime": "2020-10-18T20:37:30+00:00",
+  "modLastUpdatedTime": "2020-12-03T13:35:15+00:00",
+  "modName": "Electric - Capacitor Bank",
+  "modImages": [],
+  "modShortDescription": "Capacitors: Basically small, quickly charged and discharged \"batteries\". Capacitor Bank: Put capacitors in it like a Battery Bank.",
+  "modDescription": "This mod adds a Capacitor Bank and Capacitors. Adds new items (recolors of existing items) that can be found or bought from trader: Capacitors: Basically small, quickly charged and discharged “batteries” Capacitor Bank: Put capacitors in it like a Battery Bank (but only for capacitors)\n\n**Adds new recipes:**\n\nCan craft a Capacitor Bank\n\n## Details\n\n* Why? Just to do it. Capacitor Banks (with capacitors in them) are like a Battery Bank with very fast discharging batteries. This is so you can configure them to keep providing power for a very short while after you cut power with a switch/etc.\n* Also meant for earlier game “[electrical](https://7daystodiemods.com/tag/7-days-to-die-electricity/) power abilities” (like for lights/traps/etc) that are very short lived before you get the Battery Bank, but not super early game.\n* Capacitor Banks cannot be daisy chained (just like Battery Banks)\n* Can loot capacitors from any refigration unit (coolers, ice machines, refridgerators, etc), rarely found in workbenches, or buy from traders. Cannot craft them (but can craft the Capacitor Bank to put them in).\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-Electric-CapacitorBank)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-Electric-CapacitorBank",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "7 days to die electricity",
+    "Doughphunghus"
+  ]
+}

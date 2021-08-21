@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/book-icons/",
+  "modCreatedTime": "2021-05-22T18:29:11+00:00",
+  "modLastUpdatedTime": "2021-05-22T18:29:12+00:00",
+  "modName": "Book Icons",
+  "modImages": [],
+  "modShortDescription": "Alternate book icons, so it is clearer when you have read a book. The \"already read book\" icon is now a check mark, and it is a semi translucent green color.",
+  "modDescription": "Alternate book icons, so it is clearer when you have read a book. Inspired by [this post](https://community.7daystodie.com/topic/24306-mod-that-lets-you-know-youve-already-read-a-book/) on the forums.\n\n## Features\n\nThe “already read book” icon is now a check mark, and it is a semi translucent green color.\n\nIt is also possible to change the “unread book” icon (but not its color). Khzmusik did not do this, because in his opinion it made the UI confusing.\n\n## How It Works\n\nOpen _controls.xml_, and look at this entry in the _item\\_stack_ node:\n\n```\n<sprite depth=\"8\" name=\"itemtypeicon\" width=\"24\" height=\"24\" sprite=\"ui_game_symbol_{itemtypeicon}\" pos=\"2,-2\" foregroundlayer=\"true\" visible=\"{hasitemtypeicon}\" color=\"{itemtypeicontint}\" />\n```\n\nNow, match up the variables (in _{}_) with these properties in the “schematicMaster” item in _items.xml_:\n\n```\n<property name=\"ItemTypeIcon\" value=\"book\"/>\n<property name=\"AltItemTypeIcon\" value=\"book_read\"/>\n```\n\nThere’s a list of _ui\\_game\\_symbol\\_{x}_ TGA files in the _XML.txt_ file.\n\nPutting it all together, he found the _ui\\_game\\_symbol\\_check.tga_ filename, stripped out the “ui\\_game\\_symbol\\_” prefix, and used it as the value of the “AltItemTypeIcon” property.\n\nLooking in the code, he also discovered a property with the name “AltItemTypeIconColor”. It can accept an RGB or RGBa color, and this color will be used for the alternate icon tint. So, he added that property, and used a semi-translucent green color.\n\n## Modifying\n\nYou can also change the icon for unread [books](https://7daystodiemods.com/tag/7-days-to-die-books/), by specifying a new value for the “ItemTypeIcon” value.\n\nHowever, he tried that, and IMHO it just made the UI confusing. It was not apparent that you were looking at a schematic, unread or not.\n\nIf that is not your opinion, uncomment the relevant code in this mod’s _items.xml_ file. The icon in that code is the “add” image (a plus sign), but you can add any icon you like.\n\nUnfortunately, there does not seem to be any way to change the color of the unread book icon.\n\n## Technical Details\n\nThis mod uses XPath to modify XML files, and does not require SDX or DMT. It should be compatible with EAC. It does not contain any new assets (such as images or models). Servers should automatically push the XML modifications to their clients, so separate client installation should not be necessary.\n\nStarting a new game should not be necessary, but is always recommended just in case.\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=khzmusik_Book_Icons)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/).\n\n**Credits:** [Khzmusik](https://7daystodiemods.com/tag/khzmusik/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=khzmusik_Book_Icons",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/",
+  "modAuthors": [
+    "Khzmusik"
+  ],
+  "modTags": [
+    "7 days to die books",
+    "7 days to die icons",
+    "Khzmusik"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "modURL": "https://7daystodiemods.com/trader-tier-reward-system/",
+  "modCreatedTime": "2020-07-11T17:58:00+00:00",
+  "modLastUpdatedTime": "2020-07-11T17:58:19+00:00",
+  "modName": "Trader Tier Reward System",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod adds skill points as reward for completing each tier of the trader quests, making the trader quests more worth the risks for early game.",
+  "modDescription": "This 7 Days to Die mod adds skill points as reward for completing each tier of the trader quests, making the trader [quests](https://7daystodiemods.com/tag/7-days-to-die-quests/) more worth the risks for early game. The skill points you receive are for after completing each Tier, not after each quest.\n\nThere are many mods that increase the number of [skill points](https://7daystodiemods.com/tag/7-days-to-die-skill-points/) per level, but this mod is more balanced than other mods. We need more skill points in the game, but earning them must be a little more balanced.\n\n* Tier 1 = 3 Skill Points\n* Tier 2 = 4 Skill Points\n* Tier 3 = 5 Skill Points\n* Tier 4 = 5 Skill Points\n* Tier 5 = 6 Skill Points\n* Tier 6 = 8 Skill Points\n\n## Low Progression Variant\n\n* Tier 1 = 1 Skill Points\n* Tier 2 = 1 Skill Points\n* Tier 3 = 2 Skill Points\n* Tier 4 = 2 Skill Points\n* Tier 5 = 3 Skill Points\n* Tier 6 = 4 Skill Points\n\n## Mid Progression Variant\n\n* Tier 1 =2 Skill Points\n* Tier 2 = 2 Skill Points\n* Tier 3 = 3 Skill Points\n* Tier 4 = 4 Skill Points\n* Tier 5 = 4 Skill Points\n* Tier 6 = 6 Skill Points\n\n## For Games Already in Progress\n\nIf you do not wish to restart your world, and have already completed some Tier quests for the [trader](https://7daystodiemods.com/tag/7-days-to-die-trader/), type the following lines into the game console (Press F1 in-game)\n\n**For each tier that you completed:**\n\n* givequest quest\\_tier1complete\n* givequest quest\\_tier2complete\n* givequest quest\\_tier3complete\n* givequest quest\\_tier4complete\n* givequest quest\\_tier5complete\n* givequest quest\\_tier6complete\n\nThen go talk to any trader. You’ll get all the rewards including the skill points.\n\n**[Download](https://docs.google.com/uc?export=download&id=1DPHuB7T-YnoVXw28QA2M-PZTcsSqqbI8)** for A19  \n**[Download](https://drive.google.com/uc?authuser=o&id=1wq9WVsy4lIfhKsFSTzoK6q_PQYintSnY&export=download)** for A18  \n**[Download](https://drive.google.com/uc?authuser=o&id=1mT5kujFPwGN3F91WdF8wBseoD_HtYwqd&export=download)** Low Progression Variant for A18  \n**[Download](https://drive.google.com/uc?authuser=o&id=196ymB4V0lbJQw8fW0f2P04EKB7yq78G7&export=download)** Mid Progression Variant for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20098-epicspires-a19-trader-reward-system/).\n\n**Credits:** [EpicSpire](https://7daystodiemods.com/tag/epicspire/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://docs.google.com/uc?export=download&id=1DPHuB7T-YnoVXw28QA2M-PZTcsSqqbI8",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://drive.google.com/uc?authuser=o&id=1wq9WVsy4lIfhKsFSTzoK6q_PQYintSnY&export=download",
+      "Version": "v18"
+    },
+    {
+      "Info": "Low Progression Variant for A18",
+      "URL": "https://drive.google.com/uc?authuser=o&id=1mT5kujFPwGN3F91WdF8wBseoD_HtYwqd&export=download",
+      "Version": "v18"
+    },
+    {
+      "Info": "Mid Progression Variant for A18",
+      "URL": "https://drive.google.com/uc?authuser=o&id=196ymB4V0lbJQw8fW0f2P04EKB7yq78G7&export=download",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20098-epicspires-a19-trader-reward-system/",
+  "modAuthors": [
+    "EpicSpire"
+  ],
+  "modTags": [
+    "7 days to die quests",
+    "7 days to die skill points",
+    "7 days to die trader",
+    "EpicSpire"
+  ]
+}

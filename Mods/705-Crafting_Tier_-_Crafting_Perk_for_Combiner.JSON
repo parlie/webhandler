@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/crafting-tier-crafting-perk-for-combiner/",
+  "modCreatedTime": "2021-03-27T09:46:05+00:00",
+  "modLastUpdatedTime": "2021-03-27T09:46:07+00:00",
+  "modName": "Crafting Tier - Crafting Perk for Combiner",
+  "modImages": [],
+  "modShortDescription": "Credits to Lam for framework of this mod. When used with Lam's Master Mod, adds a new perk, Crafting Tier, under the Lam tree that adds 1 crafting quality per tier.",
+  "modDescription": "Credits to Lam for framework of this mod. When used with [Lam’s Master Mod](https://7daystodiemods.com/lams-mods/), adds a new perk, Crafting Tier, under the Lam tree that adds 1 crafting quality per tier. So on a new game, 1 rank will make all your weapons craft at level 2\\. Stacks with default [perks](https://7daystodiemods.com/tag/7-days-to-die-perks/), so a Tier 1 in Deadeye and Tier 1 in Crafting Tier will produce Level 3 Perception Weapons.\n\nWith this mod, you can craft level 6 weapons, but it’s really for mods that grant workbenches the old combine function. Without this mod, you will only be able to combine items up to a certain level. Usually 4 or 2\\. Now you can go all the way to tier 6 if you so desire. Costs 2 points per rank until rank 3, in which it becomes 3 points.\n\n**[Download](https://drive.google.com/file/d/1IZybtqLEDBxih62sbRCYVQ3v4LnsUbhW/view?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/23952-tristams-hodgepodge-o-mods/).\n\n**Credits:** [Tristam](https://7daystodiemods.com/tag/tristam/), Lammetje",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1IZybtqLEDBxih62sbRCYVQ3v4LnsUbhW/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/23952-tristams-hodgepodge-o-mods/",
+  "modAuthors": [
+    "Tristam",
+    "Lammetje"
+  ],
+  "modTags": [
+    "7 days to die perks",
+    "Tristam"
+  ]
+}

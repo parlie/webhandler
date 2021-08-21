@@ -1,0 +1,79 @@
+{
+  "modURL": "https://7daystodiemods.com/creature-packs-a-community-entity-project/",
+  "modCreatedTime": "2021-07-06T20:50:00+00:00",
+  "modLastUpdatedTime": "2021-07-06T21:44:02+00:00",
+  "modName": "Creature Packs - A Community Entity Project",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-creature-packs-a-community-entity-project-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "This new mod adds core Packs that contains various vanilla compatible characters such as bandits, survivors, animals, wandering traders, etc.",
+  "modDescription": "This goal of these new mods is to provide core “**Packs**” that contains various **vanilla compatible and fully featured characters** such as bandits, survivors, animals, wandering traders, etc. without breaking EAC or requiring the DMT utility. Included in this test version are samples of each type of character with very basic xml to get them working in game. No balancing of spawn rates, weapon power, etc was attempted.\n\nXyth deleted the old creature pack and replaced it with 5 new packs:\n\n* **0-CreaturePackAnimals** – Things like animals, birds, insects etc.\n* **0-CreaturePackFantasy** – Everything else that doesn’t fit in the 4 other categories. Swarms, Orcs, Pokemon etc.\n* **0-CreaturePackHumans** – Various bandits, traders, and survivors and other humanoid rigged entities\n* **0-CreaturePackMechs** – Robots, drones and other mechanical things like SphereBot, the avatar of Xyth’s modding partner SphereII\n* **0-CreaturePackZombies** – Zombies, you know, dead things that used to be human. Humanoid rigged.\n\nOther character modders have committed to contributing additional characters to this pack like they do to the POI (Buildings) collection called CompoPack. Want to join them? Start [here](https://community.7daystodie.com/topic/17489-characterpack-entity-creation/). (A18 version – working on A19 version, but the how to is the same)\n\nThe methods used to make this vanilla compatible were researched and developed over the past 2 years and finally it seems to be working well enough to test. However, this is something very new and challenging to develop so expect imperfections as we work out all the issues. Once initial testing is complete Xyth plan to teach the development workflow to others.\n\n## Features\n\nMost characters support all vanilla character features. These include Humanoid rigging, root motion animation, collision with vehicles, rag-dolling, 100’s of animated reactions (including hit locations, limping, etc.), limb decapitation and gore, and even the ability to spawn the characters with vanilla or custom weapons just by editing xml. There are some exceptions, especially on [animals](https://7daystodiemods.com/tag/7-days-to-die-animals/), as Xyth just started to explore that controller. They also work very well as sleepers in POIs, but stumbling onto a bandit that has a MP7 at close range isn’t something you will live to enjoy.\n\n## Hopes and Dreams\n\nBeyond hoping that this pack someday contains 100’s of new characters, Xyth hope some folks develop custom quests and story lines for some of the characters. Bandits are one thing, but earning a positive faction with the bandit leader by doing some hit jobs for him makes for a better end game.\n\n## Known Issues\n\nThere are currently no footstep sounds when these guys walk or run. Vanilla footsteps require a C# script to trigger sound events and they can not use scripts without breaking EAC. He expect to create a work around for that at some point but for now, look around more.\n\n## Compatibility\n\nThe mods are named with a prefix of 0- to insure it loads before other mods that will edit the basic xml provided in this core mod. Nothing in this mod’s xml should change vanilla in a way that collides with other mods but let him know if it does.\n\nTesting was done on A19 exp and 18.4 stable.\n\nEach submitted Unity.3d file (multiple entities in one file) should have a size less than 100 megs for Github compatibility.\n\n## Standards\n\nTo promote ease of reusing the characters in future mods and modlets, they think some recommended standards are needed. This is the subject of ongoing discussions, and always subject to revision, but the following are recommended standards for adding new characters to these packs.\n\nTo offer a balance between freedom to choose individual characters and still maintain some organization of kinds of characters, there will be 5 basic character groups: Humans, Zombies, Animals, Mechs, and Fantasy Characters. Each of these will be a modlet containing a resource folder of individual .unity3d asset bundles for each character. The xml for each character will be in xpath format and merged into the master xml files for that modlet.\n\nCharacters should be built to conform to TFP character standards and best practices as much as possible, and function in game like existing TFP characters do, with included ragdolls, rootmotion and gore. Additional information on this will be provided in video tutorials.\n\nCharacters should have descriptive names to help end users know what they might be loading, so names like SnowFox is good if its a Snowfox, but Mylittlepal would be a bad name for a Snowfox.\n\nKeep the characters low/mid poly and watch texture sizes. Go for 2k texture maps – 1k additional maps. Xyth try to keep most entities under 10 megs. TFP is changing to higher definition zombies, so we will conform to what they do when we get to see that.\n\nThe material index used should be listed in the xml, so modders can do material overrides in xml and know what material they are targeting. For example, the TFP nurse zombie would be:\n\n```\n<!-- Retexturing Index: Materials : 0 Body,1 Eyes -->\n```\n\nLODs are not required, but if added keep those down to 1 or 2 max.\n\nMore will be added here as they go.\n\n## Contributors\n\nThe following community members have donated resources to this project. Please thank them for their contributions!\n\nXyth will try to keep this list current.\n\n* **DarkStarDragon** – Zombies\n* **Guppycur** – Zombies\n* **Robeloto** – Spider sounds\n* **TSBX** – Zombies\n* **Mumpfy** – Re-texturing and new asset creation\n* **Kergan** – XML\n* **SaltyAF** – XML\n* **Chikorina (Chiko)** – XML\n\n## Changelog\n\n* **_(new)_** Updated the 2-effectspack to 19.5.1 to fix vanilla zombies not having sounds.\n* Repushing mods to hopefully clear errors.\n* Added stamina drain to buffFrostbite in animal pack.\n* Pushed fix for a NRE on GS22.\n* Pushed update to de-snowify animals.\n* Added some delay to the end of bird sounds, varied length depending on the bird.\n* Pushed update to animals lowering range of bird sound clips from 150M to 100M. His hearing isn’t the best, but even with the clips volume leveled, some seem louder than others, like the Altatraz.\n* Pushed 19.2 update to the animals. Birds have 2 sounds systems now. A constant single clip attached to the character in Unity that has a range of 150 blocks and a logarithmic distance rolloff. The old system with additional sounds will only be heard when near the character as before, such as when it attacks or flys close. Consolidated sounds into fewer bundles. Fix Alcatraz size issue.\n* Also pushed a minor update for the Humans to mostly standardize some xml.\n* Pushed an update to the animal pack to fix a tooltip error. Also fixed the random walktypes in the effects packs, as it was switching to crawlers and looked bad.\n* Small update to the zombie pack. Snufkins noticed some zombies were using vanilla hands which results in attack sync issues.\n* Small update, removed humans from the zombienight spawn group as some mods were using that group on bloodmoons causing errors.\n* Pushed a minor update to the CP humans and effects packs. There was a TFP bug where buffs that set animator values do not always set before the animator is initialized. This caused human characters to sometimes walk like zombies when not infected. Implemented a workaround.\n\n## Terms of Use\n\nThe goal of everything SphereII and Xyth do is to share information and examples of how to make this game better. So use this for yourselves or as part of a mod you develop for others to enjoy. Giving credit to the author is always a class act, but at least don’t be that guy who spends an hour editing someones work and then claims to be the original author. You can use the .unity3d models only by referencing them inside the creaturepack but you may not copy those files as they usually contain one or more copyrighted, paid assets. Any derivative modlet must ensure compatibility with the base creaturepacks, and cannot directly break them. If you don’t know how to make compatible mods, just ask for help.\n\n## Installation\n\nJust drop the mod into your **Mods** folder and have fun. They are not dependent on each other so load the ones you want. If your using a dedicated server, you also need to load this into your dedi server Mods folder. So a copy in both the clientside Mods folder and also on the servers Mods folder.\n\n## Download\n\n**Please Note: If your getting lots of spam warnings when some characters are set on fire, please load the 2-CharacterEffects pack which has the fix for that. It also contains random walktypes for all zombies, and enables humans to become infected. Also will be testing the method of turning some quest zombies back to humans.**\n\nLook for the 0-CreaturePacks, but there are other fun things there too, like No Potty Mouth. There is also a character effectspack modlet that adds infections (humans turning to zombies) and new walktypes to humans and zombies.\n\n[CharacterEffectsPack](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/2-CharacterEffectsPack) (A19), [NoSpawning](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/2-NoSpawning) (A19), [No Potty Mouth](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/1-NoPottyMouth) (A19), [No Potty Mouth](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/1-NoPottyMouth) (A18)\n\n**Alpha 19 Versions**  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/0-CreaturePackAnimals)** 0-CreaturePackAnimals for **A19**  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/0-CreaturePackMechs)** 0-CreaturePackMechs for **A19**  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/0-CreaturePackHumans)** 0-CreaturePackHumans for **A19**  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/0-CreaturePackZombies)** 0-CreaturePackZombies for **A19**  \n**Alpha 18 Versions**  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/0-CreaturePackAnimals)** 0-CreaturePackAnimals for **A18**  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/0-CreaturePackFantasy)** 0-CreaturePackFantasy for **A18**  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/0-CreaturePackHumans)** 0-CreaturePackHumans for **A18**  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/0-CreaturePackMechs)** 0-CreaturePackMechs for **A18**  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/0-CreaturePackZombies)** 0-CreaturePackZombies for **A18**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17173-creaturepacks-a-community-entity-project/).\n\n**Credits:** [Xyth](https://7daystodiemods.com/tag/xyth/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Alpha 19 Versions",
+      "Version": "v19"
+    },
+    {
+      "Info": "0-CreaturePackAnimals for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/0-CreaturePackAnimals",
+      "Version": "v19"
+    },
+    {
+      "Info": "0-CreaturePackMechs for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/0-CreaturePackMechs",
+      "Version": "v19"
+    },
+    {
+      "Info": "0-CreaturePackHumans for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/0-CreaturePackHumans",
+      "Version": "v19"
+    },
+    {
+      "Info": "0-CreaturePackZombies for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/0-CreaturePackZombies",
+      "Version": "v19"
+    },
+    {
+      "Info": "Alpha 18 Versions",
+      "Version": "v18"
+    },
+    {
+      "Info": "0-CreaturePackAnimals for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/0-CreaturePackAnimals",
+      "Version": "v18"
+    },
+    {
+      "Info": "0-CreaturePackFantasy for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/0-CreaturePackFantasy",
+      "Version": "v18"
+    },
+    {
+      "Info": "0-CreaturePackHumans for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/0-CreaturePackHumans",
+      "Version": "v18"
+    },
+    {
+      "Info": "0-CreaturePackMechs for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/0-CreaturePackMechs",
+      "Version": "v18"
+    },
+    {
+      "Info": "0-CreaturePackZombies for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/0-CreaturePackZombies",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17173-creaturepacks-a-community-entity-project/",
+  "modAuthors": [
+    "Xyth"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die bandits",
+    "7 days to die robots",
+    "7 days to die trader",
+    "7 days to die zombies",
+    "Xyth"
+  ]
+}

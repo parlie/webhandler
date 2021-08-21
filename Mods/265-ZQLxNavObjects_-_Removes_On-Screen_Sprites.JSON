@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/zqlxnavobjects-removes-on-screen-sprites/",
+  "modCreatedTime": "2020-07-02T04:13:16+00:00",
+  "modLastUpdatedTime": "2020-07-04T14:57:46+00:00",
+  "modName": "ZQLxNavObjects - Removes On-Screen Sprites",
+  "modImages": [],
+  "modShortDescription": "ZQLxNavObjects is a Quality of Life mod that disables the new on-screen sprite system introduced in A19.",
+  "modDescription": "ZQLxNavObjects is a Quality of Life mod that disables the new on-screen sprite system introduced in A19\\. Intended for those that find such features immersion breaking and to gamey… or simply doesn’t like it. For the record, Sirillion like it.\n\nIt only removes the on-screen icons, the map and compass icons will still work as normal, so you will find that spear or that quest. Does not remove the treasure ring.\n\n**Disclaimer**\n\nSirillion noticed that Wookie also created a mod for this purpose. There is a difference in how these mods work. Sirillion’s mod kills the window in the UI that these sprites operate on effectively killing ALL the sprites in one swoop. Wookie’s mod kills the individual sprites and as such gives you the option to enable some of the sprites manually should you wish to do so.\n\nIf you want to play with some of the functions then Sirillion’s mod will not allow you to do that and you should then use Wookie’s mod instead and then adapt if to fit your purpose.\n\n**[Download](https://github.com/Sirillion/ZQLxNavObjects/archive/master.zip)**\n\nIf you appreciate Sirillion’s work and you want to show support, use this [donate link](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5VLRBAFXDCXBC&item_name=SMX+Development&currency_code=NOK&source=url).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19583-zqlxnavobjects-alpha19-removes-on-screen-sprites/).\n\n**Credits:** [Sirillion](https://7daystodiemods.com/tag/sirillion/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Sirillion/ZQLxNavObjects/archive/master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19583-zqlxnavobjects-alpha19-removes-on-screen-sprites/",
+  "modAuthors": [
+    "Sirillion"
+  ],
+  "modTags": [
+    "7 days to die icons",
+    "Sirillion"
+  ]
+}

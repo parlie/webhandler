@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/green-radiated-regen-remover/",
+  "modCreatedTime": "2019-12-27T17:03:13+00:00",
+  "modLastUpdatedTime": "2020-06-02T13:48:10+00:00",
+  "modName": "Green Radiated Regen Remover",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod allows one of your party members to hold and object that will remove the regeneration effect of radiated zombies in a 15 block area.",
+  "modDescription": "Regeneration getting you down? Have one of your party members hold this item, and the glowies in a 15 block area will stop regenerating! You’ll have to protect your guy, but the price you pay!\n\nThis 7 Days to Die mod allows one of your party members to hold and object that will remove the regeneration effect of radiated zombies in a 15 block area.\n\nSo basically, this is not a single player mod. One person from your party holds it, while the others protect him and don’t have to suffer the effects of regenerating radiated zombies.\n\nGuppycur has not made a [recipe](https://7daystodiemods.com/tag/7-days-to-die-recipes/) for this, and this is not the final model.\n\nAs an added bonus, whoever is holding this is uh, very very attractive to [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/).\n\n**[Download](https://gitlab.com/guppycur/guppymods/-/archive/master/guppymods-master.zip?path=Guppycur%27s_Rad_Dampener)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/9144-guppycurs-modlets/).\n\n**Credits:** [Guppycur](https://7daystodiemods.com/tag/guppycur/), PV Wolfgang",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/guppycur/guppymods/-/archive/master/guppymods-master.zip?path=Guppycur%27s_Rad_Dampener",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/9144-guppycurs-modlets/",
+  "modAuthors": [
+    "Guppycur",
+    "PV Wolfgang"
+  ],
+  "modTags": [
+    "7 days to die tools",
+    "7 days to die zombies",
+    "Guppycur"
+  ]
+}

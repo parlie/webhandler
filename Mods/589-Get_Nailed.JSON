@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/get-nailed/",
+  "modCreatedTime": "2020-08-09T01:36:00+00:00",
+  "modLastUpdatedTime": "2020-12-03T14:15:30+00:00",
+  "modName": "Get Nailed",
+  "modImages": [],
+  "modShortDescription": "This mod adds nails to most wooden blocks and items that should have nails in their recipes. It adds bent nails into the world.",
+  "modDescription": "This mod adds nails to most wooden blocks and items that should have nails in their recipes. It adds bent nails into the world.\n\nWhen destroying blocks use a hammer to get straight nails or you get bent nails. Repairing blocks requires nails. More nails and bent nails added to loot spawns.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Khelldons-Mods-a19/tree/main/Khelldon-GetNailed)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Khelldons-Mods-a18/tree/main/Khelldon-GetNailed)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Khelldon](https://7daystodiemods.com/tag/khelldon/), [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Khelldons-Mods-a19/tree/main/Khelldon-GetNailed",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Khelldons-Mods-a18/tree/main/Khelldon-GetNailed",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Khelldon",
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die recipes",
+    "Doughphunghus",
+    "Khelldon"
+  ]
+}

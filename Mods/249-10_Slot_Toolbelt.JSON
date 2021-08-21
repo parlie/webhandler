@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/10-slot-toolbelt/",
+  "modCreatedTime": "2020-07-01T02:27:00+00:00",
+  "modLastUpdatedTime": "2020-07-01T02:32:14+00:00",
+  "modName": "10 Slot Toolbelt",
+  "modImages": [],
+  "modShortDescription": "This is a mix of DMT and SDX, and it adds 2 more usable slots to the players toolbelt. They are assigned to keys 9 and 0 on the keyboard as default.",
+  "modDescription": "Another pet project KhaineGB has wanted to do for a while as a learning exercise. This is a mix of **DMT and SDX**, and it adds 2 more usable slots to the players toolbelt. Right now, those slots cannot have different keys assigned to them, but he will be looking into that. However they are assigned to keys 9 and 0 on the keyboard as default.\n\nMouse scroll works to select them, as do the previous and next buttons. The issue with the player “eating” whatever is in slot 9 has been resolved, they work from inventory, chests and vehicles. Here’s a video of what it looks like running on vanilla:\n\nIt has not been tested with any UI overhauls, though [bigger backpacks](https://7daystodiemods.com/tag/7-days-to-die-bigger-backpack/) should be fine. You will need to **disable EAC** to use this mod.\n\n## A19 Edition\n\nThis was a massive pain to get working.\n\nBut here it is. 10 slot toolbelt tested and working for Alpha 19! KhaineGB got some help from w00kien00kie because TFP changed a few things in the DLL, which meant his old mod no longer worked and needed some Harmony 2.0 magic to get working. However, this mod is now ENTIRELY harmony based, which means you could add it to any other mod that has a DLL patched with harmony.\n\nPlease be aware that you will need either DMT 1.6 with Harmony 2 manually patched in, or you will need to wait for DMT 2.0 to be released (which has Harmony 2.0 included by default)\n\n**[Download](https://gitlab.com/KhaineGB/khainedmt-a19/-/archive/master/khainedmt-a19-master.zip?path=10SlotToolbelt)** for A19  \n**[Download](https://gitlab.com/KhaineGB/khainesdx/-/archive/master/khainesdx-master.zip?path=10SlotToolbelt)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19671-10-slot-toolbelt-a19-edition/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)  \n_Special Thanks:_ SphereII, W00kie",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/KhaineGB/khainedmt-a19/-/archive/master/khainedmt-a19-master.zip?path=10SlotToolbelt",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://gitlab.com/KhaineGB/khainesdx/-/archive/master/khainesdx-master.zip?path=10SlotToolbelt",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19671-10-slot-toolbelt-a19-edition/",
+  "modAuthors": [
+    "KhaineGBSpecial Thanks: SphereII",
+    "W00kie"
+  ],
+  "modTags": [
+    "7 days to die more slots",
+    "7 days to die toolbelt",
+    "KhaineGB"
+  ]
+}

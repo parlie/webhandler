@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/cruiser/",
+  "modCreatedTime": "2020-09-06T03:34:00+00:00",
+  "modLastUpdatedTime": "2021-04-29T20:51:52+00:00",
+  "modName": "Cruiser",
+  "modImages": [],
+  "modShortDescription": "This mod adds a custom bike: the Cruiser! Similar stats to the vanilla motorcyle. One seat. Unlocks with Grease Monkey 3.",
+  "modDescription": "This mod adds a custom bike: the Cruiser! Similar stats to the vanilla [motorcyle](https://7daystodiemods.com/tag/7-days-to-die-motorcycle/).\n\nOne seat. Unlocks with Grease Monkey 3.\n\n## Changelog\n\nAdded new engine/horn sounds.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Cruiser)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/Cruiser)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11875-bdubyahs-modlets/).\n\n**Credits:** [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Cruiser",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A18/tree/master/Cruiser",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11875-bdubyahs-modlets/",
+  "modAuthors": [
+    "Bdubyah"
+  ],
+  "modTags": [
+    "7 days to die bike",
+    "7 days to die motorcycle",
+    "7 days to die vehicles",
+    "Bdubyah"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/level-faster/",
+  "modCreatedTime": "2020-09-01T03:01:00+00:00",
+  "modLastUpdatedTime": "2020-09-01T03:34:53+00:00",
+  "modName": "Level Faster",
+  "modImages": [],
+  "modShortDescription": "This mod increases the exp gained for killing hostiles.",
+  "modDescription": "This mod increases the [exp](https://7daystodiemods.com/tag/7-days-to-die-experience/) gained for killing hostiles.\n\n**Note:** Donovan removed the reduction in experience required per level, as it was out of balance. Also, as of 17.2, you can boost the XP multiplier within the game settings if you want this feature.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-levelfaster)**\n\nIf you find any issues or have a suggestion for improvement, please [open an issue](https://github.com/Donovan522/donovan-7d2d-modlets/issues) and Donovan will look into it ASAP.\n\n**Credits:** [Donovan](https://7daystodiemods.com/tag/donovan/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-levelfaster",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Donovan"
+  ],
+  "modTags": [
+    "7 days to die experience",
+    "7 days to die zombies",
+    "Donovan"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/zombie-display/",
+  "modCreatedTime": "2020-10-24T03:10:00+00:00",
+  "modLastUpdatedTime": "2021-07-25T01:44:35+00:00",
+  "modName": "Zombie Display",
+  "modImages": [],
+  "modShortDescription": "Replica models of all zombies and animals found in the world for display purposes thru out your home/base. Or like a trophy of what you have killed.",
+  "modDescription": "Replica models of all [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) and [animals](https://7daystodiemods.com/tag/7-days-to-die-animals/) found in the world for display purposes thru out your home/base. Or like a trophy of what you have killed.\n\n## Changelog\n\n* **_(new)_** Removed hostile template.\n* Updated to remove the extra rubbish.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/Valmar-Modlets/tree/master/Valmars%20Zombie%20Display)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20079-valmars-a19-modlets/).\n\n**Credits:** [Valmar](https://7daystodiemods.com/tag/valmar/), [Stallionsden](https://7daystodiemods.com/tag/stallionsden/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/Valmar-Modlets/tree/master/Valmars%20Zombie%20Display",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20079-valmars-a19-modlets/",
+  "modAuthors": [
+    "Valmar",
+    "Stallionsden"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die zombies",
+    "Stallionsden",
+    "Valmar"
+  ]
+}

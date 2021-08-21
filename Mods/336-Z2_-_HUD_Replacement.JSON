@@ -1,0 +1,38 @@
+{
+  "modURL": "https://7daystodiemods.com/z2-hud-replacement/",
+  "modCreatedTime": "2020-08-08T13:32:00+00:00",
+  "modLastUpdatedTime": "2020-08-08T13:33:06+00:00",
+  "modName": "Z2 - HUD Replacement",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/05/7-days-to-die-z2-hud-replacement-optionals-z2thb.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/05/7-days-to-die-z2-hud-replacement-optionals-z2tb10.jpg"
+  ],
+  "modShortDescription": "Z2 is a sideproject of his that Sirillion just sat down and startet coding the other day. He started with creating new compass bar and just went from there.",
+  "modDescription": "Z2 is a sideproject of his that Sirillion just sat down and startet coding the other day. He started with creating a new compass bar and just went from there, making things up as he progressed along the orange line. The result is what you see here.\n\nNo external assets were used in the development of this HUD with the exception of the compass bar of course which sparked this whole thing. The compass bar is hosted online(imgur) and that makes this mod server friendly in the terms that it requires no client downloads unless one opts to use the optional 10 slot tool belt and target health bar patches which will require the clients to download and install DMT mods.\n\n* Worktime: 3-4h (initial sketchup)\n* Worktime: 6-7h (fine tuning, touchups, changes)\n\nThis mod is coded to be a [HUD](https://7daystodiemods.com/tag/7-days-to-die-hud-mod/) killer. This means that it can be dropped into an overhaul mod and it will likely kill the overhauls HUD and replace it with Z2\\. Some adaptation might be needed depending on overhaul features and original HUD complexity.\n\nZ2 is currently not scale friendly, due to this it attempts to lock the scale at vanilla values. This might cause issues if added to other mods that rely on changing the scale to display correctly. This will be rectified in an upcoming version.\n\nIt’s color scheme is also highly customizable through the styles.xml file. So if orange is not your thing, change it there by setting a new R,G,B color code in the correct style entry. This will be further diversified in an upcoming version.\n\n## Z2 – Optional Features\n\nZ2 comes with some optional features that can be used. The reason Sirillion made these optional is because they require a higher level of experience when it comes to modding, they require the use of third party tools, they render the client EAC unfriendly and they require clients to download and install the mods locally.\n\nZ2THB no longer requires a DMT patch to work. Simply install it as any other mod.\n\n**Z2THB** – Showing the target health bar.\n\nThe second optional feature that is available at release is a patch to tweak Z2 to fit if you have a 10 slot tool belt mod or overhaul installed. Please do note that Z2 itself does not currently come with a 10 slot tool belt DMT patch.\n\n**Z2TB10** – Showing a 10 slot tool belt. (Requires client install and DMT patching. Also requires a 10 slot tool belt DMT mod.)\n\n## Changelog\n\n* **Release Notes – Z2**  \n   * Added tool belt numbers.  \n   * Added outside temp display.\n* **Release Notes – Z2TB10**  \n   * Added tool belt numbers.\n\nInstall like any other mod, do the smart thing and backup saves first. Use at your own risk.\n\n**[Download](https://github.com/Sirillion/Z2/archive/master.zip)** Z2  \n**[Download](https://github.com/Sirillion/Z2THB/archive/master.zip)** Z2THB  \n**[Download](https://github.com/Sirillion/Z2TB10/archive/master.zip)** Z2TB10\n\nIf you appreciate Sirillion’s work and you want to show support, use this [donate link](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5VLRBAFXDCXBC&item_name=SMX+Development&currency_code=NOK&source=url).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19118-z2-hud-replacement/).\n\n**Credits:** [Sirillion](https://7daystodiemods.com/tag/sirillion/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Z2",
+      "URL": "https://github.com/Sirillion/Z2/archive/master.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Z2THB",
+      "URL": "https://github.com/Sirillion/Z2THB/archive/master.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Z2TB10",
+      "URL": "https://github.com/Sirillion/Z2TB10/archive/master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19118-z2-hud-replacement/",
+  "modAuthors": [
+    "Sirillion"
+  ],
+  "modTags": [
+    "7 days to die hud mod",
+    "Sirillion"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/charismatic-nature-mod/",
+  "modCreatedTime": "2020-08-09T20:59:02+00:00",
+  "modLastUpdatedTime": "2020-08-09T20:59:03+00:00",
+  "modName": "Charismatic Nature Mod",
+  "modImages": [],
+  "modShortDescription": "Changed the 20 health to 20% stamina regen. Also added another tier that adds 20% reload and sprint speed.",
+  "modDescription": "AnsontheToad and friends had an issue with the [perk](https://7daystodiemods.com/tag/7-days-to-die-perks/) using up all their food because of the health bump and healing, so he changed the 20 health to 20% stamina regen. Also added another tier that adds 20% reload and sprint speed.\n\n**[Download](https://docs.google.com/uc?export=download&id=1z8UFhk1lwfbrsLd0uDZzLi-LK0bk7qng)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20895-toads-modlets/).\n\n**Credits:** [AnsontheToad](https://7daystodiemods.com/tag/ansonthetoad/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://docs.google.com/uc?export=download&id=1z8UFhk1lwfbrsLd0uDZzLi-LK0bk7qng",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20895-toads-modlets/",
+  "modAuthors": [
+    "AnsontheToad"
+  ],
+  "modTags": [
+    "7 days to die perks",
+    "7 days to die stamina",
+    "AnsontheToad"
+  ]
+}

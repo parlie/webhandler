@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/vehicles-first-person-view/",
+  "modCreatedTime": "2020-07-01T01:42:00+00:00",
+  "modLastUpdatedTime": "2020-07-01T01:42:39+00:00",
+  "modName": "Vehicles First Person View",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod provides a first-person experience for vanilla vehicles. (Except Gyrocopter)",
+  "modDescription": "This 7 Days to Die mod provides a first-person experience for vanilla [vehicles](https://7daystodiemods.com/tag/7-days-to-die-vehicles/). (Except Gyrocopter)\n\nThis version of Vehicles First Person View has a refined version of Ragsy’s [Brighter Headlights Mod](https://7daystodiemods.com/brighter-vehicle-headlights/) suitable for the first person view included as the original mod values are too bright in 1st Person.\n\nAdded some tweaks to the vehicle settings to minimise drifting on the 4×4 in First Person, altered Bicycle, Minibike and Motorcycle tilt to stop excessive sway (this also helps stop camera tilts when using Xyth’s [Helmet Cam](https://7daystodiemods.com/helmetcam/)).\n\nThe First person views are vastly improved now as part of the final push so there will be no more additions or changes now, he has also removed the Gyrocopter as that was almost impossible to fly in first person (for now).\n\nPlease **remove** the original [Brighter Headlight](https://7daystodiemods.com/brighter-vehicle-headlights/) and any previous version of the First Person Vehicle mods before installing this mod.\n\n**[Download](https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets/-/archive/master/other-7-days-to-die-mods-and-modlets-master.zip?path=Ragsy_Vehicles_First_Person_View)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets/-/archive/master/other-7-days-to-die-mods-and-modlets-master.zip?path=Ragsy_Vehicles_First_Person_View",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

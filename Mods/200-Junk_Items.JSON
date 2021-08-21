@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/junk-items/",
+  "modCreatedTime": "2020-01-07T17:34:08+00:00",
+  "modLastUpdatedTime": "2020-06-20T15:54:34+00:00",
+  "modName": "Junk Items",
+  "modImages": [],
+  "modShortDescription": "Lots of cool junk items for your junk loot that Xyth created with Spider while working on the TS mod. All can be scrapped.",
+  "modDescription": "Lots of cool junk items for your junk loot that Xyth created with Spider while working on the TS mod. All can be scrapped, but smaller items may need more than 1 to allow scrapping.\n\nThese items have their own lootgroups, and are added to the vanilla game **Junk** lootgroup for you. There is also a new [loot](https://7daystodiemods.com/tag/7-days-to-die-loot/)group name **personaljunk** which only contains junk that a dead person might reasonably carry.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A17Mods/tree/master/JunkItems)** for A17  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/JunkItems)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/8400-xyths-modlet-collection/).\n\n**Credits:** [Xyth](https://7daystodiemods.com/tag/xyth/), Spider",
+  "modDownloadURLs": [
+    {
+      "Info": "for A17",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A17Mods/tree/master/JunkItems",
+      "Version": "v17"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/JunkItems",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/8400-xyths-modlet-collection/",
+  "modAuthors": [
+    "Xyth",
+    "Spider"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "Xyth"
+  ]
+}

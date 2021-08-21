@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/spartan-blocks/",
+  "modCreatedTime": "2020-08-01T23:03:00+00:00",
+  "modLastUpdatedTime": "2020-08-01T23:03:43+00:00",
+  "modName": "Spartan Blocks",
+  "modImages": [],
+  "modShortDescription": "This is a 7 Days to Die mod that adds Grand Spartan branded blocks and other related items.",
+  "modDescription": "This is a 7 Days to Die mod that adds Grand Spartan branded blocks and other related items.\n\n* 1.8: A whole bunch of new flags  \n   * One per Spartan moderators: 330 Shark, Beersplosion, Cult of Fast Food, Eh-Team  \n   * I’m Lost flag for when you need to mark where your are lost…\n* 1.7: Fix flags  \n   * Make them looks good with A19 / Unity3d 2019-02 cloth simulator\n* 1.6: Alpha 19  \n   * Rebuild assets for the new linear lighting (Alpha 19)  \n   * Try to fix issues with flags introduced with Unity 2019.2 Engine\n* 1.5: Miss Spartan [flags](https://7daystodiemods.com/tag/7-days-to-die-flag/)  \n   * New Miss Spartan flags (regular, black, half-mast)\n* 1.4: Black flags  \n   * New Spartan black flag  \n   * New Patrol black flag  \n   * New Half-Mast version of all flags (because people die in this game apparently)  \n   * Change pole texture to aluminium\n* 1.3: Patrol Gaming  \n   * New Patrol Gaming flag  \n   * New help blocks for flags  \n   * New Patrol Gaming cube  \n   * New Marble cubes  \n   * Replace the Rocks texture for a new one\n* 1.2: Unity asset improvements  \n   * New Spartan flag with better animation and texture  \n   * New pattern for the cube  \n   * New helper for the cube now that there is more than one pattern\n* 1.1: Bug fix and tweaks  \n   * Fix an issue with the flag Unity tag that prevented the flag from being picked-up  \n   * Adjust economic and stack values for all blocks  \n   * Remove glue for the flag pole recipe\n* 1.0: Fist official version which includes  \n   * Spartan Cube with recipe  \n   * Flag Pole, Flag Canvas, and Spartan Flag with recipes\n\nNone of this would have been possible without Xyth work on [Fun With Flags](https://7daystodiemods.com/flags-mod/) and his [video tutorials](https://community.7daystodie.com/topic/9014-unity-tutorials-for-7d2d-modders/).\n\n**Important:** For this mod to work properly, it needs to be installed on the server and every player’s computer.\n\n**[Download](https://github.com/Laotseu/7dtdMods/releases/download/SpartanBlocks_v1.8/SpartanBlocks_v1.8.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19462-motorcyclealterations-v10-alpha-18/).\n\n**Credits:** [Eric Beaudoin](https://7daystodiemods.com/tag/eric-beaudoin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Laotseu/7dtdMods/releases/download/SpartanBlocks_v1.8/SpartanBlocks_v1.8.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19462-motorcyclealterations-v10-alpha-18/",
+  "modAuthors": [
+    "Eric Beaudoin"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die flag",
+    "Eric Beaudoin"
+  ]
+}

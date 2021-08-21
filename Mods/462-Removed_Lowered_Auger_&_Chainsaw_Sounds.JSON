@@ -1,0 +1,35 @@
+{
+  "modURL": "https://7daystodiemods.com/removed-lowered-auger-chainsaw-sounds/",
+  "modCreatedTime": "2020-09-12T20:55:00+00:00",
+  "modLastUpdatedTime": "2020-09-13T00:07:05+00:00",
+  "modName": "Removed/Lowered Auger & Chainsaw Sounds",
+  "modImages": [],
+  "modShortDescription": "3 different mods for the Auger/Chainsaw sounds that were modified in A19. No Hit Sounds, No Hit Sounds While Crouched and Reduced Hit Sounds While Crouched.",
+  "modDescription": "Mala Zedik has created 3 different mods for the Auger/Chainsaw [sounds](https://7daystodiemods.com/tag/7-days-to-die-sound-mod/) that were modified in Alpha 19.\n\nThese are only intended as a temporary fix until The Fun Pimps split the audio properly. What I mean by this is, the Auger and Chainsaw are tied to the “Bullet Impact” sounds in game. Which means the [Auger/Chainsaw](https://7daystodiemods.com/tag/7-days-to-die-tools/) “impact” sounds also affect any Bullet Impact sounds.\n\n1. **No Hit Sounds** (Remove the Bullet Impact Sounds from Auger/Chainsaw/Guns)\n2. **No Hit Sounds While Crouched** (0 Impact Sound generated when you are crouched)\n3. **Reduced Hit Sounds While Crouched** (10% Impact Sound generated while you are crouched)\n\nThese are modlets, so they just need to be unziped in your Mods Folder to work.\n\nIf/When The Fun Pimps correct this issue while the mod is installed, the Auger/Chainsaws will start making the proper noises again, but the guns bullet impact will still be affect.\n\nHe also created a YouTube video showing the crouching mods in action if you are curious:\n\n**[Download](https://docs.google.com/uc?export=download&id=1e-WOpvJ0SV3C5-a3iVKvccoC1TGoh7DZ)** No Hit Sounds  \n**[Download](https://docs.google.com/uc?export=download&id=1Dr88umlecyCuvabPpvNpz7s8o0g0m_Yi)** No Hit Sounds While Crouched  \n**[Download](https://docs.google.com/uc?export=download&id=1h7sbmbzMVON9QdVayW5MI3o6kpani4ha)** Reduced Hit Sounds While Crouched\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21614-removedlowered-auger-chainsaw-sounds-a19/).\n\n**Credits:** Mala Zedik",
+  "modDownloadURLs": [
+    {
+      "Info": "No Hit Sounds",
+      "URL": "https://docs.google.com/uc?export=download&id=1e-WOpvJ0SV3C5-a3iVKvccoC1TGoh7DZ",
+      "Version": "v19"
+    },
+    {
+      "Info": "No Hit Sounds While Crouched",
+      "URL": "https://docs.google.com/uc?export=download&id=1Dr88umlecyCuvabPpvNpz7s8o0g0m_Yi",
+      "Version": "v19"
+    },
+    {
+      "Info": "Reduced Hit Sounds While Crouched",
+      "URL": "https://docs.google.com/uc?export=download&id=1h7sbmbzMVON9QdVayW5MI3o6kpani4ha",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/21614-removedlowered-auger-chainsaw-sounds-a19/",
+  "modAuthors": [
+    "Mala Zedik"
+  ],
+  "modTags": [
+    "7 days to die sound mod",
+    "7 days to die tools"
+  ]
+}

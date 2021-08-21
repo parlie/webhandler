@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/disable-falling-trees/",
+  "modCreatedTime": "2020-09-17T20:33:00+00:00",
+  "modLastUpdatedTime": "2021-07-25T01:44:01+00:00",
+  "modName": "Disable Falling Trees",
+  "modImages": [],
+  "modShortDescription": "(For pcs with low frame rates) Disables the tree fall down system and trees just disappear.",
+  "modDescription": "(For pcs with low frame rates) Disables the tree fall down system and [trees](https://7daystodiemods.com/tag/7-days-to-die-trees/) just disappear.\n\n## Changelog\n\nUpdated to remove the extra rubbish.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/Valmar-Modlets/tree/master/Valmars%20Disable%20Falling%20Trees)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20079-valmars-a19-modlets/).\n\n**Credits:** [Valmar](https://7daystodiemods.com/tag/valmar/), [Stallionsden](https://7daystodiemods.com/tag/stallionsden/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stallionsden/Valmar-Modlets/tree/master/Valmars%20Disable%20Falling%20Trees",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20079-valmars-a19-modlets/",
+  "modAuthors": [
+    "Valmar",
+    "Stallionsden"
+  ],
+  "modTags": [
+    "7 days to die trees",
+    "Stallionsden",
+    "Valmar"
+  ]
+}

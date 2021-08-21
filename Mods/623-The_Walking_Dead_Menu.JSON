@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/the-walking-dead-menu/",
+  "modCreatedTime": "2020-12-06T17:57:00+00:00",
+  "modLastUpdatedTime": "2020-12-26T07:19:51+00:00",
+  "modName": "The Walking Dead Menu",
+  "modImages": [],
+  "modShortDescription": "The background image replaced by a The Walking Dead wallpaper. The standard menu changed to horizontal and moved to the bottom of the screen.",
+  "modDescription": "This simple mod makes some changes to the main [menu](https://7daystodiemods.com/tag/7-days-to-die-menu/). The background image replaced by a The Walking Dead wallpaper. The standard menu changed to horizontal and moved to the bottom of the screen. Also you can use The Walking Dead theme music addon that changes the menu background [music](https://7daystodiemods.com/tag/7-days-to-die-sound-mod/).\n\nThanks to the UI modders of the community. I made this mod by taking their mods as an example.\n\n## Changelog\n\nThe Walking Dead theme music addon released. This addon was created by editing [TormentedEmu’s Menu Music](https://7daystodiemods.com/menu-music/) mod. Thanks to TormentedEmu for her nice mod that allows us to easily add sound to the menu.\n\n**[Download](https://www.dropbox.com/s/zmrr8bau7w1zl6m/The%20Walking%20Dead%20Menu.zip?dl=1)** The Walking Dead Menu  \n**[Download](https://www.dropbox.com/s/kbzybvv6i9vf3jt/TE_MenuMusic%20for%20The%20Walking%20Dead%20Menu.zip?dl=1)** The Walking Dead Theme Music Addon _(This music addon requires [DMT Modding Tool](https://community.7daystodie.com/topic/13037-dmt-modding-tool/).)_\n\n**Credits:** [Abasiyanik](https://7daystodiemods.com/tag/abasiyanik/), TormentedEmu",
+  "modDownloadURLs": [
+    {
+      "Info": "The Walking Dead Menu",
+      "URL": "https://www.dropbox.com/s/zmrr8bau7w1zl6m/The%20Walking%20Dead%20Menu.zip?dl=1",
+      "Version": "v19"
+    },
+    {
+      "Info": "The Walking Dead Theme Music Addon (This music addon requires DMT Modding Tool.)",
+      "URL": "https://www.dropbox.com/s/kbzybvv6i9vf3jt/TE_MenuMusic%20for%20The%20Walking%20Dead%20Menu.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Abasiyanik",
+    "TormentedEmu"
+  ],
+  "modTags": [
+    "7 days to die menu",
+    "7 days to die sound mod",
+    "Abasiyanik"
+  ]
+}

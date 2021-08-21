@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/telrics-healthbars-3-0/",
+  "modCreatedTime": "2021-07-09T00:23:34+00:00",
+  "modLastUpdatedTime": "2021-07-09T00:23:36+00:00",
+  "modName": "Telric's Healthbars 3.0",
+  "modImages": [],
+  "modShortDescription": "The newest installment of health bars. This one has a round design, instead of a bar design like the 2.0 version.",
+  "modDescription": "The newest installment of health bars. This one has a round design, instead of a bar design like the [2.0 version](https://7daystodiemods.com/zombie-health-bars/). It’s blue is a bit easier to look at and see during both the day and night. Unlike the other version, this health bar will only activate when you get within 8 blocks of the enemy.\n\n**Video (from another mod in progress, comparing the two health bars):**\n\nDoes not require restart. Tested and works with Alpha 19.5 b60.\n\nRecommended to be played single player or multiplayer. Works fine on servers as well. Requires client to install as well as server.\n\n**[Download](https://www.dropbox.com/s/m1q473e6tgwr42d/TelricsHealthBars3.0.zip?dl=1)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19976-telrics-a19-modlets/).\n\n**Credits:** [Telric](https://7daystodiemods.com/tag/telric/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/s/m1q473e6tgwr42d/TelricsHealthBars3.0.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19976-telrics-a19-modlets/",
+  "modAuthors": [
+    "Telric"
+  ],
+  "modTags": [
+    "Telric"
+  ]
+}
