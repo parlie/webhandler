@@ -147,7 +147,7 @@ function IsEmpty(path) {
  * @returns Returns input string formated with current time.
  */
 function TimeNow(logText){
-    return DateTime.utc().format('D/MM/YYYY | hh:mm:ss') + " | " + logText;
+    return DateTime.utc().format('D/MM/YYYY | H:mm:ss') + " | " + logText;
 }
 
 /**
@@ -392,15 +392,15 @@ function UpdateModObjects()
         else{
             console.log(TimeNow("All mods have been processed. The next check will ocure in ~2 hours."));
             fs.writeFileSync("./Mods/modData.json",JSON.stringify(modDataArray,replacer));
-            exec('git add . && git commit -m "mods update'+ DateTime.now('D/MM/YYYY H_mm_ss')+'" && git push', (error, stdout, stderr) => {
-                if (error) {
+            exec('git add . && git commit -m "mods update'+ DateTime.now().format('D/MM/YYYY H_mm_ss')+'" && git push', (error, stdout, stderr) => {
+                /*if (error) {
                     console.log(`error: ${error.message}`);
                     return;
                 }
                 if (stderr) {
                     console.log(`stderr: ${stderr}`);
                     return;
-                }
+                }*/
             });
             clearInterval(p);
         }
