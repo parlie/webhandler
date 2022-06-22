@@ -372,7 +372,7 @@ function UpdateModObjects()
 
     var tempArray = [];
 
-    for (let i = 1; i < newLenght+1; i++) {
+    for (let i = 0; i < newLenght+1; i++) {
         var currentElement = siteMapXML['urlset']['url'][i]
         var url = currentElement['loc'].toString();
         var timestamp = currentElement['lastmod'].toString();

@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/lock-picking-doors/",
+  "modCreatedTime": "2020-05-20T20:37:46+00:00",
+  "modLastUpdatedTime": "2020-05-23T13:44:45+00:00",
+  "modName": "Lock Picking Doors",
+  "modImages": [],
+  "modShortDescription": "Allows use of lockpicks on doors. Works the same as lockpicking vaults. Still allows some doors to be naturally unlocked as usual.",
+  "modDescription": "Looking to see if there is any Interest in a little mod Su1C1daL tossed together the last time he was doing some modding.\n\n## What It Does\n\n* Allows use of lockpicks on [doors](https://7daystodiemods.com/tag/7-days-to-die-doors/). Works the same as lockpicking vaults.\n* Still allows some doors to be naturally unlocked as usual.\n* Doors will become unlocked if you decide to break it down instead.\n* Unlocked doors can be upgraded within the same tier that the door is. Door-reinforced 1 – reinforced 2\n* Replaces all doors in POI’s that use the standard naming for doors.\n\nCan be used in an existing save to replace the doors, however the doors that have been already discovered will not change. Only undiscovered doors will work.\n\n## What It Doesn’t\n\n* Cannot re-lock the door. (Door ownership issues, may add work around if enough interest in it)\n* Cannot upgrade a wood door to a metal door, metal door to a vault. Only reinforce the doors.\n* Cannot pick vault doors.\n* Cannot pick player owned door. Your home is safe from lockpicking!\n\n## Installation\n\nSimple Modlet – Take the “Su1C1dal 7DTD LockPicking Doors” folder an place it in your “Mods” folder.\n\n## Uninstallation\n\nSimply delete the “Su1C1dal 7DTD LockPicking Doors” from the “Mods” folder.\n\nShould be no adverse affects for removing as the doors should return to the normal doors as vanilla.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Su1C1daL/Su1C1dal-7DTD-Mods/tree/master/Su1C1dal%207DTD%20LockPicking%20Doors)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19005-lock-picking-doors-prefabs-modlet/).\n\n**Credits:** [Su1C1daL](https://7daystodiemods.com/tag/su1c1dal/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Su1C1daL/Su1C1dal-7DTD-Mods/tree/master/Su1C1dal%207DTD%20LockPicking%20Doors",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19005-lock-picking-doors-prefabs-modlet/",
+  "modAuthors": [
+    "Su1C1daL"
+  ],
+  "modTags": [
+    "7 days to die doors",
+    "7 days to die prefab",
+    "Su1C1daL"
+  ]
+}
