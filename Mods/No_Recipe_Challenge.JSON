@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/no-recipe-challenge/",
+  "modCreatedTime": "2020-05-22T20:48:45+00:00",
+  "modLastUpdatedTime": "2020-05-22T20:48:47+00:00",
+  "modName": "No Recipe Challenge",
+  "modImages": [],
+  "modShortDescription": "Perks no longer give recipes, now you can only craft the recipes you find. You can still choose the perks, you just have to actually find recipes.",
+  "modDescription": "Perks no longer give recipes, now you can only craft the recipes you find.\n\nYou can still choose the perks, they will have the other benefits, you just have to actually find recipes. Now some recipes are only gotten from a perk, and those stayed in.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/wolfbain5/7dtd-a18/tree/master/No%20recipe%20challenge)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/14626-wolfbain5-modlets/).\n\n**Credits:** [Wolfbain5](https://7daystodiemods.com/tag/wolfbain5/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/wolfbain5/7dtd-a18/tree/master/No%20recipe%20challenge",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/14626-wolfbain5-modlets/",
+  "modAuthors": [
+    "Wolfbain5"
+  ],
+  "modTags": [
+    "7 days to die perks",
+    "7 days to die recipes",
+    "Wolfbain5"
+  ]
+}
