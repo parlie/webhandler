@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/yucca-smoothie-fix/",
+  "modCreatedTime": "2020-09-01T16:55:33+00:00",
+  "modLastUpdatedTime": "2020-09-01T17:04:57+00:00",
+  "modName": "Yucca Smoothie Fix",
+  "modImages": [],
+  "modShortDescription": "Changed from cold resistance to heat resistance. The mod has a localization file, Wolfbain5 changed it for Spanish and English.",
+  "modDescription": "Changed from cold resistance to heat resistance. The mod has a localization file, Wolfbain5 changed it for Spanish and English, if you speak a different supported language, simply replace the word for cold to heat and it should work fine.\n\n**[Download](https://github.com/wolfbain5/7dtd-a19/raw/master/yucca%20smoothie%20fix.rar)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19825-wolfbain5s-a19-mods/).\n\n**Credits:** [Wolfbain5](https://7daystodiemods.com/tag/wolfbain5/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/wolfbain5/7dtd-a19/raw/master/yucca%20smoothie%20fix.rar",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19825-wolfbain5s-a19-mods/",
+  "modAuthors": [
+    "Wolfbain5"
+  ],
+  "modTags": [
+    "7 days to die drinks",
+    "7 days to die food",
+    "Wolfbain5"
+  ]
+}

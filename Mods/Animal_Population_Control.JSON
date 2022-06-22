@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/animal-population-control/",
+  "modCreatedTime": "2020-07-12T05:13:33+00:00",
+  "modLastUpdatedTime": "2020-07-19T02:06:45+00:00",
+  "modName": "Animal Population Control",
+  "modImages": [],
+  "modShortDescription": "b163 added absurd probabilities and faster respawning for animals. This mod reverts animals back to pre b163 status.",
+  "modDescription": "b163 added absurd probabilities and faster respawning for [animals](https://7daystodiemods.com/tag/7-days-to-die-animals/) resulting in players having hundreds of meat by day 5\\. This mod reverts animals back to pre b163 status.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_AnimalSpawnGroups)**\n\nIf you appreciate JaxTeller718’s work here feel free to use this [donate link](https://www.paypal.me/FrankCirabisiJr) to show support.\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19674-jaxteller718-a19-modlet-collection/).\n\n**Credits:** [JaxTeller718](https://7daystodiemods.com/tag/jaxteller718/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_AnimalSpawnGroups",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19674-jaxteller718-a19-modlet-collection/",
+  "modAuthors": [
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die respawn",
+    "JaxTeller718"
+  ]
+}

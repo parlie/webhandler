@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/helmetcam/",
+  "modCreatedTime": "2020-11-04T16:25:00+00:00",
+  "modLastUpdatedTime": "2020-11-04T16:32:17+00:00",
+  "modName": "HelmetCam",
+  "modImages": [],
+  "modShortDescription": "Adds a camera item modifier for helmets. Its pointed backwards now. But you can rotate and aim the camera in xml as you would like.",
+  "modDescription": "Adds a camera item modifier for helmets. Its pointed backwards now because Xyth’s daughter hates vultures sneaking up on her, but you can rotate and aim the camera in xml as you would like.\n\n## Changelog\n\n* **_(new)_** Pushed the fixed A19 version.\n* Updated for latest experimental.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/HelmetCam)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/HelmetCam)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/8400-xyths-modlet-collection/).\n\n**Credits:** [Xyth](https://7daystodiemods.com/tag/xyth/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/HelmetCam",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/HelmetCam",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/8400-xyths-modlet-collection/",
+  "modAuthors": [
+    "Xyth"
+  ],
+  "modTags": [
+    "7 days to die camera mod",
+    "7 days to die helmet mods",
+    "Xyth"
+  ]
+}

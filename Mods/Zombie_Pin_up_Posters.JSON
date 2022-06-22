@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/zombie-pin-up-posters/",
+  "modCreatedTime": "2020-07-10T23:02:00+00:00",
+  "modLastUpdatedTime": "2020-07-10T23:02:52+00:00",
+  "modName": "Zombie Pin up Posters",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod adds zombie pin up posters to the game. Now your base will be more fun at horde nights.",
+  "modDescription": "This 7 Days to Die mod adds zombie pin up [posters](https://7daystodiemods.com/tag/7-days-to-die-poster/) to the game. Now your base will be more fun at horde nights.\n\n**Changelog**  \nUpdated for latest experimental.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/ZombiePinups)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/ZombiePinups)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/8400-xyths-modlet-collection/).\n\n**Credits:** [Xyth](https://7daystodiemods.com/tag/xyth/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A19Mods/tree/master/ZombiePinups",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/ZombiePinups",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/8400-xyths-modlet-collection/",
+  "modAuthors": [
+    "Xyth"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die poster",
+    "Xyth"
+  ]
+}

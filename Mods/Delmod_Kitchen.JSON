@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/delmod-kitchen/",
+  "modCreatedTime": "2020-02-17T18:23:22+00:00",
+  "modLastUpdatedTime": "2020-06-02T14:37:43+00:00",
+  "modName": "Delmod Kitchen",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod adds Working Stove, Working Oven, Working Sink, and Working Granite Sink that can be crafted at Level 1 of Advanced Engineering.",
+  "modDescription": "This 7 Days to Die mod adds Working Stove, Working Oven, Working Sink, and Working Granite Sink that can be crafted at Level 1 of Advanced Engineering.\n\nThe Stove and Oven operate like the Campfire but the do not require fuel.\n\nThe Sinks fill empty bottles with murky water by right mouse clicking on the sink with the bottle in your hand.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/DelStryker/Delmod/tree/master/Delmod_Kitchen)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11141-del-stryker-a17-modlet-collection/).\n\n**Credits:** [Del Stryker](https://7daystodiemods.com/tag/del-stryker/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/DelStryker/Delmod/tree/master/Delmod_Kitchen",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11141-del-stryker-a17-modlet-collection/",
+  "modAuthors": [
+    "Del Stryker"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "Del Stryker"
+  ]
+}

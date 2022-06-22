@@ -5,8 +5,8 @@
 /**
  * Sitemap URL.
  */
+//const siteMapPath = "https://7daystodiemods.com/post-sitemap.xml";
 const siteMapPath = "https://7daystodiemods.com/post-sitemap.xml";
-
 const { exec } = require("child_process");
 
 
@@ -364,7 +364,7 @@ function ProcessModNameFromPage(attribut){
 
 function UpdateModObjects()
 {
-    var newLenght = siteMapXML['urlset']['url'].length - 960;
+    var newLenght = siteMapXML['urlset']['url'].length;
 
     sitemapTimestamp = siteMapXML['urlset']['url'][0]['lastmod'];
     fs.writeFileSync("variables.json",JSON.stringify({siteMapTimestamp:sitemapTimestamp}));

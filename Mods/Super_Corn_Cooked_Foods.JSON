@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/super-corn-cooked-foods/",
+  "modCreatedTime": "2020-02-08T20:15:20+00:00",
+  "modLastUpdatedTime": "2020-06-03T20:06:44+00:00",
+  "modName": "Super Corn Cooked Foods",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod adds 2 new food items crafted with Super Corn as an ingredient. Added foods: Super Cornbread and Supercorn Meat Stew.",
+  "modDescription": "This 7 Days to Die mod adds 2 new [food](https://7daystodiemods.com/tag/7-days-to-die-food/) items crafted with Super Corn as an ingredient.\n\n**Added foods:**\n\n* Super Cornbread\n* Supercorn Meat Stew\n\n**[Download](https://github.com/GopherMods/7DTDMods/raw/master/SuperCornCookedFoods.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17309-gophers-modlets-not-an-all-in-one-pack/).\n\n**Credits:** [Gopher](https://7daystodiemods.com/tag/gopher/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/GopherMods/7DTDMods/raw/master/SuperCornCookedFoods.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17309-gophers-modlets-not-an-all-in-one-pack/",
+  "modAuthors": [
+    "Gopher"
+  ],
+  "modTags": [
+    "7 days to die food",
+    "Gopher"
+  ]
+}

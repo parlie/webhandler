@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/more-vanilla-foods-drinks/",
+  "modCreatedTime": "2020-10-23T01:43:00+00:00",
+  "modLastUpdatedTime": "2020-10-23T01:45:29+00:00",
+  "modName": "More Vanilla Foods & Drinks",
+  "modImages": [],
+  "modShortDescription": "This is a simple mod that adds more vanilla friendly food and drink. As of now it contains 27 new food items and 8 new drinks, each with their own schematics.",
+  "modDescription": "This is a simple mod that adds more vanilla friendly food and [drink](https://7daystodiemods.com/tag/7-days-to-die-drinks/), this mod is still a WIP, although this only means that ATLA5 plan on adding more as time goes on. As of now it contains 27 new food items and 8 new drinks, each with their own schematics.\n\nThe intention of this mod is to expand on the [food](https://7daystodiemods.com/tag/7-days-to-die-food/) and water system of the base game, without the potential hassle of new crops, meat types, etc.\n\n## Drinks\n\n* Berry Tea\n* Iced Mixed Tea\n* Iced Coffee\n* Vodka – +20% Bartering\n* Snowberry Gin – +50% Block Damage\n* Carbonated Water – Efficient Digestion\n* Blueberry Soda\n* Kvass Soda\n\n## Foods\n\n* Hashbrown\n* Mash Potato\n* Corn Grits\n* Blueberry Jam\n* Yucca Jam\n* Egg Salad\n* Fried Meat\n* Corn Chips\n* Blueberry Jam Sandwich\n* Yucca Jam Sandwich\n* Coffee Cake\n* Mushroom Pie\n* Meat and Beer Pie\n* Fried Mushrooms\n* French Toast\n* Fried Egg\n* Honey Glazed Meat\n* Custard Pie\n* Rock Candy\n* Blueberry Candy\n* Snowberry Candy\n* Sponge Cake\n* Blueberry Sponge Cake\n* Yucca Sponge Cake\n* Plain Fudge\n* Sugar Extract\n* Energy Tablets\n\n## Changelog\n\nUpdated for A19.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Atla55/7D2D-Mods/tree/master/More%20Vanilla%20Food)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/15623-more-vanilla-food/).\n\n**Credits:** ATLA5, Doughphunghus",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Atla55/7D2D-Mods/tree/master/More%20Vanilla%20Food",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/15623-more-vanilla-food/",
+  "modAuthors": [
+    "ATLA5",
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "7 days to die beverages",
+    "7 days to die drinks",
+    "7 days to die food"
+  ]
+}

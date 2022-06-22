@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/delmod-recipes-fix/",
+  "modCreatedTime": "2020-02-18T20:19:26+00:00",
+  "modLastUpdatedTime": "2020-06-21T15:41:29+00:00",
+  "modName": "Delmod Recipes Fix",
+  "modImages": [],
+  "modShortDescription": "Dropped the meat requirements on most recipes to 1 instead of 10. Added quantity 5 stews using less ingredients. And many more recipes fix.",
+  "modDescription": "Dropped the meat requirements on most recipes to 1 instead of 10\\. Added quantity 5 stews using less ingredients. Modified the Medical Kit recipe to require [antibiotics](https://7daystodiemods.com/tag/7-days-to-die-medical-supplies/) instead of a blood bag and added an additional Medical Kit recipe using Herbal Antibiotics.\n\nAdded a Bottle of Acid recipe. Added a Hardened Chest recipe. Added Solar Bank. Added Solar Cell.\n\nAdded 6 level Log Spike [Traps](https://7daystodiemods.com/tag/7-days-to-die-traps/) back with ascending increased damage – Requires Advanced Engineering perk and Table Saw to craft.\n\nAdded recipe for Beaker at the forge.\n\nModified recipes for arrowheads, [bullets](https://7daystodiemods.com/tag/7-days-to-die-ammo/), bulletcasings, and buckshot.\n\n[IronBar](https://7daystodiemods.com/tag/7-days-to-die-building-materials/) recipe fix from 100 iron to 20 iron. Added back in old wooden [spikes](https://7daystodiemods.com/tag/7-days-to-die-spikes/). Added Car Battery and another Acid recipe.\n\n**Notice:** Adding this Modlet to an existing game should not pose a problem and should not interfere with anything existing in-game. However, there are NEW blocks in this modlet that once introduced into your world must remain or errors will likely occur. In other words, if you later remove this Modlet it could cause you problems unless you restart your world.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/DelStryker/Delmod/tree/master/Delmod_Recipes_Fix)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11141-del-stryker-a17-modlet-collection/).\n\n**Credits:** [Del Stryker](https://7daystodiemods.com/tag/del-stryker/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/DelStryker/Delmod/tree/master/Delmod_Recipes_Fix",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11141-del-stryker-a17-modlet-collection/",
+  "modAuthors": [
+    "Del Stryker"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die building materials",
+    "7 days to die car mods",
+    "7 days to die electricity",
+    "7 days to die medical supplies",
+    "7 days to die recipes",
+    "7 days to die spikes",
+    "7 days to die traps",
+    "7 days to die vehicles",
+    "Del Stryker"
+  ]
+}

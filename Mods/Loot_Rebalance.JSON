@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/loot-rebalance/",
+  "modCreatedTime": "2020-07-12T05:12:48+00:00",
+  "modLastUpdatedTime": "2020-07-19T02:19:04+00:00",
+  "modName": "Loot Rebalance",
+  "modImages": [],
+  "modShortDescription": "A big one and ongoing based on feedback. This trims down loot amounts in several key areas for more challenging gameplay.",
+  "modDescription": "A big one and ongoing based on feedback. This trims down loot amounts in several key areas for more challenging gameplay. Treasures have had their counts reduced a bit, some loot containers have had weapons removed from them, and ammo has been shaved in half. More work will be done in the future.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_LootBalance)**\n\nIf you appreciate JaxTeller718’s work here feel free to use this [donate link](https://www.paypal.me/FrankCirabisiJr) to show support.\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19674-jaxteller718-a19-modlet-collection/).\n\n**Credits:** [JaxTeller718](https://7daystodiemods.com/tag/jaxteller718/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_LootBalance",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19674-jaxteller718-a19-modlet-collection/",
+  "modAuthors": [
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "JaxTeller718"
+  ]
+}

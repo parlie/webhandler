@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/stamples-defense-quests/",
+  "modCreatedTime": "2020-10-10T19:56:57+00:00",
+  "modLastUpdatedTime": "2020-10-10T19:58:39+00:00",
+  "modName": "Stample's Defense Quests",
+  "modImages": [],
+  "modShortDescription": "This adds 5 defend quests that send you to a random T1 or T2 POI, where you defend White River assets against 3-4 waves of zombies.",
+  "modDescription": "This adds 5 defend [quests](https://7daystodiemods.com/tag/7-days-to-die-quests/) (one of each tier) that send you to a random T1 or T2 POI, where you defend White River assets against 3-4 waves of zombies, and dispatch a leader zombie at the end.\n\n* T1 all normal zombies at a T1 POI\n* T2 all normal zombies, with a few of the harder (fat, military) ones, at a T1 POI\n* T3 mix of normal and feral at a T2 POI, a few special zombies (cop, spiders, bikers, etc.) will show up occasionally\n* T4 mostly feral at a T2 POI, special ferals will show up near the end\n* T5 mix of feral and glowies at a T2 POI, radioactive ferals and demolishers can show up near the end.\n\nThe quest will reset the POI at the beginning, which means local inhabitants may join the fight, and you cannot build fortifications ahead of time.\n\nDispatching the leader zombie advances both the Trader-given quest, and the sub-quest that send you to the POI, and both can be turned in at the trader upon return.\n\nIt is possible to just craft the radio receivers and do the waves at a POI without visiting the trader, but that’s where the majority of the rewards come from.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stamplesmods/7d2dmodlets/tree/master/StamplesDefenseQuests)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/16096-stamples-modlets/).\n\n**Credits:** [Stample](https://7daystodiemods.com/tag/stample/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stamplesmods/7d2dmodlets/tree/master/StamplesDefenseQuests",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/16096-stamples-modlets/",
+  "modAuthors": [
+    "Stample"
+  ],
+  "modTags": [
+    "7 days to die quests",
+    "Stample"
+  ]
+}

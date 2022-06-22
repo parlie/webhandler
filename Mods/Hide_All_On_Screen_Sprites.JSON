@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/hide-all-on-screen-sprites/",
+  "modCreatedTime": "2020-07-02T03:56:56+00:00",
+  "modLastUpdatedTime": "2020-07-04T14:58:25+00:00",
+  "modName": "Hide All On Screen Sprites",
+  "modImages": [],
+  "modShortDescription": "New module that hides all the Onscreen Sprites. You can enable/disable each Sprite type as you like. By default all sprites are hidden.",
+  "modDescription": "New module that hides all the Onscreen Sprites. w00kien00kie has done the XML Xpath commands individually for each Onscreen sprite and hence you can enable/disable each Sprite type as you like. By default all sprites are hidden.\n\n**[Download](https://gitlab.com/wookienookie/a19_vanilla_modlets/-/raw/master/HideOnScreenSprites.zip?inline=false)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19634-a19-modlet-hide-all-on-screen-sprites/).\n\n**Credits:** [w00kien00kie](https://7daystodiemods.com/tag/w00kien00kie/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/wookienookie/a19_vanilla_modlets/-/raw/master/HideOnScreenSprites.zip?inline=false",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19634-a19-modlet-hide-all-on-screen-sprites/",
+  "modAuthors": [
+    "w00kien00kie"
+  ],
+  "modTags": [
+    "7 days to die icons",
+    "w00kien00kie"
+  ]
+}

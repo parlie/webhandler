@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/hud-toolbelt-with-more-information/",
+  "modCreatedTime": "2020-01-04T16:42:36+00:00",
+  "modLastUpdatedTime": "2020-06-20T15:32:36+00:00",
+  "modName": "HUD Toolbelt with More Information",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die HUD mod adds additional information to your toolbelt: XP to next level, player temperature, map temperature, map elevation and more.",
+  "modDescription": "This 7 Days to Die [HUD mod](https://7daystodiemods.com/tag/7-days-to-die-hud-mod/) adds additional information to your [toolbelt](https://7daystodiemods.com/tag/7-days-to-die-toolbelt/):\n\n* XP bar with current level and XP to next level\n* Player temperature\n* Map temperature\n* Map elevation\n* Player zombie kills\n* Player deaths\n* Player PvP kills\n\n**[Download](https://docs.google.com/uc?export=download&id=1gSIx8XrqX2c0hLuDjejhLldHBz_elwOF)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/15828-hud-toolbelt-with-xp-to-next-level-temperature-mapelevation-kills-and-deaths/).\n\n**Credits:** HaeuptlingZauberfuss",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://docs.google.com/uc?export=download&id=1gSIx8XrqX2c0hLuDjejhLldHBz_elwOF",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/15828-hud-toolbelt-with-xp-to-next-level-temperature-mapelevation-kills-and-deaths/",
+  "modAuthors": [
+    "HaeuptlingZauberfuss"
+  ],
+  "modTags": [
+    "7 days to die hud mod",
+    "7 days to die toolbelt"
+  ]
+}

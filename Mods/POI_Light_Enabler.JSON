@@ -1,0 +1,46 @@
+{
+  "modURL": "https://7daystodiemods.com/poi-light-enabler/",
+  "modCreatedTime": "2020-08-14T03:33:00+00:00",
+  "modLastUpdatedTime": "2020-08-14T03:48:00+00:00",
+  "modName": "POI Light Enabler",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/07/7-days-to-die-poi-light-enabler-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/07/7-days-to-die-poi-light-enabler-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "What this does is allow you to Turn ON/OFF any POI lighting in game in real time without using the world editor.",
+  "modDescription": "This does not need electric to function. Great tool for to [light](https://7daystodiemods.com/tag/7-days-to-die-lights/) up areas you wish or Street Lights in real time.\n\nWhat this does is allow you to **Turn ON/OFF** any **POI lighting in game in real time** without using the world editor.\n\n## How to Use\n\n1. Just go up to ANY POI Lighting even POI Lights you place and Press E to Turn ON/OFF\n2. Hold E to Enable Editing of the POI Lighting Source itself.\n\n## How to Install\n\nDownload and replace the original Assembly-CSharp.dll (be sure to create a backup of original first, just in case.)\n\nWorks on SP and MP and works on Dedicated Servers.\n\n**Note:** If you decide to play on other peoples dedicated server, there is no guarantee you will not be banned. You must have EAC Disabled. Player uses at their own risk. Highly suggest only playing on your own dedicated server, or on SP.\n\n**[Download](http://www.mediafire.com/file/cpk7mnq3isptc8d/Assembly-CSharp.dll/file)** Client Side (A19 b180)  \n**[Download](http://www.mediafire.com/file/k2c520ablzch3kx/Assembly-CSharp.dll/file)** Server Side (A19 b180)  \n**[Download](http://www.mediafire.com/file/x97ewcdwv14qe1e/Assembly-CSharp.dll/file)** Client Side DMT Version (A19 b180)  \n**[Download](http://www.mediafire.com/file/bngz11vp33e2ihg/Assembly-CSharp.dll/file)** Server Side DMT Version (A19 b180)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/9925-poi-light-enabler-real-time/).\n\n**Credits:** FastBurst, P\\_E\\_T\\_E",
+  "modDownloadURLs": [
+    {
+      "Info": "Client Side (A19 b180)",
+      "URL": "http://www.mediafire.com/file/cpk7mnq3isptc8d/Assembly-CSharp.dll/file",
+      "Version": "v18"
+    },
+    {
+      "Info": "Server Side (A19 b180)",
+      "URL": "http://www.mediafire.com/file/k2c520ablzch3kx/Assembly-CSharp.dll/file",
+      "Version": "v18"
+    },
+    {
+      "Info": "Client Side DMT Version (A19 b180)",
+      "URL": "http://www.mediafire.com/file/x97ewcdwv14qe1e/Assembly-CSharp.dll/file",
+      "Version": "v18"
+    },
+    {
+      "Info": "Server Side DMT Version (A19 b180)",
+      "URL": "http://www.mediafire.com/file/bngz11vp33e2ihg/Assembly-CSharp.dll/file",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/9925-poi-light-enabler-real-time/",
+  "modAuthors": [
+    "FastBurst",
+    "P_E_T_E"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die electricity",
+    "7 days to die lights",
+    "7 days to die prefab"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/immersive-vendors/",
+  "modCreatedTime": "2020-06-14T15:05:25+00:00",
+  "modLastUpdatedTime": "2020-06-14T15:05:27+00:00",
+  "modName": "Immersive Vendors",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/06/7-days-to-die-immersive-vendors-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/06/7-days-to-die-immersive-vendors-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "This mod creates a TON of new player vending machines out of various vanilla decoration and loot containers. Wanna sell concrete at your store?",
+  "modDescription": "This mod creates a TON of new player vending machines out of various vanilla decoration and loot containers. Wanna sell concrete at your store? What better place to keep it than a concrete pile. This mod is DIRECTLY inspired by Immersive storage by Altorian.\n\nCreate a single item called ImmersiveVendorsVendingMachineHelper. Recipe requires 1 player vending machine.\n\nHit “R” to choose shape.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/aristrofl/7DaysToDieMods/tree/master/Immersive%20Vendors)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19327-aristrofls-modlets/).\n\n**Credits:** [Aristrofl](https://7daystodiemods.com/tag/aristrofl/), Altorian",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/aristrofl/7DaysToDieMods/tree/master/Immersive%20Vendors",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19327-aristrofls-modlets/",
+  "modAuthors": [
+    "Aristrofl",
+    "Altorian"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die loot",
+    "7 days to die storage",
+    "Aristrofl"
+  ]
+}

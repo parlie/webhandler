@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/gore-overhaul-mod/",
+  "modCreatedTime": "2020-01-22T18:29:00+00:00",
+  "modLastUpdatedTime": "2020-06-03T20:37:46+00:00",
+  "modName": "Gore Overhaul Mod",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod adds blood stains, blood on melee weapons, bleeding visual effect, new head exploding effect and new arm and legs dismember effect.",
+  "modDescription": "This 7 Days to Die mod adds blood stains, blood on melee [weapons](https://7daystodiemods.com/tag/7-days-to-die-weapons/), bleeding visual effect, new head exploding effect and new arm and legs dismember effect (blood flowing from the limb) to the game.\n\nMoongaming is happy to show this mod he has been working way too much time on.\n\n* **Blood stains:** when you hit zombies/[animals](https://7daystodiemods.com/tag/7-days-to-die-animals/) with a bullet/melee hit. can stack twice on every body part\n* **Blood on melee weapons:** Your melee weapons get bloody when you hit entities with them, and can be cleaned by going into the water (will clean all items) Works on every melee item except for a few (like the nail hammer)\n* **Bleeding visual effect:** bleeding perk/mod now gets a visual effect for the whole duration of the bleeding (the [zombie](https://7daystodiemods.com/zombie-mods/)/animal will just..bleed)\n* **New head exploding effect**\n* **New arm and legs dismember effect** (blood flowing from the limb)\n\nThe mod isn’t recommended if you have low FPS as it may affect them (especially with a high zombie count)\n\n**Quick note for overhaul creators:** Please don’t include this mod in your overhaul. Moongaming plan to use it in his own overhaul later.\n\n## Changelog\n\n* Added Gore on Shotgun\n* Fixed weapon blood triggering on vehicle and turret\n* **1.1b:** Fixed blood stain on larger zombies, like fat/cop hawaiian and snow zeds. **_(new)_**\n\n[**Download**](https://gitlab.com/oignonchaud/oignonchaud-7d2d-mods-a18/-/archive/master/oignonchaud-7d2d-mods-a18-master.zip?path=GoreMod)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/16465-gore-overhaul-blood-stains-blood-on-weapon-and-more/).\n\n**Credits:** [Moongaming](https://7daystodiemods.com/tag/moongaming/)",
+  "modDownloadURLs": [
+    {
+      "Info": "\nThis 7 Days to Die mod adds blood stains, blood on melee weapons, bleeding visual effect, new head exploding effect and new arm and legs dismember effect (blood flowing from the limb) to the game.\nMoongaming is happy to show this mod he has been working way too much time on.\nBlood stains: when you hit zombies/animals with a bullet/melee hit. can stack twice on every body partBlood on melee weapons: Your melee weapons get bloody when you hit entities with them, and can be cleaned by going into the water (will clean all items) Works on every melee item except for a few (like the nail hammer)Bleeding visual effect: bleeding perk/mod now gets a visual effect for the whole duration of the bleeding (the zombie/animal will just..bleed)New head exploding effectNew arm and legs dismember effect (blood flowing from the limb)\n <iframe loading=\"lazy\" title=\"7 Days To Die Gore Overhaul mod\" width=\"930\" height=\"523\" src=\"https://www.youtube.com/embed/65sylpgqKK0?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\nThe mod isn’t recommended if you have low FPS as it may affect them (especially with a high zombie count)\nQuick note for overhaul creators: Please don’t include this mod in your overhaul. Moongaming plan to use it in his own overhaul later.\nChangelog\nAdded Gore on ShotgunFixed weapon blood triggering on vehicle and turret1.1b: Fixed blood stain on larger zombies, like fat/cop hawaiian and snow zeds. (new)\nDownload\nThe forum topic of the mod is here.\nCredits: Moongaming\nShare this mod with your friends:",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/16465-gore-overhaul-blood-stains-blood-on-weapon-and-more/",
+  "modAuthors": [
+    "Moongaming"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die weapons",
+    "7 days to die zombies",
+    "Moongaming"
+  ]
+}

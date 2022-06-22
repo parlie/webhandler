@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/rocket-boots/",
+  "modCreatedTime": "2020-01-26T12:25:12+00:00",
+  "modLastUpdatedTime": "2020-06-03T20:09:05+00:00",
+  "modName": "Rocket Boots",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod utilizes the in-game Developer Rocket Boots but makes them a little more reasonable. You can also craft them.",
+  "modDescription": "This 7 Days to Die mod utilizes the in-game Developer Rocket [Boots](https://7daystodiemods.com/tag/7-days-to-die-clothing/) but makes them a little more reasonable. You can also craft them. They can also be bought at Traders for a high price and sold, too.\n\n**[Download](https://github.com/GopherMods/7DTDMods/raw/master/RocketBoots.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17309-gophers-modlets-not-an-all-in-one-pack/).\n\n**Credits:** [Gopher](https://7daystodiemods.com/tag/gopher/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/GopherMods/7DTDMods/raw/master/RocketBoots.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17309-gophers-modlets-not-an-all-in-one-pack/",
+  "modAuthors": [
+    "Gopher"
+  ],
+  "modTags": [
+    "7 days to die clothing",
+    "Gopher"
+  ]
+}

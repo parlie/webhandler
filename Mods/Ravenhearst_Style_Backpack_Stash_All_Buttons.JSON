@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/ravenhearst-style-backpack-stash-all-buttons/",
+  "modCreatedTime": "2020-07-01T20:49:00+00:00",
+  "modLastUpdatedTime": "2020-08-15T01:36:41+00:00",
+  "modName": "Ravenhearst Style Backpack Stash All Buttons",
+  "modImages": [],
+  "modShortDescription": "This mod adds Stash All, Stash Stacks and Stack Similar buttons to the backpack. It appears like the Ravenhearst formatted stash buttons.",
+  "modDescription": "This mod adds **Stash All**, **Stash Stacks** and **Stack Similar** buttons to the backpack. Modified from KhaineGB’s Mod so it appears like the [Ravenhearst](https://7daystodiemods.com/ravenhearst-mod/) formatted stash buttons.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_BackpackStashAll)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/JaxTeller718_Modlets_Stable/tree/master/JaxTeller718_BackpackStashAll)** for A18\n\nIf you appreciate JaxTeller718’s work here feel free to use this [donate link](https://www.paypal.me/FrankCirabisiJr) to show support.\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19674-jaxteller718-a19-modlet-collection/).\n\n**Credits:** [JaxTeller718](https://7daystodiemods.com/tag/jaxteller718/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_BackpackStashAll",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/JaxTeller718_Modlets_Stable/tree/master/JaxTeller718_BackpackStashAll",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19674-jaxteller718-a19-modlet-collection/",
+  "modAuthors": [
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die backpack",
+    "7 days to die buttons",
+    "JaxTeller718"
+  ]
+}

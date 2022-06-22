@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/server-side-weapons/",
+  "modCreatedTime": "2020-04-14T18:01:00+00:00",
+  "modLastUpdatedTime": "2020-06-02T14:06:47+00:00",
+  "modName": "Server Side Weapons",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/04/7-days-to-die-server-side-weapons-screenshot.jpg"
+  ],
+  "modShortDescription": "This mod adds new weapons to the game, only using XML, no new resources. Crimson Hunter, CrossbowMag, Kronos XII, Polearm, PP-19 Bizon and more.",
+  "modDescription": "This mod adds new [weapons](https://7daystodiemods.com/tag/7-days-to-die-weapons/) to the game, only using XML, no new resources. Only a few have recipes, as they are prizes for a lootbox system they have on their server. Snufkin will add the missing recipes in the future.\n\nThe base version includes the weapons, just a few of them with recipes and obtainable in normal gameplay. With the lootbox addon you get the machine and the lootbox system. You may find tickets on the enemy drops and hardened chests. There are 4 color levels, from green to purple. Each 10 tickets may be changed for 1 ticket of the next level. Each ticket is worth a lootbox in the machine. The prizes are listed next to the chest list. The emblem indicates the machine in which it may appear. The quality level is random, and the weapons are fixed to a certain color, so it is easier to get a certain weapon but harder to get one of high quality. Click the weapon in the machine to see a brief description. The necessary ammo for the new weapons is craftable from the start. Some weapons gave me trouble with the attachments, so Snufkin made them incompatible until he find a solution.\n\n**The Weapons**\n\n* **Crimson Hunter:** A Magnum with a flask attached that fills with blood when you accumulate 5 kills. You can launch the flask with the secondary button, it behaves as a contact grenade.\n* **CrossbowMag:** A semi-auto crossbow with 10-bolt capacity, shoots farther and deals more damage than a compound crossbow. Fixed LVL6 Quality.\n* **Kronos XII:** Auto Shotgun with a special effect. Accumulate 20 kills and press the activate button (Default F). Reduces recoil and spread and doubles the maxrange. Last 20 seconds.\n* **Polearm:** Long range melee weapon.\n* **PP-19 Bizon:** SMG with faster firerate and higher capacity but a 15% damage penalty.\n* **QuadShotgun:** Primary fire shoots slowly, hold secondary and fires 4 shells almost instantly\n* **Railgun:** Charge the shot by holding the primary button. The longer you charge the further the proyectiles will fly and they will deal more damage (BTW, is the charge mechanism of the bows completely useless? Because he had to make his own system). The 4 beeps indicate max charge.\n* **Savery:** A rifle that shoots magnum ammo. Has high firerate and reload speed.\n* **Vulcan:** First bullet is semi-auto. Charge holding the primary button button and it will shoot fully auto very fast. Holding secondary charges without shooting, besides zooming-in. Has a movement penalty.\n* **Turret Auger:** A short range turret that also works as a normal auger.\n* **Vampire Gauntlets:** A set of knuckles that fills a rage meter on each hit. When you reach 20 you can activate a frenzy mode with “F”, gaining 50% lifesteal and 50% faster movement.\n\n**Known bug:** The red dot of the reflex on the blaster is invisible, you still get the handling boost.\n\n**Update**  \nFixed crafting tier of the new weapons.\n\n**[Download](https://www.dropbox.com/sh/50ggm2wvveiggxq/AAA3S0pp3z4WD3KCMpjKtWLAa?dl=1)** Base Mod  \n**[Download](https://www.dropbox.com/sh/2p79xc9j2nedlq0/AAC2PnyepIZcaPDtCxnJQEB4a?dl=1)** the Lootbox Addon (Base required)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/18229-snufkins-server-side-weapons/).\n\n**Credits:** [Snufkin](https://7daystodiemods.com/tag/snufkin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Base Mod",
+      "URL": "https://www.dropbox.com/sh/50ggm2wvveiggxq/AAA3S0pp3z4WD3KCMpjKtWLAa?dl=1",
+      "Version": "v19"
+    },
+    {
+      "Info": "the Lootbox Addon (Base required)",
+      "URL": "https://www.dropbox.com/sh/2p79xc9j2nedlq0/AAC2PnyepIZcaPDtCxnJQEB4a?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/18229-snufkins-server-side-weapons/",
+  "modAuthors": [
+    "Snufkin"
+  ],
+  "modTags": [
+    "7 days to die melee weapons",
+    "7 days to die weapons",
+    "Snufkin"
+  ]
+}

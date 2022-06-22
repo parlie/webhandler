@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/skyscraper-fix/",
+  "modCreatedTime": "2020-07-18T14:09:00+00:00",
+  "modLastUpdatedTime": "2020-07-19T20:54:32+00:00",
+  "modName": "Skyscraper Fix",
+  "modImages": [],
+  "modShortDescription": "Adds each skyscraper back in through the new Prefabs folder functionality of A19 to their XML files to also allow Industrial and Commercial zoning for them.",
+  "modDescription": "Haidrgna is sure people still playing RWG have noticed by now that Skyscrapers are rare in RWG and you may see only one on an entire 8k [map](https://7daystodiemods.com/tag/7-days-to-die-maps/) if you are lucky. This is mostly because of improper zoning in their XML files. They are set to only spawn in Downtown, a small area in the center of the city that they may not fit in or be competed by other smaller easier to place buildings.\n\nThis simple mod adds each skyscraper back in through the new [Prefabs](https://7daystodiemods.com/tag/7-days-to-die-prefab/) folder functionality of A19 with only a small alteration to their XML files to also allow Industrial and Commercial zoning for them. This results in them being placed in more of the cities on the map and as you can see in the screenshot above also in a 4k map there are multiple visible in the preview.\n\nThis mod adds no additional code and is free to use for everyone. If you want to add this to your Overhaul or Modpack, please make sure to add credits for it, thanks.\n\n**[Download](https://drive.google.com/file/d/18vZ7vSe0Hv0E0w1cF6ImaQJjri17V163/view?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20288-skyscraper-fix/).\n\n**Credits:** [Haidrgna](https://7daystodiemods.com/tag/haidrgna/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/18vZ7vSe0Hv0E0w1cF6ImaQJjri17V163/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20288-skyscraper-fix/",
+  "modAuthors": [
+    "Haidrgna"
+  ],
+  "modTags": [
+    "7 days to die maps",
+    "7 days to die prefab",
+    "Haidrgna"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/increased-wandering-hordes/",
+  "modCreatedTime": "2020-07-01T18:23:00+00:00",
+  "modLastUpdatedTime": "2020-07-01T18:24:07+00:00",
+  "modName": "Increased Wandering Hordes",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod makes the wandering hordes a bit larger when they spawn. Increases as gamestage goes up.",
+  "modDescription": "This 7 Days to Die mod makes the wandering hordes a bit larger when they spawn. Increases as gamestage goes up.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/master/JaxTeller718_WanderingHordes)** for A19  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/JaxTeller718_Modlets_Stable/tree/master/JaxTeller718_BiggerWanderingHordes)** for A18\n\nIf you appreciate JaxTeller718’s work here feel free to use this [donate link](https://www.paypal.me/FrankCirabisiJr) to show support.\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19674-jaxteller718-a19-modlet-collection/).\n\n**Credits:** [JaxTeller718](https://7daystodiemods.com/tag/jaxteller718/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/master/JaxTeller718_WanderingHordes",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/JaxTeller718_Modlets_Stable/tree/master/JaxTeller718_BiggerWanderingHordes",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19674-jaxteller718-a19-modlet-collection/",
+  "modAuthors": [
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "JaxTeller718"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/mod-to-allow-emptying-of-murky-water-jars/",
+  "modCreatedTime": "2020-09-07T04:08:59+00:00",
+  "modLastUpdatedTime": "2020-09-07T04:09:01+00:00",
+  "modName": "Mod to Allow Emptying of Murky Water Jars",
+  "modImages": [],
+  "modShortDescription": "Another tiny mod. Right-click with murky water jar onto water or any terrain block to \"empty\" the jars.",
+  "modDescription": "Another tiny mod. Boidster was playing around and it worked; maybe it’ll be useful to someone.\n\nRight-click with murky water jar onto water or any terrain block to “empty” the jars. Will not add water into the terrain or re-fill “holes” in water. Just empties the jars.\n\n**[Download](https://docs.google.com/uc?export=download&id=1OJaD2IZL_dRTPr-2vTFjble0VL3B5lVR)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21508-modlet-to-allow-emptying-of-murky-water-jars/).\n\n**Credits:** [Boidster](https://7daystodiemods.com/tag/boidster/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://docs.google.com/uc?export=download&id=1OJaD2IZL_dRTPr-2vTFjble0VL3B5lVR",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/21508-modlet-to-allow-emptying-of-murky-water-jars/",
+  "modAuthors": [
+    "Boidster"
+  ],
+  "modTags": [
+    "Boidster"
+  ]
+}

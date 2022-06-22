@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/easier-mp-horde-nights/",
+  "modCreatedTime": "2020-01-31T19:03:49+00:00",
+  "modLastUpdatedTime": "2020-06-20T17:55:36+00:00",
+  "modName": "Easier MP Horde Nights",
+  "modImages": [],
+  "modShortDescription": "This 7DTD mod Adjusts gamestage computation for parties, to keep things closer to the players actual gamestage.",
+  "modDescription": "This 7DTD mod Adjusts gamestage computation for parties, to keep things closer to the players actual gamestage.\n\n**[Download](https://github.com/dcsobral/7d2d/releases/download/2.0.0/Easier.MP.Horde.Nights-1.0.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17350-dcsobrals-mods/).\n\n**Credits:** [Dcsobral](https://7daystodiemods.com/tag/dcsobral/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/dcsobral/7d2d/releases/download/2.0.0/Easier.MP.Horde.Nights-1.0.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17350-dcsobrals-mods/",
+  "modAuthors": [
+    "Dcsobral"
+  ],
+  "modTags": [
+    "Dcsobral"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/snufkins-emotes/",
+  "modCreatedTime": "2020-08-14T03:36:36+00:00",
+  "modLastUpdatedTime": "2020-08-14T04:09:24+00:00",
+  "modName": "Snufkin's Emotes",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/08/7-days-to-die-snufkins-emotes-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/08/7-days-to-die-snufkins-emotes-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "This mod adds a \"EmotePhone\" that holds 40 emotes in 20 slots.",
+  "modDescription": "This mod adds a “EmotePhone” that holds 40 emotes in 20 slots. Select the slot in the radial menu that appears when holding “Reload”. The 2 selected emotes appear on the phone screen, “LMB/Primary button” launches the left one, “RMB/Secondary button” launches the right one. Enjoy.\n\n**[Download](https://github.com/Snufki-n/Snufkin_Modlets_A19/raw/master/Snufkin_Emotes.rar)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20983-snufkins-emotes/).\n\n**Credits:** [Snufkin](https://7daystodiemods.com/tag/snufkin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Snufki-n/Snufkin_Modlets_A19/raw/master/Snufkin_Emotes.rar",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20983-snufkins-emotes/",
+  "modAuthors": [
+    "Snufkin"
+  ],
+  "modTags": [
+    "7 days to die phone",
+    "Snufkin"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/admin-mod/",
+  "modCreatedTime": "2020-07-18T01:27:33+00:00",
+  "modLastUpdatedTime": "2020-07-18T01:27:35+00:00",
+  "modName": "Admin Mod",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/07/7-days-to-die-admin-mod-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Add's XP restoration items (10k/100k/500k/1m) into the creative menu (Dev Only) that can be distributed to other players.",
+  "modDescription": "This mod adds admin tools to the game.\n\n* Intial Release\n* Add’s [XP](https://7daystodiemods.com/tag/7-days-to-die-experience/) restoration items (10k/100k/500k/1m) into the creative menu (Dev Only) that can be distributed to other players.\n\n**[Download](https://drive.google.com/file/d/1ShwUW0Ca_YdBuwdNE7cnahn7QB42F10Z/view?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17240-laz-mans-modlets/).\n\n**Credits:** [Laz Man](https://7daystodiemods.com/tag/laz-man/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1ShwUW0Ca_YdBuwdNE7cnahn7QB42F10Z/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17240-laz-mans-modlets/",
+  "modAuthors": [
+    "Laz Man"
+  ],
+  "modTags": [
+    "7 days to die experience",
+    "Laz Man"
+  ]
+}

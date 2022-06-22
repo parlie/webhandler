@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/combiner/",
+  "modCreatedTime": "2020-02-16T18:58:27+00:00",
+  "modLastUpdatedTime": "2020-07-06T10:26:59+00:00",
+  "modName": "Combiner",
+  "modImages": [],
+  "modShortDescription": "This 7DTD mod adds combiner function back to the game. This provides the ability to combine two like objects into a single better quality object.",
+  "modDescription": "This 7DTD mod adds combiner function back to the game. This provides the ability to combine two like objects into a single better quality object. The combiner is accessable via the Workbench and Vehicle Storage.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/DelStryker/Delmod/tree/master/Delmod_Combiner)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11141-del-stryker-a17-modlet-collection/).\n\n**Credits:** [Del Stryker](https://7daystodiemods.com/tag/del-stryker/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/DelStryker/Delmod/tree/master/Delmod_Combiner",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11141-del-stryker-a17-modlet-collection/",
+  "modAuthors": [
+    "Del Stryker"
+  ],
+  "modTags": [
+    "7 days to die tools",
+    "7 days to die weapons",
+    "Del Stryker"
+  ]
+}

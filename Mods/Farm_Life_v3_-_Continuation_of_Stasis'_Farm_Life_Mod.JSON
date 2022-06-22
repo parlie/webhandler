@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/farm-life-v3-continuation-of-stasis-farm-life-mod/",
+  "modCreatedTime": "2020-04-29T04:16:00+00:00",
+  "modLastUpdatedTime": "2020-06-17T19:17:11+00:00",
+  "modName": "Farm Life v3 - Continuation of Stasis' Farm Life Mod",
+  "modImages": [],
+  "modShortDescription": "Includes several new types of farm produce, animal husbandry, new workstations, quests to obtain the new food creations and getting started, and more.",
+  "modDescription": "Farm Life v3 includes several new types of farm produce, [animal](https://7daystodiemods.com/tag/7-days-to-die-animals/) husbandry, new workstations, quests to obtain the new food creations and getting started, and more.\n\nFarm Life v3 is very similar to v2, however they’ve cleaned up several known bugs and are working towards making the game play a bit better with this mod. While it can be daunting at first to get started, it is quite an enjoyable experience.\n\nWorks on both 18.3/18.4, however as things have changed ever so slightly 18.4 is the preferred version.\n\nTo install, drop the FarmLifeV3 folder directly into your Mods folder. If you do not have a Mods folder in your “7 Days To Die” you can create one!\n\n**Update**  \nAdded Ginger Seed crafting, fixed missing tags for upgrading pens to “fed” etc. Removed pen disappearing bug again.\n\n**[Download](https://gitlab.com/DEMMERS/farmlifev3/-/archive/master/farmlifev3-master.zip?path=Mods/FarmLifeV3)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/18440-modlet-farmlifev3-continuation-of-stasis-farm-life-mod-184/). License [details](https://gitlab.com/DEMMERS/farmlifev3/-/blob/master/LICENSE).\n\n**Credits:** Stasis78, DEMMERS",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/DEMMERS/farmlifev3/-/archive/master/farmlifev3-master.zip?path=Mods/FarmLifeV3",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/18440-modlet-farmlifev3-continuation-of-stasis-farm-life-mod-184/",
+  "modAuthors": [
+    "Stasis78",
+    "DEMMERS"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die beverages",
+    "7 days to die drinks",
+    "7 days to die farming",
+    "7 days to die food",
+    "7 days to die tools"
+  ]
+}

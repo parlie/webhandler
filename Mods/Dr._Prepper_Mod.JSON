@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/dr-prepper-mod/",
+  "modCreatedTime": "2020-09-18T20:14:00+00:00",
+  "modLastUpdatedTime": "2020-09-18T20:21:02+00:00",
+  "modName": "Dr. Prepper Mod",
+  "modImages": [],
+  "modShortDescription": "Fallout had its Nukacola, now 7 Days to Die has Dr. Prepper! Make it there faster, and bring a bigger load with Dr. Prepper!",
+  "modDescription": "Fallout had its Nukacola, now 7 Days to Die has Dr. Prepper! Make it there faster, and bring a bigger load with Dr. Prepper!\n\nDesigned to help in early game stages, Dr. Prepper boosts your runspeed by 10% and carry capacity by 3 slots. It also provides the standard Hydrated buff, and a modest 10 hydration. Lasts for hours\\* or maybe just 6 minutes.\n\n\\*Hours claim is based on a “day” being 60 minutes, and customer’s ability to chug an entire 6-pack at once. Actual availability of Dr. Prepper, and length of a day in your reality will vary.\n\nDr. Prepper is added to all Beverage loot with the same frequency as Beer, and may show up Traders and Vending Machines in quantities of 1-5.\n\n## Changelog\n\nIt had some weirdness in the xpath append statements of ui\\_display.xml that made them not very friendly with other mods coming behind them. Resolved that. If you got errors for duplicate entries with other mods, and that didn’t seem to make sense, it should no longer happen.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/stamplesmods/7d2dmodlets/tree/master/DrPrepper)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/16096-stamples-modlets/).\n\n**Credits:** [Stample](https://7daystodiemods.com/tag/stample/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/stamplesmods/7d2dmodlets/tree/master/DrPrepper",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/16096-stamples-modlets/",
+  "modAuthors": [
+    "Stample"
+  ],
+  "modTags": [
+    "7 days to die beverages",
+    "7 days to die drinks",
+    "7 days to die food",
+    "Stample"
+  ]
+}

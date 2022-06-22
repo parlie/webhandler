@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/wireless-fuse-boxes/",
+  "modCreatedTime": "2020-01-23T18:33:04+00:00",
+  "modLastUpdatedTime": "2020-06-20T17:26:52+00:00",
+  "modName": "Wireless Fuse Boxes",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod adds some helper blocks to the game. Also allows you to pick up all the control panel blocks that you find in the world.",
+  "modDescription": "This 7 Days to Die mod adds some helper blocks to the game:\n\n**Helper block that adds:**\n\n* All the control panel blocks act as fuse boxes\n* A paint-able block as fuse box\n* Adds all 4 conduit models as fuse boxes\n* 2 switch variants: the blue fuse box and a top control panel model\n\nThis mod also allows you to pick up all the control panel blocks that you find in the world and converts them automatically to the helper block. If you need [electronics](https://7daystodiemods.com/tag/7-days-to-die-electricity/) then break those with a wrench instead of picking them up.\n\nYou can either craft the helper at the workbench or use the ones found in the world.\n\nAll items scrap to scrap iron.\n\n**[Download](https://docs.google.com/uc?export=download&id=1D3aKmM8IA6HVGV9xNaLil7A6J3hBLXKS)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/16356-two-electricity-helper-blocks-fuse-boxes-and-lights/).\n\n**Credits:** [Shinoma](https://7daystodiemods.com/tag/shinoma/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://docs.google.com/uc?export=download&id=1D3aKmM8IA6HVGV9xNaLil7A6J3hBLXKS",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/16356-two-electricity-helper-blocks-fuse-boxes-and-lights/",
+  "modAuthors": [
+    "Shinoma"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die electricity",
+    "Shinoma"
+  ]
+}

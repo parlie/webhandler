@@ -1,0 +1,29 @@
+{
+  "modURL": "https://7daystodiemods.com/friendly-animals-mod/",
+  "modCreatedTime": "2020-07-19T00:47:00+00:00",
+  "modLastUpdatedTime": "2020-07-19T00:47:34+00:00",
+  "modName": "Friendly Animals Mod",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod makes coyotes, wolves, dire wolves, mountain lions and bears fight zombies too along side you. They are invincible!",
+  "modDescription": "This 7 Days to Die mod makes coyotes, [wolves](https://7daystodiemods.com/tag/7-days-to-die-animals/), dire wolves, mountain lions and bears fight zombies too along side you. They are invincible, so run to them for help fighting zombies and hordes!\n\n## Changelog\n\n* **4.0:**  \n   * Updated for A19.\n* **3.2:**  \n   * Removed anti-friendly animal quests, so you won’t get any useless quests any more.\n* **3.1:**  \n   * Fixed bug preventing zombie bears, zombie vultures, and zombie dogs from attacking players.  \n   * Zombies still not attacking back after being attacked by non-zombies other than the player as “SetAsTargetIfHurt” won’t behave, but once that is figured out, that feature will return.\n\n## Installing\n\n1. Unzip archive.\n2. Place the “FriendlyAnimals” folder inside your Steam Library’s “7 Days to Die/Mods” folder.  \n**Note:** If you don’t know where your Steam Library folder is for the game, you can get to this location by going into Steam, right-clicking 7 Days to Die > Properties > Local Files tab > Browse Local Files\n\n**[Download](https://mega.nz/file/ZJ1VSSDQ#uJEDozAnryQjAqE5JQ9ZmQPh-o4QzUoH_5xVnFmxUf0)** for A19  \n**[Download](https://mega.nz/#!ARd0USgL!imrZi7lep_2ntFqqPyXKuwZgJUwHaTLNXdlqR0_byAU)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/7243-mod-friendly-animals-friendly-animals-united-against-the-zombie-hordes/).\n\n**Credits:** Swiftpaw Wolfheart",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://mega.nz/file/ZJ1VSSDQ#uJEDozAnryQjAqE5JQ9ZmQPh-o4QzUoH_5xVnFmxUf0",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://mega.nz/#!ARd0USgL!imrZi7lep_2ntFqqPyXKuwZgJUwHaTLNXdlqR0_byAU",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/7243-mod-friendly-animals-friendly-animals-united-against-the-zombie-hordes/",
+  "modAuthors": [
+    "Swiftpaw Wolfheart"
+  ],
+  "modTags": [
+    "7 days to die animals"
+  ]
+}

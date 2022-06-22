@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/random-getter-upper/",
+  "modCreatedTime": "2019-11-19T00:44:29+00:00",
+  "modLastUpdatedTime": "2020-06-02T13:56:37+00:00",
+  "modName": "Random Getter Upper",
+  "modImages": [],
+  "modShortDescription": "This mod changes the time in which zombies get up, ranging from 1 to 10 seconds. This will allow players some randomness and a bit of an extra challenge.",
+  "modDescription": "This mod changes the time in which zombies get up, ranging from 1 to 10 seconds. This will allow players some randomness and a bit of an extra challenge when in melee, because unless they’re staring at the XP bar, they won’t know for sure if a zombie is down and out or just down, ready to pounce.\n\n[Download](https://gitlab.com/guppycur/guppymods/-/archive/master/guppymods-master.zip?path=Guppycur%27s_Random_ZombieGetterUpper)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/9144-guppycurs-modlets/).\n\n**Credits:** [Guppycur](https://7daystodiemods.com/tag/guppycur/)",
+  "modDownloadURLs": [
+    {
+      "Info": "\nThis mod changes the time in which zombies get up, ranging from 1 to 10 seconds. This will allow players some randomness and a bit of an extra challenge when in melee, because unless they’re staring at the XP bar, they won’t know for sure if a zombie is down and out or just down, ready to pounce.\n <iframe loading=\"lazy\" title=\"7 Days to Die Alpha 17 Modlet - Random Getter Upper Mod\" width=\"930\" height=\"523\" src=\"https://www.youtube.com/embed/OtZfnFqNyCY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\nDownload\nThe forum topic of the mod is here.\nCredits: Guppycur\nShare this mod with your friends:\n\n",
+      "Version": "v17"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/9144-guppycurs-modlets/",
+  "modAuthors": [
+    "Guppycur"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "Guppycur"
+  ]
+}

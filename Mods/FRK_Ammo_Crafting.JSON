@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/frk-ammo-crafting/",
+  "modCreatedTime": "2020-09-14T18:10:00+00:00",
+  "modLastUpdatedTime": "2020-09-14T18:11:10+00:00",
+  "modName": "FRK Ammo Crafting",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/08/7-days-to-die-frk-ammo-crafting-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Changes ammunition crafting to require specific sized casings and tips. Bullet tips and bullet casings now have to be crafted for each caliber.",
+  "modDescription": "Changes ammunition crafting to require specific sized casings and tips.\n\nOne thing that has always bugged him about this game, is that [ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/) crafting is dumbed down too much – all casings are the same, all tips are the same size… So he made a mod to fix it lol.\n\n* Adds Steel ammo for all 3 calibers. (9mm, 7.62mm, .44)\n* Bullet tips now have to be crafted for each caliber. (9mm, 7.62mm, .44)\n* Bullet casings now have to be crafted for each caliber. (9mm, 7.62mm, .44)\n* All bullets require primers\n* Shotgun Ammo now altered. All components require individual crafting (cases, primers, shot/slug).\n\nPrimers are crafted at a chemistry station, Tips and Casings in the forge, as before. Crafting of primers requires Demolition expert rank 1.\n\nCrafting costs for tips and casings adjusted slightly.\n\n## Changelog\n\n* **_(new)_** Updated to include Shotgun Ammo.\n* Updated to include AP/HP variants of the Steel Ammo, Added HP/AP bullet tips for all calibers, added different sized primers (Small Pistol, Large Pistol and Large Rifle).\n\n**Important:** Needs to be installed on both the server and client sides, due to custom icon(s)/assets.\n\n**[Download](https://drive.google.com/file/d/1aUxHSSs1X5_4Bd4VS_pmA1chAix4eJUC/view?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20806-freakuks-modlets/).\n\n**Credits:** [FreakUK](https://7daystodiemods.com/tag/freakuk/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1aUxHSSs1X5_4Bd4VS_pmA1chAix4eJUC/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/20806-freakuks-modlets/",
+  "modAuthors": [
+    "FreakUK"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "FreakUK"
+  ]
+}

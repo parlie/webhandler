@@ -1,0 +1,29 @@
+{
+  "modURL": "https://7daystodiemods.com/green-eyed-radiated-zombies/",
+  "modCreatedTime": "2019-11-20T03:47:17+00:00",
+  "modLastUpdatedTime": "2020-06-02T13:55:43+00:00",
+  "modName": "Green Eyed Radiated Zombies",
+  "modImages": [],
+  "modShortDescription": "Tired of radiated zombies killing your FPS? This mod will help you! Turns off green particles on radiated zombies and adds glowing green eyes.",
+  "modDescription": "Tired of radiated zombies killing your FPS? This mod will help you! Turns off green particles on radiated zombies and adds glowing green eyes you can see in the dark.\n\nReplaces radiated [zombie textures](https://7daystodiemods.com/tag/7-days-to-die-zombie-textures/) with normal textures for the body. So that the entire thing doesn’t glow green killing your FPS. Only adds a glowing green eyes. The eyes made by Mumpfy for Guppycor. You can still tell they’re radiates, but they don’t kill your frames.\n\n[Download](https://gitlab.com/guppycur/guppymods/-/archive/master/guppymods-master.zip?path=Guppycur%27s_Rad_Eyes)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/9144-guppycurs-modlets/).\n\n**Credits:** [Guppycur](https://7daystodiemods.com/tag/guppycur/), Mumpfy",
+  "modDownloadURLs": [
+    {
+      "Info": "\nTired of radiated zombies killing your FPS? This mod will help you! Turns off green particles on radiated zombies and adds glowing green eyes you can see in the dark.\nReplaces radiated zombie textures with normal textures for the body. So that the entire thing doesn’t glow green killing your FPS. Only adds a glowing green eyes. The eyes made by Mumpfy for Guppycor. You can still tell they’re radiates, but they don’t kill your frames.\n <iframe loading=\"lazy\" title=\"7 Days to Die - Mod - Green Eyed Rad Zombies\" width=\"930\" height=\"523\" src=\"https://www.youtube.com/embed/cbBPaO8IIiY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\nDownload\nThe forum topic of the mod is here.\nCredits: Guppycur, Mumpfy\nShare this mod with your friends:\n\n",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/9144-guppycurs-modlets/",
+  "modAuthors": [
+    "Guppycur",
+    "Mumpfy"
+  ],
+  "modTags": [
+    "7 days to die texture mod",
+    "7 days to die texture pack",
+    "7 days to die textures",
+    "7 days to die zombie textures",
+    "7 days to die zombies",
+    "Guppycur"
+  ]
+}

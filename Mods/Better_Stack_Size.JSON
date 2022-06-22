@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/better-stack-size/",
+  "modCreatedTime": "2020-09-09T20:56:00+00:00",
+  "modLastUpdatedTime": "2020-09-09T21:45:07+00:00",
+  "modName": "Better Stack Size",
+  "modImages": [],
+  "modShortDescription": "This mod increases stack size for various items.",
+  "modDescription": "This mod increases [stack size](https://7daystodiemods.com/tag/7-days-to-die-stack-size/) for various items.\n\n**[Download](https://docs.google.com/uc?export=download&id=1cEvxlzneaILmiA_5k7nikmCTVrddKqTR)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21413-fr3ak4ls-a19-modlets/).\n\n**Credits:** [fr3ak4l](https://7daystodiemods.com/tag/fr3ak4l/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://docs.google.com/uc?export=download&id=1cEvxlzneaILmiA_5k7nikmCTVrddKqTR",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/21413-fr3ak4ls-a19-modlets/",
+  "modAuthors": [
+    "fr3ak4l"
+  ],
+  "modTags": [
+    "7 days to die stack size",
+    "fr3ak4l"
+  ]
+}

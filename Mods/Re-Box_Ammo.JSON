@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/re-box-ammo/",
+  "modCreatedTime": "2020-10-28T13:46:56+00:00",
+  "modLastUpdatedTime": "2020-10-28T13:46:57+00:00",
+  "modName": "Re-Box Ammo",
+  "modImages": [],
+  "modShortDescription": "A simple XML mod that allows the player to repack loose ammo into boxes. Covers all bullets and shotgun shells ATM.",
+  "modDescription": "A simple XML mod that allows the player to repack loose ammo into boxes. Covers all bullets and shotgun shells ATM. I may add support later for arrows and bolts.\n\nThe ability to re-box [ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/) is tied to the skills that allow you to craft boxes of ammo. Basically if you can craft a certain box of ammo, you can re-box that same ammo.\n\nLimitations – Re-boxed ammo can not stack with crafted boxes and re-boxing ammo takes that same amount of time as crafting boxes. To re-box ammo requires a workbench, 100 rounds of the ammo plus 2 pieces of paper. Since it is XML only, it can be pushed from servers.\n\n**[Download](https://drive.google.com/file/d/1DJ8Wx4urrOS65pVicYRt84FqDRQVkKIw/view?usp=sharing)**\n\n**Credits:** [hip63](https://7daystodiemods.com/tag/hip63/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1DJ8Wx4urrOS65pVicYRt84FqDRQVkKIw/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "hip63"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "hip63"
+  ]
+}

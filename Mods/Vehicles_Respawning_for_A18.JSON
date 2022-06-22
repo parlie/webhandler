@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/vehicles-respawning-for-a18/",
+  "modCreatedTime": "2019-11-24T16:41:53+00:00",
+  "modLastUpdatedTime": "2020-06-04T14:21:33+00:00",
+  "modName": "Vehicles Respawning for A18",
+  "modImages": [],
+  "modShortDescription": "This 7 Days to Die mod makes cars (Sedans) in the color variants and 3 damage stages, bus variants and army trucks respawn randomly after disassembly.",
+  "modDescription": "This 7 Days to Die mod makes [cars](https://7daystodiemods.com/tag/7-days-to-die-car-mods/) (Sedans) in the color variants and 3 damage stages, bus variants and army trucks [respawn](https://7daystodiemods.com/tag/7-days-to-die-respawn/) randomly after disassembly (except by explosions).\n\nThe respawn block is an air block with no collision what avoids being accidentally broken.\n\n**Default respawning:** 7 days.\n\nIn Readme has a tutorial to install the mod and to set a custom respawning days configuration.\n\n[Download](https://drive.google.com/open?id=1JhGTfYly-RTq6GldT4q-ePpnBBS09Qdl)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/16152-modlet-vehicles-respawning-a18/).\n\n**Credits:** SAMUELPV",
+  "modDownloadURLs": [
+    {
+      "Info": "\nThis 7 Days to Die mod makes cars (Sedans) in the color variants and 3 damage stages, bus variants and army trucks respawn randomly after disassembly (except by explosions).\nThe respawn block is an air block with no collision what avoids being accidentally broken.\nDefault respawning: 7 days.\nIn Readme has a tutorial to install the mod and to set a custom respawning days configuration.\nDownload\nThe forum topic of the mod is here.\nCredits: SAMUELPV\nShare this mod with your friends:\n\n",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/16152-modlet-vehicles-respawning-a18/",
+  "modAuthors": [
+    "SAMUELPV"
+  ],
+  "modTags": [
+    "7 days to die car mods",
+    "7 days to die respawn",
+    "7 days to die vehicles"
+  ]
+}

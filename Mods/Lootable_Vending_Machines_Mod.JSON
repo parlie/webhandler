@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/lootable-vending-machines-mod/",
+  "modCreatedTime": "2020-09-26T20:45:00+00:00",
+  "modLastUpdatedTime": "2020-09-26T21:21:37+00:00",
+  "modName": "Lootable Vending Machines Mod",
+  "modImages": [],
+  "modShortDescription": "GreatWhiteOwl has created a mod to switch vending machines to loot containers for added realism.",
+  "modDescription": "GreatWhiteOwl has created a mod to switch vending machines to loot containers for added realism. The premise being that nobody is going to run around restocking vending machines every day during a zombie apocalypse, and nobody is going to put coins in the machine when they can break it open instead.\n\nThe loot in the vending machine is the same type of items you would get if you were to purchase from it in a vanilla game – canned food, drinks, and candy.\n\nSimply install the mod (copy the folder from the zip to the Mods folder of the game) and restart the server/game. The mod modifies the existing blocks so you do not need to generate a new map or do anything special other than the restart to pick up the changes.\n\nHe has tested this on A19.1 only, and he’s pretty sure it will not work on A18 or older versions. He think it should work fine on A19.0 but he hasn’t tested it.\n\n**[Download](https://docs.google.com/uc?export=download&id=1PyUvXeNDRbvxsGkUXs97NefMH22k86hJ)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21872-lootable-vending-machines-modlet-a191/).\n\n**Credits:** GreatWhiteOwl",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://docs.google.com/uc?export=download&id=1PyUvXeNDRbvxsGkUXs97NefMH22k86hJ",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/21872-lootable-vending-machines-modlet-a191/",
+  "modAuthors": [
+    "GreatWhiteOwl"
+  ],
+  "modTags": [
+    "7 days to die loot"
+  ]
+}
