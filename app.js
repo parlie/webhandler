@@ -328,12 +328,12 @@ function ProcessModNameFromPage(attribut){
  */
  function GetSiteMapTimestamp(){
     const element = siteMapXML['urlset']['url'][0];
-    if(element['lastmod'] == sitemapTimestamp && fullDayPeriod < 24 && sitemapTimestamp != undefined)
+    if(element['lastmod'][0] == sitemapTimestamp && fullDayPeriod < 24 && sitemapTimestamp != undefined)
     {
         console.log(TimeNow("The sitemap is up-to-date. Next check is planned in "+timeForUpdate+" hour/s"));
         setTimeout(CheckForSiteMapUpdate,timeForUpdate*3600000);
     }
-    else if(element['lastmod'] != sitemapTimestamp){
+    else if(element['lastmod'][0] != sitemapTimestamp){
         console.log(TimeNow("Current mod list is outdated"));
         setTimeout(CheckForSiteMapUpdate,timeForUpdate*3600000);
         UpdateModObjects();
