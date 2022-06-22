@@ -387,7 +387,7 @@ function UpdateModObjects()
     var i = 1;
     var p = setInterval(() => {
         if(i < tempArray.length){
-            GetModPage(tempArray[i],i,tempArray.length);
+            GetModPage(tempArray[i],i,tempArray.length-1);
             i++;
         }
         else{
