@@ -365,7 +365,7 @@ function ProcessModNameFromPage(attribut){
 
 function UpdateModObjects()
 {
-    var newLenght = siteMapXML['urlset']['url'].length - 960;
+    var newLenght = siteMapXML['urlset']['url'].length % 41;
 
     sitemapTimestamp = siteMapXML['urlset']['url'][0]['lastmod'];
     fs.writeFileSync("variables.json",JSON.stringify({siteMapTimestamp:sitemapTimestamp}));
