@@ -387,8 +387,8 @@ function UpdateModObjects()
     var i = 1;
     var p = setInterval(() => {
         if(i < tempArray.length){
-        GetModPage(tempArray[i],i,tempArray.length);
-        i++;
+            GetModPage(tempArray[i],i,tempArray.length);
+            i++;
         }
         else{
             console.log(TimeNow("All mods have been processed. The next check will ocure in ~2 hours."));
