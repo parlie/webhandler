@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/reactor-gauntlet/",
+  "modCreatedTime": "2020-05-02T02:48:02+00:00",
+  "modLastUpdatedTime": "2020-05-02T02:49:08+00:00",
+  "modName": "Reactor Gauntlet (WIP)",
+  "modImages": [],
+  "modShortDescription": "This mod adds a craftable gauntlet that can be modified with various \"fuses\" that give permanent effects as long as they are equipped.",
+  "modDescription": "This mod adds a craftable gauntlet that can be modified with various “fuses” that give permanent effects as long as they are equipped. The effects vary from perk boosts to elemental damage on any attack.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Snufki-n/Snufkin_Modlets/tree/master/Snufkin_ReactorGauntlet)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/18673-snufkins-assorted-modlets/).\n\n**Credits:** [Snufkin](https://7daystodiemods.com/tag/snufkin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Snufki-n/Snufkin_Modlets/tree/master/Snufkin_ReactorGauntlet",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/18673-snufkins-assorted-modlets/",
+  "modAuthors": [
+    "Snufkin"
+  ],
+  "modTags": [
+    "7 days to die armor mods",
+    "7 days to die electricity",
+    "Snufkin"
+  ]
+}
