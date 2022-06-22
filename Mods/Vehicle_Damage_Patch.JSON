@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/vehicle-damage-patch/",
+  "modCreatedTime": "2021-12-05T11:22:00+00:00",
+  "modLastUpdatedTime": "2021-12-08T15:23:05+00:00",
+  "modName": "Vehicle Damage Patch",
+  "modImages": [],
+  "modShortDescription": "Increases the amount of damage a zombie takes when you run it over. Amount of damage depends on how heavy the vehicle is and how fast you hit the zombie.",
+  "modDescription": "Increases the amount of damage a zombie takes when you run it over. Amount of damage depends on how heavy the [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) is and how fast you hit the zombie.\n\nThis is a C# Mod (cannot be server only, EAC must be off!).\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsHarmony/tree/main/KHA20-VehicleDamagePatch)**\n\nIf you appreciate KhaineGB’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/khainegb).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsHarmony/tree/main/KHA20-VehicleDamagePatch",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "7 days to die vehicles",
+    "KhaineGB"
+  ]
+}

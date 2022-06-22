@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/more-pots/",
+  "modCreatedTime": "2021-12-07T04:23:17+00:00",
+  "modLastUpdatedTime": "2021-12-07T04:23:18+00:00",
+  "modName": "More Pots",
+  "modImages": [],
+  "modShortDescription": "Adds more pots to the world by adding them as a specific item to cupboards.",
+  "modDescription": "Adds more pots to the world by adding them as a specific item to cupboards. It is unrealistic with multi-burner stoves to think everyone cleared out most/all their pots and pans as the world ended.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/RELXIX-7DTD/A20_XML_Modlets/tree/main/RELXIX_Loot_MorePots)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25785-relxix-a20-xml-modlets/).\n\n**Credits:** [Red Eagle LXIX](https://7daystodiemods.com/tag/red-eagle-lxix/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/RELXIX-7DTD/A20_XML_Modlets/tree/main/RELXIX_Loot_MorePots",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25785-relxix-a20-xml-modlets/",
+  "modAuthors": [
+    "Red Eagle LXIX"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "Red Eagle LXIX"
+  ]
+}

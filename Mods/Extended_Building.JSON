@@ -1,0 +1,23 @@
+{
+  "modURL": "https://7daystodiemods.com/extended-building/",
+  "modCreatedTime": "2021-12-14T09:30:00+00:00",
+  "modLastUpdatedTime": "2021-12-14T09:33:50+00:00",
+  "modName": "Extended Building",
+  "modImages": [],
+  "modShortDescription": "This mod will expand the building process. The health of the blocks will also be changed.",
+  "modDescription": "This mod will expand the building process.\n\n**Building process will look like this:** Wood => Reinforced Wood => Reinforced Metal Wood => Cobblestone => Concrete => Concrete Reinforced => Steel\n\nThe health of the blocks will also be changed.\n\n**[Download](https://drive.google.com/file/d/11wvrFXlodS9q6RiUVhPZSSdtwqv0e0K7/view?usp=sharing)**\n\n**Credits:** Fokpok",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/11wvrFXlodS9q6RiUVhPZSSdtwqv0e0K7/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Fokpok"
+  ],
+  "modTags": [
+    "7 days to die building materials"
+  ]
+}

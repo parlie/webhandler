@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/faster-leveling-and-more-skill-points-per-level/",
+  "modCreatedTime": "2021-12-18T13:17:00+00:00",
+  "modLastUpdatedTime": "2021-12-18T13:35:20+00:00",
+  "modName": "Faster Leveling and More Skill Points Per Level",
+  "modImages": [],
+  "modShortDescription": "Sets parameters in progression.xml to give more skill points per level.",
+  "modDescription": "Sets parameters in progression.xml to give more [skill points](https://7daystodiemods.com/tag/7-days-to-die-skill-points/) per level.\n\n**[Download](https://github.com/pahbi/7DTD_Modlets/raw/main/skillpoints.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26048-a20-modlets-lotl-perk-fast-plant-growth-super-iron-pickaxe/).\n\n**Credits:** [Pahbi](https://7daystodiemods.com/tag/pahbi/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/pahbi/7DTD_Modlets/raw/main/skillpoints.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26048-a20-modlets-lotl-perk-fast-plant-growth-super-iron-pickaxe/",
+  "modAuthors": [
+    "Pahbi"
+  ],
+  "modTags": [
+    "7 days to die experience",
+    "7 days to die skill points",
+    "Pahbi"
+  ]
+}

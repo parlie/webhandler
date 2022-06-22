@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/larger-fov/",
+  "modCreatedTime": "2021-12-05T11:20:00+00:00",
+  "modLastUpdatedTime": "2021-12-08T15:24:52+00:00",
+  "modName": "Larger FOV",
+  "modImages": [],
+  "modShortDescription": "Increases the max FOV to 150, though anything above 90 is a bit distorted. Might be good for folks with motion sickness.",
+  "modDescription": "Increases the max FOV to 150, though anything above 90 is a bit distorted. Might be good for folks with motion sickness.\n\nThis is a C# Mod (cannot be server only, EAC must be off!).\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsHarmony/tree/main/KHA20-LargerFOV)**\n\nIf you appreciate KhaineGB’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/khainegb).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsHarmony/tree/main/KHA20-LargerFOV",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "KhaineGB"
+  ]
+}

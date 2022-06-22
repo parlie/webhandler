@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/rutotallogicnocry-v1-xx/",
+  "modCreatedTime": "2021-11-01T11:39:03+00:00",
+  "modLastUpdatedTime": "2021-11-01T11:39:06+00:00",
+  "modName": "ruTotalLogicNoCry v1.xx",
+  "modImages": [],
+  "modShortDescription": "Has a humorous name, and implies the usual life of a Russian man, live like a Russian, eat like a Russian.",
+  "modDescription": "Has a humorous name, and implies the usual life of a Russian man, live like a Russian, eat like a Russian 🙂 Modification originally created for private game (personal).\n\nThe main point of the game modification (as opposed to the base stock version), the manipulation of the player’s game state in survival mode (stats/effects), initial help in basic Russian cuisine, and additional logical component.\n\nAge 18+.  \nGPLv2 license for code distribution.\n\n* New gameplay logic.\n* New stuff.\n* Changed item [stack](https://7daystodiemods.com/tag/7-days-to-die-stack-size/).\n* Refinement of ammunition and armament of the player.\n\n**Attention:** Start a new game, remove other similar modifications before testing.\n\n**[Download](https://crimea-karro.ru/download/ruTotalLogicNoCry_demo_dev-A19.zip)**\n\n**Credits:** ASPbazi",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://crimea-karro.ru/download/ruTotalLogicNoCry_demo_dev-A19.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "ASPbazi"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die stack size",
+    "7 days to die weapons"
+  ]
+}

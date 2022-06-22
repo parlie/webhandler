@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/supply-drops/",
+  "modCreatedTime": "2021-11-02T20:49:00+00:00",
+  "modLastUpdatedTime": "2021-11-02T22:19:54+00:00",
+  "modName": "Supply Drops",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/11/7-days-to-die-supply-drops-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/11/7-days-to-die-supply-drops-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/11/7-days-to-die-supply-drops-additional-screenshot-3.jpg"
+  ],
+  "modShortDescription": "Adds in lootable supply drop signals, place the grenade as you would any block and wait for the supply drop the drop from the sky.",
+  "modDescription": "Adds in lootable supply drop signals, place the grenade as you would any block and wait for the supply drop the drop from the sky. Ideal for early game or pvp scenarios.\n\nCurrently untested on multiplayer but it should work as long as all clients and the server have the mod installed. No world reset is neccesary but any looted containers will not spawn the supply drop signals until the loot respawns.\n\n**Known Issues:** The supply crate can sometimes visually dissapear depending on the angle you look at the model. I’m yet to discover the cause for the issue but it doesn’t impede your ability to loot the supplies and the issue doesn’t happen too frequently.\n\n**Planned:** I would like to have the [grenade](https://7daystodiemods.com/tag/7-days-to-die-ammo/) be a throwable and spawn zombies akin to the buried supplies quest but I’m still looking into methods to try achieve this.\n\n**[Download](https://drive.google.com/file/d/1x4We2VtaKd6gmuusiGbB7R4RGBqujWpV/view?usp=sharing)** from Google Drive  \n**[Download](https://www.dropbox.com/s/yqz4wv1fzmfyk4h/SupplyDrops.7z?dl=1)** from Dropbox\n\n**Credits:** Chickun",
+  "modDownloadURLs": [
+    {
+      "Info": "from Google Drive",
+      "URL": "https://drive.google.com/file/d/1x4We2VtaKd6gmuusiGbB7R4RGBqujWpV/view?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "from Dropbox",
+      "URL": "https://www.dropbox.com/s/yqz4wv1fzmfyk4h/SupplyDrops.7z?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Chickun"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die loot"
+  ]
+}

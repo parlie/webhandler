@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/no-trader-quests/",
+  "modCreatedTime": "2021-08-26T09:05:25+00:00",
+  "modLastUpdatedTime": "2021-08-26T09:05:26+00:00",
+  "modName": "No Trader Quests",
+  "modImages": [],
+  "modShortDescription": "Removes the ability to get quests on a new world.",
+  "modDescription": "Removes the ability to get [quests](https://7daystodiemods.com/tag/7-days-to-die-quests/) on a new world.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/DayhawkSilverstar/7DaysToDieMods/tree/master/Dayhawks%20No%20Trader%20Quests)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21381-a19-dayhawks-modlets/).\n\n**Credits:** [Dayhawk](https://7daystodiemods.com/tag/dayhawk/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/DayhawkSilverstar/7DaysToDieMods/tree/master/Dayhawks%20No%20Trader%20Quests",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/21381-a19-dayhawks-modlets/",
+  "modAuthors": [
+    "Dayhawk"
+  ],
+  "modTags": [
+    "7 days to die quests",
+    "7 days to die trader",
+    "Dayhawk"
+  ]
+}

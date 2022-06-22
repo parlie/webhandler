@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/increased-wandering-horde-size/",
+  "modCreatedTime": "2021-12-07T18:57:00+00:00",
+  "modLastUpdatedTime": "2021-12-07T19:09:48+00:00",
+  "modName": "Increased Wandering Horde Size",
+  "modImages": [],
+  "modShortDescription": "Takes the vanilla wandering hordes and adds a few extra zeds to each stage for a bigger more dangerous wandering horde.",
+  "modDescription": "Takes the vanilla wandering hordes and adds a few extra [zeds](https://7daystodiemods.com/tag/7-days-to-die-zombies/) to each stage for a bigger more dangerous wandering horde.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A20ModletsJax/tree/main/JaxTeller718-BiggerWanderingHordes)** for A20  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_BiggerWanderingHordes)** for A19\n\nIf you appreciate JaxTeller718’s work and you want to show support, use this [donate link](https://www.paypal.me/FrankCirabisiJr).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25860-jaxteller718s-a20-modlets/).\n\n**Credits:** [JaxTeller718](https://7daystodiemods.com/tag/jaxteller718/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A20ModletsJax/tree/main/JaxTeller718-BiggerWanderingHordes",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_BiggerWanderingHordes",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25860-jaxteller718s-a20-modlets/",
+  "modAuthors": [
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "JaxTeller718"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/zombie-loot-bag-increase/",
+  "modCreatedTime": "2021-12-06T23:44:00+00:00",
+  "modLastUpdatedTime": "2021-12-06T23:55:39+00:00",
+  "modName": "Zombie Loot Bag Increase",
+  "modImages": [],
+  "modShortDescription": "Sets the Zombie Loot Bags so they stick around for 30 minutes. This also increases the chances of a Zombie Loot Bag dropping.",
+  "modDescription": "Sets the Zombie Loot Bags so they stick around for 30 minutes. This ensures even on a bloodmoon, your Zombie Loot Bags will still be around on the ground at the end of the night.\n\nThis also increases the chances of a Zombie Loot Bag dropping. Please see the chart below:\n\n* All Normal [Zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) (zombieTemplate): 9% (2% vanilla)\n* Feral Zombies: 11% (3% vanilla)\n* Radiated Zombies: 13% (3% vanilla)\n\n## Changelog\n\nUpdated for A20.\n\n**[Download](https://github.com/XelaNull/7DTD-ZombieLootbag_Increase/archive/refs/tags/7DTD-ZombieLoogbag_Increase_A20_1.0a.zip)** for A20  \n**[Download](https://github.com/XelaNull/7DTD-ZombieLootbag_Increase/archive/A19_1.0.zip)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17503-zombie-lootbag-increase/).\n\n**Credits:** [ShoudenKalferas](https://7daystodiemods.com/tag/shoudenkalferas/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://github.com/XelaNull/7DTD-ZombieLootbag_Increase/archive/refs/tags/7DTD-ZombieLoogbag_Increase_A20_1.0a.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://github.com/XelaNull/7DTD-ZombieLootbag_Increase/archive/A19_1.0.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/17503-zombie-lootbag-increase/",
+  "modAuthors": [
+    "ShoudenKalferas"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "7 days to die zombies",
+    "ShoudenKalferas"
+  ]
+}

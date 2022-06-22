@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/sams-long-loot-bags/",
+  "modCreatedTime": "2021-12-18T13:22:00+00:00",
+  "modLastUpdatedTime": "2021-12-18T13:35:44+00:00",
+  "modName": "Sam's Long Loot Bags",
+  "modImages": [],
+  "modShortDescription": "Increases the length of time zombie loot bags stay in the world.",
+  "modDescription": "Increases the length of time [zombie](https://7daystodiemods.com/tag/7-days-to-die-zombies/) loot bags stay in the world.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/saminal1/samsmods-a20/tree/main/SLongLootBags)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26324-sams-stuff-all-a20-server-side-modlets/).\n\n**Credits:** [Saminal](https://7daystodiemods.com/tag/saminal/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/saminal1/samsmods-a20/tree/main/SLongLootBags",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26324-sams-stuff-all-a20-server-side-modlets/",
+  "modAuthors": [
+    "Saminal"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "7 days to die zombies",
+    "Saminal"
+  ]
+}

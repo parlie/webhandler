@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/trader-lore/",
+  "modCreatedTime": "2021-11-04T00:39:00+00:00",
+  "modLastUpdatedTime": "2021-11-04T00:41:21+00:00",
+  "modName": "Trader Lore",
+  "modImages": [],
+  "modShortDescription": "Adds lore and history to the trader dialogs. This lore is definitely not the official lore of The Fun Pimps. It is, however, based in Arizona reality.",
+  "modDescription": "Adds lore and history to the trader dialogs. This lore is definitely not the official lore of The Fun Pimps. It is, however, based in Arizona reality.\n\n## Changes and Features\n\n* Fleshed-out lore and backstory for the Duke, Noah, Whiteriver, and the Cassadores\n* Different traders have different relationships with each group or leader, and have different opinions or amounts of knowledge about them\n* The vanilla dialog window is larger, to make room for more text\n\n## Dependent and Compatible Mods\n\nThis mod is not dependent upon any other mods. It is compatible with the [SphereII NPC Dialog Windows](https://7daystodiemods.com/dmt-mods-by-sphereii/) mod, probably looks better if that mod is installed. The SMX-style UI in that mod is much better looking than vanilla, at least in Khzmusik’s opinion.\n\n## Technical Details\n\nThis mod uses XPath to modify XML files, and does not require SDX or DMT. It should be compatible with EAC. Servers should automatically push the XML modifications to their clients, so separate client installation should not be necessary.\n\nBecause this mod only affects [trader](https://7daystodiemods.com/tag/7-days-to-die-trader/) dialog options, starting a new game should not be necessary.\n\n## Changelog\n\n* **notesDukeAirdrop lootgroup inserted before first lootgroup.**  \n   * By inserting it before the other loot groups, it prevents an XML loading error if other mods add loot groups after loot containers.\n\n## Possible Improvements\n\nThe lore in this mod contains a lot of words that are specific to America and Arizona. It is almost certainly impossible to correctly translate using automated translation services.\n\nIf there are non-English speakers who can tranlate the text by hand, please contact him. He need all the help he can get!\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=khzmusik_Trader_Lore)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/).\n\n**Credits:** [Khzmusik](https://7daystodiemods.com/tag/khzmusik/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=khzmusik_Trader_Lore",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/",
+  "modAuthors": [
+    "Khzmusik"
+  ],
+  "modTags": [
+    "7 days to die trader",
+    "Khzmusik"
+  ]
+}

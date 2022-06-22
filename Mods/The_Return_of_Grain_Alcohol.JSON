@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/the-return-of-grain-alcohol/",
+  "modCreatedTime": "2021-12-12T11:15:00+00:00",
+  "modLastUpdatedTime": "2021-12-12T11:20:49+00:00",
+  "modName": "The Return of Grain Alcohol",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-the-return-of-grain-alcohol-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-the-return-of-grain-alcohol-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "This is a small mod that reverts the change they made in alpha 20, where they removed grain alcohol completely from the game, and changed all of the recipes to use beer instead.",
+  "modDescription": "This is a small mod that reverts the change they made in alpha 20, where they removed grain alcohol completely from the game, and changed all of the recipes to use beer instead.\n\nThe mod adds:\n\n* Ability to craft Grain Alcohol with 3 [Cornmeal](https://7daystodiemods.com/tag/7-days-to-die-food/) and 1 Boiled Water, in Campfire.\n* Ability to craft Grain Alcohol with 1 Cornmeal and 1 Murky Water, in Chemistry Station.\n* Option to craft Pumpkin Cheesecake and Grandpas Moonshine with Grain Alcohol, in Campfire.\n* Option to craft First Aid Kits, Recog, Steroids and Fort Bites with Grain Alcohol in Chemistry Station.\n* Drops in containers with a low chance, usually in [medical](https://7daystodiemods.com/tag/7-days-to-die-medical-supplies/) containers.\n\n**[Download](https://drive.google.com/file/d/1fmnVoZdHpi2pe1rjE6d50eIqLiKa9DGb/view)**\n\n**Credits:** SweblGustav1",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1fmnVoZdHpi2pe1rjE6d50eIqLiKa9DGb/view",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "SweblGustav1"
+  ],
+  "modTags": [
+    "7 days to die food",
+    "7 days to die medical supplies"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/insect-mod/",
+  "modCreatedTime": "2020-04-13T20:59:00+00:00",
+  "modLastUpdatedTime": "2021-07-12T08:45:15+00:00",
+  "modName": "Insect Mod",
+  "modImages": [],
+  "modShortDescription": "Adds giant flying insects (can also be found in the Creature Pack) that give HONEY. Adds a prefab that you can find them in.",
+  "modDescription": "Adds giant flying insects (can also be found in the [Creature Pack](https://7daystodiemods.com/creature-packs-a-community-entity-project/)) that give HONEY. Adds a prefab that you can find them in.\n\nYou will need to copy the contents of modname/configs/Prefabs to gamefolder/data/Prefabs, otherwise you will get a nice NRE. If you can’t do that, please don’t ask for support, just stop using his mods. Easier on the old ticker.\n\n**[Download](https://gitlab.com/guppycur/guppymods/-/archive/master/guppymods-master.zip?path=Guppycur%27s_Insects)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/9144-guppycurs-modlets/).\n\n**Credits:** [Guppycur](https://7daystodiemods.com/tag/guppycur/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/guppycur/guppymods/-/archive/master/guppymods-master.zip?path=Guppycur%27s_Insects",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/9144-guppycurs-modlets/",
+  "modAuthors": [
+    "Guppycur"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die prefab",
+    "Guppycur"
+  ]
+}

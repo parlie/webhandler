@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/critical-health-indicator/",
+  "modCreatedTime": "2021-10-27T20:50:00+00:00",
+  "modLastUpdatedTime": "2021-10-27T21:49:59+00:00",
+  "modName": "Critical Health Indicator",
+  "modImages": [],
+  "modShortDescription": "A 7 Days to Die modlet that causes the vanilla health bar to flash when you should seriously consider healing.",
+  "modDescription": "A 7 Days to Die modlet that causes the vanilla health bar to flash when you should seriously consider healing.\n\n## Supported Environments\n\n* Local\n* Server – Players will not have to download this mod if it’s installed on your server\n\n## What’s It Doing Under the Covers?\n\n* Adds new hidden buff on startup, respawn, or death named ‘buffCriticalHealthIndicator’ that is not removed on death or restart.\n* i.e. this buff should always be active\n* While ‘buffCriticalHealthIndicator’ is active, the player’s [health bar](https://7daystodiemods.com/tag/7-days-to-die-hud-mod/) will flash if current health drops below 25% of maximum health.\n* Once player health reaches or exceeds 25% of maximum, the flashing will cease and the default color for the health bar will return to normal.\n\n## Will This Modlet Work With a Custom UI?\n\n* Probably not if the health bar has been modified, but I’d encourage you to try it.\n* This modlet assumes that your color value for the health bar will be RGB 255,0,0.\n* Please feel free to adjust this modlet in whatever way works best for you. I love answering questions, so you can also hit me up on the [Issues page](https://github.com/raid-teams/critical-health-indicator/issues).\n* Tip: an easy way to test this is to start a new game on the lowest difficulty setting, then stand on some wooden spikes.\n\n## How to Install\n\n1. Download the latest release of this mod by going to the latest releases page and clicking the download link there for ‘critical-health-indicator-\\[version\\].zip’\n2. Navigate to your 7 Days to Die install directory in either your Client or Server and create a new folder here named ‘Mods’ (if it isn’t already created)\n3. Extract the downloaded ‘critical-health-indicator-\\[version\\].zip’ file into this ‘Mods’ folder and extra\n\n**[Download](https://github.com/raid-teams/critical-health-indicator/releases/latest)** _(This link will provide you with the latest version of this modlet)_\n\nIf you need help, you can use this [support link](https://github.com/raid-teams/critical-health-indicator/discussions).\n\n**Credits:** [Jonathan Robertson (Kanaverum)](https://7daystodiemods.com/tag/jonathan-robertson-kanaverum/)",
+  "modDownloadURLs": [
+    {
+      "Info": "(This link will provide you with the latest version of this modlet)",
+      "URL": "https://github.com/raid-teams/critical-health-indicator/releases/latest",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Jonathan Robertson (Kanaverum)"
+  ],
+  "modTags": [
+    "7 days to die hud mod",
+    "Jonathan Robertson (Kanaverum)"
+  ]
+}

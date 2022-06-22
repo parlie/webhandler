@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/harvesting-crops-will-always-give-a-seed/",
+  "modCreatedTime": "2021-12-19T10:09:00+00:00",
+  "modLastUpdatedTime": "2021-12-19T10:14:36+00:00",
+  "modName": "Harvesting Crops Will Always Give a Seed",
+  "modImages": [],
+  "modShortDescription": "Sets parameters in blocks.xml so harvested plants always drop seeds.",
+  "modDescription": "Sets parameters in blocks.xml so harvested plants always drop [seeds](https://7daystodiemods.com/tag/7-days-to-die-farming/).\n\n**[Download](https://github.com/pahbi/7DTD_Modlets/raw/main/alwaysSeed.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26048-a20-modlets-lotl-perk-fast-plant-growth-super-iron-pickaxe/).\n\n**Credits:** [Pahbi](https://7daystodiemods.com/tag/pahbi/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/pahbi/7DTD_Modlets/raw/main/alwaysSeed.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26048-a20-modlets-lotl-perk-fast-plant-growth-super-iron-pickaxe/",
+  "modAuthors": [
+    "Pahbi"
+  ],
+  "modTags": [
+    "7 days to die farming",
+    "Pahbi"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/punishing-weather-effects-light/",
+  "modCreatedTime": "2021-12-20T00:16:00+00:00",
+  "modLastUpdatedTime": "2021-12-20T00:28:43+00:00",
+  "modName": "Punishing Weather Effects - Light",
+  "modImages": [],
+  "modShortDescription": "Adds lighter (less dense) Particle effects to biomes for those who have FPS issues with the PunishingWeather-Core effects.",
+  "modDescription": "Adds lighter (less dense) Particle effects to biomes for those who have FPS issues with the PunishingWeather-Core effects.\n\n**Requires Mod:** [Punishing Weather – Core](https://7daystodiemods.com/punishing-weather-core/)\n\n## Changelog\n\nConversion to A20.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a20/tree/main/Doughs-PunishingWeather-Effects-Light)** for A20  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-PunishingWeather-Effects-Light)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a20/tree/main/Doughs-PunishingWeather-Effects-Light",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-PunishingWeather-Effects-Light",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "7 days to die biomes",
+    "7 days to die weather",
+    "Doughphunghus"
+  ]
+}

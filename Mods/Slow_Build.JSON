@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/slow-build/",
+  "modCreatedTime": "2021-01-24T02:56:10+00:00",
+  "modLastUpdatedTime": "2021-05-19T09:15:17+00:00",
+  "modName": "Slow Build",
+  "modImages": [],
+  "modShortDescription": "The purpose of this mod is to discourage base building, and to encourage renovating existing POIs for both horde bases and dwellings.",
+  "modDescription": "Slows down building, and to a lesser extent upgrading.\n\nThe purpose of this mod is to discourage base building, and to encourage renovating existing POIs for both horde bases and dwellings. Hopefully, this will also make the “nomad” style (moving from POI to POI) more appealing and practical. The requirement to use renovated POIs as horde bases should also provide more creativity and challenges.\n\n## Features\n\n* Wood frames now require nails to craft. To adjust for this, players are now given a mostly-empty box of nails when starting. Also, full boxes of nails (100 count) can sometimes be found in loot.\n* Upgrading wood frames requires 10 wood (from 4).\n* Crafting nails now requires an anvil in the forge.\n* Crafting cobblestone now requires a cement mixer.\n* Crafting flagstone blocks requires 10 cobblestone (from 4).\n* Crafting rebar frames requires a crucible in the forge, 15 iron, and 4 clay (from 5 iron and 1 clay).\n* The stack sizes for all frames have been reduced to 50 (from 500).\n\n## Technical Details\n\nThis mod uses XPath to modify XML files, and does not require SDX or DMT. It should be compatible with EAC. Servers should automatically push the XML modifications to their clients, so separate client installation should not be necessary.\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=khzmusik_Slow_Build)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/).\n\n**Credits:** [Khzmusik](https://7daystodiemods.com/tag/khzmusik/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=khzmusik_Slow_Build",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/",
+  "modAuthors": [
+    "Khzmusik"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "Khzmusik"
+  ]
+}

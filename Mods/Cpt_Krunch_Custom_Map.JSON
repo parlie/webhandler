@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/cpt-krunch-custom-map/",
+  "modCreatedTime": "2020-01-17T19:10:28+00:00",
+  "modLastUpdatedTime": "2021-05-09T20:11:48+00:00",
+  "modName": "Cpt Krunch Custom Map",
+  "modImages": [],
+  "modShortDescription": "Krunch has worked hard on a new 7DTD map for Ravenhearst and we present it to you. Gorgeously designed and rich, RWG may be the recommended way to play RH.",
+  "modDescription": "Krunch has worked hard on a new 7DTD map for [Ravenhearst](https://7daystodiemods.com/ravenhearst-mod/) and they present it to you in 5.5.2\\. Gorgeously designed and rich, RWG may be the recommended way to play RH but this map is a new experience in and of itself. Using ALL of Ravenhearst prefabs and more Krunch has designed a Navezgane like map that is sure to surprise and excite all of Ravenhearst players who dare to try it!\n\nCustom Maps have been **removed** from the base install of Ravenhearst. To install a custom map you will need to Select Ravenhearst on the **Launcher**, Click Manage Modlets, look for cpt\\_krunch name under authors and select it. You will see a list of the Ravenhearst Maps. Choose One (City Zone is the latest, Official is the previous map for those who want to continue on that one) and right click on it. Download it. The map will disappear from the list. It is now installed.\n\nWhen updates are made to maps you will see it in your list and you can choose to update it or not. **Direct Downloading** works the same way as adding a **normal mod**. Download the map you wish to use, unzip it and add it to your Mods folder inside of Ravenhearst Install.\n\n**[Download](http://www.mediafire.com/file/tb38e1nxdqvj2t4/RavenhearstCityZone1.zip/file)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/4508-ravenhearst-mod/?tab=comments#comment-130646).\n\n**Credits:** [Cpt Krunch](https://7daystodiemods.com/tag/cpt-krunch/), JaxTeller718",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "http://www.mediafire.com/file/tb38e1nxdqvj2t4/RavenhearstCityZone1.zip/file",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/4508-ravenhearst-mod/?tab=comments#comment-130646",
+  "modAuthors": [
+    "Cpt Krunch",
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die maps",
+    "Cpt Krunch"
+  ]
+}

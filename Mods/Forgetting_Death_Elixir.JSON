@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/forgetting-death-elixir/",
+  "modCreatedTime": "2021-09-01T20:50:00+00:00",
+  "modLastUpdatedTime": "2021-09-02T06:37:14+00:00",
+  "modName": "Forgetting Death Elixir",
+  "modImages": [],
+  "modShortDescription": "Changes the Forgetting Elixir from a re-spec mod to one that removes your death penalty.",
+  "modDescription": "Changes the Forgetting Elixir from a re-spec mod to one that removes your death penalty.\n\n## Note\n\n* This makes choosing points much important. Also, for servers that allow T6 player crafted items, this prevents people from re-specing just to make all T6 items for each item type.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/DayhawkSilverstar/7DaysToDieMods/tree/master/Dayhawks%20Forgetting%20Death%20Elixir)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21381-a19-dayhawks-modlets/).\n\n**Credits:** [Dayhawk](https://7daystodiemods.com/tag/dayhawk/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/DayhawkSilverstar/7DaysToDieMods/tree/master/Dayhawks%20Forgetting%20Death%20Elixir",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/21381-a19-dayhawks-modlets/",
+  "modAuthors": [
+    "Dayhawk"
+  ],
+  "modTags": [
+    "7 days to die drinks",
+    "7 days to die food",
+    "Dayhawk"
+  ]
+}

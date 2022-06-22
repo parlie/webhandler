@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/10x-increased-zombie-spawning/",
+  "modCreatedTime": "2020-12-31T06:44:28+00:00",
+  "modLastUpdatedTime": "2020-12-31T06:44:29+00:00",
+  "modName": "10x Increased Zombie Spawning",
+  "modImages": [],
+  "modShortDescription": "Where the spawning file is used we should see 10 times the number of zombies. It appears to affect ambient zombie amounts, roaming hordes and blood moon hordes.",
+  "modDescription": "This is a simple mod. Feeder942 has edited the spawning xml file. Where the spawning file is used we should see 10 times the number of zombies. It appears to affect ambient [zombie](https://7daystodiemods.com/tag/7-days-to-die-zombies/) amounts, roaming hordes and blood moon hordes. POIs seem unaffected. Animal spawns are unchanged.\n\nHe has played/tested to day 18 without crash or issue so it should be all good, though this is his first attempt at modding.\n\nTo install, download the file. Replace the file spawning.xml in the config folder (for him that is **C:\\\\Program Files (x86)\\\\Steam\\\\SteamApps\\\\common\\\\7 Days To Die\\\\Data\\\\Config**). He suggest saving a copy of the orignal spawning.xml file as a backup.\n\nHe recommend setting AI block damage to 25%.\n\n**[Download](https://docs.google.com/uc?export=download&id=1RqoeQiYRHNL16l_ZggMMvQZV3ZSMK9Uz)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/23093-10x-increased-zombie-spawning-193-b6/).\n\n**Credits:** Feeder942",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://docs.google.com/uc?export=download&id=1RqoeQiYRHNL16l_ZggMMvQZV3ZSMK9Uz",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/23093-10x-increased-zombie-spawning-193-b6/",
+  "modAuthors": [
+    "Feeder942"
+  ],
+  "modTags": [
+    "7 days to die zombies"
+  ]
+}

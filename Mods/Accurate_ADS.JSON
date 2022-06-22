@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/accurate-ads/",
+  "modCreatedTime": "2021-09-02T18:42:55+00:00",
+  "modName": "Accurate ADS",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/09/7-days-to-die-accurate-ads-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "This makes aiming down sights completely accurate for all weapons except shotguns. You may want to pair this modlet with my No Crosshair on ADS modlet.",
+  "modDescription": "This makes aiming down sights completely accurate for all [weapons](https://7daystodiemods.com/tag/7-days-to-die-weapons/) except shotguns.\n\nYou may want to pair this modlet with my [No Crosshair on ADS](https://7daystodiemods.com/no-crosshair-on-ads/) modlet.\n\n## Installation in 3 Steps\n\n1. Create a Mods folder in your 7 Days to Die directory. By default in Steam it’s located here: **C:\\\\Program Files (x86)\\\\Steam\\\\steamapps\\\\common\\\\7 Days To Die**\n2. Download my modlet and move the entire folder accurate-ads into the Mods folder.\n3. Launch the game.\n\nIf you have any issues or suggestions, please get in touch!\n\n**[Download](https://drive.google.com/drive/folders/1lsg2ObYXHPEPwLqp99fuL6tlsJPYvGl1?usp=sharing)** from Google Drive  \n**[Download](https://github.com/mattwoodley/accurate-ads/archive/refs/heads/main.zip)** from GitHub\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25196-server-side-accurate-ads/).\n\n**Credits:** [M17Woodley](https://7daystodiemods.com/tag/m17woodley/)",
+  "modDownloadURLs": [
+    {
+      "Info": "from Google Drive",
+      "URL": "https://drive.google.com/drive/folders/1lsg2ObYXHPEPwLqp99fuL6tlsJPYvGl1?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "from GitHub",
+      "URL": "https://github.com/mattwoodley/accurate-ads/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25196-server-side-accurate-ads/",
+  "modAuthors": [
+    "M17Woodley"
+  ],
+  "modTags": [
+    "7 days to die weapons",
+    "M17Woodley"
+  ]
+}

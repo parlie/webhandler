@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/expanded-item-repair-balance/",
+  "modCreatedTime": "2021-09-18T16:02:55+00:00",
+  "modLastUpdatedTime": "2021-09-18T16:02:56+00:00",
+  "modName": "Expanded Item Repair Balance",
+  "modImages": [],
+  "modShortDescription": "BlackRabbitMsk want to share his first full-fledged mod. This mod significantly complicates the overall gameplay of the player.",
+  "modDescription": "BlackRabbitMsk want to share his first full-fledged mod. For a long time he could not find use for collapsible parts in the game. In addition, he think it is not logical that the player can repair complex firearms at the love stage of the game. On many servers, he met a mechanic with a change in repair – but not all mods were clear and convenient for him. And finally, he himself began to deal with writing mods and he’s ready to offer his vision of all this mechanics.\n\n**ATTENTION!** This mod significantly complicates the overall gameplay of the player – not everyone may like it!\n\n**P.S.** He apologize for any inaccurate wording. He is using google translator to write this description.\n\nThe mod only uses server side materials. Useful for online servers.\n\n**Available Localization:** English, Russian\n\n## Description of Changes\n\n* Resources for repairs have been changed:  \n   * **Cloth Armor** – required resource: [Cloth](https://7daystodiemods.com/tag/7-days-to-die-clothing/)  \n   * **Scrap Armor** – required resource: Scrap  \n   * **Leather Armor** – required resource: Leather  \n   * **Rocket Launcher, Steel Club, Steel Sledgehammer, Steel Knuckles, Steel Spear, Machete, StunBaton** – required resource: details when parsing\n\nAdded 4 new recipe books and 10 new repair kits to the game:\n\n### Mining Master Book Unlocks\n\n* Steel Tool Repair Kit (unlocked: Miner69r – rank1) – repairs: **Ratchet, Steel Shovel, Steel Pickaxe, Steel Axe**\n* Motor [Tool](https://7daystodiemods.com/tag/7-days-to-die-tools/) Repair Kit (unlocked: Miner69r – rank3) – repairs: **Impact Driver, Auger, Chainsaw**\n\n### Battleship Book Unlocks\n\n* Heavy Armor Repair Kit (unlocked: Heavy Armor – rank1) – repairs: **Steel Armor Set, Swat Helmet**\n* Light [Armor](https://7daystodiemods.com/tag/7-days-to-die-armor-mods/) Repair Kit (unlocked: Light Armor – rank1) – repairs: **Military Armor Set**\n\n### Firearm Book Unlocks\n\n* Pistol Repair Kit (unlocked: Gunslinger – rank1) – repairs: **Pistol, Magnum44, SMG5, DesertVulture**\n* Shotgun Repair Kit (unlocked: Boomstick – rank1) – repairs: **DoubleBarrel, PumpShotgun, AutoShotgun**\n* Automatic [Weapon](https://7daystodiemods.com/tag/7-days-to-die-weapons/) Repair Kit (unlocked: Machine Gunner – rank1) – repairs: **AK47, Tactical Assult Rifle, M60**\n* Rifle Repair Kit (unlocked: Dead Eye – rank1) – repairs: **Hunting Rifle, Marksman Rifle, Sniper Rifle**\n* Bow & Crossbow Repair Kit (unlocked: Archery – rank1) – repairs: **Wooden Bow, Compound Bow, Iron Crossbow, Compound Crossbow**\n\n### Mechanics and Electrical Book Unlocks\n\n* Turrets Repair Kit (unlocked: [Turrets](https://7daystodiemods.com/tag/7-days-to-die-traps/) – rank1) – repairs: **Junk Turret, JunkS ledge**\n* (in the next version!) Vehicle Repair Kit (unlocked: Grease Monkey – rank1) – repairs: any Vehicles\n\n### Also Added Gameplay Changes\n\n* Changed the number of parts when disassembling any items (which are disassembled into parts)\n* Increased the initial cost of all parts obtained by dismantling. The cost differs depending on the frequency of use of the parts.\n* Increased the initial cost of all items that require collapsible parts to craft. Changing the cost according to the formula: cost of 1 part \\* number of parts for crafting. (P.S. The cost of other resources for crafting is not taken into account)\n* Changed the distribution of loot. All types of repair kit and recipes can be found in the game world\n* All new kits have been added to the sale at traders. Except books (they can only be found in the world)\n\nWhen developing the mod, the following materials were used: [Proper Repair Kits](https://7daystodiemods.com/proper-repair-kits/). Many thanks to the author!\n\n**[Download](https://github.com/BlackRabbitMsk/Repairing_items_BlackRabbit/archive/refs/heads/main.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25314-expanded-item-repair-balance-by-blackrabbit/).\n\n**Credits:** BlackRabbitMsk",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/BlackRabbitMsk/Repairing_items_BlackRabbit/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25314-expanded-item-repair-balance-by-blackrabbit/",
+  "modAuthors": [
+    "BlackRabbitMsk"
+  ],
+  "modTags": [
+    "7 days to die armor mods",
+    "7 days to die books",
+    "7 days to die clothing",
+    "7 days to die loot",
+    "7 days to die melee weapons",
+    "7 days to die recipes",
+    "7 days to die tools",
+    "7 days to die traps",
+    "7 days to die weapons"
+  ]
+}

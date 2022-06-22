@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/extend-turret-active-range/",
+  "modCreatedTime": "2021-04-10T02:52:11+00:00",
+  "modLastUpdatedTime": "2021-04-10T02:52:12+00:00",
+  "modName": "Extend Turret Active Range",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/04/7-days-to-die-extend-turret-active-range-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "This mod doubles the range that you can travel from your turret and keep it active/awake.",
+  "modDescription": "This mod doubles the range that you can travel from your [turret](https://7daystodiemods.com/tag/7-days-to-die-traps/) and keep it active/awake.\n\n* **Default Values**  \n   * Level 0) Nothing: 10 Blocks  \n   * Level 1) Science Projects: 14 Blocks  \n   * Level 2) Basic Robotics: 15 Blocks  \n   * Level 3) Automated Weaponry: 16 Blocks  \n   * Level 4) Advanced Robotics: 17 Blocks  \n   * Level 5) Robotics Expert: 18 Blocks\n* **New Values**  \n   * Level 0) Nothing: 20 Blocks  \n   * Level 1) Science Projects: 28 Blocks  \n   * Level 2) Basic Robotics: 30 Blocks  \n   * Level 3) Automated Weaponry: 32 Blocks  \n   * Level 4) Advanced Robotics: 34 Blocks  \n   * Level 5) Robotics Expert: 36 Blocks\n\n**[Download](https://drive.google.com/file/d/1w3wogA2RLoFofSW5bLNPLs1420u3XtAn/view?usp=sharing)**\n\nIf you appreciate LordHesbic’s work and you want to show support, use this [donate link](https://paypal.me/lordhesbic?locale.x=en_US).\n\n**Credits:** LordHesbic",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1w3wogA2RLoFofSW5bLNPLs1420u3XtAn/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "LordHesbic"
+  ],
+  "modTags": [
+    "7 days to die traps",
+    "7 days to die weapons"
+  ]
+}

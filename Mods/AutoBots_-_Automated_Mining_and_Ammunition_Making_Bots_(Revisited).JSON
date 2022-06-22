@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/autobots-automated-mining-and-ammunition-making-bots-revisited/",
+  "modCreatedTime": "2021-12-12T20:49:00+00:00",
+  "modLastUpdatedTime": "2021-12-13T02:39:30+00:00",
+  "modName": "AutoBots - Automated Mining and Ammunition Making Bots (Revisited)",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-autobots-automated-mining-and-ammunition-making-bots-revisited-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-autobots-automated-mining-and-ammunition-making-bots-revisited-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "Here is a download link to an updated and revised version of the Auto Miner and Auto Ammo Maker combined into one mod.",
+  "modDescription": "Here is a download link to an updated and revised version of the Auto Miner and Auto Ammo Maker combined into one mod, but still with the two separate ‘automation’ units, called Autobots (full credit to Snufkin who offered one of the most recent builds for the Auto Miner, but also to the modders down the line who have introduced similar features throughout multiple previous Alpha releases).\n\nFor detailed information about the economics of things, here is the more comprehensive [A19 introduction](https://7daystodiemods.com/autobots-automated-mining-and-ammunition-bots-revisited/).\n\nIn the A19 and previous versions, players would be able to gather resources or produce ammo by adding augers in the tools section of the Auto Miner and ratchets in the Auto Ammo Maker to allow production to begin and use gas or other resources to power/convert to resources or ammo. With each subsequent addition of a tool, the total production time for each asset would decrease.\n\nFor now, things are changing a ‘little’ with the way it works.\n\nBoth the Automated Mining and Ammo Bot can be made on the Workbench after reaching Skill Level 4 for Advanced Engineering. They will now require the Advanced Bellows, Anvil, and Crucible to be able to mine all resource types or manufacture all ammo types as follows:\n\n**Automated Mining**\n\n* Advanced Bellows – Clay and Small Stone\n* Anvil – Coal and Iron\n* Crucible – Brass, Lead, and Nitrate\n\n**Automated Ammunition**\n\n* Advanced Bellows – 9mm, .44 Magnum, 7.62mm, Shotgun Shells, Regular & Shell Junk Turret , Iron Arrow & Bolt\n* Anvil – 9mm HP, .44 Magnum HP, 7.62mm HP, Flaming Arrow & Bolt\n* Crucible – 9mm AP, .44 Magnum AP, 7.62mm AP, Shotgun Slugs & Breaching Slugs, AP Junk Turret, Exploding Arrow & Bolt.\n\nWhile the AutoBots have lost the capability to reduce [mining](https://7daystodiemods.com/tag/7-days-to-die-mining/) and manufacture time through adding the auger or ratchet, adding the Anvil will reduce time by 50% as with a regular forge.\n\nA few images and explanations for anyone new to these types of auto mods.\n\nThe Automated Mining Bot is created on the workbench and placed just like any other type of workbench. It uses a Control Panel as its model. It is best to place the Advanced Bellow, Anvil, or Crucible by using ‘Shift + LMB’ and it will automatically be placed in the appropriate slot. This allows the left side resource area to be updated instantly depending on if you have fuel to power it, or in the case of ammo production, gunpowder, coin, or any other requested resource. If you add it manually, the left side will not be automatically updated and you’ll have to leave and return to the AutoBot to see it change.\n\nThe Advanced Bellow has been added and now Clay and Stone can be output at a rate of 1000 per 1000 gas. The economy is the same for all items but the requirement of a crucible adds the extra challenge for what may be viewed as more precious resources.\n\nThe process for the Automated Ammunition Bot is the same. In this case we have the Advanced Bellows, Anvil, and Crucible added which allows access to all ammo types. In addition, the Anvil reduces time from 60 minutes per batch of [ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/) to about 40 minutes. For more details on how much ammo is provided per 1 craft refer to the link at the top which breaks it all down in the A19 post.\n\nThe economy of mining is 1000 gas per 1000 mined resource keeps to the original versions, but with Shale removed due to the 800 Shale to 10000 Gas loop. The economy for ammo is a bit more complicated but is based on the cost of purchasing from Player Vending machines and half the use of gunpowder than usually needed.\n\nOverall, it works out cheaper than being able to manufacture stacks of ammo but will be no free ride at all due to the resource use, coin, time, and tool/skill requirement.\n\nThe requirement to have a crucible and Skill Level 4 for Advanced Engineering for the more precious resources and ammo makes the AutoBots balance out with latter Game Stage features when coin and gas are usually in abundance and Skills and crucibles are available. It is not something for low level players and will typically give high level players more time to focus on questing and other activities while the resources and ammo are being cared for by the AutoBots.\n\n**[Download](https://github.com/arramus/AutoBots-A20-2021Dec12/archive/refs/heads/main.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26109-a20-autobots-automated-mining-and-ammunition-making-bots-revisited/).\n\n**Credits:** [Arramus](https://7daystodiemods.com/tag/arramus/), Snufkin",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/arramus/AutoBots-A20-2021Dec12/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26109-a20-autobots-automated-mining-and-ammunition-making-bots-revisited/",
+  "modAuthors": [
+    "Arramus",
+    "Snufkin"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die mining",
+    "Arramus"
+  ]
+}

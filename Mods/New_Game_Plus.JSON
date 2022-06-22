@@ -1,0 +1,36 @@
+{
+  "modURL": "https://7daystodiemods.com/new-game-plus/",
+  "modCreatedTime": "2021-09-11T03:36:22+00:00",
+  "modLastUpdatedTime": "2021-10-09T01:22:45+00:00",
+  "modName": "New Game Plus",
+  "modImages": [],
+  "modShortDescription": "This vanilla XML server side only modlet is for advanced/hardcore players familiar with the game who are looking for a greater coop challenge and more biome zombies and wandering hordes.",
+  "modDescription": "This vanilla XML server side only modlet is for advanced/hardcore players familiar with the game who are looking for a greater coop challenge and more biome zombies and wandering hordes.\n\nIt tweaks game balance to make zombies a constant threat, especially at night. It adds more [skill points](https://7daystodiemods.com/tag/7-days-to-die-skill-points/) per level allowing a player to branch out into other skill trees but increases the difficulty in the game everywhere else. There is a harsh limit on carry capacity to create logistical problems, requiring the player to travel light and only take what they absolutely need to survive. Vehicles should be easier to attain from the additional skill points players get each level and are essential for moving large quantities of things. There’s also some other small tweaks, see the list below:\n\n## Injuries\n\n* Injuries and infection remain after respawn.\n* Respawn with low health, low fullness, low hydration (respawning is no escape).\n* Higher chances of infection and injury.\n\n## Leveling\n\n* Progression is faster early game (up to level 17) but slows down drastically thereafter.\n* 3 skill points per level.\n* Forgetting Elixir for respec is craftable.\n\n## Limitations\n\n* Base carry capacity set to 0 (player need Pack Mule or Pocket Mods to carry items in backpack without speed penalty).\n* Raw Meat and Rotting Meat stacks limited to 10, but recipes using meat require less now, so it feels less like you need to eat a couple deer to fill up.\n* Stacks size for heavy materials limited to 500 (down from 6000 in some cases) making vehicles essential for transportation.\n* [Stack size](https://7daystodiemods.com/tag/7-days-to-die-stack-size/) for lighter materials set to 1000 (such as feathers).\n* Jumping takes more stamina unless player have a stamina buff.\n* 100% Degradation will destroy the item. (Adopted JaxTeller718’s [ToolsWeaponsBreak](https://7daystodiemods.com/weapons-and-tools-break/) modlet).\n* Rare chance an item takes a critical durability hit of 150.\n* Headshot damage increases for base “attribute ranks” have been removed. With the ability to upgrade a character faster and the abundance of skill points zombies are too easily killed. Dismemberment chances untouched.\n\n## Zombies\n\n* Burnt biome has least amount of [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/).\n* Forest, desert, and snow biomes have large amount of ambient zombies.\n* Wandering horde types are all zombies now (no more dog hordes) and much bigger.\n* Night is dangerous everywhere, and early game a player will likely die outside.\n* Feral Wights appear more, are faster, and can jump higher.\n* Wildlife is more common, [deer](https://7daystodiemods.com/tag/7-days-to-die-animals/) appear more, and boars show up a bit more.\n* All zombie varieties spawn in all biomes, increasing variety (lumberjacks can now visit you in other biomes).\n* Higher chance of feral variety zombie spawns.\n\n## Misc\n\n* Digging has a small chance to find root veggies and mushrooms in soil.\n* Passenger seats added to all [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) types. (Adopted Xela/TheCreation’s Multipassenger modlet. Corrected Minibike Passenger position.)\n\nI would recommend setting zombie block damage to 30% in server settings to compensate for the huge increase in the number of zombies, and running to the Burnt biome in the beginning since it has less zombies.\n\n**[Download](https://drive.google.com/drive/folders/1qcunJ_5IDRST8J3IMaqQ2e6eWHdtcJSS?usp=sharing)**\n\n**Credits:** [Jackalope](https://7daystodiemods.com/tag/jackalope/), Xela/TheCreation, JaxTeller718",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/drive/folders/1qcunJ_5IDRST8J3IMaqQ2e6eWHdtcJSS?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Jackalope",
+    "Xela/TheCreation",
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die biomes",
+    "7 days to die perks",
+    "7 days to die respawn",
+    "7 days to die skill points",
+    "7 days to die stack size",
+    "7 days to die stamina",
+    "7 days to die tools",
+    "7 days to die vehicles",
+    "7 days to die weapons",
+    "7 days to die zombies",
+    "Jackalope"
+  ]
+}

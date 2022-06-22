@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/30k-item-stacks/",
+  "modCreatedTime": "2021-12-07T04:27:00+00:00",
+  "modLastUpdatedTime": "2021-12-08T16:48:09+00:00",
+  "modName": "30K Item Stacks",
+  "modImages": [],
+  "modShortDescription": "Allows stacking for most of the non-block and non-mod items.",
+  "modDescription": "Allows [stacking](https://7daystodiemods.com/tag/7-days-to-die-stack-size/) for most of the non-block and non-mod items.\n\n**[Download](https://cdgroup.org/files/7dtd/30kStacks.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25810-a20-modlets-30k-stacks-arrow-xbow-ammo-swap-ammo-disassemble/).\n\n**Credits:** [Elucidus](https://7daystodiemods.com/tag/elucidus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://cdgroup.org/files/7dtd/30kStacks.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25810-a20-modlets-30k-stacks-arrow-xbow-ammo-swap-ammo-disassemble/",
+  "modAuthors": [
+    "Elucidus"
+  ],
+  "modTags": [
+    "7 days to die stack size",
+    "Elucidus"
+  ]
+}

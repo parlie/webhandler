@@ -1,0 +1,21 @@
+{
+  "modURL": "https://7daystodiemods.com/launcher-for-7d2d/",
+  "modCreatedTime": "2020-07-31T13:34:55+00:00",
+  "modLastUpdatedTime": "2021-09-15T17:55:25+00:00",
+  "modName": "Launcher for 7D2D",
+  "modImages": [],
+  "modShortDescription": "Create and customize 7 Days to Die Launcher to distribute to community! Automatic Installation of Mods! Automatic Mods Update!",
+  "modDescription": "Create and customize 7 Days to Die Launcher to distribute to community!\n\n* Automatic Installation of Mods!\n* Automatic Mods Update!\n\n_Game Version:_ A19\n\n**[Download](https://www.geekuko.fr/Pages/PageLauncher.php)**\n\n**Credits:** geekuko",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.geekuko.fr/Pages/PageLauncher.php",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "geekuko"
+  ],
+  "modTags": []
+}

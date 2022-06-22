@@ -1,0 +1,38 @@
+{
+  "modURL": "https://7daystodiemods.com/almonds-turret-expanded/",
+  "modCreatedTime": "2021-05-05T06:30:33+00:00",
+  "modLastUpdatedTime": "2021-05-05T07:40:15+00:00",
+  "modName": "Almond's Turret Expanded",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-almonds-turret-expanded-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "All versions add in 4 variants of the auto turrets in the game, as well as a specialized Turret Workbench to prevent the turrets from cluttering crafting lists.",
+  "modDescription": "With traders as well as industry, it’s been easy to accumulate more ammo than I could do with. This modlet’s aim was to provide specialized variations of the base auto turret from other firearms in the game, intending to eat excess ammo and add variation. All versions add in 4 variants of the auto [turrets](https://7daystodiemods.com/tag/7-days-to-die-traps/) in the game, as well as a specialized Turret Workbench to prevent the turrets from cluttering crafting lists.\n\nThese turrets have slightly more expensive crafting recipes, as well as differing stats and power consumption.\n\n## Added\n\n### Schematics/Icons\n\n* Schematics added to the same loot list as the standard turrets.\n* Steel Turrets are learned from the regular schematic.\n* Icons that show what [ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/) the turret uses (Unless in XML Only Version)\n\n### Advanced Engineering (4)\n\n* **Sniper Auto Turret:** Using 7.62 rounds, the Sniper Auto Turret intended to add high single shot damage. It moves, fires, and reloads slower, but has the highest damage of any of the turrets with the largest range of motion.\n* **Turret Workbench:** A specialized Workstation to build your turrets, it builds turrets and nothing else.\n\n### Advanced Engineering (5)\n\n* **Heavy Shotgun Turret:** Standard Shotgun shells, shorter range than the traditional version, but fires at a much faster rate to clear dense hordes.\n* **Heavy Auto Turret:** 44 Magnum round, slightly slower than the SMG Auto Turret. Higher damage with a slightly higher range of motion and slower fire rate.\n* **M60 Auto Turret:** Taking 7.62, the M60 Auto Turret has a shorter effective range than the SMG Auto Turret, but has a greatly increased rate of fire. With higher damage and a much wider bullet bloom, the M60 Auto Turret is better for defending corridors and densely packed hordes.\n\n### Steel Version\n\n* Turrets compatible with KhaineGB’s Steel Ammo modlet found [here](https://7daystodiemods.com/steel-ammo/).\n* Steel Auto Turrets, versions of the new turrets (and standard) but with minor performance downgrades and steel ammo compatibility.\n* Steel Auto Turret tab in the Turret Workbench\n* Reversibility: Have too many brass cased auto turrets? Swap them to steel mode in the workbench at no cost! If you want to reverse the decision, simply put it in the workbench with a few replacement parts and it’s ready to go.\n\n## Notes\n\n* You may find the damage done to be excessive, turrets too slow, etc. If enough people believe it needs to be change, I will adjust the stats. Otherwise, I’ll be making a file that explains how the turrets work for those who want to change things themselves.\n* Having multiple auto turrets in close proximity may be the cause to multiple models visually disappearing, this happened without the mod and I’m not sure how to fix it.\n\n**[Download](https://github.com/AlmmondMilk/A19TurretsExpanded/raw/Overview/A19%20AlmTurret%20(XML%20Only).zip)** XML Only Version _(Adds all standard additions besides steel turrets by pure XML and color codes the turret version icons. These should be server compatible, but I cannot test that.)_  \n**[Download](https://github.com/AlmmondMilk/A19TurretsExpanded/raw/Overview/A19%20AlmTurret%20(Base).zip)** Base Version _(All additions besides steel turrets.)_  \n**[Download](https://github.com/AlmmondMilk/A19TurretsExpanded/raw/Overview/A19%20AlmTurret(Steel%20ver).zip)** Steel Ammo Version _(Adds all additions as well as the steel turrets.)_\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24249-a19-almonds-turret-expanded/).\n\n**Credits:** Almond Milk",
+  "modDownloadURLs": [
+    {
+      "Info": "XML Only Version (Adds all standard additions besides steel turrets by pure XML and color codes the turret version icons. These should be server compatible, but I cannot test that.)",
+      "URL": "https://github.com/AlmmondMilk/A19TurretsExpanded/raw/Overview/A19%20AlmTurret%20(XML%20Only).zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Base Version (All additions besides steel turrets.)",
+      "URL": "https://github.com/AlmmondMilk/A19TurretsExpanded/raw/Overview/A19%20AlmTurret%20(Base).zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Steel Ammo Version (Adds all additions as well as the steel turrets.)",
+      "URL": "https://github.com/AlmmondMilk/A19TurretsExpanded/raw/Overview/A19%20AlmTurret(Steel%20ver).zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/24249-a19-almonds-turret-expanded/",
+  "modAuthors": [
+    "Almond Milk"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die traps",
+    "7 days to die weapons"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "modURL": "https://7daystodiemods.com/sams-car-and-truck-respawner/",
+  "modCreatedTime": "2021-12-07T18:47:00+00:00",
+  "modLastUpdatedTime": "2021-12-07T19:16:29+00:00",
+  "modName": "Sam's Car and Truck Respawner",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-sams-car-and-truck-respawner-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-sams-car-and-truck-respawner-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "This mod will allow cars, army trucks, service trucks, ambulances and buses to respawn to a similar vehicle after a few hours.",
+  "modDescription": "This mod will allow cars, army trucks, service trucks, ambulances and buses to [respawn](https://7daystodiemods.com/tag/7-days-to-die-respawn/) to a similar vehicle after a few hours.\n\n* Cars will respawn to a random car (with a random stage of damage)\n* Army trucks (open or closed) will respawn to a randomly open or closed army truck\n* Service trucks and ambulances are grouped together to respawn each other\n* Big buses will respawn big buses, the short school bus will respawn itself – to avoid respawning through parts of buildings.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/saminal1/samsmods-a20/tree/main/SCarRespawner)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25850-sams-car-and-truck-respawner-a20/).\n\n**Credits:** [Saminal](https://7daystodiemods.com/tag/saminal/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/saminal1/samsmods-a20/tree/main/SCarRespawner",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25850-sams-car-and-truck-respawner-a20/",
+  "modAuthors": [
+    "Saminal"
+  ],
+  "modTags": [
+    "7 days to die respawn",
+    "7 days to die vehicles",
+    "Saminal"
+  ]
+}

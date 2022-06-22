@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/new-block-textures/",
+  "modCreatedTime": "2020-12-26T07:05:00+00:00",
+  "modLastUpdatedTime": "2020-12-26T17:28:10+00:00",
+  "modName": "New Block Textures",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/10/7-days-to-die-new-block-textures-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "The mod contains a sample bundle with some textures included and you can pull the blocks out from the creative menu.",
+  "modDescription": "The purpose of this mod is to allow adding new [texture](https://7daystodiemods.com/tag/7-days-to-die-textures/) arrays to the game to avoid overwriting the original arrays or atlases as we used to in the previous builds.\n\nThe mod contains a sample bundle with some textures included and you can pull the blocks out from the creative menu. The blocks can be built with basic recipes that can be changed to your preference. Also included is a modded paint brush to allow painting the new textures only on the new provided blocks. The modded paint brush will not paint vanilla blocks and the vanilla paint brush will not paint on any of the modded blocks.\n\n## Changelog\n\nTormentedEmu updated the new block textures mod with a few new features, including the new modded paint brush, recipes for the new blocks, and added some more block properties.\n\nThis is a DMT mod. So requires [DMT Modding Tool](https://community.7daystodie.com/topic/13037-dmt-modding-tool/).\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/TormentedEmu/7DTD-A19-DMTMods/tree/master/TE_NewBlockTextures)**\n\nPlease let her know if you have any questions, or have any problems/bugs with it. She is usually found on [Guppycur’s Discord](https://discord.gg/mh3J3dS). Her nickname on the Discord is V.\n\n**Credits:** [TormentedEmu](https://7daystodiemods.com/tag/tormentedemu/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/TormentedEmu/7DTD-A19-DMTMods/tree/master/TE_NewBlockTextures",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "TormentedEmu"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die textures",
+    "TormentedEmu"
+  ]
+}

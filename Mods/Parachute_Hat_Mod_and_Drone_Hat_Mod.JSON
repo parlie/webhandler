@@ -1,0 +1,36 @@
+{
+  "modURL": "https://7daystodiemods.com/parachute-hat-mod-and-drone-hat-mod/",
+  "modCreatedTime": "2021-05-17T14:53:08+00:00",
+  "modLastUpdatedTime": "2021-05-17T15:00:03+00:00",
+  "modName": "Parachute Hat Mod and Drone Hat Mod",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-parachute-hat-mod-and-drone-hat-mod-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-parachute-hat-mod-and-drone-hat-mod-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-parachute-hat-mod-and-drone-hat-mod-additional-screenshot-3.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-parachute-hat-mod-and-drone-hat-mod-additional-screenshot-4.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-parachute-hat-mod-and-drone-hat-mod-additional-screenshot-5.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-parachute-hat-mod-and-drone-hat-mod-additional-screenshot-6.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-parachute-hat-mod-and-drone-hat-mod-additional-screenshot-7.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-parachute-hat-mod-and-drone-hat-mod-additional-screenshot-8.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-parachute-hat-mod-and-drone-hat-mod-additional-screenshot-9.jpg"
+  ],
+  "modShortDescription": "Here is a small standalone modlet that allows players to attach a Parachute Hat Mod and Drone Hat Mod to the dye area of headware.",
+  "modDescription": "Here is a small standalone modlet that allows players to attach a Parachute Hat Mod and Drone Hat Mod to the dye area of headware. Credit to oakraven for the concept and code used for the Hat Mods in the [Snufkin Weapons Xpansion Mod](https://7daystodiemods.com/snufkin-weapons-xpansion/).\n\n## Parachute Hat Mod\n\nOnce attached, it provides the player with 60 seconds of fall damage protection which can be used to launch from a high building.\n\nThis fall damage protection is courtesy of TFP’s ‘Oh @%$#z Drops’ and the requisite edited buff code.\n\nIn addition, if you depart a vehicle such as the gyro, it will trigger the buff to reset and players will be given another 60 seconds of fall damage protection.\n\nAnd should you not be wearing the Parachute Hat Mod on your player at the time you depart from an airborne [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/), you will be able to quickly put it on to avoid an unpleasant landing.\n\nThe Parachute Hat Mod can also be made on the Workbench using a variety of resources, including Oh @%$#z Drops to give it some context.\n\nA few images of it in action.\n\nMaking\n\nDescription\n\nAttaching\n\nToday’s tester friend is from [The Wasteland Mod](https://7daystodiemods.com/the-wasteland/) by Bdubyah. He is using the machete purely for direction purposes.\n\nTaking Off\n\nPut on the helmet with the parachute attached. You can see the countdown has reached 25 seconds remaining.\n\nThe counter has reset to 60 seconds and it is clearly sufficient time to land.\n\nAnd here comes the gyro.\n\nArramus was unable to remove part of the parachute model using a trigger within the xml. Something to consider for the future.\n\n## Drone Hat Mod\n\nAnd the second hat mod is for the Drone Hat Mod. This mod is purely cosmetic and has no real functional use beyond providing context to a Server Admin in God Mode performing their Godly duties. This mod cannot be crafted and will only be accessible through Creative Mode.\n\n**[Download](https://github.com/arramus/Parachute-and-Drone-Hat-Mod-2021May17/archive/refs/heads/main.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24336-parachute-hat-mod-and-drone-hat-mod/).\n\n**Credits:** [Arramus](https://7daystodiemods.com/tag/arramus/), Oakraven",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/arramus/Parachute-and-Drone-Hat-Mod-2021May17/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/24336-parachute-hat-mod-and-drone-hat-mod/",
+  "modAuthors": [
+    "Arramus",
+    "Oakraven"
+  ],
+  "modTags": [
+    "7 days to die vehicles",
+    "Arramus"
+  ]
+}

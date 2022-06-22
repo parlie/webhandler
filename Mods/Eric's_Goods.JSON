@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/erics-goods/",
+  "modCreatedTime": "2021-09-15T17:04:00+00:00",
+  "modLastUpdatedTime": "2021-09-15T17:06:41+00:00",
+  "modName": "Eric's Goods",
+  "modImages": [],
+  "modShortDescription": "Eric's Goods is a 7 Days to Die mod that replace the vanilla game Eric's Stuff with Eric's Goods to add challenge, quest, and loot to the otherwise cute but very boring POI.",
+  "modDescription": "Eric’s Goods is a 7 Days to Die mod that replace the vanilla game Eric’s Stuff (oldwest\\_business\\_07 POI) with Eric’s Goods to add challenge, [quest](https://7daystodiemods.com/tag/7-days-to-die-quests/), and loot to the otherwise cute but very boring [POI](https://7daystodiemods.com/tag/7-days-to-die-prefab/).\n\n## Changelog\n\n**v1.1**\n\nMake it work with Alpha 19\n\n**v1.0**\n\n* First official release of Eric’s Goods POI\n* Replace Fun Pimps Eric’s Stuff with a more “fun” Eric’s Goods\n\n**Important Note:** For this mod to work properly, it needs to be installed on both the server and every player’s computer.\n\n**[Download](https://github.com/Laotseu/7dtdMods/releases/download/EricsGoods_v1.1/EricsGoods_v1.1.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19462-motorcyclealterations-v10-alpha-18/).\n\n**Credits:** [Eric Beaudoin](https://7daystodiemods.com/tag/eric-beaudoin/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Laotseu/7dtdMods/releases/download/EricsGoods_v1.1/EricsGoods_v1.1.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/19462-motorcyclealterations-v10-alpha-18/",
+  "modAuthors": [
+    "Eric Beaudoin"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "7 days to die prefab",
+    "7 days to die quests",
+    "Eric Beaudoin"
+  ]
+}

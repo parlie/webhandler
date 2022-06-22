@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/a19-farming-for-a20/",
+  "modCreatedTime": "2021-12-12T20:47:00+00:00",
+  "modLastUpdatedTime": "2021-12-12T22:38:37+00:00",
+  "modName": "A19 Farming for A20",
+  "modImages": [],
+  "modShortDescription": "This mod restores farming to the same style as a19. When harvesting a crop it will return to seedling form and you will never receive a seed.",
+  "modDescription": "This mod restores [farming](https://7daystodiemods.com/tag/7-days-to-die-farming/) to the same style as a19\\. When harvesting a crop it will return to seedling form and you will never receive a seed.\n\n## Changelog\n\nChanged how I removed the returned seed on harvest (direction provided from Red Eagle LXIX). Also lowered the amount of crops given at harvest to match that of a19.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Syco54645/Syco54645A20ModletsXML/tree/main/Syco54645-A19_Farming_For_A20)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26052-a19-farming-for-a20/).\n\n**Credits:** Syco54645",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Syco54645/Syco54645A20ModletsXML/tree/main/Syco54645-A19_Farming_For_A20",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26052-a19-farming-for-a20/",
+  "modAuthors": [
+    "Syco54645"
+  ],
+  "modTags": [
+    "7 days to die farming"
+  ]
+}

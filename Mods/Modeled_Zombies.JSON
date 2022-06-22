@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/modeled-zombies/",
+  "modCreatedTime": "2021-09-23T05:41:00+00:00",
+  "modLastUpdatedTime": "2021-09-23T05:47:57+00:00",
+  "modName": "Modeled Zombies",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/09/7-days-to-die-modeled-zombies-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Adds new zombies to the game. All zombies were created by Khzmusik, using either CC0 or royalty free assets.",
+  "modDescription": "Adds new zombies to the game.\n\nAll zombies were created by Khzmusik, using either CC0 or royalty free assets. See the Technical Details.\n\n## New Zombies\n\nThese are the names of the new zombie entities, and a brief description of each:\n\n* **zombieBurntKhz** – a new burnt zombie\n* **zombieBusinessmanKhz** – an older businessman zombie\n* **zombieBusinesswomanKhz** – an older businesswoman zombie\n* **zombieCowgirlKhz** – a skinny cowgirl zombie\n* **zombieFemaleKhz** – a generic, but skinny, female zombie\n* **zombieFemaleLumberjackKhz** – a female lumberjack zombie\n* **zombieFemaleOfficeKhz** – a female office worker zombie\n* **zombieFemaleStripperKhz** – a female stripper zombie, similar to the original TFP designs – (WARNING! contains nudity)\n* **zombieFirefighterKhz** – a male firefighter zombie\n* **zombieMaleKhz** – a generic, but skinny, male zombie\n* **zombiePolicewomanKhz** – a short but stocky policewoman zombie\n\nThe new [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) should spawn with the appropriate vanilla zombies.\n\n## Dependent and Compatible Mods\n\nThis mod is prefixed with a number, in order to load it after all dependent mods.\n\nThis mod is dependent upon the [0-CreaturePackZombies](https://7daystodiemods.com/creature-packs-a-community-entity-project/) mod. It was designed and tested to be used with version 19.0.3.41 of that mod. It might not work with older or newer versions of that mod.\n\n## Technical Details\n\nThis mod includes new non-XML resources (Unity assets). These resources are not pushed from server to client. For this reason, this mod should be installed on both servers and clients.\n\n### How the Zombies Were Created\n\nThe zombie models were created using one of two programs:\n\n* [Mixamo Fuse](https://www.mixamo.com/) – a free program for making human-like characters, including zombies. Unfortunately, after Adobe bought it, it was discontinued and is no longer supported. But it can still be used, and is still very good.\n* [MakeHuman](http://www.makehumancommunity.org/) – an open source program for making human characters. It includes many community assets.\n\nOnce the models were created, he exported them to .obj files, and rigged them in Mixamo. From Mixamo, he exported them to Unity .fbx files.\n\nHe then imported them into Unity to set up ragdolls, rigging, tags, material shaders, etc.\n\nNone of this would be possible were it not for the help of Xyth and Darkstardragon – thank you!\n\nIf you would like to know how to do all this yourself, Xyth has an excellent series of tutorials on [YouTube](https://www.youtube.com/c/DavidTaylorCIO/playlists).\n\n### Re-Use in Other Mods/Modlets\n\nAny rights that he hold in these characters, he hereby place into the public domain (CC0). Feel free to re-use them in any of your mods or modlets.\n\nHowever, he doesn’t hold the rights to all the assets in the models. He has used assets from Mixamo Fuse and MakeHuman, and does not hold any rights in those assets. Those rights are retained by Fuse, and/or the members of the MakeHuman community.\n\nThis sounds worse than it is. Both the Fuse and MakeHuman assets are released under very lenient licenses, and it should not be any problem for mod authors to include them in their mods:\n\n* Characters created in Mixamo Fuse may be used in any game (commerical or not) for free, though you cannot repackage and sell the assets.\n* MakeHuman characters can include assets from the MakeHuman team, or community assets. The MakeHuman assets are CC0, and the community assets are usually CC0 or CC-BY. He believe he used CC0 assets in these models, but if not, contact him and he will either give credit or remove the character, as appropriate.\n\nObviously, the characters also use assets from The Fun Pimps (sounds, animations, etc). The Fun Pimps retain the rights in those assets.\n\n## Changelog\n\n* Localization for zombie names\n* Improvements to zombie models (gore, skins, etc.)\n\n**[Download](https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=1-CreaturePackZombies_khzmusik)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/).\n\n**Credits:** [Khzmusik](https://7daystodiemods.com/tag/khzmusik/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-a19-modlets/-/archive/master/7d2d-a19-modlets-master.zip?path=1-CreaturePackZombies_khzmusik",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/24348-a19-khzmusiks-modlets/",
+  "modAuthors": [
+    "Khzmusik"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "Khzmusik"
+  ]
+}

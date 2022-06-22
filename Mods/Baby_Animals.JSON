@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/baby-animals/",
+  "modCreatedTime": "2020-11-28T00:37:00+00:00",
+  "modLastUpdatedTime": "2020-11-28T00:40:21+00:00",
+  "modName": "Baby Animals",
+  "modImages": [],
+  "modShortDescription": "Iceburg71 like variety, so he created this mod. It adds baby animals to the game. Server side friendly so you can just drop it in.",
+  "modDescription": "Iceburg71 like variety, so he created this mod (with help from the community, thanks everyone). It adds baby animals to the game.\n\nInspired from Khelldon’s [Baby Bears](https://7daystodiemods.com/baby-bears/) mod.\n\nBasically, every animal in the game has a “baby” version (no chickens and no rabbits because they would be SO small). They are smaller, so harder to see and can hide under larger [animals](https://7daystodiemods.com/tag/7-days-to-die-animals/) easier (wolfpacks can be interesting). They do less damage and drop less on harvest (pretty sure this is working correctly now).\n\nIt adds some variety and fun to the game. Server side friendly so you can just drop it in and surprise your friends!\n\n## Changelog\n\n* **Version 1.6:**  \n   * Corrected some values on some of the animals that were to low.  \n   * Updated some of the animal configs to match A19 animals.  \n   * Bug fix on the baby zombie bear.\n* **Version 1.4:**  \n   * Removed Baby zombie vulture from the bears group (how did that get there? LOL)  \n   * BIG change in the code to allow more dynamic assigning of all of the animals to all of their proper groups. Adding them to the groups is no longer tied to group name.  \n   * All animals will now appear when and where ever their parents can appear. This includes GAME STAGES and HORDES!\n* **Version 1.3:**  \n   * Updated for Alpha 19!  \n   * Added Baby Zombie Vultures.  \n   * Added Radiated Baby Zombie Vultures.\n* **Version 1.2:** More specific characteristics for each animal including ranges, buffs, entity damage, block damage.\n* **Version 1.1:**  \n   * Naming standards incorporated for uniqueness and less chance of interference with other mods  \n   * Fixed Baby Bears instant death when spawned\n\n**[Download](https://docs.google.com/uc?export=download&id=1INMD2rNGsLvfsTxrk-WztWhTqXRvBokV)** for A19  \n**[Download](https://docs.google.com/uc?export=download&id=168Dz3nbQH7d6C_b-IxBfQdfCfJ0DMHBC)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17823-modlet-baby-animals/).\n\n**Credits:** [Iceburg71](https://7daystodiemods.com/tag/iceburg71/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://docs.google.com/uc?export=download&id=1INMD2rNGsLvfsTxrk-WztWhTqXRvBokV",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://docs.google.com/uc?export=download&id=168Dz3nbQH7d6C_b-IxBfQdfCfJ0DMHBC",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/17823-modlet-baby-animals/",
+  "modAuthors": [
+    "Iceburg71"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die zombies",
+    "Iceburg71"
+  ]
+}

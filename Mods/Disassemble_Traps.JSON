@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/disassemble-traps/",
+  "modCreatedTime": "2021-12-10T17:00:00+00:00",
+  "modLastUpdatedTime": "2021-12-10T17:24:39+00:00",
+  "modName": "Disassemble Traps",
+  "modImages": [],
+  "modShortDescription": "You can disassemble all types of spike traps with a wrench and have a 45% chance to get the full trap back.",
+  "modDescription": "You can disassemble all types of [spike](https://7daystodiemods.com/tag/7-days-to-die-spikes/) traps with a wrench and have a 45% chance to get the full trap back.\n\n## Changelog\n\n* **_(new)_** Updated for A20.\n* Problem was you could get resources and a full trap when disassembling resulting in you getting more material than you had before. Now you will not get any resources, but have a 45% chance to get a full trap.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Robeloto/7D2D_A20_Modlets/tree/master/Robeloto_DisassembleTraps)** for A20  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Robeloto/7D2D_A19_Modlets/tree/master/Robeloto_DisassembleTraps)** for A19\n\nIf you appreciate Robeloto’s work and you want to show support, use this [donate link](http://paypal.me/robeloto).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/12229-robelotos-modlets/).\n\n**Credits:** [Robeloto](https://7daystodiemods.com/tag/robeloto/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Robeloto/7D2D_A20_Modlets/tree/master/Robeloto_DisassembleTraps",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Robeloto/7D2D_A19_Modlets/tree/master/Robeloto_DisassembleTraps",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/12229-robelotos-modlets/",
+  "modAuthors": [
+    "Robeloto"
+  ],
+  "modTags": [
+    "7 days to die spikes",
+    "7 days to die tools",
+    "7 days to die traps",
+    "Robeloto"
+  ]
+}

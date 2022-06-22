@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/luths-fast-tutorial-kit/",
+  "modCreatedTime": "2021-03-07T03:02:46+00:00",
+  "modLastUpdatedTime": "2021-03-07T03:02:48+00:00",
+  "modName": "Luth's Fast Tutorial Kit",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/03/7-days-to-die-luths-fast-tutorial-kit-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/03/7-days-to-die-luths-fast-tutorial-kit-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "Do you hate punching rocks and searching for a birds nest every time you start a new character? Sure, we all do!",
+  "modDescription": "Do you hate punching rocks and searching for a birds nest every time you start a new character? Sure, we all do!\n\nWith this modlet each new character [starts](https://7daystodiemods.com/tag/7-days-to-die-starting-items/) with a Tutorial Kit. Simply place it, smash it, and voila! You’ll have all the plant fibers, wood, small rocks, and yes, even the feather that you need to get through the tutorial and onto the fun part: dying at the hands of your former friends and neighbours.\n\n## Installation\n\n* Simply unzip into your /Mods/ folder.\n* **Dedicated Server:** It’s XML only so it’ll be pushed out to all your players without them having to download anything.\n\n**[Download](https://drive.google.com/file/d/1VkCj5J8sSfZe2htltAtZGEs7sA-447ON/view?usp=sharing)**\n\n**Credits:** Luth",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1VkCj5J8sSfZe2htltAtZGEs7sA-447ON/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "Luth"
+  ],
+  "modTags": [
+    "7 days to die starting items"
+  ]
+}

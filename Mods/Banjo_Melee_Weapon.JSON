@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/banjo-melee-weapon/",
+  "modCreatedTime": "2019-12-06T09:36:40+00:00",
+  "modLastUpdatedTime": "2021-04-16T15:23:52+00:00",
+  "modName": "Banjo Melee Weapon",
+  "modImages": [],
+  "modShortDescription": "This mod adds a Banjo melee weapon to the 7 Days to Die! Has a power swing that does extra damage and has a decent chance to dismember.",
+  "modDescription": "This mod adds a Banjo [melee weapon](https://7daystodiemods.com/tag/7-days-to-die-melee-weapons/) to the 7 Days to Die! Does slightly less base damage than the sledgehammer. Has a power swing that does extra damage and has a decent chance to dismember, but uses a lot of stamina. Supports the same weapon mods as the sledgehammer.\n\n**[Download](https://gitlab.com/bdubyah/Mods---A18/-/archive/master/Mods---A18-master.zip?path=Banjo)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11875-bdubyahs-modlets/).\n\n**Credits:** [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/bdubyah/Mods---A18/-/archive/master/Mods---A18-master.zip?path=Banjo",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/11875-bdubyahs-modlets/",
+  "modAuthors": [
+    "Bdubyah"
+  ],
+  "modTags": [
+    "7 days to die melee weapons",
+    "7 days to die weapons",
+    "Bdubyah"
+  ]
+}

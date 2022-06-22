@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/invisible-dye/",
+  "modCreatedTime": "2021-02-08T10:03:06+00:00",
+  "modLastUpdatedTime": "2021-02-08T10:03:07+00:00",
+  "modName": "Invisible Dye",
+  "modImages": [],
+  "modShortDescription": "It can be applied to clothes and armor. If you add it to the item, it hides the UMA layer of that item and then makes whatever is under it visible.",
+  "modDescription": "This simple mod adds 1 new item and English localization for it called Invisible Dye. It can be applied to clothes and armor (but not shades, as they for some reason do not count as either.) If you add it to the item, it hides the UMA layer of that item and then makes whatever is under it visible, though Haidrgna has not extensively tested what happens with overlapping [clothes](https://7daystodiemods.com/tag/7-days-to-die-clothing/) and hiding only one piece. As you can see the player model becomes visible with all pieces having the mod.\n\nIt is added to the dyes loot group and will appear in clothes sometimes like other dyes do.\n\n## Terms of Use\n\nAnyone is free to take the code of this mod and expand upon it, use it in their own overhaul or modpack or create a modified version of this mod for personal use. In anything published to the public it is required to tell people you used this mod in its creation, a note of credit to Haidrgna or an entry in your mod’s readme file is usually enough.\n\nThis mod likely will remain working for as long as the game keeps using UMA for the character model, when they stop that it may also stop functioning.\n\n**[Download](https://drive.google.com/file/d/1Of5yff15CrXL1Lt1Bhuxzw19m-3HifzS/view?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/23527-invisible-dye/).\n\n**Credits:** [Haidrgna](https://7daystodiemods.com/tag/haidrgna/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1Of5yff15CrXL1Lt1Bhuxzw19m-3HifzS/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/23527-invisible-dye/",
+  "modAuthors": [
+    "Haidrgna"
+  ],
+  "modTags": [
+    "7 days to die armor mods",
+    "7 days to die clothing",
+    "Haidrgna"
+  ]
+}

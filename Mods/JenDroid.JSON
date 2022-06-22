@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/jendroid/",
+  "modCreatedTime": "2020-09-01T06:04:22+00:00",
+  "modLastUpdatedTime": "2021-08-26T09:02:24+00:00",
+  "modName": "JenDroid",
+  "modImages": [],
+  "modShortDescription": "You can now craft your own JenDroid! She walks around your base and if your within 3 blocks of her she will increase your healing rate.",
+  "modDescription": "Jen walks around healing you when your in range.\n\n**Note:** Her AI is that of a deer so she really tries hard to get away from you. Make her an doctors office and let her wander around inside.\n\nWhen your survivor becomes a master at advanced engineering, you can now craft your own JenDroid! It requires a reasonable amount of materials and is geared towards mid to late game. She walks around your base and if your within 3 blocks of her she will increase your healing rate. She also can reduce the time for sprained or broken limbs by around 1/2\\. Nothing too over powerful but a fun little addition. Dayhawk plan on having droid versions of the other [traders](https://7daystodiemods.com/tag/7-days-to-die-trader/) as he move forward.\n\n**Warning:** JenDroid has desires to wander the world and see new things. Handle this as you will.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/DayhawkSilverstar/7DaysToDieMods/tree/master/DayhawksJenDroid)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/21381-a19-dayhawks-modlets/).\n\n**Credits:** [Dayhawk](https://7daystodiemods.com/tag/dayhawk/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/DayhawkSilverstar/7DaysToDieMods/tree/master/DayhawksJenDroid",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/21381-a19-dayhawks-modlets/",
+  "modAuthors": [
+    "Dayhawk"
+  ],
+  "modTags": [
+    "7 days to die npcs",
+    "7 days to die trader",
+    "Dayhawk"
+  ]
+}

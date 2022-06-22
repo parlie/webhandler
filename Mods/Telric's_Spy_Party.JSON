@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/telrics-spy-party/",
+  "modCreatedTime": "2021-03-01T04:20:23+00:00",
+  "modLastUpdatedTime": "2021-04-28T22:04:36+00:00",
+  "modName": "Telric's Spy Party",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/03/7-days-to-die-telrics-spy-party-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Find and crash a party to stop a spy set out on a mission to kill every party goer there. Help Leah Martini figure out which attendee is the spy.",
+  "modDescription": "Find and crash a party to stop a spy set out on a mission to kill every party goer there. Help Leah Martini figure out which attendee is the spy and take them out quietly with a syringe of poison. Choose carefully though. The spy is carrying a bomb ready to detonate at any moment if there’s a commotion. Killing an innocent party-er will definitely make the spy trigger the bomb!\n\nRequires restart. Requires client to install as well as server.\n\nTested and works with Alpha 19.4 b7\n\nRecommended to be played single player or multiplayer.\n\n**[Download](https://www.dropbox.com/s/zbsbq59ebmjtskc/TelricsSpyPartyA19.zip?dl=1)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/19976-telrics-a19-modlets/).\n\n**Credits:** [Telric](https://7daystodiemods.com/tag/telric/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/s/zbsbq59ebmjtskc/TelricsSpyPartyA19.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/19976-telrics-a19-modlets/",
+  "modAuthors": [
+    "Telric"
+  ],
+  "modTags": [
+    "7 days to die prefab",
+    "7 days to die quests",
+    "Telric"
+  ]
+}

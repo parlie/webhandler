@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/vehicle-sound-fix/",
+  "modCreatedTime": "2021-12-05T11:24:00+00:00",
+  "modLastUpdatedTime": "2021-12-08T15:21:26+00:00",
+  "modName": "Vehicle Sound Fix",
+  "modImages": [],
+  "modShortDescription": "This is more for modders. It fixes that horrible noise when driving custom vehicles.",
+  "modDescription": "This is more for modders. It fixes that horrible [noise](https://7daystodiemods.com/tag/7-days-to-die-sound-mod/) when driving custom vehicles.\n\nThis is a C# Mod (cannot be server only, EAC must be off!).\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsHarmony/tree/main/KHA20-VehicleSoundFix)**\n\nIf you appreciate KhaineGB’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/khainegb).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsHarmony/tree/main/KHA20-VehicleSoundFix",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "7 days to die sound mod",
+    "7 days to die vehicles",
+    "KhaineGB"
+  ]
+}

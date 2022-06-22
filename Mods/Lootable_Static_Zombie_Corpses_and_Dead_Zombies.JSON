@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/lootable-static-zombie-corpses-and-dead-zombies/",
+  "modCreatedTime": "2021-12-18T20:55:00+00:00",
+  "modLastUpdatedTime": "2021-12-18T22:03:50+00:00",
+  "modName": "Lootable Static Zombie Corpses and Dead Zombies",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/09/7-days-to-die-lootable-static-zombie-corpses-and-dead-zombies-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "This mod will add loot to static zombie corpses and dead zombies.",
+  "modDescription": "This mod will add loot to static zombie corpses and dead [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/). In the loot there will come across the same thing as in heaps of garbage, as well as clothes and sometimes pistols.\n\n## Changelog\n\n**Update v2.0**\n\nAdaptation for Alpha 20.\n\n**Update v1.3**\n\n* Added unique loot lists for each zombie! (nevertheless, you still cannot swim in loot)\n* Removed yellow bags falling from zombies.\n* Zombie corpse lifespan increased to 180 seconds.\n* Zombie corpse durability reduced to 100.\n\n**Update v1.2**\n\n* Reduced the chance to find a pistol.\n* Added the ability to search normal zombies after being killed.\n* Zombie corpse lifespan increased to 240 seconds.\n* Zombie corpse durability reduced to 300.\n\n**Update v1.1**\n\nAdded lootable all bodyBag.\n\n**[Download](https://drive.google.com/drive/folders/12KKmnqzZeS2tJQmAF1E4-85TmA1Ox5dZ?usp=sharing)**\n\nIf you appreciate Survager’s work and you want to show support, use this [donate link](https://www.patreon.com/survager).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20470-lootable-static-zombie-corpses-modlet-a19/).\n\n**Credits:** [Survager](https://7daystodiemods.com/tag/survager/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/drive/folders/12KKmnqzZeS2tJQmAF1E4-85TmA1Ox5dZ?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/20470-lootable-static-zombie-corpses-modlet-a19/",
+  "modAuthors": [
+    "Survager"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "7 days to die zombies",
+    "Survager"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/baseball-bats/",
+  "modCreatedTime": "2020-07-01T13:31:00+00:00",
+  "modLastUpdatedTime": "2020-12-20T01:11:10+00:00",
+  "modName": "Baseball Bats",
+  "modImages": [],
+  "modShortDescription": "A mod that demonstrates how to implement melee weapon modifiers, and adds new bats and modifiers in a compatible way with TFPs vanilla bat.",
+  "modDescription": "A mod that demonstrates how to implement melee [weapon](https://7daystodiemods.com/tag/7-days-to-die-weapons/) modifiers, and adds new bats and modifiers in a compatible way with TFPs vanilla bat. New hi-def textures and mesh fixes provided by Dust2Death. Those textures for the modifiers were reduced to 1K for compatibility with most PCs. Schematic Icons by DukeW74\\. Hopefully some modders will want to make some more attachments for this mod and collaborate to make it a more finished mod.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/SalvagedBats)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/8400-xyths-modlet-collection/).\n\n**Credits:** [Xyth](https://7daystodiemods.com/tag/xyth/), Dust2Death",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A18Mods/tree/master/SalvagedBats",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/8400-xyths-modlet-collection/",
+  "modAuthors": [
+    "Xyth",
+    "Dust2Death"
+  ],
+  "modTags": [
+    "7 days to die melee weapons",
+    "7 days to die weapons",
+    "Xyth"
+  ]
+}

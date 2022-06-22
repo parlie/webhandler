@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/no-chat/",
+  "modCreatedTime": "2020-12-29T17:31:33+00:00",
+  "modLastUpdatedTime": "2020-12-29T17:31:34+00:00",
+  "modName": "No Chat",
+  "modImages": [],
+  "modShortDescription": "A simple mod. Function: No matter you press t or change the chat key to something else, it just doesn't exist. Note: This does not disable voice.",
+  "modDescription": "BBBBilly has brought you a simple mod, but he doesn’t think most people will use it. It’s only applicable to special servers, or you just want them to shut up.\n\n* **Function:** No matter you press t or change the chat key to something else, it just doesn’t exist.\n* **Note:** This does not disable voice.\n\nA friend asked him to do this mod, and he’s sharing it now. Seriously, what he think is that God doesn’t let people build the tower of Babel and make their language confusing. Maybe it’s inspiration.\n\n**[Download](https://docs.google.com/uc?export=download&id=1XmarFgTLuiBMAhLclzZFpWM0zCMwbAr9)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/23069-a19no-chat%E2%80%94%E2%80%94dont-chat-on-my-server/).\n\n**Credits:** [BBBBilly](https://7daystodiemods.com/tag/bbbbilly/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://docs.google.com/uc?export=download&id=1XmarFgTLuiBMAhLclzZFpWM0zCMwbAr9",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/23069-a19no-chat%E2%80%94%E2%80%94dont-chat-on-my-server/",
+  "modAuthors": [
+    "BBBBilly"
+  ],
+  "modTags": [
+    "BBBBilly"
+  ]
+}

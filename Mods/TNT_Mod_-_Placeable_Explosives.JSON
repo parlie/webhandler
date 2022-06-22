@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/tnt-mod-placeable-explosives/",
+  "modCreatedTime": "2021-09-19T17:29:46+00:00",
+  "modLastUpdatedTime": "2021-09-19T18:34:59+00:00",
+  "modName": "TNT Mod - Placeable Explosives",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/09/7-days-to-die-tnt-mod-placeable-explosives-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "It adds two explosive blocks. Placeable version of the dynamite and TNT as well as means of connecting explosives together and to electricity.",
+  "modDescription": "It adds two explosive blocks. Placeable version of the dynamite and TNT as well as means of connecting explosives together and to [electricity](https://7daystodiemods.com/tag/7-days-to-die-electricity/).\n\nPersonally DUDSS has been missing [explosives](https://7daystodiemods.com/tag/7-days-to-die-ammo/) like these. The only way to demolish stuff was using the throwable dynamite which actually despawns in a bit. Very annoying. He just started playing 7 Days to die since Alpha 19 so he doesn’t know where the old [TNT](https://7daystodiemods.com/tag/7-days-to-die-weapons/) block went. Anyway, this adds it back in a way, with a few more bells and whistles. Would be a shame to not blow stuff up efficiently in a voxel game with structure stability. Would be funny if they added it back in Alpha 20.\n\n## Changelog\n\n**Update 1.1.0**\n\n* Added C4 block\n* Added IED block\n* Increased TNT hp from 5 to 20\n* Increased explosives stack sizes from 20 to 50\n* Fixed mod items not showing up in loot\n* Fixed incomplete item descriptions\n\n**C4** – A special explosive that doesn’t damage dirt.  \n**IED** – An improvised explosive that only damages zombies and players.\n\n**[Download](https://github.com/xDUDSSx/TNT-Mod-for-7dtd/archive/refs/heads/master.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25109-tnt-mod-placeable-explosives/).\n\n**Credits:** DUDSS",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/xDUDSSx/TNT-Mod-for-7dtd/archive/refs/heads/master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25109-tnt-mod-placeable-explosives/",
+  "modAuthors": [
+    "DUDSS"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die electricity",
+    "7 days to die weapons"
+  ]
+}

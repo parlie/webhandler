@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/alpha-20-santa-and-friends-re-balanced/",
+  "modCreatedTime": "2021-12-08T20:50:00+00:00",
+  "modLastUpdatedTime": "2021-12-08T21:23:30+00:00",
+  "modName": "Alpha 20 Santa and Friends (Re-balanced)",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-alpha-20-santa-and-friends-re-balanced-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "In this mod Santa and friends come back to play, this time more balanced around the New Pipe Weapons.",
+  "modDescription": "In this mod Santa and friends come back to play, this time more balanced around the New Pipe Weapons, Santa can now be harvested for WAYYY more goodies then before and even a chance at the Wearable Santa Hat, The Elfs can now be harvested also for more juicy goodies alongside a Candy Cane Knife for a stabby stabby christmas theme.\n\nRebalanced? here’s how.\n\n## Santa\n\n* Has FAR less health and no longer stun locks the player on contact, he’s no push over though.\n* Does less Damage and Block Damage overall (-60%).\n* Can be Harvested for Lots of goodies (no spoilers sorry).\n* No longer regens health.\n* No longer swears.\n\n## The Elfs\n\nBasically the same changes as Santa, including no longer swears.\n\nWorks on Alpha 20 Experimental perfectly fine, untested on Alpha 19.6 but the older mod should still be available on this website. (Here it is: [MickkPewPew’s Server Side Santa and Friends](https://7daystodiemods.com/mickkpewpews-server-side-santa-and-friends/)) Also should work on Server side servers.\n\n## How to Use\n\nDownload using the link given, unzip it and extract all, then take that folder and just pop it into your mods folder.\n\n**[Download](https://www.dropbox.com/s/pwt3o5uiwwrq886/MickkPewPewServerSideSanta2021.zip?dl=1)**\n\nIf you appreciate Mickkpewpew’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/Mickkpewpew).\n\n**Credits:** [Mickkpewpew](https://7daystodiemods.com/tag/mickkpewpew/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/s/pwt3o5uiwwrq886/MickkPewPewServerSideSanta2021.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Mickkpewpew"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "Mickkpewpew"
+  ]
+}

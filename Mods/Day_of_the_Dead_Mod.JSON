@@ -1,0 +1,46 @@
+{
+  "modURL": "https://7daystodiemods.com/day-of-the-dead-mod/",
+  "modCreatedTime": "2021-08-11T06:34:26+00:00",
+  "modLastUpdatedTime": "2021-08-11T06:40:24+00:00",
+  "modName": "Day of the Dead Mod",
+  "modImages": [],
+  "modShortDescription": "The intent of this mod is to create a world with a much higher population of regular zombies, more consistent with what you find in a Day of the Dead universe.",
+  "modDescription": "The intent of this mod is to create a world with a much higher population of regular zombies, more consistent with what you find in a Day of the Dead universe.\n\nBurnt zombies, Spider zombies, Animal Zombies, and other zombie types that do not fit the Romero-world have been replaced. The overall population of regular [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) has been increased, and smaller but more frequent Hordes will cruise around, making life difficult. In the Romero tradition, you will need to focus on taking them out with headshots, since they are more resistant to damage elsewhere.\n\nYou will have plenty of extra firepower, with an armada of over 60 new weapons to find or build, and 30 new [vehicles](https://7daystodiemods.com/tag/7-days-to-die-vehicles/).\n\nEach new player is given a Starter Crate with guns, ammo and supplies to help survive the first few days.\n\n**[Download](https://drive.google.com/file/d/14thJNL7GI2q6KFsizYxIbe7TOwctRo_r/view?usp=sharing)** Client Install for 19.6  \n**[Download](https://drive.google.com/file/d/1glJE_UHQUuQeHgiAdh4G2_Qnen7Wffuf/view?usp=sharing)** Dedicated Server Install for 19.6  \n**[Download](https://drive.google.com/file/d/13x8XJP9tpBHiqoaiOE_9rwEJqHChKoVx/view?usp=sharing)** SMX UI Patch _(apply if you are using SMX – this work on both above Installs)_\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25026-day-of-the-dead-mod/).\n\n**Credits:** Vampiricon, KhaineGB, Skyriss, Smadol, Bdubyah, Oblivion, Hesbic, Almond, and many others.",
+  "modDownloadURLs": [
+    {
+      "Info": "Client Install for 19.6",
+      "URL": "https://drive.google.com/file/d/14thJNL7GI2q6KFsizYxIbe7TOwctRo_r/view?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "Dedicated Server Install for 19.6",
+      "URL": "https://drive.google.com/file/d/1glJE_UHQUuQeHgiAdh4G2_Qnen7Wffuf/view?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "SMX UI Patch (apply if you are using SMX – this work on both above Installs)",
+      "URL": "https://drive.google.com/file/d/13x8XJP9tpBHiqoaiOE_9rwEJqHChKoVx/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/25026-day-of-the-dead-mod/",
+  "modAuthors": [
+    "Vampiricon",
+    "KhaineGB",
+    "Skyriss",
+    "Smadol",
+    "Bdubyah",
+    "Oblivion",
+    "Hesbic",
+    "Almond",
+    "and many others."
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die starting items",
+    "7 days to die vehicles",
+    "7 days to die weapons",
+    "7 days to die zombies"
+  ]
+}

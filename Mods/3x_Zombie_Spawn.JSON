@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/3x-zombie-spawn/",
+  "modCreatedTime": "2021-09-01T17:42:40+00:00",
+  "modLastUpdatedTime": "2021-09-01T22:31:45+00:00",
+  "modName": "3x Zombie Spawn",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/09/7-days-to-die-3x-zombie-spawn-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "This modlet is designed to increase the zombie spawn rate up to 3x the vanilla default. I have scaled things for balance and server performance.",
+  "modDescription": "This modlet is designed to increase the [zombie](https://7daystodiemods.com/tag/7-days-to-die-zombies/) spawn rate up to 3x the vanilla default.\n\nI have scaled things for balance and server performance.\n\n## Installation in 3 Steps\n\n1. Create a Mods folder in your 7 Days to Die directory. By default in Steam it’s located here: **C:\\\\Program Files (x86)\\\\Steam\\\\steamapps\\\\common\\\\7 Days To Die**\n2. Download my modlet and move the entire folder 3x-zombies into the Mods folder.\n3. Launch the game.\n\nIf you have any issues or suggestions, please get in touch!\n\n**[Download](https://drive.google.com/drive/folders/11Cfpgl4wL5cT28qGULgVS-dYS3aZ46h-?usp=sharing)** from Google Drive  \n**[Download](https://github.com/mattwoodley/3x-zombies/archive/refs/heads/main.zip)** from GitHub\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25188-server-side-3x-zombie-spawn/).\n\n**Credits:** [M17Woodley](https://7daystodiemods.com/tag/m17woodley/)",
+  "modDownloadURLs": [
+    {
+      "Info": "from Google Drive",
+      "URL": "https://drive.google.com/drive/folders/11Cfpgl4wL5cT28qGULgVS-dYS3aZ46h-?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "from GitHub",
+      "URL": "https://github.com/mattwoodley/3x-zombies/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25188-server-side-3x-zombie-spawn/",
+  "modAuthors": [
+    "M17Woodley"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "M17Woodley"
+  ]
+}

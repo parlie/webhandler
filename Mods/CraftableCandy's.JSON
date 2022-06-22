@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/craftablecandys/",
+  "modCreatedTime": "2021-07-25T01:14:07+00:00",
+  "modLastUpdatedTime": "2021-07-25T01:14:08+00:00",
+  "modName": "CraftableCandy's",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/07/7-days-to-die-craftablecandys-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Just wrote a mod to make it possible to craft every candy at the chemistry bench.",
+  "modDescription": "Just wrote a mod to make it possible to craft every [candy](https://7daystodiemods.com/tag/7-days-to-die-food/) at the chemistry bench.\n\nThere will be future updates soon! Check out for new version!\n\nAlpha 19.5!\n\n**[Download](https://www.dropbox.com/s/ggw0f7elnau94ef/CraftableCandys.rar?dl=1)**\n\n**Credits:** GermanLive",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/s/ggw0f7elnau94ef/CraftableCandys.rar?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modAuthors": [
+    "GermanLive"
+  ],
+  "modTags": [
+    "7 days to die food"
+  ]
+}

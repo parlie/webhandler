@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/disable-poi-pickups/",
+  "modCreatedTime": "2021-12-10T18:41:00+00:00",
+  "modLastUpdatedTime": "2021-12-10T19:17:09+00:00",
+  "modName": "Disable POI Pickups",
+  "modImages": [],
+  "modShortDescription": "Disables E for pick up on chair items in POIs.",
+  "modDescription": "Disables E for pick up on chair items in [POIs](https://7daystodiemods.com/tag/7-days-to-die-prefab/).\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A20ModletsJax/tree/main/JaxTeller718-DisableChairPickups)**\n\nIf you appreciate JaxTeller718’s work and you want to show support, use this [donate link](https://www.paypal.me/FrankCirabisiJr).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25860-jaxteller718s-a20-modlets/).\n\n**Credits:** [JaxTeller718](https://7daystodiemods.com/tag/jaxteller718/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A20ModletsJax/tree/main/JaxTeller718-DisableChairPickups",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25860-jaxteller718s-a20-modlets/",
+  "modAuthors": [
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die prefab",
+    "JaxTeller718"
+  ]
+}

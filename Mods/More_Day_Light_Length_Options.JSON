@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/more-day-light-length-options/",
+  "modCreatedTime": "2021-12-07T04:22:28+00:00",
+  "modLastUpdatedTime": "2021-12-07T04:22:40+00:00",
+  "modName": "More Day Light Length Options",
+  "modImages": [],
+  "modShortDescription": "This adds the option '2, 4, 6, 8, 10, 20, 22' hours as Day Light Length options in addition to the default '12, 14, 16, 18' for those who want really short or really long days.",
+  "modDescription": "This adds the option ‘2, 4, 6, 8, 10, 20, 22′ hours as Day Light Length options in addition to the default ’12, 14, 16, 18’ for those who want really short or really long days.\n\nThese options are also added as available filter choices in the server browser.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/RELXIX-7DTD/A20_XML_Modlets/tree/main/RELXIX_UIMENU_MoreDayLightLengthOptions)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25785-relxix-a20-xml-modlets/).\n\n**Credits:** [Red Eagle LXIX](https://7daystodiemods.com/tag/red-eagle-lxix/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/RELXIX-7DTD/A20_XML_Modlets/tree/main/RELXIX_UIMENU_MoreDayLightLengthOptions",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25785-relxix-a20-xml-modlets/",
+  "modAuthors": [
+    "Red Eagle LXIX"
+  ],
+  "modTags": [
+    "7 days to die menu",
+    "Red Eagle LXIX"
+  ]
+}

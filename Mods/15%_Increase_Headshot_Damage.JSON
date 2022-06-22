@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/15-increase-headshot-damage/",
+  "modCreatedTime": "2021-12-08T09:05:00+00:00",
+  "modLastUpdatedTime": "2021-12-08T09:10:43+00:00",
+  "modName": "15% Increase Headshot Damage",
+  "modImages": [],
+  "modShortDescription": "It provides 15% boost to headshots at difficulty 2, and also scales the damage to headshots based on the difficulty of the game.",
+  "modDescription": "TSBX removed the 25% Headshot that ShoudenKalferas was using from [his modlet collection](https://7daystodiemods.com/headshot-multiplier/). So ShoudenKalferas copied and revised the code a bit. It provides 15% boost to headshots at difficulty 2, and also scales the damage to headshots based on the difficulty of the game.\n\n* Difficulty 2 = No change\n* Difficulty 3 = 15% Increase\n* Difficulty 4 = 20% Increase\n* Difficulty 5 = 25% Increase\n\n## Changelog\n\nHe has re-tuned and lowered all the values of both headshot mods to provide a bit more variety. He also did find that even on the 15% with difficulty 4 that with maxed perks he was too consistently always killing with every headshot.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/XelaNull/7DTD-Bag_Bellows_Headshot/tree/master/Headshot_15)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17502-60-slot-bag-faster-bellows-25-headshot/).\n\n**Credits:** [ShoudenKalferas](https://7daystodiemods.com/tag/shoudenkalferas/), TSBX",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/XelaNull/7DTD-Bag_Bellows_Headshot/tree/master/Headshot_15",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/17502-60-slot-bag-faster-bellows-25-headshot/",
+  "modAuthors": [
+    "ShoudenKalferas",
+    "TSBX"
+  ],
+  "modTags": [
+    "7 days to die weapons",
+    "7 days to die zombies",
+    "ShoudenKalferas"
+  ]
+}

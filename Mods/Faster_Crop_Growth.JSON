@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/faster-crop-growth/",
+  "modCreatedTime": "2021-12-17T10:26:00+00:00",
+  "modLastUpdatedTime": "2021-12-17T10:40:31+00:00",
+  "modName": "Faster Crop Growth",
+  "modImages": [],
+  "modShortDescription": "Sets parameters in blocks.xml to speed up crop growth.",
+  "modDescription": "Sets parameters in blocks.xml to speed up [crop](https://7daystodiemods.com/tag/7-days-to-die-farming/) growth.\n\n**[Download](https://github.com/pahbi/7DTD_Modlets/raw/main/fastgrowth.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26048-a20-modlets-lotl-perk-fast-plant-growth-super-iron-pickaxe/).\n\n**Credits:** [Pahbi](https://7daystodiemods.com/tag/pahbi/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/pahbi/7DTD_Modlets/raw/main/fastgrowth.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26048-a20-modlets-lotl-perk-fast-plant-growth-super-iron-pickaxe/",
+  "modAuthors": [
+    "Pahbi"
+  ],
+  "modTags": [
+    "7 days to die farming",
+    "Pahbi"
+  ]
+}

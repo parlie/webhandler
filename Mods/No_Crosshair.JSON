@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/no-crosshair/",
+  "modCreatedTime": "2021-09-03T07:04:00+00:00",
+  "modLastUpdatedTime": "2021-09-04T19:43:19+00:00",
+  "modName": "No Crosshair",
+  "modImages": [],
+  "modShortDescription": "Hides the crosshair from most ranged weapons. The crosshair will be always hidden when aiming from iron sights. While aiming from the hip the crosshair will be hidden too.",
+  "modDescription": "Hides the crosshair from most ranged weapons (excluding bows). The crosshair will be always hidden when aiming from iron sights. While aiming from the hip the crosshair will be hidden too, with some exceptions:\n\n* Immediately after firing shot the crosshair will appear on screen for a short time. On auto [weapons](https://7daystodiemods.com/tag/7-days-to-die-weapons/), the crosshair will stay as long as the weapon is firing.\n* The crosshair will always be on screen while holding guns that have a laser sight installed.\n* It doesn’t work on bows.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Alter-s09/Modlets/tree/main/Alter_NoCrosshair)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25200-alter-no-crosshair/).\n\n**Credits:** [Alter\\_s09](https://7daystodiemods.com/tag/alter_s09/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Alter-s09/Modlets/tree/main/Alter_NoCrosshair",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25200-alter-no-crosshair/",
+  "modAuthors": [
+    "Alter_s09"
+  ],
+  "modTags": [
+    "7 days to die weapons",
+    "Alter_s09"
+  ]
+}

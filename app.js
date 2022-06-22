@@ -9,14 +9,43 @@
 const siteMapPath = "https://7daystodiemods.com/post-sitemap.xml";
 const { exec } = require("child_process");
 
+/**
+ * Programwide XML parser.
+ */
+ const parserXML = require('xml2js').parseString;
 
+/**
+ * Client for parsing HTML.
+ */
+ const parserHTML = require('cheerio');
+
+/**
+ * Client for obtaining remote files.
+ */
+ const got = require('got');
 
 /**
  * Library for working with date and time.
- */
+*/
 const DateTime = require('moment');
 
+/**
+ * HTML to MD parser.
+*/
+const NHMO = require('node-html-markdown');
+
+/**
+* Object for HTML to MD parsing.
+*/
+const parserMD = new NHMO.NodeHtmlMarkdown();
+
+const nodemail = require('nodemailer');
+
+const rimraf = require('rimraf');
+
 const modsPath = "./Mods";
+
+/***************************************/
 
 /**
  * Variable for stroing sitemap as parsed XML.
@@ -27,31 +56,6 @@ var siteMapXML;
  * Last timestamp from sitemap.
  */
 var sitemapTimestamp;
-
-/**
- * Programwide XML parser.
- */
-const parserXML = require('xml2js').parseString;
-
-/**
- * Client for obtaining remote files.
- */
-const got = require('got');
-
-/**
- * Client for parsing HTML.
- */
-const parserHTML = require('cheerio');
-
-/**
- * HTML to MD parser.
- */
-const NHMO = require('node-html-markdown');
-
-/**
- * Object for HTML to MD parsing.
- */
-const parserMD = new NHMO.NodeHtmlMarkdown();
 
 /**
  * Two dimensional array for storing mod timestamps and URLs.
@@ -70,10 +74,6 @@ const timeForUpdate = 4;
 var fullDayPeriod;
 
 var fs = require('fs');
-
-const nodemail = require('nodemailer');
-
-const rimraf = require('rimraf');
 
 
 class ModData{
@@ -294,6 +294,7 @@ function ProcessModImagesFromPage(attribut) {
  */
 function ProcessModNameFromPage(attribut){
     var loc = attribut.replace(':',' ');
+    loc = loc.replace('"','')
     return loc.substr(0,attribut.length-21);
 }
 
@@ -364,7 +365,7 @@ function ProcessModNameFromPage(attribut){
 
 function UpdateModObjects()
 {
-    var newLenght = siteMapXML['urlset']['url'].length;
+    var newLenght = siteMapXML['urlset']['url'].length - 960;
 
     sitemapTimestamp = siteMapXML['urlset']['url'][0]['lastmod'];
     fs.writeFileSync("variables.json",JSON.stringify({siteMapTimestamp:sitemapTimestamp}));

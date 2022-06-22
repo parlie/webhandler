@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/food-and-water-bars/",
+  "modCreatedTime": "2021-12-05T11:38:00+00:00",
+  "modLastUpdatedTime": "2021-12-06T10:59:25+00:00",
+  "modName": "Food and Water Bars",
+  "modImages": [],
+  "modShortDescription": "Just the food and water bars from KhaineGB's backpack mods so users can use larger backpacks if they so wish.",
+  "modDescription": "Just the food and water bars from KhaineGB’s [backpack mods](https://7daystodiemods.com/bigger-backpack-mod-60-96-slot-with-without-food-water-bar-on-hud/) so users can use larger backpacks if they so wish.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsXML/tree/main/KHA20-FoodWater)** for A20  \n**[Download](https://gitlab.com/KhaineGB/khaines-modlets-a19/-/archive/master/khaines-modlets-a19-master.zip?path=KHA19-FoodWater)** for A19\n\nIf you appreciate KhaineGB’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/khainegb).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsXML/tree/main/KHA20-FoodWater",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/KhaineGB/khaines-modlets-a19/-/archive/master/khaines-modlets-a19-master.zip?path=KHA19-FoodWater",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "7 days to die hud mod",
+    "KhaineGB"
+  ]
+}

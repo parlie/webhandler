@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/santa-hat-mod/",
+  "modCreatedTime": "2021-12-22T03:51:00+00:00",
+  "modLastUpdatedTime": "2021-12-22T03:55:16+00:00",
+  "modName": "Santa Hat Mod",
+  "modImages": [],
+  "modShortDescription": "Repurposes the skull cap mod as a santa hat mod. Since this doesn't add/remove any items it can not break savegames.",
+  "modDescription": "Repurposes the skull cap mod as a santa [hat](https://7daystodiemods.com/tag/7-days-to-die-clothing/) mod. Since this doesn’t add/remove any items it can not break savegames.\n\n## Installation\n\n* If necessary, create a folder “Mods” in **steamapps\\\\common\\\\7 Days To Die**\n* Unpack ZIP into the Mods folder so that you see **steamapps\\\\common\\\\7 Days To Die\\\\Mods\\\\Gazz-RevolverSilencer** (as an example)\n\n## Terms of Use\n\nGo nuts. Copy or alter in any way you see fit.\n\n**[Download](https://robert.hentschke-keramik.de/7dtd/Gazz-SantaHatMod.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26434-gazz-mods-a20/).\n\n**Credits:** [Gazz](https://7daystodiemods.com/tag/gazz/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://robert.hentschke-keramik.de/7dtd/Gazz-SantaHatMod.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26434-gazz-mods-a20/",
+  "modAuthors": [
+    "Gazz"
+  ],
+  "modTags": [
+    "7 days to die clothing",
+    "Gazz"
+  ]
+}

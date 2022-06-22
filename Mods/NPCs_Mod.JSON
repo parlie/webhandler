@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/npcs-mod/",
+  "modCreatedTime": "2021-08-02T20:51:00+00:00",
+  "modLastUpdatedTime": "2021-08-02T21:35:00+00:00",
+  "modName": "NPCs Mod",
+  "modImages": [],
+  "modShortDescription": "This mod adds many new NPCs to the game. These can be hired then stay, follow, guard, patrol eat, drink, and can even loot POIs for you.",
+  "modDescription": "This is a mod that introduces dynamic NPC characters into the game by expanding on the Creature Pack Humans. These NPCs require some of SphereII’s DMT scripts, and these dependencies will be enforced upon loading this mod with the mod launcher. Many issues probably exist and they need help testing to make these NPCs work better.\n\nThis mod adds many new [NPCs](https://7daystodiemods.com/tag/7-days-to-die-npcs/) to the game. Unlike previous NPCs, these can be hired then issued orders to stay, follow, and guard (patrol eat, drink, and looting POIs for you are being reworked, or abandoned). All this is configured in XML. Once hired, you cannot kill them, nor can another hireling or allies in your party hurt them. This blocks friendly fire issues. Non hired NPCs are fair game. They are currently set to spawn in the friendly animal spawn group, but you can change that in xml.\n\nYou set the patrol route by using invisible patrol blocks. Likely that will need a video to explain.\n\nIn xml you can set what the NPCs eat and drink, what they use for a toilet and what they defecate (if you turn that on), whats their home block, what they use for a bed, food containers, etc. Take a look at the xml and read the comments. The NPCs are an adaptation of the animals used for another mod, so if you want NPCs to breed and lay eggs, well, that could happen with the right xml. Just don’t ask him to help you with that.\n\n## Known Issues\n\nThis mod has not had much A19 testing and has so much code they expect you to find issues.\n\nNo training guide. SphereII posted details on each new script that contains lots of info on your xml options. But if your confused, feel free to ask questions on the forum page. Well, except questions about egg laying.\n\n## Changelog\n\n* **_(new)_** Pushed a workaround fix submitted by RedArmy45, NPCs now attack zombies before and after hiring more reliably. Update added to Humans, Mechs and animal NPCs.\n* Pushed the fix for the Wolfhound.\n* Pushed the real fix for GS22 NRE.\n* Pushed fix for misnamed whisperer males, and a bug that would happen only at GS22\n* Pushed a 19.2 update to the Human and animal NPCs to enable more NPC characters. Some humans have less than ideal weapon rotations, and while Xyth is working on the WW project he doesn’t have time to fiddle with those so if they bother you greatly feel free to remove those from entitygroups.xml\n* A19 Stable release pushed. Some new characters like the ranged bee and WarWolf.\n\n## Installing\n\nThis is a **DMT mod** so it must be compiled with [DMT Modding Tool](https://community.7daystodie.com/topic/13037-dmt-modding-tool/), or loaded by the mod launcher. This mod has several dependencies that must be compiled with this mod for it to work properly. **Required:** [0-SphereIICore](https://7daystodiemods.com/dmt-mods-by-sphereii/), [SphereII NPC Dialog Windows](https://7daystodiemods.com/dmt-mods-by-sphereii/) and [0-CreaturePackHumans](https://7daystodiemods.com/creature-packs-a-community-entity-project/)\n\n**[Download](https://github.com/7D2D/A19DMTMods/archive/refs/heads/master.zip)** for A19  \n**[Download](https://github.com/7D2D/A18DMTMods/archive/refs/heads/master.zip)** for A18\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/12912-a19-npcs-dmt-mod/).\n\n**Credits:** [Xyth](https://7daystodiemods.com/tag/xyth/)  \n_Additional Credits:_ SphereII, DarkStarDragon, Mumpfy",
+  "modDownloadURLs": [
+    {
+      "Info": "for A19",
+      "URL": "https://github.com/7D2D/A19DMTMods/archive/refs/heads/master.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A18",
+      "URL": "https://github.com/7D2D/A18DMTMods/archive/refs/heads/master.zip",
+      "Version": "v18"
+    }
+  ],
+  "modPotentialyOutdated": true,
+  "modForumURL": "https://community.7daystodie.com/topic/12912-a19-npcs-dmt-mod/",
+  "modAuthors": [
+    "XythAdditional Credits: SphereII",
+    "DarkStarDragon",
+    "Mumpfy"
+  ],
+  "modTags": [
+    "7 days to die npcs",
+    "Xyth"
+  ]
+}

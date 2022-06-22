@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/working-stove-mod/",
+  "modCreatedTime": "2021-12-20T10:11:00+00:00",
+  "modLastUpdatedTime": "2021-12-20T10:25:15+00:00",
+  "modName": "Working Stove Mod",
+  "modImages": [],
+  "modShortDescription": "Adds stove, grill and wood stove repair kits. Use with hammer or nailgun on stoves and grills and wood ovens to upgrade them to working.",
+  "modDescription": "Adds stove, grill and wood stove repair kits. Use with hammer or nailgun on stoves and grills and wood ovens to upgrade them to working. The new stoves and grills will no longer be lootable of course since they are now working.\n\n## Changelog\n\n* **_(new)_** Added 1 grill and 2 stoves to crafting. Added the others to traders only. Added Wall Oven.\n* Updated the “Working” Mods so that stone axes work with the kits now as well as nailguns and hammers.\n* Updated for A20.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A20ModletsJax/tree/main/JaxTeller718-WorkingStoves)** for A20  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_WorkingStoves)** for A19\n\nIf you appreciate JaxTeller718’s work and you want to show support, use this [donate link](https://www.paypal.me/FrankCirabisiJr).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25860-jaxteller718s-a20-modlets/).\n\n**Credits:** [JaxTeller718](https://7daystodiemods.com/tag/jaxteller718/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A20ModletsJax/tree/main/JaxTeller718-WorkingStoves",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/JaxTeller718/A19ModletsJax/tree/a19b168/JaxTeller718_WorkingStoves",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25860-jaxteller718s-a20-modlets/",
+  "modAuthors": [
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "JaxTeller718"
+  ]
+}

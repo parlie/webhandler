@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/lucky-looter-be-gone/",
+  "modCreatedTime": "2021-12-08T09:12:16+00:00",
+  "modLastUpdatedTime": "2021-12-08T09:12:18+00:00",
+  "modName": "Lucky Looter Be Gone",
+  "modImages": [],
+  "modShortDescription": "Removes Lucky Looter perk and books from the game.",
+  "modDescription": "Removes Lucky Looter [perk](https://7daystodiemods.com/tag/7-days-to-die-perks/) and books from the game.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/XelaNull/7DTD-ShoudensModlets/tree/master/7DTD-LuckyLooterBeGone)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25892-shoudens-misc-modlets-a20/).\n\n**Credits:** [ShoudenKalferas](https://7daystodiemods.com/tag/shoudenkalferas/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/XelaNull/7DTD-ShoudensModlets/tree/master/7DTD-LuckyLooterBeGone",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25892-shoudens-misc-modlets-a20/",
+  "modAuthors": [
+    "ShoudenKalferas"
+  ],
+  "modTags": [
+    "7 days to die books",
+    "7 days to die loot",
+    "7 days to die perks",
+    "ShoudenKalferas"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/info-panel-server/",
+  "modCreatedTime": "2021-12-16T12:44:00+00:00",
+  "modLastUpdatedTime": "2021-12-16T13:18:27+00:00",
+  "modName": "Info Panel Server",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-info-panel-server-additional-screenshot-1.jpg"
+  ],
+  "modShortDescription": "This mod allows you to add the server info panel to the pause screen. Press ESC to open the panel.",
+  "modDescription": "This mod allows you to add the server info panel to the pause screen. Press ESC to open the panel.\n\nJust change the text in the **windows.xml** file.\n\n## Changelog\n\nUpdated for A20.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/sLimLong/Info-Panel-Server/tree/main/InfoPanel)** for A20  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/sLimLong/Info-Panel-Server/tree/main/InfoPanel_a19)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/20526-info-panel-server/).\n\n**Credits:** [Slimlong103](https://7daystodiemods.com/tag/slimlong103/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/sLimLong/Info-Panel-Server/tree/main/InfoPanel",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/sLimLong/Info-Panel-Server/tree/main/InfoPanel_a19",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/20526-info-panel-server/",
+  "modAuthors": [
+    "Slimlong103"
+  ],
+  "modTags": [
+    "7 days to die menu",
+    "Slimlong103"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/offroad-buggy/",
+  "modCreatedTime": "2021-12-10T18:43:00+00:00",
+  "modLastUpdatedTime": "2021-12-10T19:15:20+00:00",
+  "modName": "Offroad Buggy",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-offroad-buggy-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Does the vanilla 4x4 not satisfy your off-roading needs? well this is the vehicle for you. This mod adds a fun offroading buggy that can overcome obstacles in its path.",
+  "modDescription": "Does the vanilla 4×4 not satisfy your off-roading needs? well this is the [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) for you. This mod adds a fun offroading buggy that can overcome obstacles in its path. It also has a custom horn.\n\nThe offroading buggy can be unlocked with grease monkey perk 4, or by finding the schematics to craft it.\n\n**Note:** This mod needs to be installed on both client and server for multiplayer.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Zilox135/A20Modlets/tree/main/Offroad%20Buggy%20V1.0)**\n\nIf you appreciate Zilox’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/zilox135).\n\nIf you need help, you can use this [support link](https://github.com/Zilox135/A20Modlets/issues).\n\n**Credits:** [Zilox](https://7daystodiemods.com/tag/zilox/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Zilox135/A20Modlets/tree/main/Offroad%20Buggy%20V1.0",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Zilox"
+  ],
+  "modTags": [
+    "7 days to die vehicles",
+    "Zilox"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/action-skills/",
+  "modCreatedTime": "2021-12-17T19:40:00+00:00",
+  "modLastUpdatedTime": "2021-12-20T09:26:18+00:00",
+  "modName": "Action Skills",
+  "modImages": [],
+  "modShortDescription": "This will restore a version of the old Action Skill system. Tool and weapon usage earn you XP in the following categories: Construction, Mining and more.",
+  "modDescription": "This will restore a version of the old Action Skill system. Tool and weapon usage earn you [XP](https://7daystodiemods.com/tag/7-days-to-die-experience/) in the following categories:\n\n* Construction\n* Mining\n* Blade\n* Blunt\n* Pistols\n* Rifles\n* Automatics\n* Shotgun\n* Turrets\n* Electric\n* Brawler\n* Javelin\n* Archery\n\nKilling with Construction or Mining Tools will grant XP for Blunts or Bladed, Repairing and Upgrading grants XP for upgrading. For now JaxTeller718 has excluded chainsaw, augers and nailguns due to rapid XP acceleration and because these [tools](https://7daystodiemods.com/tag/7-days-to-die-tools/) are special in their own right.\n\nRestores the feeling of the Action Skill system from A16 and before. Right now as you use [weapons](https://7daystodiemods.com/tag/7-days-to-die-weapons/) and tools you will acquire Action Skill XP in the category. The skills will provide a boost to damage, stamina, weapon spread and more depending on the item.\n\nHe will expand on this idea in the future to possibly include unlockable recipes as in previous alphas. This has not been 100 percent fully tested so some inconsistencies may apply.\n\nDo not add this to an existing game or remove it from your game. It relies on buffs and progression and may wipe your save.\n\n**Please Note:** If you level your skills via action and not purchasing there will be a lock icon that is green. You have unlocked that level but this means if you BUY the next level it will not unlock the next white padlock it will unlock the FiRST. This is a side effect of the code, but he did not want to remove the ability to purchase skills.\n\nIf this is unacceptable you can open the progression xml and replace base\\_skill\\_point\\_cost=”1″ in the file with base\\_skill\\_point\\_cost=”0″\n\n## Changelog\n\nRemoved the ability to buy perks as it was interfering with unlocks through the LBD (learn by doing) system. This is an unfortunate side effect of how the skill points work. He will try to return purchasing in the future.\n\n**[Download](https://github.com/JaxTeller718/ActionSkills/archive/refs/heads/main.zip)**\n\nIf you appreciate JaxTeller718’s work and you want to show support, use this [donate link](https://www.paypal.me/FrankCirabisiJr).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26158-jaxteller718-presents-action-skills-for-a20/).\n\n**Credits:** [JaxTeller718](https://7daystodiemods.com/tag/jaxteller718/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/JaxTeller718/ActionSkills/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26158-jaxteller718-presents-action-skills-for-a20/",
+  "modAuthors": [
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die experience",
+    "7 days to die perks",
+    "7 days to die tools",
+    "7 days to die weapons",
+    "JaxTeller718"
+  ]
+}

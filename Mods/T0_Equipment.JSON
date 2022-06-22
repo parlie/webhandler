@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/t0-equipment/",
+  "modCreatedTime": "2021-12-21T07:28:00+00:00",
+  "modLastUpdatedTime": "2021-12-21T07:44:01+00:00",
+  "modName": "T0 Equipment",
+  "modImages": [],
+  "modShortDescription": "Changes T0 Equipment (Q2 max, not found in loot or trader tables, mods not allowed, no repairs, ammo changes for pistol and more.)",
+  "modDescription": "Changes T0 Equipment (Q2 max, not found in loot or trader tables, mods not allowed, no repairs, [ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/) changes for pistol and pipe machine gun, tweaks to pipe pistol and machine gun) – See [Readme](https://github.com/BFT2020/T0Equipment/blob/main/ModReadme.txt) file for all changes.\n\n**[Download](https://github.com/BFT2020/T0Equipment/raw/main/BFT2020_T0Equipment.7z)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26427-bft2020-alpha20-modlets/).\n\n**Credits:** BFT2020",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/BFT2020/T0Equipment/raw/main/BFT2020_T0Equipment.7z",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26427-bft2020-alpha20-modlets/",
+  "modAuthors": [
+    "BFT2020"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die loot",
+    "7 days to die trader",
+    "7 days to die weapons"
+  ]
+}
