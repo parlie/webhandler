@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/teleport-portal-mod/",
+  "modCreatedTime": "2022-06-23T20:55:00+00:00",
+  "modLastUpdatedTime": "2022-06-23T21:22:39+00:00",
+  "modName": "Teleport Portal Mod",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-teleport-portal-mod-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Are you ready for fast travel? This mod uses a new feature in Sphereii Core that allows for teleport blocks.",
+  "modDescription": "Are you ready for fast travel? This mod uses a new feature in Sphereii Core that allows for teleport blocks. Either place one, label it and then place another and give it the same label to travel between the two portal blocks, OR, edit the XML to give it a label name there, so that when you place it in a custom POI (or two), you can have a fast travel point from one place to another.\n\nImagine a trader who has a fast travel spot to a specific area. You can now do this!\n\nA20 compatible. Non EAC. Client install required.\n\nThis mod requires [Sphereii Core (SCore)](https://github.com/SphereII/SphereII.Mods/tree/master/0-SCore) in order to work.\n\n## Changelog\n\nUpdated portals to include better documentation within the XML and to use the new SCore features.\n\nMAKE SURE you also update SCore to the latest version. This can’t be said enough.\n\nThere are still two issues outstanding but those are in the SCore side, not his.\n\nOne being the portals disconnect on game exit/reload and another being the portal active animation doesn’t fire if the power value is greater than 0.\n\n**[Download](https://gitlab.com/guppycur/guppymods/-/archive/master/guppymods-master.zip?path=gupSCorePortals)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/28915-guppys-teleport-portal-mod/).\n\n**Credits:** [Guppycur](https://7daystodiemods.com/tag/guppycur/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/guppycur/guppymods/-/archive/master/guppymods-master.zip?path=gupSCorePortals",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/28915-guppys-teleport-portal-mod/",
+  "modAuthors": [
+    "Guppycur"
+  ],
+  "modTags": [
+    "Guppycur"
+  ]
+}
