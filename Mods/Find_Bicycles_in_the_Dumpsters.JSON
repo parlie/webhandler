@@ -1,0 +1,51 @@
+{
+  "modURL": "https://7daystodiemods.com/find-bicycles-in-the-dumpsters/",
+  "modCreatedTime": "2021-12-08T20:49:00+00:00",
+  "modLastUpdatedTime": "2022-04-25T18:34:19+00:00",
+  "modName": "Find Bicycles in the Dumpsters",
+  "modImages": [],
+  "modShortDescription": "9 million bicycles in Beijing and not one findable in game really? A simple idea came to mind that allows the player to find complete bicycles in dumpster.",
+  "modDescription": "9 million bicycles in Beijing and not one findable in game really? A simple idea came to mind that allows the player to find complete [bicycles](https://7daystodiemods.com/tag/7-days-to-die-bicycle/) in dumpster’s so now at least there are some in the world from game start.\n\nYou may find more than one bike and that is intentional… Sharing is caring.\n\n## Find Bicycle Parts in the Dumpsters\n\nRagsy put this together as an alternate version to find bicycles in dumpsters as per request in the forums and from other users… He also added possibilty of finding a schematic for bicycle at a ‘lower probabilty’, he was going to go with the loot template system but the point of this is to change from finding full Bicycles early game to finding the parts.\n\n**Important Note:** If you want to include any of his vehicle mods or other mods in a ‘mod overhaul’ please do him the courtesy of asking for permission first… when given you must give the due credit to himself and any other modders that may be credited under the “Credits & Additional Credits” sections if any. Also you are not allowed to extract any unity files without his permission either, if there has been an alpha change then wait and files will be updated for the new alpha version as soon as he possibly can. Thank you!\n\n## Changelog\n\nUpdated for A20.\n\n**Alpha 20 Versions**  \n**[Download](https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Find_Bicycles_A20)** Find Bicycles in the Dumpsters for **A20**  \n**[Download](https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Find_Bicycle_Parts_A20)** Find Bicycle Parts in the Dumpsters for **A20**  \n**Alpha 19 Versions**  \n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Find_Bicycles)** Find Bicycles in the Dumpsters for **A19**  \n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Find_Bicycle_Parts)** Find Bicycle Parts in the Dumpsters for **A19**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Alpha 20 Versions",
+      "Version": "v19"
+    },
+    {
+      "Info": "Find Bicycles in the Dumpsters for A20",
+      "URL": "https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Find_Bicycles_A20",
+      "Version": "v19"
+    },
+    {
+      "Info": "Find Bicycle Parts in the Dumpsters for A20",
+      "URL": "https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Find_Bicycle_Parts_A20",
+      "Version": "v19"
+    },
+    {
+      "Info": "Alpha 19 Versions",
+      "Version": "v19"
+    },
+    {
+      "Info": "Find Bicycles in the Dumpsters for A19",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Find_Bicycles",
+      "Version": "v19"
+    },
+    {
+      "Info": "Find Bicycle Parts in the Dumpsters for A19",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Find_Bicycle_Parts",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die bicycle",
+    "7 days to die bike",
+    "7 days to die loot",
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

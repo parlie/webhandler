@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/craft-jail-door-bars/",
+  "modCreatedTime": "2022-02-06T07:24:00+00:00",
+  "modLastUpdatedTime": "2022-02-06T08:07:43+00:00",
+  "modName": "Craft Jail Door & Bars",
+  "modImages": [],
+  "modShortDescription": "This small mod adds the jail door and bars back into the game as a craftable item. Also allows shooting through jail door and bars.",
+  "modDescription": "This small mod adds the jail door and bars back into the game as a craftable item. Also allows shooting through jail [door](https://7daystodiemods.com/tag/7-days-to-die-doors/) and bars.\n\n## Changelog\n\nUpdated for A20.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftjail)**\n\nIf you need help, you can use this [support link](https://github.com/Donovan522/donovan-7d2d-modlets/issues).\n\n**Credits:** [Donovan](https://7daystodiemods.com/tag/donovan/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftjail",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Donovan"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die doors",
+    "Donovan"
+  ]
+}

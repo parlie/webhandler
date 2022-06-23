@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/vehicle-cruise-control/",
+  "modCreatedTime": "2022-02-07T18:31:00+00:00",
+  "modLastUpdatedTime": "2022-02-07T18:35:32+00:00",
+  "modName": "Vehicle Cruise Control",
+  "modImages": [],
+  "modShortDescription": "This new client-side module adds Cruise Control to all vehicles including the bicycle and gyrocopter. No more having to keep the Accelerate button pressed!",
+  "modDescription": "This new client-side module adds Cruise Control to all vehicles including the bicycle and gyrocopter. No more having to keep the Accelerate button pressed!\n\nPressing Q once whilst in a [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) will put it into Cruise Control and will continue forwards at full speed hands free!\n\nTo exit cruise control press Q, Brake or Accelerate.\n\nTested and confirmed working in SP, MP and with Dedicated servers. This is an dll mod and hence needs EAC disabled as per any dll mods.\n\n## Changelog\n\nUpdated with minor bug fix and now confirmed working in SP, MP and with dedicated servers.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/w00kie-n00kie/TheWinchester/tree/main/Mods/WMMVehicleCruiseControl)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27385-vehicle-cruise-control-a20-client-side-mod/).\n\n**Credits:** [w00kien00kie](https://7daystodiemods.com/tag/w00kien00kie/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/w00kie-n00kie/TheWinchester/tree/main/Mods/WMMVehicleCruiseControl",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27385-vehicle-cruise-control-a20-client-side-mod/",
+  "modAuthors": [
+    "w00kien00kie"
+  ],
+  "modTags": [
+    "7 days to die vehicles",
+    "w00kien00kie"
+  ]
+}

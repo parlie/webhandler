@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/jeos-parts-requirement-remover-mod/",
+  "modCreatedTime": "2022-06-07T20:58:00+00:00",
+  "modLastUpdatedTime": "2022-06-07T21:09:11+00:00",
+  "modName": "Jeos Parts Requirement Remover Mod",
+  "modImages": [],
+  "modShortDescription": "Removes the need for specific parts for items (weapon parts, gun parts, armor parts). Increases amount of steel/iron ingots needed for crafting said items.",
+  "modDescription": "This mod does a couple of things:\n\n1. Removes the need for specific parts for items ([weapon](https://7daystodiemods.com/tag/7-days-to-die-weapons/) parts, gun parts, armor parts)\n2. Increases amount of steel/iron ingots needed for crafting said items\n3. Removes armor/gun/weapon parts from loot pool (hopefully)\n\nIt actually sets the parts requirements to 0, so they still appear in crafting requirements but with 0 count.\n\n**[Download](https://drive.google.com/file/d/1-g_9VT6LMdmqBBUklj9Qlaf4nqnV72Bm/view?usp=sharing)**\n\n**Credits:** [Jeo](https://7daystodiemods.com/tag/jeo/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1-g_9VT6LMdmqBBUklj9Qlaf4nqnV72Bm/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Jeo"
+  ],
+  "modTags": [
+    "7 days to die armor mods",
+    "7 days to die weapons",
+    "Jeo"
+  ]
+}

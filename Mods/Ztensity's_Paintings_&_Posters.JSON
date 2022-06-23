@@ -1,0 +1,34 @@
+{
+  "modURL": "https://7daystodiemods.com/ztensitys-paintings-posters/",
+  "modCreatedTime": "2022-03-04T04:47:00+00:00",
+  "modLastUpdatedTime": "2022-03-04T05:05:24+00:00",
+  "modName": "Ztensity's Paintings & Posters",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/03/7-days-to-die-ztensitys-paintings-posters-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/03/7-days-to-die-ztensitys-paintings-posters-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/03/7-days-to-die-ztensitys-paintings-posters-additional-screenshot-4.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/03/7-days-to-die-ztensitys-paintings-posters-additional-screenshot-5.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/03/7-days-to-die-ztensitys-paintings-posters-additional-screenshot-3.jpg"
+  ],
+  "modShortDescription": "There are now nine separate recipes that can be crafted at the workbench, which allow players to make all paintings and posters to put them for display.",
+  "modDescription": "## INTRODUCTION\n\nOriginally created by Snufkin, Paintings Posters contained twenty paintings and twenty posters that could be found across the game at random. Now, I’ve reworked the mod, with his permission, to add a lot more content in Ztensity’s Paintings & Posters!\n\n**Paintings & Posters Contains the Following Additions:**\n\nThere are now nine separate recipes that can be crafted at the workbench, which allow players to make all paintings and posters to put them for display.\n\nIn order to craft each recipe, however, players must first find seven separate books from the newly added “Paintings & Posters” collection either out and about or by buying them from a trader. With each book read, a different set of paintings or [posters](https://7daystodiemods.com/tag/7-days-to-die-poster/) will be unlocked for crafting purposes. Once all seven books are read, the player will unlock paintings or posters from the last book and a secret set of paintings along with it.\n\nThere are a total of ten new paintings added by this mod in addition to Snufkin’s previously designed paintings and posters. While seven of the new paintings can be crafted once unlocked, three more rare paintings can only be bought from a trader.\n\nEvery painting and poster have been re-designed for consistency, descriptions have been added for learning purposes, aesthetics and a bit of realism, and icons have been tweaked for further immersion.\n\n## REQUIREMENTS\n\nPaintings & Posters is a modlet that should be compatible with A20\\. There are no specific requirements to implement this mod into a game-save.\n\nThere is an optional modlet that adjusts an icon for better immersion alongside Sirillion’s UI overhaul series, SMX. If you are a player who is using Sirillion’s SMX, make sure to get that optional file here: [SMX Paintings & Posters Patch](https://drive.google.com/file/d/1mxZnvgcALS6WEsy4mWTCoblRTTCsYcI2/view?usp=sharing)\n\nThis modlet is likely incompatible out the gate with select overhauls that adjusts skill books, the perk system or elements of the UI. However, I am open to designing a compatibility fix, as it should be relatively easy to implement for this mod.\n\n## FUTURE UPDATES\n\nOver time, I may expand on this modlet to add new paintings, new recipes, new unlockable features and so on. Specifically, for instance, I may work on fun updates for holidays like Halloween.\n\n## CHANGELOG\n\n### UPDATE 2.0.0\n\n#### ALPHA 20.3 UPDATE\n\nI have updated all files to make sure it’s compatible with A20.3 and reflects that the mod up to date.\n\n### UPDATE 1.1.0\n\n#### PAINTING LIGHT ADDITION\n\nIn update 1.1.0, I have added a light to place above paintings and posters for immersive and aesthetic purposes. This is an adjusted light, which originally comes from [Unnecessarily Beautiful But Immersive](https://7daystodiemods.com/ztensitys-unnecessarily-beautiful-but-immersive-ubbi/). I’ve thinned it out to fit the paintings a little cleaner and titled it “Painting Light.”\n\n## CREDITS\n\nA portion of assets and coding was originally designed by Snufkin. However, with his permission I have re-designed the modlet with a lot more content. Snufkin’s assets included 20 paintings and 20 posters from UNITY3D bundles, 40 icons and two XML files as a starting point (blocks.xml and blockplaceholders.xml).\n\nCredit is also due to the following artists for using art they designed as pictures for the new paintings:\n\n* Al Molina’s “[Pennywise](https://pixels.com/featured/pennywise-al-molina.html)“\n* Omenomicon’s “[Valek](https://www.deviantart.com/omenomicon/art/The-Nun-701780701)“\n* Peter Van Valkenburgh’s Parallax Version of “[The Great Wave](https://vimeo.com/79636275)“\n* Hinoteya’s “[Slenderman](https://www.deviantart.com/hinoteya/art/Marble-Hornets-323260811)“\n* Jane’s “[Ghosted](http://shoutout.wix.com/so/ceb262e6-8024-43d9-835a-e1c5bcc9e1d0#/main)“\n* Caleb Hull’s “[Grudge](http://etsy.me/3bFXj2y)“\n* Carson’s “[Crooked Man](http://etsy.me/3vfG6oy)“\n* Bill $Aber’s “[Album Artwork](https://images.genius.com/206699d5b28d093fc4eabd4e42286aa0.1000x1000x1.png)“\n\n**[Download](https://drive.google.com/file/d/1VSYZWipkbSBZkgnMNMl34GkFea953Zdj/view?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/23893-ztensitys-paintings-posters/).\n\n**Credits:** [Ztensity](https://7daystodiemods.com/tag/ztensity/), Snufkin",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1VSYZWipkbSBZkgnMNMl34GkFea953Zdj/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/23893-ztensitys-paintings-posters/",
+  "modAuthors": [
+    "Ztensity",
+    "Snufkin"
+  ],
+  "modTags": [
+    "7 days to die books",
+    "7 days to die building materials",
+    "7 days to die poster",
+    "Ztensity"
+  ]
+}

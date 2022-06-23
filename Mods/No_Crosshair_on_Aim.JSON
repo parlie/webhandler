@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/no-crosshair-on-aim/",
+  "modCreatedTime": "2022-06-15T15:30:51+00:00",
+  "modLastUpdatedTime": "2022-06-15T15:30:52+00:00",
+  "modName": "No Crosshair on Aim",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/06/7-days-to-die-no-crosshair-on-aim-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "A small mod that disables the crosshair while aiming guns, with and without item mods installed.",
+  "modDescription": "A small mod that disables the crosshair while aiming [guns](https://7daystodiemods.com/tag/7-days-to-die-weapons/), with and without item mods installed.\n\n**Note:** This mod is server side only. Only the server needs to have it installed.\n\n**[Download](https://gitlab.com/Zilox/A20Modlets/-/archive/main/A20Modlets-main.zip?path=No%20Crosshair%20On%20Aim)**\n\nIf you appreciate Zilox’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/zilox135).\n\nIf you need help, you can use this [support link](https://gitlab.com/Zilox/A20Modlets/-/issues).\n\n**Credits:** [Zilox](https://7daystodiemods.com/tag/zilox/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/Zilox/A20Modlets/-/archive/main/A20Modlets-main.zip?path=No%20Crosshair%20On%20Aim",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Zilox"
+  ],
+  "modTags": [
+    "7 days to die weapons",
+    "Zilox"
+  ]
+}

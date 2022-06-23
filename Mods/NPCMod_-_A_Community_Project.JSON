@@ -1,0 +1,183 @@
+{
+  "modURL": "https://7daystodiemods.com/npcmod-a-community-project/",
+  "modCreatedTime": "2022-06-12T16:38:00+00:00",
+  "modLastUpdatedTime": "2022-06-12T16:39:33+00:00",
+  "modName": "NPCMod - A Community Project",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-npcmod-a-community-project-additional-screenshot-3.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-npcmod-a-community-project-additional-screenshot-4.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-npcmod-a-community-project-additional-screenshot-5.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-npcmod-a-community-project-additional-screenshot-6.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/04/7-days-to-die-npcmod-a-community-project-additional-screenshot-7.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-npcmod-a-community-project-additional-screenshot-8.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-npcmod-a-community-project-additional-screenshot-1.png",
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-npcmod-a-community-project-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "The NPCMod is a community modding project. While initially started by Sphereii and Xyth back in A16, the team continues to grow in size every alpha.",
+  "modDescription": "The NPCMod is a community modding project. While initially started by Sphereii and Xyth back in A16, the team continues to grow in size every alpha. The goal of this project is to provide “Core” functionality and templates that can be reused by modders to add high functioning characters to their mods. There are 2 core modlets, both are required for this mod to work. The 0-SCore modlet contains C# code and the 0-XNPCCore contains the xml and templates.\n\nBy design this mod encourages expansion through expansion packs. Character packs focused on a entity type, for example, a 1-soldier pack or a 1-spider pack add new characters to the 0-XNPCCore. A 2-soldierfactions pack might add different factions to the 1-soldier pack, reusing those same soldier models. The sequence 0-, 1-, -2 etc. indicates there is a dependency on another modlet with a lower number prefix. Other character modders have committed to contributing additional characters that leverage this mod pack like they do to the POI (Buildings) collection called CompoPack. If you would like to join this community team, or have some features or characters to contribute, they would love to hear from you!\n\n## Features\n\n* This mod includes a Unity Tutorial Project (available separately) containing the mods controller and templates and scripts so making new characters is easy.\n* NPC characters support all vanilla character features. These include Humanoid rigging, root motion animation, collision with vehicles, rag-dolling, 100’s of animated reactions (including hit locations, limping, etc.), limb decapitation and gore. These can also be retextured in xml to offer even more variety. There are some exceptions, especially on [animals](https://7daystodiemods.com/tag/7-days-to-die-animals/), which typically do not have ragdolls.\n* NPCs use a new Artificial Intelligence system called UAI. Unlike zombie AI (EAI), this system allows for advanced tasks and real time decision making based on considerations. Should the NPC attack, run, loot, follow, backup to optimized weapon range? All tasks and considerations.\n* Work very well as sleepers in POIs, respecting all of the POI volume properties.\n* Can be setup to attack on bloodmoons!\n* Spawn with vanilla or custom weapons just by editing xml.\n* Can be hired, becoming loyal companions, sharing your adventures and challenges.\n* Hired [NPCs](https://7daystodiemods.com/tag/7-days-to-die-npcs/) can be ordered to follow and stay, with new features like looting and guarding coming soon.\n* Animals can also be hired, though don’t accept Dukes. Try meat.\n* NPCs have factions. Some like you, some don’t. Beware of bandits!\n* Hostile NPCs have additional AI so they will hunt you down more than [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) can, be warned!\n* No more losing your NPC. They will teleport to you if stuck, get too far away, or if configured, to your bedroll when you die.\n* They will follow you on foot, keeping up with you, and if you get into a vehicle, they will hide and reappear once you exit the vehicle.\n* They can heal themselves when its safe to do so, and there is a medic package for characters that can heal and mend others.\n* Low maintenance, no need to feed or water these folks, but that is a feature that could be available later.\n* Lifelike Idle animations while chatting and wandering were added to improve immersion. Many more will be added after initial release.\n* When the player/leader crouches, so do the NPCs\n* Scalable, modular architecture, so expanding character and new behaviors is much simpler.\n* Customizable pathing per NPC will be available but requires implementation details not yet available. Stay tuned.\n\n## NPC Controls\n\nThere are craftable player commands that will control your hired NPCs as a group. You can craft these commands by typing in NPC in your crafting menu.\n\nTutorial Video:\n\nThere are currently three commands:\n\n* Mode: This command is a toggle between various control modes:\n* Hunting (default): In this mode your NPC swill automatically target anything that it sees as being hostile towards it or yourself. You have no control over their actions besides stay and follow.\n* Full Control: In this mode the NPCs will not automatically target anything. It will behave as if all hostiles are threats and will only engage if you are hurt or if you start attacking one of the threats.\n* Stop: This command is a toggle and when paired with Full Control will make your NPCs halt or resume attacking their targets. This becomes especially useful when you feel like you or your NPCs will not survive an encounter and you want them to simply follow you so you can avoid the encounter altogether. It is also useful when you wish to travel without engaging any targets.\n* Help: This command is useful when you are in Full Control and want your NPCs to engage targets within 20 meters of you. If you are without ranged weapons, you want to be able to have your NPCs help you without having to either take damage or attack the hostile.\n\n## FAQ’s\n\n* What happened to the [CreaturePacks](https://7daystodiemods.com/creature-packs-a-community-entity-project/) and [NPC mod](https://7daystodiemods.com/npcs-mod/)?  \n   * They have been merged, combined and obsoleted. Now that code can be natively loaded by the game, there was no reason to keep those two separated. This version is simpler to load, maintain, and has more features than either one did.\n* Can I run this with EAC enable?  \n   * NO, EAC must be turned off.\n* Can I learn how to add my own characters?  \n   * Sure, its never been easier to learn to make characters. lots of work went into simplifying the process, and scripts can do most of the work for you now. There are videos available to assist.\n* I have great ideas for more features, where do i make suggestions?  \n   * Forum thread works or on Guppy’s modding forum in the NPC-mod channel\n* I found a bug! Where do i post that?  \n   * Please provide the info requested in the bug form found below, and post it forum or on Guppy’s modding Discord under the npc-mod-bug reports\n* Does this work on dedicated servers?  \n   * It should, the current version tested well on dedi. All mods, cores and expansion packs MUST be loaded into BOTH the Dedi and all client Mods folders.\n* Have a good question? Maybe you will see it listed here soon!\n\n## Known Issues\n\n* Always use a fresh game if you update Score or NPCCore. Strange things can happen updating the cores on an existing game.\n* The UI needs work, some overlapping text, Sirillion has volunteered to refresh it.\n* Hired NPCs might Leroy Jenkins on aggressive animals, use the command interface to gain more control.\n* Melee NPC detection of crawlers in the grass isn’t as good as ranged, but works.\n* NPC ranged can sometimes not hit as well as other times. Might be debuffs accumulating.\n* It’s a very new mod, expect bugs we didn’t find yet, and please report those.\n\n## Bug Tickets\n\n* NPCMOD-SP-0034: Hired NPCs will despawn at times (ex: using vehicles)\n* NPCMOD-SP-0037: Ranged Hostile NPCs stop being able to damage you when you are close and lower than them\n* NPCMOD-SP-0039: Friendly NPCs spawned in “passive” sleeper volumes will not move if hired\n* NPCMOD-SP-0044: Melee NPCs can properly hit crawlers when on the road but cannot always see them when in grass\n* NPCMOD-SP-0048: NPCs can talk to the player while fighting, until they are hit by an enemy\n* NPCMOD-SP-0049: Setting the respawn CVar to 0 still respawns NPCs next to their leader. Possibly change SCore so CVar value of 1 would respawn them. No CVar or value of 0 would not\n* NPCMOD-SP-0050: NPC ranged can sometimes not hit as well as other times. Might be debuffs accumulating.\n* NPCMOD-SP-0051: NPCs will use the trader voice set at times\n* NPCMOD-SP-0052: NPCs in passive sleeper volumes turn to look at the player when they’re not active\n* NPCMOD-DEDI-0006: NPCs can be hired by another player after you’ve hired them – fixed\n* NPCMOD-DEDI-0008: A hired NPC does not know who to focus on when two players are around them. Focus should be on the leader – fixed\n* NPCMOD-DEDI-0015: NPCs no longer have the walking anim, float when walking away from you and you chat with them: Only occurs when you press “E” quickly before they enter chat action.\n* NPCMOD-DEDI-0016: Hired NPCs will path to another player then path back to the leader\n* NPCMOD-DEDI-0021: When you hire a dynamic spawned NPC, their spawner source is supposed to be changed to static. It seems that’s failing\n\n## BUG REPORTING FORM\n\nSummary: (a short description of the bug)  \nGame Version: (A20 bxxx)  \nPlatform: (PC / Mac)  \nVideo Settings: (Low / Medium / High / Ultra / Custom (Custom has many combinations, so just list the settings you think are relevant to the bug if any))  \nGame mode: (MP host / MP client / SP / Client on Dedi)  \nDid you start a new game? (Yes/No) Note: Do not submit a bug report until you retest your issue in a new game.  \nDid you validate your files? (Yes/No)  \nAre you using any other mods? (Yes/No) Note: Please retest without any mods loaded in a new game.  \nEAC off? Note: Needs to be Off.  \nBug Description:  \nDetailed steps to reproduce the bug:  \nActual result: (description of what is occurring)  \nExpected result: (what you expect to occur)\n\n## Installation\n\n**Turn EAC Off!**\n\n**Option 1:** Download 0-XNPCCore.zip and SCore using the links below. If the download is a .zip or .7z file like the 0-XNPCCore.zip is, then unpack that compressed file and place the mod found inside into your Mods folder. SCore isnt compressed, so download that folder directly. Then load as many expansion packs as desired, unpacking the file if needed. If you are using a dedicated server, you also need to load both Core modlets into your dedi server Mods folder. So copies in both the client side Mods folder and also on the server Mods folder.\n\n**Option 2:** Use the modlauncher to load the 2 cores.\n\nHere is a helpful video to get you started:\n\n## Terms of Use\n\n1\\. You are allowed to use the NPCMod, its NPCCore, Unity Controller and expansion packs without any kind of direct modifications. All modifications and/or derivative works of NPCCore, controller and expansion packs are restricted to private use only unless those modifications are done in expansion mods that have a dependency on the unaltered Core mods being loaded. The mod and expansion packs contain purchased assets, including animations in the included character controller, so any derivative use of the models or controller is also contingent on purchasing those assets first.\n\n2\\. You are encouraged to use the NPCMod as part of your own mod, public or private. However, you must provide credit to the community team by adding the “Powered by Score and NPCCore” logo to your mods opening screen and forum posts. (Resize as appropriate)\n\nor\n\n3\\. The team is not responsible for any damage, including damaged savegames, by using this mod.\n\n## Meet the Team\n\n_(Historic and Current, in no particular order)_\n\n* **Sphereii:** C# wizard and modding community teacher. Famous for his mod launcher and other code bits\n* **Xyth:** Unity guy and modding community teacher. Not very famous.\n* **GuppyCur:** Discord master and sometimes zombie maker. Hope to see him active in A20\n* **TSBX:** TFP tester and previously a zombie creator\n* **DarkStarDragon:** Active creator of NPCs, maker of great expansion packs\n* **Sirillion:** The UI master himself, creator of screens and menus.\n* **FuriousRamsay:** Lead tester and contributor of NPCCore xml code\n* **Khzmusik:** C# code contributor and local math wizard\n* **Mumpfy:** Graphics and character retexturing guru\n* **Khaine:** Very helpful input on mod design\n* **Arramus:** POI/sleeper tester and designer\n* **Mr. Devolver:** Longtime tester and advocate\n* **Magejosh:** Tester\n* **GanTheGrey:** Zombie maker\n\nXyth is sure he’s missing several others who helped along the way, please let him know whos been missed!\n\n## Unity Tutorial Project\n\nThis is only needed if you want to teach yourself how to make your own characters: [A20 Tutorial Project](https://drive.google.com/file/d/1DsFR0e1V-f0bNiZDAuVd0kb7_iYtyNqL/view?usp=sharing)\n\n## Videos That Might Be Useful\n\n## Changelog\n\n* **_(new)_** 1-ZombiezPack updated to add radiated versions. Update by Arramus!\n* The .zip version of the NPCCore wasnt updated, so pushed that new .zip version to match current. Also updated the SCore.zip file to match current SCore version.\n* Minor update (20.4.01.03) to NPCCore. The zombieBuffCheck01 buff was missing from the base ZombieTemplate. Also removed some unneeded xml from templates.\n* Updated the Mechs pack to eliminate the E to loot prompt.\n* Added new physicbodies, misc testing xml (20.4.01.02). Uploaded fixed version of the KnightsandPeasants pack. Hopefully no more invisi archers. 2-GoblinzPack added, requires 1-OrczPack and 1-KnightzNPeasantzPack, these MUST also be loaded, thanks to arramus for the goblin shaman effects.\n\n**Core Mod Downloads** _(also available on the ModLauncher)_  \n**_Stable Release_**  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/0-SCore.zip)** SCore: (0-SCore)  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/0-XNPCCore.zip)** NPCCore: (0-XNPCCore) _(generally, the most current version listed in the experimental will work as well if not better)_  \n**_Experimental Release – New features, limited testing_**  \n(Not Available) Experimental NPCCore _(Use Stable)_  \n**[Download](https://gitlab.com/sphereii/SphereII-Mods/-/archive/master/SphereII-Mods-master.zip?path=0-SCore)** 0-Score _(Most current 0-SCore version required and then copy ONLY the 0-SCore subfolder into your Mods folder.)_  \n**Expansion Packs**  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-NPCXBirdPack.zip)** 1-NPCXBirdPack by Xyth _(Adds birds to the sky)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-NPCXSpiderPack.zip)** 1-NPCXSpiderPack by Xyth _(Adds giant spiders to hostile biomes)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-NPCXMechPack.zip)** 1-NPCXMechPack by Xyth _(An assortment of mechanical terrors)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-RaiderGurlzPack.7z)** 1-RaiderGurlzPack by DarkStarDragon _(Adds 50’s style Gansta gals)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-RaiderzPack.7z)** 1-RaiderzPack by DarkStarDragon _(Adds several nasty bandit type foes)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-SoldierPack.7z)** 1-SoldierPack by DarkStarDragon _(Basic military types)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-VaultDwellerzPack.7z)** 1-VaultDwellerzPack by DarkStarDragon _(Vault 99 is waiting…)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-RobotzPack.7z)** 1-RobotzPack by DarkStarDragon _(Mechs and more!)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-ZombiezPack.7z)** 1-ZombiezPack by DarkStarDragon _(DarkStar’s first zombies, wasn’t gonna happen until it did.)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-PitFighterzPack.7z)** 1-PitFighterzPack by DarkStarDragon _(MMA at its finest)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-SurvivorzPack.7z)** 1-SurvivorzPack by DarkStarDragon _(You are not alone!)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-OrczPackAlpha.7z)** 1-OrczPackAlpha by DarkStarDragon _(Have no fear, they only come to liberate you!)_  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A20Mods/tree/main/2-OrczPackBeta)** 2-OrczPackBeta by DarkStarDragon _(Must load the 1-OrczPackAlpha for this to work as expected!)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-KnightzNPeasantzPackAlpha.7z)** 1-KnightsNPeasantzPackAlpha by DarkStarDragon _(Ni! Ni!)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/2-GoblinzPack.7z)** 2-GoblinzPack by DarkStarDragon _(Must also load 1-KnightsandPeasants AND 1-OrczAlphaPack)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-FantasticBeastz.7z)** 1-FantasticBeastz by DarkStarDragon _(Oh My!)_  \n**[Download](https://github.com/7D2D/A20Mods/raw/main/1-YeOldeUndeadPack.7z)** 1-YeOldeUndeadPack by DarkStarDragon _(Dem Bones!)_  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/mrdevolver/7D2D_Alpha20_Mods/tree/main/2-RaiderGurlzPack_Friendly)** 2-RaiderGurlzPack-Friendly by Mr.Devolver _(An expansion for an expansion pack! Adds friendly, hirable versions of DarkStar’s RaiderGurlz. You need to load the cores AND the RaiderGurlz expansion when you load this mod.)_  \n**[Download](https://github.com/arramus/A20-NPCMod/raw/main/2-NPCXSpiderPack-ColonyExpansion.zip)** 2-NPCXSpiderPack-ColonyExpansion by Arramus _(An expansion for an expansion pack! Adds more spider variety. You need to load the cores AND the 1-NPCXSpiderPack expansion when you load this mod.)_  \n**[Download](https://dev.azure.com/pouellette25/_git/Gans%20Standard%20Zombies?path=/1-GansStandardZombies.zip)** 1-GansStandardZombies by GanTheGrey _(Gan is back with some of his A19 favorite normal zombies.)_  \n**[Download](https://dev.azure.com/pouellette25/_git/Gans%20Special%20Zombies?path=/1-GansSpecialZombies.zip)** 1-GansSpecialZombies by GanTheGrey _(Like zombie oddities? Look no further…)_  \n**[Download](https://gitlab.com/karlgiesing/7d2d-a20-modlets/-/archive/main/7d2d-a20-modlets-main.zip?path=1-khzmusik_Zombies)** 1-khzmusik\\_Zombies by Khzmusik _(As if you have enough zombies…)_  \n**[Download](https://gitlab.com/karlgiesing/7d2d-a20-modlets/-/archive/main/7d2d-a20-modlets-main.zip?path=1-khzmusik_NPC_Civilians)** 1-khzmusik\\_Civilians by Khzmusik _(Folks just like you, trying to survive.)_\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26974-npcmod-a-community-project/).\n\n**Credits:** [Xyth](https://7daystodiemods.com/tag/xyth/), SphereII and community",
+  "modDownloadURLs": [
+    {
+      "Info": "Core Mod Downloads (also available on the ModLauncher)",
+      "Version": "v19"
+    },
+    {
+      "Info": "Stable Release",
+      "Version": "v19"
+    },
+    {
+      "Info": "SCore: (0-SCore)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/0-SCore.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "NPCCore: (0-XNPCCore) (generally, the most current version listed in the experimental will work as well if not better)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/0-XNPCCore.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Experimental Release – New features, limited testing",
+      "Version": "v19"
+    },
+    {
+      "Info": "(Not Available) Experimental NPCCore (Use Stable)",
+      "Version": "v19"
+    },
+    {
+      "Info": "0-Score (Most current 0-SCore version required and then copy ONLY the 0-SCore subfolder into your Mods folder.)",
+      "URL": "https://gitlab.com/sphereii/SphereII-Mods/-/archive/master/SphereII-Mods-master.zip?path=0-SCore",
+      "Version": "v19"
+    },
+    {
+      "Info": "Expansion Packs",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-NPCXBirdPack by Xyth (Adds birds to the sky)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-NPCXBirdPack.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-NPCXSpiderPack by Xyth (Adds giant spiders to hostile biomes)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-NPCXSpiderPack.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-NPCXMechPack by Xyth (An assortment of mechanical terrors)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-NPCXMechPack.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-RaiderGurlzPack by DarkStarDragon (Adds 50’s style Gansta gals)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-RaiderGurlzPack.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-RaiderzPack by DarkStarDragon (Adds several nasty bandit type foes)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-RaiderzPack.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-SoldierPack by DarkStarDragon (Basic military types)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-SoldierPack.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-VaultDwellerzPack by DarkStarDragon (Vault 99 is waiting…)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-VaultDwellerzPack.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-RobotzPack by DarkStarDragon (Mechs and more!)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-RobotzPack.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-ZombiezPack by DarkStarDragon (DarkStar’s first zombies, wasn’t gonna happen until it did.)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-ZombiezPack.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-PitFighterzPack by DarkStarDragon (MMA at its finest)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-PitFighterzPack.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-SurvivorzPack by DarkStarDragon (You are not alone!)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-SurvivorzPack.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-OrczPackAlpha by DarkStarDragon (Have no fear, they only come to liberate you!)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-OrczPackAlpha.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "2-OrczPackBeta by DarkStarDragon (Must load the 1-OrczPackAlpha for this to work as expected!)",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/7D2D/A20Mods/tree/main/2-OrczPackBeta",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-KnightsNPeasantzPackAlpha by DarkStarDragon (Ni! Ni!)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-KnightzNPeasantzPackAlpha.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "2-GoblinzPack by DarkStarDragon (Must also load 1-KnightsandPeasants AND 1-OrczAlphaPack)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/2-GoblinzPack.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-FantasticBeastz by DarkStarDragon (Oh My!)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-FantasticBeastz.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-YeOldeUndeadPack by DarkStarDragon (Dem Bones!)",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/1-YeOldeUndeadPack.7z",
+      "Version": "v19"
+    },
+    {
+      "Info": "2-RaiderGurlzPack-Friendly by Mr.Devolver (An expansion for an expansion pack! Adds friendly, hirable versions of DarkStar’s RaiderGurlz. You need to load the cores AND the RaiderGurlz expansion when you load this mod.)",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/mrdevolver/7D2D_Alpha20_Mods/tree/main/2-RaiderGurlzPack_Friendly",
+      "Version": "v19"
+    },
+    {
+      "Info": "2-NPCXSpiderPack-ColonyExpansion by Arramus (An expansion for an expansion pack! Adds more spider variety. You need to load the cores AND the 1-NPCXSpiderPack expansion when you load this mod.)",
+      "URL": "https://github.com/arramus/A20-NPCMod/raw/main/2-NPCXSpiderPack-ColonyExpansion.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-GansStandardZombies by GanTheGrey (Gan is back with some of his A19 favorite normal zombies.)",
+      "URL": "https://dev.azure.com/pouellette25/_git/Gans%20Standard%20Zombies?path=/1-GansStandardZombies.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-GansSpecialZombies by GanTheGrey (Like zombie oddities? Look no further…)",
+      "URL": "https://dev.azure.com/pouellette25/_git/Gans%20Special%20Zombies?path=/1-GansSpecialZombies.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-khzmusik_Zombies by Khzmusik (As if you have enough zombies…)",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-a20-modlets/-/archive/main/7d2d-a20-modlets-main.zip?path=1-khzmusik_Zombies",
+      "Version": "v19"
+    },
+    {
+      "Info": "1-khzmusik_Civilians by Khzmusik (Folks just like you, trying to survive.)",
+      "URL": "https://gitlab.com/karlgiesing/7d2d-a20-modlets/-/archive/main/7d2d-a20-modlets-main.zip?path=1-khzmusik_NPC_Civilians",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26974-npcmod-a-community-project/",
+  "modAuthors": [
+    "Xyth",
+    "SphereII and community"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die bandits",
+    "7 days to die npcs",
+    "7 days to die zombies",
+    "Xyth"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "modURL": "https://7daystodiemods.com/chaos-motorcycle-mod/",
+  "modCreatedTime": "2021-12-09T19:41:00+00:00",
+  "modLastUpdatedTime": "2022-04-25T18:34:13+00:00",
+  "modName": "Chaos Motorcycle Mod",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/05/7-days-to-die-chaos-motorcycle-mod-additional-screenshot.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-chaos-motorcycle-mod-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-chaos-motorcycle-mod-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "Chaos Bike! You may recognise the bike or you may not but it's better to ride past the dead than walk.",
+  "modDescription": "This is Ragsy’s first attempt in unity at putting a motorcycle into the game although he has been known to like tweaking the original vanilla [motorcycle](https://7daystodiemods.com/tag/7-days-to-die-motorcycle/) physics xml and this bike incorperates some of what was learned along the way from the xml tweaking adventures.\n\n## Chaos Bike\n\nYou may recognise the bike or you may not but it’s better to ride past the dead than walk.\n\n### Crafting Method\n\nYou can find the base chassis, seat and handlebar assembly in loot at the appropriate level (same as Vanilla Motorcycle).\n\nRecipes are also included to be able to craft the parts on a workbench if required or you are darned unlucky not to find them, once you have a completed chassis assembly you will have to craft an engine.\n\nThe Chaos engine comprises of 2x small engines and some other parts, add wheels along with the engine to the completed chassis and you can complete the [bike](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) in the workbench.\n\nThe bike actually has 6 slots not 4 as in picture above.\n\n## Credits\n\nChaos for the model (You are not allowed to extract and alter the unity file in any way without first gaining permission from the modder or the model creator)\n\n### Additional Credits\n\nMembers of Guppy’s Unnoficial Modding Discord for tip’s, advise and support along the way, Guppy, Xyth, Bdubyah, DUST2DEATH, ActiniumTiger and many others.\n\n**Important Note:** If you want to include any of his vehicle mods or other mods in a ‘mod overhaul’ please do him the courtesy of asking for permission first… when given you must give the due credit to himself and any other modders that may be credited under the “Credits & Additional Credits” sections if any. Also you are not allowed to extract any unity files without his permission either, if there has been an alpha change then wait and files will be updated for the new alpha version as soon as he possibly can. Thank you!\n\n## Changelog\n\n**Version 2**\n\n1. Added the new vehicle mods options, seat, fuel saver, offroad lighting and turbo charger to bike all except the cosmetic option.\n2. Converted to new seating system so will accept a second seat through the mods (old seat system still in xml incase of multiplayer issue)\n3. Updated physics as felt a bit different in A20 compared to A19… cure that wobbly effect the vanilla one has.\n\n**Mod is required on both client and server as per all mods that contain custom assets.**\n\n**[Download](https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Chaos_Motorbike_A20)** for A20  \n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Chaos_Motorbike)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Chaos_Motorbike_A20",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Chaos_Motorbike",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die motorcycle",
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

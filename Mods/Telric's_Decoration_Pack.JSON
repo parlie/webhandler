@@ -1,0 +1,35 @@
+{
+  "modURL": "https://7daystodiemods.com/telrics-decoration-pack/",
+  "modCreatedTime": "2022-03-30T17:44:00+00:00",
+  "modLastUpdatedTime": "2022-05-21T01:11:15+00:00",
+  "modName": "Telric's Decoration Pack",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-telrics-decoration-pack-changelog-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-telrics-decoration-pack-changelog-screenshot-2.jpg"
+  ],
+  "modShortDescription": "This mod adds several new blocks of decorative value. They can be crafted with just a few wood and are not meant for defenses.",
+  "modDescription": "New editions include a wood picket fence set, some clay vases, a few food decorations, and a tent that you can fill with other blocks.\n\nThis mod adds several new blocks of decorative value. They can be crafted with just a few wood and are not meant for defenses. Simply search ‘master’ in recipes to find the master blocks. Hold R when one is equipped to choose which block you want out of that set.\n\nDoes not require restart.\n\nRequires client to install as well as server.\n\nTested and works with Alpha 20.4 (b42).\n\n## Changelog\n\nUpdated with new blocks.\n\n* Wood water wheel\n* Wood windmill blades\n* Wood 6×2 bridge (allows fishing if you have telrics fishing v2 installed)\n* Ale mug\n* Apple basket\n* Lamp post (can turn on and off)\n\n**[Download](https://www.dropbox.com/s/xlfkien5xg2u2w2/TelricsDecorationsPackA20.zip?dl=1)** for A20  \n**[Download](https://www.dropbox.com/s/b07ywy07n3tr05g/TelricsDecorationsPackA19.zip?dl=1)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26175-telrics-a20-modlets-new-mod-added-12132021/).\n\n**Credits:** [Telric](https://7daystodiemods.com/tag/telric/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://www.dropbox.com/s/xlfkien5xg2u2w2/TelricsDecorationsPackA20.zip?dl=1",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://www.dropbox.com/s/b07ywy07n3tr05g/TelricsDecorationsPackA19.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26175-telrics-a20-modlets-new-mod-added-12132021/",
+  "modAuthors": [
+    "Telric"
+  ],
+  "modTags": [
+    "7 days to die doors",
+    "7 days to die lights",
+    "7 days to die windows",
+    "Telric"
+  ]
+}

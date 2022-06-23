@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/ac-teleports/",
+  "modCreatedTime": "2022-05-23T09:57:19+00:00",
+  "modLastUpdatedTime": "2022-05-24T21:35:34+00:00",
+  "modName": "AC Teleports",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-ac-teleports-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-ac-teleports-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-ac-teleports-additional-screenshot-3.jpg"
+  ],
+  "modShortDescription": "With these teleports you are able to travel from base to base and if you die, you can teleport straight to your backpack.",
+  "modDescription": "Introducing The AC Teleports.\n\nThese Teleports are for Alpha 20 brought to you by The A-Team.\n\nThese Teleports add a new way of traveling to the miscellaneous selection. With these teleports you are able to travel from base to base and if you die, you can teleport straight to your backpack. These three teleports are very convenient and cut the traveling time in half.\n\n* **Item Name:** [Teleporting Pod](https://sketchfab.com/3d-models/teleporting-pod-8cef10e899d94a79b175f12c9eaa2a6c) by P3TroV is licensed under Creative Commons Attribution.\n* **3D Model Artists Name:** [P3TroV](https://sketchfab.com/P3TroV)\n* All Models in this mod are subject to [creative commons licence](https://creativecommons.org/licenses/by/4.0/).\n\nNo Models have been altered from the ‘original creator’ they are set up with appropriate lighting shader in unity for 7 Days to Die game.\n\nMod’s that add new assets must be installed on both server and client.\n\n**Important Note:** If you want to include any of their mods in your overhaul please do them the courtesy of asking for permission first. When given you must give the due credit to the authors and any other modders that may be credited under the Additional Credits section if any. Also you are not allowed to extract any unity files without their permission either, if there has been an alpha change then wait and files will be updated. For the new alpha version as soon as they possibly can. Thank You!\n\n**[Download](https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/Teleports.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27991-the-a-team-modlets/).\n\n**Credits:** [ActiniumTiger](https://7daystodiemods.com/tag/actiniumtiger/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/Teleports.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27991-the-a-team-modlets/",
+  "modAuthors": [
+    "ActiniumTiger"
+  ],
+  "modTags": [
+    "ActiniumTiger"
+  ]
+}

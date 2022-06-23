@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/dwarfmaster-ranks/",
+  "modCreatedTime": "2022-04-12T16:43:00+00:00",
+  "modLastUpdatedTime": "2022-04-12T16:58:38+00:00",
+  "modName": "Dwarfmaster Ranks",
+  "modImages": [],
+  "modShortDescription": "This mod doesn't actually do that much, and has just little effects on the game itself. It only shows a current rank in the list of buffs.",
+  "modDescription": "This is now Dwarfmaster1974’s 2nd mod, which he is happy to share with you.\n\nThis mod doesn’t actually do that much, and has just little effects on the game itself. It only shows a current rank in the list of buffs.\n\nThis rank can be reached by reaching a certain player level. This must/can be configured in the buffs.xml.\n\nAlso, have a look at the [README.md](https://github.com/OmitLeChuck/dwarfmaster_ranks/blob/main/README.md) for instructions and help.\n\nWorks both locally and server-side.\n\n**[Download](https://github.com/OmitLeChuck/dwarfmaster_ranks/archive/refs/heads/main.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/28378-dwarfmaster-ranks/).\n\n**Credits:** [Dwarfmaster1974](https://7daystodiemods.com/tag/dwarfmaster1974/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/OmitLeChuck/dwarfmaster_ranks/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/28378-dwarfmaster-ranks/",
+  "modAuthors": [
+    "Dwarfmaster1974"
+  ],
+  "modTags": [
+    "Dwarfmaster1974"
+  ]
+}

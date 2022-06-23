@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/cjs-super-traps/",
+  "modCreatedTime": "2022-05-18T06:06:58+00:00",
+  "modLastUpdatedTime": "2022-05-18T06:06:59+00:00",
+  "modName": "CJ's Super Traps",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-cjs-super-traps-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-cjs-super-traps-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "This mod adds new turrets & traps. Each turret & trap has a schematic that can be found in loot. Dart Turret, Heavy Turret, Whirlwind and Shellshock.",
+  "modDescription": "This mod adds new turrets & [traps](https://7daystodiemods.com/tag/7-days-to-die-traps/). Each turret & trap has a schematic that can be found in loot.\n\n## Traps\n\n* Dart Turret \\[Shoots Iron Darts | +Fire-Rate | +Durability\\]\n* Heavy Turret \\[Shoots 7.62mm Ammo | +Fire-Rate | +Damage | +Durability\\]\n* Whirlwind \\[Super Blade Trap | 2x1x2 Placement | Shocks on hit | +Damage | +Durability\\]\n* Shellshock \\[Super Electric Fence |1x1x1 Placement | Shocks & Burns on hit | +Damage | +Durability\\]\n\n**[Download](https://www.dropbox.com/s/vrwsn495ebqk345/CJ%27s%20Super%20Traps.rar?dl=1)**\n\n**Credits:** [CommandoJenkins](https://7daystodiemods.com/tag/commandojenkins/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/s/vrwsn495ebqk345/CJ%27s%20Super%20Traps.rar?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "CommandoJenkins"
+  ],
+  "modTags": [
+    "7 days to die traps",
+    "7 days to die weapons",
+    "CommandoJenkins"
+  ]
+}

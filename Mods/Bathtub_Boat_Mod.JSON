@@ -1,0 +1,34 @@
+{
+  "modURL": "https://7daystodiemods.com/bathtub-boat-mod/",
+  "modCreatedTime": "2021-12-29T05:29:00+00:00",
+  "modLastUpdatedTime": "2022-04-25T18:33:59+00:00",
+  "modName": "Bathtub Boat Mod",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-bathtub-boat-mod-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-bathtub-boat-mod-changelog-screenshot-1.jpg"
+  ],
+  "modShortDescription": "Place the bathtub boat on/in water in a 'shallow water' area that has fairly flat ground underneath, then add fuel to bath tub boat and off you go.",
+  "modDescription": "## Launch\n\nPlace the bathtub boat on/in water in a ‘shallow water’ area that has fairly flat ground underneath, if you have no shallow water in your map then build a small launch dock, then add fuel to bath tub boat and off you go.\n\nThe Bath tub boat can be placed on land but will barely be able to move (new physics colliders experiment) rendering it unsteerable and very very slow to move.\n\n## Controls\n\n* Steering is A and D as per vanilla setings… mouse is for looking around only and has no affect on steering a boat.\n* Space bar and c control the up and down angles (same as a gyro) which you will need to adjust slightly as you travel on water otherwise you may sink.\n* W is forwards and S is slow down/reverse. If you let go of w and shift (Turbo) then the boat slowly comes to a stop, pressing S will slow the boat down more quickly this replaces spacebar as the brake key.\n* To anchor the bathtub boat and stop it drifting away use c and spacebar to level the boat till it stops drifting, useful if you have a fishing mod installed.\n\n## Anchoring\n\nTo anchor the bath boat and stop it drifting away use c and spacebar to level the boat till it stops drifting, useful if you have a [fishing](https://7daystodiemods.com/tag/7-days-to-die-fishing/) mod installed.\n\n## Crafting\n\nThe bathtub boat is craftable in a standard workbench with no progression needed at the cost of various resources and by creating the required assemblies to build it, it will help early game if you actually find a ‘working workbench’ and this allow you to make the bath tub a lot sooner.\n\nIf anyone wants to change the recipes and build methods then please do so but let him know how you improved it.\n\n## Other\n\nThe bathtub boat can be picked up into inventory providing the boats inventory is empty as per normal [vehicles](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) if you sink it at any point, although be careful if you sink it too far away from the shores as it could be a long swim back. Best to not store stuff as Zombies now can attack water vehicles in game.\n\n## Changelog\n\n**_(new)_** Bathtub boat and Jetski have had some texture changes, feet and hand positions also altered from original release… not essential that you update but they are both a new version for A20 now.\n\nExperimental work in progress Bathtub version 3.\n\n**Note:** Do not go too near the shore as you may break water blocks in A20 and this will affect player health – if you get health loss due to water block breaking get off the boat quick. Looking into this at present and a way too fix for A20.\n\n**Version 3**\n\n1. Fixed lootlist alive for A20\n2. Two in Bath tub option via a modded seat\n3. Added vehicle mod options: Fuelsaver, Seat, Reserve tank and cosmetics option\n4. Added support to be able to do fishing with [Telrics A20 Fishing](https://7daystodiemods.com/telrics-fishing/) mod\n\n**Version 2**\n\n1. Optimised Model to reduce size of unity file.\n2. Added Particles… these can be switched on or off with the F key… (headlight function)\n3. Depth mask applied to stop water seeping effect and allow it to ride lower in water for more realism effect.\n4. Textures adjusted\n5. Added working propeller\n\n## Important Notes\n\n* The Assets in this Modlet are purchased (unless otherwise stated) and therefore you are not allowed to extract and alter them in any way.\n* The assets can be used in other mods that are purely ‘non profit’. These assets must not be used in any venture that attempts to make money out of modding.\n* If you use the xml code Ragsy came up with do the right thing and credit him for the float code.\n* If you want to include any of his vehicle mods or other mods in a ‘mod overhaul’ please do him the courtesy of asking for permission first… when given you must give the due credit to himself and any other modders that may be credited under the “Credits & Additional Credits” sections if any. Also you are not allowed to extract any unity files without his permission either, if there has been an alpha change then wait and files will be updated for the new alpha version as soon as he possibly can. Thank you!\n\n**[Download](https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_BathTubBoat_V3_A20)** for A20  \n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_BathTubBoat_V2)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/14070-water-vehicle-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_BathTubBoat_V3_A20",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_BathTubBoat_V2",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/14070-water-vehicle-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die boat",
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

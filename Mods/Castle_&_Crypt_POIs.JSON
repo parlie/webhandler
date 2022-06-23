@@ -1,0 +1,34 @@
+{
+  "modURL": "https://7daystodiemods.com/castle-crypt-pois/",
+  "modCreatedTime": "2022-05-25T00:24:00+00:00",
+  "modLastUpdatedTime": "2022-05-25T00:30:27+00:00",
+  "modName": "Castle & Crypt POIs",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-castle-crypt-pois-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-castle-crypt-pois-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-castle-crypt-pois-additional-screenshot-3.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-castle-crypt-pois-additional-screenshot-4.jpg"
+  ],
+  "modShortDescription": "Here I offer 2 buildings that you can use. A loot castle and a crypt. Both buildings are registered for tier quests (Castle Tier5 and Crypt Tier4).",
+  "modDescription": "Here I offer 2 buildings that you can use. A loot castle and a crypt. Both buildings are registered for tier [quests](https://7daystodiemods.com/tag/7-days-to-die-quests/) (Castle Tier5 and Crypt Tier4).\n\nThere are also a few hiding places built into the castle where it is easier to find loot. However, you have to find them, but there are also clues as to where loot could be, some are clearly visible, some are more difficult. There is also a dungeon to find but be careful exploring the castle.\n\nIn the crypt there is a switch system to get to the end room. Getting there is not as easy as you might think.\n\nI wish you a lot of fun with both [buildings](https://7daystodiemods.com/tag/7-days-to-die-prefab/) and am open to constructive criticism.\n\nSry new update! There was an error in the XML file that prevented the crypt from spawning in a random map. All downloads from 24.5\\. should be repeated.\n\n**DE:**\n\nHier biete ich 2 Gebäude an, die ihr nutzen könnt. Eine Loot-Burg und eine Krypta. Beide Gebäude sind für Tier-questen eingetragen (Burg Tier5 und Krypta Tier4).\n\nIn der Burg sind auch ein paar Verstecke eingebaut, wo man besser Loot finden kann. Jedoch müsst ihr sie finden aber es sind auch Hinweise, wo Loot sein könnte manche sind gut sichtbar, manche schwieriger. Es gibt auch ein Verlies zu finden aber seid vorsichtig beim Erkunden der Burg.\n\nIn der Krypta gibt es Schalter-System um in den End-Raum zu kommen. Der Weg dahin ist nicht ganz so einfach wie man denkt.\n\nIch wünsche euch viel spaß mit beiden Gebäuden und bin für konstruktive Kritik gerne offen.\n\nSry Neues Update! In der XML-Datei war ein Fehler, dadurch konnte die Krypta in einer Random Map nicht spawnen. Alle Downloads vom 24.5\\. sollten wiederholt werden.\n\n**[Download](https://www.dropbox.com/s/dod6ckrdzc93kse/lootburg.7z?dl=1)** Loot Castle  \n**[Download](https://www.dropbox.com/s/dyrbj8bmb4f4spd/ReKrypta.7z?dl=1)** Crypt\n\n**Credits:** Redzero83",
+  "modDownloadURLs": [
+    {
+      "Info": "Loot Castle",
+      "URL": "https://www.dropbox.com/s/dod6ckrdzc93kse/lootburg.7z?dl=1",
+      "Version": "v19"
+    },
+    {
+      "Info": "Crypt",
+      "URL": "https://www.dropbox.com/s/dyrbj8bmb4f4spd/ReKrypta.7z?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Redzero83"
+  ],
+  "modTags": [
+    "7 days to die prefab",
+    "7 days to die quests"
+  ]
+}

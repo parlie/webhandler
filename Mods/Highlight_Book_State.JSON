@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/highlight-book-state/",
+  "modCreatedTime": "2022-05-28T18:07:00+00:00",
+  "modLastUpdatedTime": "2022-05-28T18:09:22+00:00",
+  "modName": "Highlight Book State",
+  "modImages": [],
+  "modShortDescription": "Books that have been read have a red icon. Books that have not been read have a green icon. A second set of icons were included in case the user would like those reversed.",
+  "modDescription": "Red Eagle LXIX originally tried coloring the icons but that didn’t work. He resorted to the technique he found in this [topic](https://community.7daystodie.com/topic/24306-mod-that-lets-you-know-youve-already-read-a-book/) of replacing the icons.\n\nBooks that have been read have a red icon. [Books](https://7daystodiemods.com/tag/7-days-to-die-books/) that have not been read have a green icon. A second set of icons were included in case the user would like those reversed.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/RELXIX-7DTD/A20_XML_Modlets/tree/main/RELXIX_HighlightBookState)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25785-relxix-a20-xml-modlets/).\n\n**Credits:** [Red Eagle LXIX](https://7daystodiemods.com/tag/red-eagle-lxix/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/RELXIX-7DTD/A20_XML_Modlets/tree/main/RELXIX_HighlightBookState",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25785-relxix-a20-xml-modlets/",
+  "modAuthors": [
+    "Red Eagle LXIX"
+  ],
+  "modTags": [
+    "7 days to die books",
+    "7 days to die icons",
+    "Red Eagle LXIX"
+  ]
+}

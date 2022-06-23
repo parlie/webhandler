@@ -1,0 +1,29 @@
+{
+  "modURL": "https://7daystodiemods.com/ztensitys-functional-elevator/",
+  "modCreatedTime": "2022-03-04T04:45:00+00:00",
+  "modLastUpdatedTime": "2022-03-04T04:49:14+00:00",
+  "modName": "Ztensity's Functional Elevator",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/03/7-days-to-die-ztensitys-functional-elevator-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/03/7-days-to-die-ztensitys-functional-elevator-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/03/7-days-to-die-ztensitys-functional-elevator-additional-screenshot-3.jpg"
+  ],
+  "modShortDescription": "This elevator only moves from one floor to the next across roughly 2 flights, while also taking up 3 blocks wide, 7 blocks high and 3 blocks deep (x,y,z).",
+  "modDescription": "## INTRODUCTION\n\nOriginally designed for Alpha 18 with compatibility for Alpha 17 by Guppycur, the [Working Elevator](https://7daystodiemods.com/working-elevator/) modlet received its next iteration during A19\\. Similarly, to the original mod, this elevator only moves from one floor to the next across roughly 2 flights, while also taking up 3 blocks wide, 7 blocks high and 3 blocks deep (x,y,z).\n\n**This Version of the Elevator Contains the Following Tweaks & New Features:**\n\nTweaked animations that not only allow for more time to enter/exit the elevator but will also be closed and on the bottom floor when placed. There are also new sound effects and visual effects embedded into the animations for added immersion.\n\nThe elevator has added colliders for simplicity and better immersion, while also being slightly thinned for better spacing around blocks and plates.\n\nThere is now an official recipe with resource requirements for crafting the elevator at the workbench alongside the ability to get a portion of resources back when using a wrench to destroy the elevator.\n\nAdded an official title and description for the elevator, while removing select, unneeded files for a smaller download.\n\nBy adding colliders and thinning out the elevator, this not only makes it, so the player does not have to worry about building right next to the elevator, but it also prevents the player from accidentally falling out of the elevator while in use or while in the elevator.\n\n## REQUIREMENTS\n\nAs detailed by Guppycur, the shaft requirements are actually 10 blocks high (including floor and ceiling), 5 blocks wide (1 and 5 are the left right walls) and 5 blocks deep (1 and 5 are the front/rear walls). Think about it like x,y,z. This will be made even easier if the elevator is just placed first and then you build around it.\n\nFor building purposes, use the horizontal plates (concrete or otherwise) and select advanced rotations. Then rotate the plate so it’s against a block. Use these plates with standard sized 1x1x1 blocks to build the shaft for the elevator.\n\nFinally, just as the original version, if a player is still using Alpha 17, Alpha 18 or earlier versions of Alpha 19, this should still be compatible with those versions. However, this modlet has been designed for compatibility with 7 Days to Die’s latest stable, which is currently Alpha 19.3 b6.\n\n## FUTURE UPDATES\n\nIn the coming weeks to months, I may expand on this modlet as a series of “rising devices” as suggested by Guppycur himself. The next update I’d likely implement however, would be adding in a similar elevator that will take you up three flights or higher. My ideas for the future would be focused on hotel POIs, so players could even make a massive hotel a home using devices like elevators, escalators and so on.\n\n## CREDITS\n\nAll assets used come from a purchased package from Nifty Studios via Unity. On the other hand, a portion of the animations designed, and layout of the elevators was put together by Guppycur when he originally bought the assets for A18.\n\nNot only did I get permission to rework and re-release Guppycur’s work on animations and the elevator layout from Guppycur himself, but I made sure to purchase those same assets again myself for rights to share this modlet.\n\n**[Download](https://drive.google.com/file/d/1NrOWwcTaboeUbsXg3vS-yWJtbAT2K_-_/view?usp=sharing)**\n\n**Credits:** [Ztensity](https://7daystodiemods.com/tag/ztensity/), Guppycur",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1NrOWwcTaboeUbsXg3vS-yWJtbAT2K_-_/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Ztensity",
+    "Guppycur"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "Ztensity"
+  ]
+}

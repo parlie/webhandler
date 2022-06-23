@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/rabbit-of-caerbannog-mod/",
+  "modCreatedTime": "2022-03-12T20:57:00+00:00",
+  "modLastUpdatedTime": "2022-03-12T21:58:11+00:00",
+  "modName": "Rabbit of Caerbannog Mod",
+  "modImages": [],
+  "modShortDescription": "This mod adds a very powerful, feral rabbit. Run Away! Run Away!",
+  "modDescription": "This mod adds a very powerful, feral rabbit. Run Away! Run Away! For those unfamiliar: [Wikipedia](https://en.wikipedia.org/wiki/Rabbit_of_Caerbannog)\n\n**NOTE:** The rabbit does not spawn rate is usually 1%, and increases up to 3% in the wasteland biome and in certain hordes. If something is set as a “cave” its 5%… which may be excessive if caves come back…\n\nSpecial thanks and credit where it’s due to: These members of the 7 Days to Die User Forums\n\n+1 Mumpfy: For creating the white [rabbit](https://7daystodiemods.com/tag/7-days-to-die-animals/) texture.\n\n+1 Mjoelnir.hh: For merging the texture into Textures.unity3d and providing help on how to use it.\n\n## Changelog\n\nNow does not rarely spawn in the random boss groups (no more horde group spawning). Basically this is less XML to deal with and makes it more compatible with other mods as a lot of them mess with the boss groups and would cause them to be renumbered. Doughphunghus is also not sure if a Caerbannog spawned in a horde if it would target you (or hop away) or maybe just kill the entire boss mob before you see it 😉\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a20/tree/main/Doughs-RabbitOfCaerbannog)** for A20  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-RabbitOfCaerbannog)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a20/tree/main/Doughs-RabbitOfCaerbannog",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-RabbitOfCaerbannog",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die zombies",
+    "Doughphunghus"
+  ]
+}

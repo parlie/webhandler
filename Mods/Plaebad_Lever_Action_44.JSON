@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/plaebad-lever-action-44/",
+  "modCreatedTime": "2022-02-08T20:53:00+00:00",
+  "modLastUpdatedTime": "2022-02-08T22:27:50+00:00",
+  "modName": "Plaebad Lever Action 44",
+  "modImages": [],
+  "modShortDescription": "This mod modifies the Lever Action Rifle to use .44 Ammo instead of the default 7.62 ammo.",
+  "modDescription": "This mod modifies the Lever Action Rifle to use .44 Ammo instead of the default 7.62 ammo.\n\nAll item packs and [quest](https://7daystodiemods.com/tag/7-days-to-die-quests/) reward bundles that give the Lever Action Rifle have been modified to include .44 ammo instead of the 7.62 ammo.\n\nThe base damage of the Lever Action Rifle has been slightly reduced to keep it from being too OP. The damage of an unmodded Lever Action Rifle with no associated perks is slightly higher than when using the 7.62 [ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/) but slightly lower than the comparable tier .44 handguns. No other changes have been made to the weapon.\n\nThis mod can be added to or removed from existing saves without any known critical side effects. It should be noted that if this mod is added to or removed from an existing save, any existing Lever Action [Rifles](https://7daystodiemods.com/tag/7-days-to-die-weapons/) may lose whatever ammo is currently loaded into them and that ammo will not be returned to the player.\n\nThis mod should work with any other mods that do not alter the Lever Action Rifle or .44 Magnum ammo.\n\n## Changelog\n\n* **_(new)_** Mod has been updated to apply bonuses from applicable Magnum Enforcer series books to the Lever Action 44\\. The bonuses applied are:  \n   * Volume 1: Do 10% more damage with magnums  \n   * Volume 3: The last shot in the chamber does double damage  \n   * Volume 4: Bartering with a magnum drawn gives you a 5% better deal  \n   * Volume 7: Sprinting with a magnum in combat uses 20% less stamina  \n   * Series Completion: Shots from magnums penetrate enemies\n* Mod has been updated to correct issue of HP and AP 44 ammo damage not being properly applied. All three ammo types (regular, HP, and AP) should now apply the correct damage when loaded into the weapon.\n\n**[Download](https://github.com/plaebad/7DTD-LeverAction44/archive/refs/heads/Master.zip)**\n\n**Credits:** Plaebad",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/plaebad/7DTD-LeverAction44/archive/refs/heads/Master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Plaebad"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die quests",
+    "7 days to die weapons"
+  ]
+}

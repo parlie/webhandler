@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/furious-sniper-turret/",
+  "modCreatedTime": "2022-03-17T17:26:19+00:00",
+  "modLastUpdatedTime": "2022-03-17T17:26:20+00:00",
+  "modName": "Furious Sniper Turret",
+  "modImages": [],
+  "modShortDescription": "Adds a buildable / buyable sniper turret that uses 7.62 AP ammo.",
+  "modDescription": "Adds a buildable / buyable [sniper turret](https://7daystodiemods.com/tag/7-days-to-die-traps/) that uses 7.62 AP ammo.\n\nIt has long range and game standard 7.72 AP ammo damage, with a high headshot chance and damage. Also shocks the target upon impact.\n\nShould be compatible with any other mods.\n\n## Installation\n\nSimply unzip into main … 7daystodie / Mods … folder as any other simple mod. If u have no Mods folder under main game directory, simply create one and unzip it there so it ends up like … <game folder> / Mods / <MyMod>\n\nEnjoy!\n\n**[Download](https://drive.google.com/file/d/11BfREA0RgxGwhknXuX3EGU41T50bWW9j/view?usp=sharing)**\n\n**Credits:** [Furious Angel](https://7daystodiemods.com/tag/furious-angel/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/11BfREA0RgxGwhknXuX3EGU41T50bWW9j/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Furious Angel"
+  ],
+  "modTags": [
+    "7 days to die traps",
+    "7 days to die weapons",
+    "Furious Angel"
+  ]
+}

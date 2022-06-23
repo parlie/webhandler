@@ -1,0 +1,40 @@
+{
+  "modURL": "https://7daystodiemods.com/winter-project/",
+  "modCreatedTime": "2020-01-25T20:29:00+00:00",
+  "modLastUpdatedTime": "2022-05-31T11:23:36+00:00",
+  "modName": "Winter Project",
+  "modImages": [],
+  "modShortDescription": "Enter the cold and unforgiving 7 Days to Die world buried under a snow apocalypse. Find new challenges as you explore the desolate icy wasteland.",
+  "modDescription": "Welcome to the Winter Project 2019 by Sphereii and Xyth.\n\nAfter many delays, the Winter Project 2019 arrived just in time to be fashionably late.\n\nEnter the cold and unforgiving 7 Days to Die world buried under a snow apocalypse. Find new challenges as you explore the desolate icy wasteland, and see if you can unlock Winter Project’s secrets.\n\nIn order to generate the world properly, please use the pre-generated worlds:\n\n* Winter Project 4K\n* Winter Project 6K\n* Winter Project 8K\n\nThank you to the following mod creators who helped shape out the world with their mods:\n\n* Donovan’s [Better Bridges](https://7daystodiemods.com/better-bridges/), [Better Spears](https://7daystodiemods.com/better-spears/), [Craft Jail Door & Bars](https://7daystodiemods.com/craft-jail-door-bars/) and [Craft Spikes](https://7daystodiemods.com/craft-spikes/) mods.\n* TormentedEmu’s GUI Manager for Localization support for A18.2\n* JaxTeller718 for his [Charcoal](https://7daystodiemods.com/charcoal-mod-for-a18/), [Eggs in Fridges](https://7daystodiemods.com/eggs-in-fridges/), [More Feathers](https://7daystodiemods.com/more-feathers-in-nests/), [Working Stoves](https://7daystodiemods.com/working-stove-mod-for-a18/) and [Zombie Hand Adjustments](https://7daystodiemods.com/reduced-zombie-hand-reaches/)\n* MeanCloud’s Scrap Bone Knives\n* ATLA5’s [More Vanilla Food](https://7daystodiemods.com/more-vanilla-foods-drinks/)\n* Moongaming’s [Oignon’s Vehicles Pack](https://7daystodiemods.com/snow-vehicles/), [Sittable Furniture](https://7daystodiemods.com/sittable-furnitures/)\n* Bdubyah’s [Rebar Club](https://7daystodiemods.com/rebar-club-melee-weapon/) and [Wasteland Weapons](https://7daystodiemods.com/wasteland-weapons/)\n* Stallionsden’s Lootable Objects, Store Shelves, and his prots of Valmar’s Expanded Ammo Types and Cooking Bowls\n* War3zuk/Tallon’s [Disassemble Ammo](https://7daystodiemods.com/disassemble-ammo/)\n\nSpecial thanks goes to Mumpfy for his texturing work.\n\n## Changelog\n\n* Winter Project updated to A18.3.\n* Small tweak: Disabled the Quick Continue feature, which auto-loaded your last saved game. This was leading to confusion.\n* In order to update through the Mod Launcher, you will need to delete and re-install the mod. If you wish to remain on your A18.2, plus uncheck Refresh Mods Automatically, and you should be able to continue to play.\n\n## Download & Install\n\nTo Build and run Winter Project manually, you will need to use the **DMT Tool** and download the following repos:\n\n**[Download](https://github.com/SphereII/WinterProject-2019/archive/master.zip)** Github Repo  \n**[Download](https://gitlab.com/sphereii/winter-project-2019/-/archive/master/winter-project-2019-master.zip)** Gitlab Repo (includes pre-generated worlds)\n\nAlso this mod available in the 7DTD Mod Launcher’s sphereii-mental section.\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17058-winter-project-2019/).\n\n**Credits:** [SphereII](https://7daystodiemods.com/tag/sphereii/), Xyth",
+  "modDownloadURLs": [
+    {
+      "Info": "Github Repo",
+      "URL": "https://github.com/SphereII/WinterProject-2019/archive/master.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Gitlab Repo (includes pre-generated worlds)",
+      "URL": "https://gitlab.com/sphereii/winter-project-2019/-/archive/master/winter-project-2019-master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/17058-winter-project-2019/",
+  "modAuthors": [
+    "SphereII",
+    "Xyth"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die biomes",
+    "7 days to die bridges",
+    "7 days to die building materials",
+    "7 days to die food",
+    "7 days to die snow biome",
+    "7 days to die traps",
+    "7 days to die vehicles",
+    "7 days to die weapons",
+    "7 days to die zombies",
+    "SphereII"
+  ]
+}

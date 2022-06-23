@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/find-vehicle-parts-in-airdrops/",
+  "modCreatedTime": "2021-12-08T20:48:00+00:00",
+  "modLastUpdatedTime": "2022-04-25T18:34:23+00:00",
+  "modName": "Find Vehicle Parts in Airdrops",
+  "modImages": [],
+  "modShortDescription": "Added a small change to airdrop loot, small depending on your point of view that is. Now a possibility of finding vehicle parts in air drops.",
+  "modDescription": "Added a small change to airdrop loot, small depending on your point of view that is. Now a possibility of finding [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) parts in air drops… from a request in the forums by forum member Sevryn.\n\n**Important Note:** If you want to include any of his vehicle mods or other mods in a ‘mod overhaul’ please do him the courtesy of asking for permission first… when given you must give the due credit to himself and any other modders that may be credited under the “Credits & Additional Credits” sections if any. Also you are not allowed to extract any unity files without his permission either, if there has been an alpha change then wait and files will be updated for the new alpha version as soon as he possibly can. Thank you!\n\n## Changelog\n\nUpdated for A20.\n\n**[Download](https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Vehicle_Parts_In_Airdrops_A20)** for A20  \n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Vehicle_Parts_In_Airdrops)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Vehicle_Parts_In_Airdrops_A20",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Vehicle_Parts_In_Airdrops",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die airdrop",
+    "7 days to die loot",
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

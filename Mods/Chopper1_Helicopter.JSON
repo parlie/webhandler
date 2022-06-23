@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/chopper1-helicopter/",
+  "modCreatedTime": "2022-03-01T08:04:26+00:00",
+  "modLastUpdatedTime": "2022-05-11T18:41:03+00:00",
+  "modName": "Chopper1 Helicopter",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-chopper1-helicopter-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-chopper1-helicopter-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "Ride in style with the newest compact size chopper1 helicopter. An easier and faster way to get to where you need to go.",
+  "modDescription": "The Chopper1 is equipped with three spotlights to see clearer while in flight.\n\nThere are decals placed onto the textures for that rustic apocalyptic feel.\n\nIt is sure to be a smoother ride with tighter control for flight simulation. Ride in style with the newest compact size chopper1 [helicopter](https://7daystodiemods.com/tag/7-days-to-die-vehicles/). An easier and faster way to get to where you need to go.\n\n* **Vehicle Name:** [Helicopter](https://sketchfab.com/3d-models/helicopter-91366449ce6842f784748a914e29d641)\n* **3D Model Artists Name:** [irs1182](https://sketchfab.com/irs1182)\n* All Models in this mod are subject to [creative commons licence](https://creativecommons.org/licenses/by/4.0/).\n* No Models have been altered from the ‘original creator’ they are set up with an extra overlay texture and appropriate lighting shader in unity for 7 Days to Die game.\n\nThis version has an alternate vehicle file for those that like the older style heli controls Ragsy and Bdub came up with for the [MD 500](https://7daystodiemods.com/md-500/) way back. Just simply rename existing vehicles.xml to oldvehicles.xml and rename the one called RagsnBdubstyleoldvehicles.xml to vehicles.xml\n\n**Important Note:** If you want to include any of their mods in your overhaul please do them the courtesy of asking for permission first. When given you must give the due credit to the authors and any other modders that may be credited under the Additional Credits section if any. Also you are not allowed to extract any unity files without their permission either, if there has been an alpha change then wait and files will be updated. For the new alpha version as soon as they possibly can. Thank You!\n\n**[Download](https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/Chopper1-A20Update.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27991-the-a-team-modlets/).\n\n**Credits:** [ActiniumTiger](https://7daystodiemods.com/tag/actiniumtiger/), Ragsy",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/Chopper1-A20Update.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27991-the-a-team-modlets/",
+  "modAuthors": [
+    "ActiniumTiger",
+    "Ragsy"
+  ],
+  "modTags": [
+    "7 days to die helicopter mod",
+    "7 days to die vehicles",
+    "ActiniumTiger"
+  ]
+}

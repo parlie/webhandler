@@ -1,0 +1,34 @@
+{
+  "modURL": "https://7daystodiemods.com/military-apc/",
+  "modCreatedTime": "2022-06-02T11:07:00+00:00",
+  "modLastUpdatedTime": "2022-06-02T11:09:39+00:00",
+  "modName": "Military APC",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-military-apc-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-military-apc-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-military-apc-additional-screenshot-3.jpg"
+  ],
+  "modShortDescription": "This mod adds a military APC that can protect you from incoming damage and also fire missiles.",
+  "modDescription": "This mod adds a military APC that can protect you from incoming damage and also fire missiles.\n\nThe military APC can be unlocked by grease monkey level 5 or by schematics. Missiles can be fired from the mounted turret by pressing the right mouse button, the fire button can be configured in the controls settings under the [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) section. You must have the APC missile ammo in your inventory to be able to fire from the turret. The turret can be enabled and disabled by pressing left CTRL and the number 1 key at the same time, this can also be configured in the settings.\n\n## Features\n\n* Working turret\n* Larger storage\n* High durability\n* Can be dyed\n* 2 seats\n\nSpecial thanks to Closer\\_Ex for the vehicle weapon system and Laydor for his Quartz UI mod.\n\n**Note:** This mod needs to be installed on both client and server for multiplayer. This mod is for A20 ONLY. **EAC MUST BE OFF!**\n\n## Changelog\n\n**Version 1.2**\n\nFixed an issue with NREs on multiplayer\n\n**Version 1.1**\n\nFixed issues with compatibility between the [Apache Helicopter](https://7daystodiemods.com/ah-64-apache-helicopter/) and APC\n\n**[Download](https://gitlab.com/Zilox/A20Modlets/-/archive/main/A20Modlets-main.zip?path=APC%20Mods/Mods)**\n\nIf you appreciate Zilox’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/zilox135).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/28972-military-apc/).\n\n**Credits:** [Zilox](https://7daystodiemods.com/tag/zilox/), Closer\\_Ex, Laydor",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/Zilox/A20Modlets/-/archive/main/A20Modlets-main.zip?path=APC%20Mods/Mods",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/28972-military-apc/",
+  "modAuthors": [
+    "Zilox",
+    "Closer_Ex",
+    "Laydor"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die truck mods",
+    "7 days to die vehicles",
+    "7 days to die weapons",
+    "Zilox"
+  ]
+}

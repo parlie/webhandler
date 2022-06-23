@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/megaforce-energy-drink/",
+  "modCreatedTime": "2022-02-08T06:44:46+00:00",
+  "modLastUpdatedTime": "2022-02-08T06:44:48+00:00",
+  "modName": "Megaforce Energy Drink",
+  "modImages": [],
+  "modShortDescription": "Megaforce energy drink is fresh and nutritious drink which gives 50% stamina gain, 20 seconds more run power and 70 water. It is great in all ways.",
+  "modDescription": "Can be looted, medium rarity, shares loot table with other drinks.\n\nCan be crafted with acid and murky [water](https://7daystodiemods.com/tag/7-days-to-die-drinks/).\n\nMegaforce energy drink is fresh and nutritious drink which gives 50% stamina gain, 20 seconds more run power and 70 water. It is great in all ways.\n\n**[Download](https://github.com/mipastu/megaforce7d2d/archive/refs/heads/main.zip)**\n\n**Credits:** [Mipastu](https://7daystodiemods.com/tag/mipastu/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/mipastu/megaforce7d2d/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Mipastu"
+  ],
+  "modTags": [
+    "7 days to die drinks",
+    "7 days to die food",
+    "7 days to die stamina",
+    "Mipastu"
+  ]
+}

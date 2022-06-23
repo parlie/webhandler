@@ -1,0 +1,23 @@
+{
+  "modURL": "https://7daystodiemods.com/spawninplace/",
+  "modCreatedTime": "2022-05-20T20:57:00+00:00",
+  "modLastUpdatedTime": "2022-05-20T21:38:08+00:00",
+  "modName": "SpawnInPlace",
+  "modImages": [],
+  "modShortDescription": "Player now respawns at death location with a 10-second (configurable in Config/buffs.xml) invulnerability buff for running away.",
+  "modDescription": "## Purpose\n\n* Player now [respawns](https://7daystodiemods.com/tag/7-days-to-die-respawn/) at death location with a 10-second (configurable in Config/buffs.xml) invulnerability buff for running away\n* Challenge quests no longer auto-fail on death\n* Optional: Uncomment lines in Config/entityclasses.xml to remove death XP penalty\n\n## Mod Installation\n\nExtract the archive or copy cloned git repo to <7D2D\\_Home>/Mods dir. This mod uses Harmony and will only work with A20 and above.\n\nFull source code: [GitHub](https://github.com/devopsdinosaur/SpawnInPlace)\n\n**[Download](https://github.com/devopsdinosaur/SpawnInPlace/releases/download/v0.0.1/SpawnInPlace-v0.0.1.zip)**\n\n**Credits:** devopsdinosaur",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/devopsdinosaur/SpawnInPlace/releases/download/v0.0.1/SpawnInPlace-v0.0.1.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "devopsdinosaur"
+  ],
+  "modTags": [
+    "7 days to die respawn"
+  ]
+}

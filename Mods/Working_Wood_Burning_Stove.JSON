@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/working-wood-burning-stove/",
+  "modCreatedTime": "2021-01-14T03:28:00+00:00",
+  "modLastUpdatedTime": "2022-05-31T11:04:41+00:00",
+  "modName": "Working Wood Burning Stove",
+  "modImages": [],
+  "modShortDescription": "Simply a working wood burning stove that you can cook on. Methos used Valmars Working Ovens and Sinks as an example. Hopefully someone enjoys it.",
+  "modDescription": "Simply a working wood burning stove that you can cook on. Methos used Valmars Working Ovens and Sinks as an example.\n\nQuite happy how it turned out, especially the flames which took a very minor tweak to the offsets to get it lined up.\n\nHopefully someone enjoys it.\n\n## Changelog\n\n* Tested in A19.3\n* Perk requirement removed.\n\n**[Download](https://www.dropbox.com/s/51lzcxvjqy8ank9/WorkingWoodBurningStove.zip?dl=1)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17996-working-wood-burning-stove/).\n\n**Credits:** Methos",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/s/51lzcxvjqy8ank9/WorkingWoodBurningStove.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/17996-working-wood-burning-stove/",
+  "modAuthors": [
+    "Methos"
+  ],
+  "modTags": [
+    "7 days to die building materials"
+  ]
+}

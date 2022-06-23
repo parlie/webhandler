@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/better-gyrocopter-handling/",
+  "modCreatedTime": "2021-12-13T02:07:00+00:00",
+  "modLastUpdatedTime": "2022-04-25T18:34:09+00:00",
+  "modName": "Better Gyrocopter Handling",
+  "modImages": [],
+  "modShortDescription": "Added some tweaks to the Gyrocopter settings to improve take offs and landing and give a lighter feel with better steering control.",
+  "modDescription": "Added some tweaks to the Gyrocopter [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) settings to improve take offs and landing and give a lighter feel with better steering control, also slightly better 3rd person view added.\n\nThe gyrocopter will now be able to take off in a shorter distance.\n\n**Important:** If you are using another mod for vehicle speeds then this mod will throw a warning. If that is the case either comment out the gyrocopter settings in the other mod or comment them out in this mod.\n\nRagsy2145 found these settings optimal for his mod (velocityMax set at 18, 30) He recommend you keep these.\n\n**Info:** To comment out simply place at the end of the code.\n\n**Example:**\n\n```\n<!-- <set xpath=\"/vehicles/vehicle[@name='vehicleGyrocopter']/property[@name='velocityMax']/@value\">18, 30</set> -->\n```\n\n**Important Note:** If you want to include any of his vehicle mods or other mods in a ‘mod overhaul’ please do him the courtesy of asking for permission first… when given you must give the due credit to himself and any other modders that may be credited under the “Credits & Additional Credits” sections if any. Also you are not allowed to extract any unity files without his permission either, if there has been an alpha change then wait and files will be updated for the new alpha version as soon as he possibly can. Thank you!\n\n## Changelog\n\nUpdated for A20.\n\n**[Download](https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Better_Gyro_Handling_A20)** for A20  \n**[Download](https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets/-/archive/master/other-7-days-to-die-mods-and-modlets-master.zip?path=Ragsy_Better_Gyro_Handling)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Better_Gyro_Handling_A20",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets/-/archive/master/other-7-days-to-die-mods-and-modlets-master.zip?path=Ragsy_Better_Gyro_Handling",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

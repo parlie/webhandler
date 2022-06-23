@@ -1,0 +1,29 @@
+{
+  "modURL": "https://7daystodiemods.com/h7sb-fishing/",
+  "modCreatedTime": "2022-04-28T13:04:00+00:00",
+  "modLastUpdatedTime": "2022-05-31T21:12:22+00:00",
+  "modName": "H7SB Fishing",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/04/7-days-to-die-h7sb-mods-yt.jpg"
+  ],
+  "modShortDescription": "H7SB Fishing is a server-side mod that includes a Quick-Time based fishing system.",
+  "modDescription": "H7SB Fishing is a server-side mod that includes a Quick-Time based fishing system.\n\nThe mod has additional modules that can be optionally activated.\n\n## New: Pond/River Sound\n\nAn idyllic [sound](https://7daystodiemods.com/tag/7-days-to-die-sound-mod/) effect indicates where to fish.\n\nWorks only on natural waters outside of POIs.\n\n## New: Maggots and Baits\n\nMaggots can be harvested from carcasses and craft into baits.\n\nUse (LMB/RMB) the bait, then quickly cast your fishing rod before it stops (60 sec) wriggling.\n\n## New: Fishing Rod\n\nUse a bait while standing on natural waters and then cast (LMB/RMB) the rod.\n\nIf all conditions are met, you will hear a splash of water, otherwise an abort signal will sound.\n\nLook into the water and wait until you hear the water splashing again and see a [fish](https://7daystodiemods.com/tag/7-days-to-die-animals/).\n\nWatch the fish which way it swims and drag (LMB/RMB) in the opposite direction.\n\nRepeat the process until the fish appears in front of you and you can catch it with a fishing net.\n\nDragging in the wrong direction prolongs the process or leads to termination.\n\nYou cannot move or jump during the fishing process.\n\nPutting down the fishing rod before catching aborts the process.\n\nIf you hear the sound but can’t see a fish, look further up.\n\n## New: Fishing Net\n\nUsed after a successful [fishing](https://7daystodiemods.com/tag/7-days-to-die-fishing/) session (LMB/RMB) to catch the fish.\n\nLMB for small fish. / RMB for big fish.\n\n## Optional: Modules\n\n“jFishing(CustomFish)” A hook to add your own custom fish.\n\n“xFishing(Quiet)” Removes the sound effect from ponds/rivers.\n\n“yFishing(Domestication)” Adds more recipes for [H7SB Domestication](https://7daystodiemods.com/h7sb-domestication/).\n\nLeave a thumbs up on the mod (youtube) you like to ensure that it gets an update for A21\\. Mods (youtube) with less thumbs up may be depreciated or deleted.\n\n## Mod Installation\n\n1. Download and unpack (“extract here”) the Zip data.\n2. Place it into your “Mods” folder.\n3. Have fun!\n\n## Module Installation\n\n1. Go inside the h7sb mod folder.\n2. Copy & paste (NOT drag & drop) the module you like into the main “Mods” folder.\n3. Have fun!\n\n## Copyrights: Attribution-NonCommercial-NoDerivatives 4.0 International\n\n* You are allowed to use this mod for your private use (singleplayer/multiplayer/server).\n* You are allowed to use this mod as part of your custom modpack (as separated mod).\n* You are not allow to reupload it without permission (exception mentioned)!\n* Of cause your allow to take inspiration to improve your existing code!\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Fishing)**\n\nIf you appreciate Eihwaz’s work and you want to show support, use this [donate link](https://streamlabs.com/eihwazde/tip).\n\nIf you need help, you can use this [support link](https://discord.com/invite/StrFn7X).\n\n**Credits:** [Eihwaz](https://7daystodiemods.com/tag/eihwaz/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Fishing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Eihwaz"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die fishing",
+    "7 days to die food",
+    "7 days to die sound mod",
+    "Eihwaz"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/red-devil-motorcycle/",
+  "modCreatedTime": "2022-03-24T20:52:00+00:00",
+  "modLastUpdatedTime": "2022-05-11T18:40:55+00:00",
+  "modName": "Red Devil Motorcycle",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-red-devil-motorcycle-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-red-devil-motorcycle-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-red-devil-motorcycle-additional-screenshot-3.jpg"
+  ],
+  "modShortDescription": "Introducing a street bike that goes by the name of Red Devil. The Red Devil is a three cylinder street bike with added headlights and brake lights.",
+  "modDescription": "Introducing a street bike that goes by the name of Red Devil.\n\nThe Red Devil is a three cylinder street [bike](https://7daystodiemods.com/tag/7-days-to-die-motorcycle/) with added headlights and brake lights.\n\nThis street bike is a sporty way to get around even while doing wheelies.\n\nWith its added particle exhaust system and modded seat where a friend can join you for a ride, its sure to suit your needs.\n\n* **Vehicle Name:** [Three Cylinder Naked Street Bike](https://sketchfab.com/3d-models/three-cylinder-naked-street-bike-0897a975845647919728095d117a6255) by Jamie Hamel-Smith is licensed under Creative Commons Attribution.\n* **3D Model Artists Name:** [Jamie Hamel-Smith](https://sketchfab.com/jamie3d)\n* All Models in this mod are subject to [creative commons licence](https://creativecommons.org/licenses/by/4.0/).\n\nNo Models have been altered from the ‘original creator’ they are set up with appropriate lighting shader in unity for 7 Days to Die game.\n\n**Important Note:** If you want to include any of their mods in your overhaul please do them the courtesy of asking for permission first. When given you must give the due credit to the authors and any other modders that may be credited under the Additional Credits section if any. Also you are not allowed to extract any unity files without their permission either, if there has been an alpha change then wait and files will be updated. For the new alpha version as soon as they possibly can. Thank You!\n\n## Changelog\n\nWheels added to recipes.\n\n**[Download](https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/RedDevil.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27991-the-a-team-modlets/).\n\n**Credits:** [ActiniumTiger](https://7daystodiemods.com/tag/actiniumtiger/), Ragsy",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/RedDevil.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27991-the-a-team-modlets/",
+  "modAuthors": [
+    "ActiniumTiger",
+    "Ragsy"
+  ],
+  "modTags": [
+    "7 days to die motorcycle",
+    "7 days to die vehicles",
+    "ActiniumTiger"
+  ]
+}

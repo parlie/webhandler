@@ -1,0 +1,22 @@
+{
+  "modURL": "https://7daystodiemods.com/backup-mod/",
+  "modCreatedTime": "2022-06-10T09:10:00+00:00",
+  "modLastUpdatedTime": "2022-06-10T09:13:32+00:00",
+  "modName": "Backup Mod",
+  "modImages": [],
+  "modShortDescription": "This mod makes it possible to automatically backup and restore your game saves.",
+  "modDescription": "This mod makes it possible to automatically backup and restore your game saves.\n\n## Settings\n\nYou can configure the mod by modifying the ‘settings.json’ file. If you changed the configuration when you were in game, you should re-enter to your world to apply changed settings.\n\n```\n{\n  \"General\": {\n    // Backups limit\n    // Default: 10\n    \"BackupsLimit\": 10,\n    \n    // Custom backups folder path\n    // IMPORTANT: You must escape all '\\' characters or use '/'\n    // Example: \"C:\\DaysToDie\\\\Backups\"\n    // Default: \"\"\n    \"CustomBackupsFolder\": \"\"\n  },\n  \n  \"AutoBackup\": {\n    // Is automatic backup enabled\n    // Default: true\n    \"Enabled\": true,\n    \n    // Auto backup delay (seconds)\n    // Default: 1200 (20 minutes)\n    \"Delay\": 1200\n  },\n  \n  \"Archive\": {\n    // Keep the last backup of the day\n    \"Enabled\": false,\n\n    // Backups limit\n    // Default: 10\n    \"BackupsLimit\": 10,\n    \n    // Custom archive folder path.\n    // IMPORTANT: You must escape all '\\' characters or use '/'\n    // Example: \"C:\\DaysToDie\\\\Archive\".\n    // Default: \"\"\n    \"CustomArchiveFolder\": \"\"\n  },\n  \n  \"Events\": {\n    // Backup when entering the world\n    // Default: true\n    \"BackupOnWorldLoaded\": true\n  },\n  \n  \"Utilities\": {\n    // Chat notifications\n    // Default: true\n    \"ChatNotificationsEnabled\": true\n  }\n}\n```\n\nBy default, your **backups** for each save will be saved in the ‘**%AppData%/Roaming/7DaysToDie/Backups/%WorldName%/%SaveName%**‘ folder and your **archived backups** for each save will be saved in the ‘**%AppData%/Roaming/7DaysToDie/Archive/%WorldName%/%SaveName%**‘ folder.\n\n## Commands\n\nYou can use the ‘**backup**‘ command or its shortened version – the ‘**bp**‘ command.\n\n* ‘**backup**‘ – perform a forceful backup\n* ‘**backup info**‘ – show the current configuration of the mod\n* ‘**backup list**‘ – show all available backups\n* ‘**backup restore**‘ – restore a save from a backup\n* ‘**backup delete**‘ – delete a backup\n\n## Installation\n\n1. Extract the downloaded .zip archive\n2. Move the extracted ‘BackupMod’ folder to your ‘Mods’ folder\n\n## Compatibility\n\nRequired game version: Alpha 20\n\n### EAC Compatibility\n\nServer only. To load in single-player mode, you must disable EAC.\n\nNtaklive hope this mod will be useful to someone.\n\n## Changelog\n\n**v1.1.6**\n\nFilUnderscore’s [Mod Manager](https://7daystodiemods.com/mod-manager/) full support\n\n**v1.1.5**\n\nExisting backups are unavailable for ‘backup restore’ and similar actions fix\n\n**v1.1.4**\n\nRecursive creation of folders if the Backups folder or the Archives folder was in the Saves folder has been fixed\n\n**v1.1.3**\n\n* Configuration structure was changed\n* ‘Archive’ feature was added (today’s last backup will be stored and won’t be deleted with ‘General.BackupsLimit’) (Look at the new configuration)\n* ‘backup list’ command was added\n* ‘backup delete’ command was added\n\nNote that the structure of the configuration file has been changed. You must replace your old settings.json with the new one and reconfigure it.\n\n**v1.1.2**\n\nThe custom value of the ‘SaveGameFolder’ property now does not break the mod. Thanks to MikeyUK for the help.\n\n**[Download](https://github.com/ntaklive/BackupMod/releases/latest/download/BackupMod.zip)**\n\nIf you appreciate Ntaklive’s work and you want to show support, use this [donate link](https://www.buymeacoffee.com/ntaklive).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/28451-backup-mod/).\n\n**Credits:** Ntaklive",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/ntaklive/BackupMod/releases/latest/download/BackupMod.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/28451-backup-mod/",
+  "modAuthors": [
+    "Ntaklive"
+  ],
+  "modTags": []
+}

@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/cjs-super-tools-weapons/",
+  "modCreatedTime": "2022-05-16T17:15:47+00:00",
+  "modLastUpdatedTime": "2022-05-18T06:06:56+00:00",
+  "modName": "CJ's Super Tools & Weapons v2",
+  "modImages": [],
+  "modShortDescription": "This mod adds a bunch of super tools and weapons. Each tool/weapon recipe unlock is tied to a perk skill book completion.",
+  "modDescription": "This mod adds a bunch of super tools and weapons. Each tool/weapon recipe unlock is tied to a perk skill book completion. It’s recommended that you adjust the recipe.xml to make these items more expensive.\n\n## Tools\n\n_(All [tools](https://7daystodiemods.com/tag/7-days-to-die-tools/) have +Damage | +Capacity | +Durability | +Speed)_\n\n* Super Nailgun \\[5k HP Repair | 10k Durability\\] \\~ Wasteland Treasures Complete.\n* Super Auger \\[More Damage & Speed | 10k Fuel Capacity | 10k Durability\\] \\~ Art of Mining Complete.\n* Super Impact Driver \\[2x Salvage Materials\\] \\~ Wasteland Treasures Complete.\n* Super Machete \\[ 2x Butchery Materials\\] \\~ Night Stalker Complete.\n\n## Weapons\n\n_(All [weapons](https://7daystodiemods.com/tag/7-days-to-die-weapons/) have +Damage | +Recoil Reduction | +Capacity | +Durability | +Fire-rate)_\n\n* Annihilator \\[Super Sledge Turret – shocks enemies on hit\\] \\~ Tech Junkie Complete.\n* Shot-E \\[Super Junk Turret – shocks & burns enemies on hit\\] \\~ Tech Junkie Complete.\n* The Punisher \\[Super Auto-shotgun – 2x Dismemberment\\] \\~ Shotgun Messiah Complete.\n* Rambo \\[Super M60 | +Accuracy | +Hip-fire | +Capacity | +Damage\\] \\~ Automatic Weapons Complete.\n* Golden Eagle \\[Super Desert Vulture – +200 Gamestage\\] \\~ Pistol Pete Complete.\n* Prototype Viper \\[Super SMG – Shocks user & zombies on hit\\] \\~ Pistol Pete Complete.\n* Executioner \\[Super Battle Axe – 5x Headshot Damage\\] \\~ Art of Mining Complete.\n* Leatherface \\[Super Chainsaw – 2x Wood Harvest | 2x Dismemberment | 0.25x Run speed\\] \\~ Art of Mining Complete.\n* Spear of Destiny \\[Super Spear – 2x Range | 2x Armor Penetration\\] \\~ Spear Hunter Complete.\n* S&W 500 \\[Super Revolver – 5 round capacity | 500% damage bonus\\] \\~ Magnum Enforcer Complete.\n* 500 Magnum Ammo \\[Includes HP | AP\\] \\~ Magnum Enforcer Complete.\n* Dragunov \\[Super Sniper – 5x Headshot Damage\\] \\~ Sniper Complete.\n* Repeater Crossbow \\[ Super Crossbow | +200% Fire-Rate\\] \\~ Archery Complete.\n* F-1 Grenade \\[Super Grenade – No block damage | +50% Damage | +50% Area of Effect\\] \\~ Urban Combat Complete.\n\n**[Download](https://www.dropbox.com/s/aegpx8wmh6ybeal/CJ%27s%20Super%20Tools%20%26%20Weapons%20v2.rar?dl=1)**\n\n**Credits:** [CommandoJenkins](https://7daystodiemods.com/tag/commandojenkins/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/s/aegpx8wmh6ybeal/CJ%27s%20Super%20Tools%20%26%20Weapons%20v2.rar?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "CommandoJenkins"
+  ],
+  "modTags": [
+    "7 days to die melee weapons",
+    "7 days to die tools",
+    "7 days to die traps",
+    "7 days to die weapons",
+    "CommandoJenkins"
+  ]
+}

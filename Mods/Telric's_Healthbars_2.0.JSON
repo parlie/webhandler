@@ -1,0 +1,29 @@
+{
+  "modURL": "https://7daystodiemods.com/telrics-healthbars-2-0/",
+  "modCreatedTime": "2021-12-17T05:21:00+00:00",
+  "modLastUpdatedTime": "2022-05-21T01:11:18+00:00",
+  "modName": "Telric's Healthbars 2.0",
+  "modImages": [],
+  "modShortDescription": "A light weight mod that displays a rough percentage of health on your targets. This version uses the latest texture that Telric created in a19, the blue one.",
+  "modDescription": "A light weight mod that displays a rough percentage of health on your targets. This only appears after you have damaged them. This version uses the latest texture that Telric created in a19, the blue one.\n\n**Video (from another mod in progress, comparing the two health bars):**\n\nDoes not require restart.\n\nTested and works with Alpha 20.4 (b42).\n\nRequires client to install as well as server.\n\n## Changelog\n\n* **_(new)_** Fixed an issue with double health bars for vultures on the healthbars mods. No need to restart world or anything.\n* Updated for A20.\n\n**[Download](https://www.dropbox.com/s/s2cnzk03b3zbotz/TelricsHealthBarsV2A20.zip?dl=1)** for A20  \n**[Download](https://www.dropbox.com/s/m1q473e6tgwr42d/TelricsHealthBars3.0.zip?dl=1)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26175-telrics-a20-modlets-new-mod-added-12152021/).\n\n**Credits:** [Telric](https://7daystodiemods.com/tag/telric/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://www.dropbox.com/s/s2cnzk03b3zbotz/TelricsHealthBarsV2A20.zip?dl=1",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://www.dropbox.com/s/m1q473e6tgwr42d/TelricsHealthBars3.0.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26175-telrics-a20-modlets-new-mod-added-12152021/",
+  "modAuthors": [
+    "Telric"
+  ],
+  "modTags": [
+    "Telric"
+  ]
+}

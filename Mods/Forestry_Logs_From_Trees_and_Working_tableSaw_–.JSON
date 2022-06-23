@@ -1,0 +1,39 @@
+{
+  "modURL": "https://7daystodiemods.com/forestry-logs-from-trees-and-working-tablesaw/",
+  "modCreatedTime": "2022-05-20T20:55:00+00:00",
+  "modLastUpdatedTime": "2022-05-20T21:38:04+00:00",
+  "modName": "Forestry Logs From Trees and Working tableSaw –",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-forestry-logs-from-trees-and-working-tablesaw-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-forestry-logs-from-trees-and-working-tablesaw-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-forestry-logs-from-trees-and-working-tablesaw-additional-screenshot-3.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-forestry-logs-from-trees-and-working-tablesaw-additional-screenshot-4.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-forestry-logs-from-trees-and-working-tablesaw-additional-screenshot-5.jpg"
+  ],
+  "modShortDescription": "I though its nonsense to get wood directly from trees. And as theres already woodLogs in game, why not drop them instead?",
+  "modDescription": "I though its nonsense to get wood directly from trees. And as theres already woodLogs in game, why not drop them instead?\n\nAs I looked through code, I also findout theres hidden workstation: tableSaw, so I fixed it to work.\n\nRecipe for tableSaw is original, I just restored it and added schematic etc.\n\n## What This Mod Does\n\n* tableSaw workstation works, incl progression and schematic in loot\n* [Trees](https://7daystodiemods.com/tag/7-days-to-die-trees/) drop woodLogs instead of woodResource\n* woodLogs, driftWood and Firewood pickupable  \n   * Tweaked direct drops from blocks above (cutting)  \n   * Blocks above can be saw in tableSaw\n* Removed Log recipe (just cut some tree)\n* Bushes drop Branches instad of wood  \n   * Branches dropped also from trees\n* LogSpike recipe + upgradeable  \n   * Client with icons, server with colored cone\n* WoodCube recipe\n* WindowPlate recipe\n* You can pickup all [spikes](https://7daystodiemods.com/tag/7-days-to-die-traps/) and barbed fence\n* Added CharCoal  \n   * Dropped by burned trees\n* Added Tree Sap  \n   * Often dropped by any tree (semi-random)  \n   * Some recipes as substitute for Animal Fat\n* Added Burning Log Spikes and recipes\n* Mines can be picked up\n* Removed recipe for burning log spike, instad its upgrade from Steel one, other types are downgrade from steel burning log spike\n* Branches as substitutes in primitive tools/weapons recipes and arrows. -NEW\n\n## Info\n\n* Its server-only friendly as it doesn’t have any assets\n* Client version works only for clients, not on server\n* Created for A20\n* Works in existing worlds, just existing tableSaws wont work (example in POI), need to place new one\n\n## Installation\n\nJust extract into Mods folder (create one if theres none)\n\n## Changelog\n\n* **v1.2.3:** Added recipes for primitive tools/weapons with new item (Bundled branches) as substitute for handle, added recipes for arrows from branches.\n* **v1.2.2:** Removed direct recipe for burning log spike, instead you need to upgrade from steel using Tree Sap.\n* **v1.2.1:** Quickfix of log spike.\n* **v1.2.0:** Some cleanup; added burning LogSpikes; added Tree Sap and recipes; added Charcoal and recipes; fixed sorting in tableSaw; branches from trees.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Cronosus/7dtd/tree/main/SawWood)** Client-side version (with icon)  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Cronosus/7dtd/tree/main/SawWoodS)** Server-side version (without icon)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27853-cronosuss-mods-~a17-a20/).\n\n**Credits:** [CronosusCZ](https://7daystodiemods.com/tag/cronosuscz/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Client-side version (with icon)",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Cronosus/7dtd/tree/main/SawWood",
+      "Version": "v19"
+    },
+    {
+      "Info": "Server-side version (without icon)",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Cronosus/7dtd/tree/main/SawWoodS",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27853-cronosuss-mods-~a17-a20/",
+  "modAuthors": [
+    "CronosusCZ"
+  ],
+  "modTags": [
+    "7 days to die recipes",
+    "7 days to die spikes",
+    "7 days to die traps",
+    "7 days to die trees",
+    "CronosusCZ"
+  ]
+}

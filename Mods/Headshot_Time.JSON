@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/headshot-time/",
+  "modCreatedTime": "2021-12-10T23:37:40+00:00",
+  "modLastUpdatedTime": "2022-02-25T18:56:29+00:00",
+  "modName": "Headshot Time",
+  "modImages": [],
+  "modShortDescription": "This mod aims to increase the headshot damage to be able to kill ordinary zombies with one bullet if shot in the head.",
+  "modDescription": "This mod aims to increase the headshot damage to be able to kill ordinary [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) with one bullet if shot in the head. This works for any damage that is considered piercing damage, bullets, arrows, (probably) spears, excluded are enemies that have armor.\n\n## Why?\n\nThere are a couple of reasons to why ZehMatt wanted it this way.\n\n1. Bullets and brains do not like each other, so when he shoot something that has a head that holds the brain in it and there is no magic involved and also has no protection then the [bullet](https://7daystodiemods.com/tag/7-days-to-die-ammo/) should be the last thing the enemy will see. So for him this is usually an immersion breaking thing when bullets seem to be as weak as throwing stones at them.\n2. The pacing of the game is a bit too slow. If you go with a silenced pistol and are a capable shooter this will change the entire pacing of the game, you can now pretend to be John Wick with precise shots.\n\n## Why Not XML?\n\nHe actually looked at doing it with XML but the damage system in this game is quite complex and he didn’t feel comfortable messing with those, he’s a coder and this was straight forward for him.\n\n## Installation (Client)\n\n1. Download the release\n2. Unpack the archive into “%STEAM\\_PATH%\\\\steamapps\\\\common\\\\7 Days to Die\\\\Mods” folder.\n3. Disable EAC, the mod will not load otherwise.\n4. Done\n\n## Installation (Server)\n\n1. Download the release\n2. Unpack the archive into “%STEAM\\_PATH%\\\\steamapps\\\\common\\\\7 Days to Die Dedicated Server\\\\Mods” folder.\n3. Done\n\n**NOTE:** If you install this on the server the clients will NOT need the mod.\n\n**[Download](https://github.com/ZehMatt/7dtd-HeadshotTime/releases/latest/download/HeadshotTime.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26017-a20-headshottime/).\n\n**Credits:** ZehMatt",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/ZehMatt/7dtd-HeadshotTime/releases/latest/download/HeadshotTime.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26017-a20-headshottime/",
+  "modAuthors": [
+    "ZehMatt"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die weapons",
+    "7 days to die zombies"
+  ]
+}

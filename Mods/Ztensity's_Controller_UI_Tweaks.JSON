@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/ztensitys-controller-ui-tweaks/",
+  "modCreatedTime": "2022-03-04T04:41:00+00:00",
+  "modLastUpdatedTime": "2022-03-04T11:47:04+00:00",
+  "modName": "Ztensity's Controller UI Tweaks",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-ztensitys-controller-ui-tweaks-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Gamepad Callouts Removal & LBRB Buttons Removal (Inspired by SMX UI Tweaks from A19)",
+  "modDescription": "Gamepad Callouts Removal & LBRB Buttons Removal (Inspired by SMX UI Tweaks from A19)\n\n## INTRODUCTION\n\nAfter playing with Sirillion’s SMX series in my own playthroughs, while also showcasing the UI overhaul alongside my own modlets like previous mods such as the Functional Elevator, Paintings & Posters and Unnecessarily Beautiful But Immersive, I had decided to put together a patch for SMX during A19\\. If you had used SMX like me, you knew that Sirillion had done a powerful job of overhauling and converting the Hud, Menu and general UI of 7 Days to Die to feel truly fresh and almost like a different game, especially when paired with other modlets like Custom Perks by Zuzul0l.\n\nNow, Sirillion’s SMX for Alpha 20 takes all the best things from Alpha 19’s version of SMX and makes everything that much better. Much of what the SMX UI Tweaks were, are now no longer needed. The only things that were left to remove were the left and right bumper popups and the gamepad callouts from the in-game menu hud while using a controller.\n\nNow, this mod no longer relies on SMX. However, this mod can increase immersion in both vanilla and the A20 version of SMX.\n\n## REQUIREMENTS\n\nThere is no requirement necessary. Simply download this modlet and place it into your mods folder.\n\nIf you are using Sirillion’s SMX mod series for A20, you may also install this mod. Keep in mind his requirements if you decide to get the entire series available, which include that you get SMXhud, SMXlib, SMXmenu, SMXui, ZMXhudCP and ZMXuiCP. You can also get ZMXhudCPTHB, if you want the target health bar as well. Download Sirillion’s SMX Series [here](https://7daystodiemods.com/tag/7-days-to-die-smx-mods/).\n\n**Note:** When downloading more than one SMX modlet, keep in mind that they all require SMXlib, but only one SMXlib modlet/folder is required to be in your “mods” folder for the series to work.\n\n## WHAT THIS MOD DOES\n\nIn short, this mod removes the left bumper (LB) and right bumper (RB) from the in-game menu hud, while also removing the gamepad callouts from the in-game menu [hud](https://7daystodiemods.com/tag/7-days-to-die-hud-mod/) as well, while using a controller. This in mind, this modlet is mostly for players who are familiar with the controller layout and want to increase immersion.\n\n## CLIENT VS. SERVER SIDE ONLY\n\nThis mod would be required for all players, regardless of solo play, multiplayer or if on a dedicated server to have installed for the UI changes to show.\n\n## SHOUT OUTS\n\nI want to continue thanking mod authors like Alloc, Sphereii, Sirillion, Guppy and Saminal for helping in past iterations of this mod, when it was SMX UI Tweaks.\n\nAs always, without Guppy’s Unofficial Discord for 7 Days to Die’s modding community, I wouldn’t be the modder I am today. Thank you, guys!\n\n**[Download](https://drive.google.com/file/d/1vj-KtCTplj5Q8HZHQ7JZeBtEy7jW_9Z_/view?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/28022-ztensitys-controller-ui-tweaks/).\n\n**Credits:** [Ztensity](https://7daystodiemods.com/tag/ztensity/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1vj-KtCTplj5Q8HZHQ7JZeBtEy7jW_9Z_/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/28022-ztensitys-controller-ui-tweaks/",
+  "modAuthors": [
+    "Ztensity"
+  ],
+  "modTags": [
+    "7 days to die hud mod",
+    "Ztensity"
+  ]
+}

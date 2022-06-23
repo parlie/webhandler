@@ -1,0 +1,23 @@
+{
+  "modURL": "https://7daystodiemods.com/jeos-fast-item-scraper/",
+  "modCreatedTime": "2022-06-08T19:49:50+00:00",
+  "modLastUpdatedTime": "2022-06-08T19:49:51+00:00",
+  "modName": "Jeos Fast Item Scraper",
+  "modImages": [],
+  "modShortDescription": "This mod only does one thing! It increases scraping speed by 10x, this applies to iron/brass/lead/clay/glass/wood.",
+  "modDescription": "This mod only does one thing!\n\nIt increases scraping speed by 10x, this applies to iron/brass/lead/clay/glass/wood.\n\nSince it was created as a patch, it should work with almost any other mod and should work for future 7d2d releases, unless they change something major.\n\nSince it contains only xml files, it’s EAC safe and server-side. no need for client to download it.\n\n**[Download](https://drive.google.com/file/d/1-j7FD7ID-n1pMEH3NbNFyk5Yu_a3OIJb/view?usp=sharing)**\n\n**Credits:** [Jeo](https://7daystodiemods.com/tag/jeo/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1-j7FD7ID-n1pMEH3NbNFyk5Yu_a3OIJb/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Jeo"
+  ],
+  "modTags": [
+    "Jeo"
+  ]
+}

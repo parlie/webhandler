@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/rangermod-arrows-bow-mods-a-spear-that-stabs/",
+  "modCreatedTime": "2022-02-20T02:07:00+00:00",
+  "modLastUpdatedTime": "2022-02-20T02:11:22+00:00",
+  "modName": "RangerMod - Arrows, Bow Mods, a Spear That Stabs",
+  "modImages": [],
+  "modShortDescription": "If you're looking for a realistic mod, look elsewhere. If you're looking for a fun mod that gives archery a little zip, then bingo.",
+  "modDescription": "As of version .3, this relatively small Alpha 20 mod features (TL;DR):\n\n* Eight new arrows (one utility, seven utility/offense)\n* Three new bows (they’re different from vanilla bows; recycled visual assets from vanilla)\n* Useful item descriptions (read them!)\n* Three new mods (two for [bows](https://7daystodiemods.com/tag/7-days-to-die-weapons/), one for chest armor)\n* Seven new books and various schematics\n* Bundles (bulk crafting) for the included arrows (also unlocked via perks)\n* Three spears you can stab with (stone/iron/steel) and can’t accidentally yeet across the map\n* Five quests\n* Fun\n\nIf you’re looking for a realistic mod, look elsewhere. If you’re looking for a fun mod that gives archery a little zip, then bingo. These items ([arrows](https://7daystodiemods.com/tag/7-days-to-die-ammo/), more specifically) are fairly powerful. Because of that, they can only be crafted, and they’re somewhat expensive to make. The bows also add new tactical options for players, allowing one to further refine the path they want to take as a wasteland ranger. The new spears make it so that you can use a spear and not be mocked by everyone because these spears don’t suck. Various other unique items to be found via quests.\n\n**Important note:** All this stuff (spears aside) is for bows; one of the item mods can be installed on the crossbow, that’s all. This is arrows, not bolts.\n\nKic has not tested this with multiplayer. It should work on a server. Install it on the server and clients, but note that it’s not balanced with multiplayer in mind. Also, the arrows more or less won’t do anything against players, at least, he doesn’t think they will.\n\n**NOTE:** This mod is for Alpha 20\\. It has not been tested on previous versions so he has no idea what it’ll break, if anything. Use at your own risk on previous versions.\n\nIf you want more info, there’s an obnoxiously long readme file in the zip and viewable on the [GitHub](https://github.com/kic99/RangerMod/blob/main/README.md) that explains pretty much everything.\n\n**NOTE part 2, the notening:** If you’re already using mods that add arrows and include them on the radial menu, you’re probably going to run into issues. RangerMod makes it so you have more than 10 arrows on the radial menu, but not enough to account for all of the other mods out there. Basically, use other archery mods at your own risk. Even if the combination of mods does technically work, some mods modify vanilla game items, meaning that you’re getting a weird combination of things that was never planned nor accounted for.\n\n**NOTE part 3, the renotening:** He has been updating the mod as he go and hasn’t yet broken his saved game, but you should back up yours just to be safe.\n\nTerrible (brief) video of some stuff the mod adds here:\n\n## Changelog\n\n* **_(new)_** Updated to version .3 Bug fixes and a bunch of new content added (books, quests, more weapons, more arrows, more other items).\n* Updated to version .2 Bug fixes and new bows added.\n\n**[Download](https://github.com/kic99/RangerMod/releases/download/v.3/RangerMod-kic-v.3.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27159-rangermod-arrows-bow-mods-a-spear-that-stabs-and-some-day-more/).\n\n**Credits:** Kic",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/kic99/RangerMod/releases/download/v.3/RangerMod-kic-v.3.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27159-rangermod-arrows-bow-mods-a-spear-that-stabs-and-some-day-more/",
+  "modAuthors": [
+    "Kic"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die melee weapons",
+    "7 days to die weapons"
+  ]
+}

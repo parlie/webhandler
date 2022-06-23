@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/hang-glider-mod/",
+  "modCreatedTime": "2021-12-30T17:21:00+00:00",
+  "modLastUpdatedTime": "2022-04-25T18:33:47+00:00",
+  "modName": "Hang Glider Mod",
+  "modImages": [],
+  "modShortDescription": "Place on a flat piece of high ground or close to edge of a building roof with space for take off. Press E to mount glider and the glider takes off...",
+  "modDescription": "## Glider Launch\n\nPlace on a flat piece of high ground or close to edge of a building roof with space for take off.\n\n## Information\n\nPress E to mount glider and the glider takes off…\n\nWhen airbourne C becomes tilt forward and spacebar is tiltback… excessive tiltback with spacebar may flip the Glider over or around this is normal as trying to do a loop or sharp turn in a real hang glider could prove fatal.\n\nWhilst airbourne you can let go of W and use the A and D controls (strafe) and mouse to steer down to earth… or for sustaining longer flights you need to use the spacebar to tiltback to maintain height for as long as you can (remember that doing tiltback to excess may flip the [glider](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) over so be warned).\n\nWhen landing press E to dismount or spacebar to stop glider… and then pickup the glider for your next adventure.\n\n## Crafting\n\nThe Glider is craftable in a standard workbench with no progression needed as this is something you could make in early game at the cost of resources and actually finding a working workbench.\n\nFinding a workbench in early game would be a bonus and allow you to make the Glider a lot sooner.\n\nThe recipe is simple and uses in game resources.\n\n**Important Note:** If you want to include any of his vehicle mods or other mods in a ‘mod overhaul’ please do him the courtesy of asking for permission first… when given you must give the due credit to himself and any other modders that may be credited under the “Credits & Additional Credits” sections if any. Also you are not allowed to extract any unity files without his permission either, if there has been an alpha change then wait and files will be updated for the new alpha version as soon as he possibly can. Thank you!\n\n## Changelog\n\n**Version 2**\n\n1. Converted to A20 XML\n2. Remade the Unity File to include harness\n3. Small adjustments to physics and the camera distance\n4. One vehicle mod option for vlight added\n\n**[Download](https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Hang_Gliding_%20Modlet_A20)** for A20  \n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Hang%20Gliding%20Modlet)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)  \n_Additional Credits:_ Guppycur",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Hang_Gliding_%20Modlet_A20",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Hang%20Gliding%20Modlet",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145Additional Credits: Guppycur"
+  ],
+  "modTags": [
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

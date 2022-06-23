@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/r6-siege-desert-eagle-over-desert-vulture/",
+  "modCreatedTime": "2022-04-30T03:21:00+00:00",
+  "modLastUpdatedTime": "2022-04-30T03:25:55+00:00",
+  "modName": "R6 Siege Desert Eagle Over Desert Vulture",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/04/7-days-to-die-r6-siege-desert-eagle-over-desert-vulture-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/04/7-days-to-die-r6-siege-desert-eagle-over-desert-vulture-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/04/7-days-to-die-r6-siege-desert-eagle-over-desert-vulture-additional-screenshot-3.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/04/7-days-to-die-r6-siege-desert-eagle-over-desert-vulture-additional-screenshot-4.jpg"
+  ],
+  "modShortDescription": "Model swap of the desert vulture and all attachments (except flashlight). DLX weapons fix inspired Sight/Scope that doesn't use crosshair/overlay image.",
+  "modDescription": "Model swap of the desert vulture and all attachments (except flashlight).\n\n[DLX weapons fix](https://7daystodiemods.com/dlx-weapons-fix-aligned-sights-aiming-directly-from-the-scope-and-more/) inspired Sight/Scope that doesn’t use crosshair/overlay image. Might make a version that uses normal aiming if people would like to see that.\n\n**[Download](https://drive.google.com/file/d/1GN4ZsBnTLCR4GDbhO0JhLgF8q5RZjAMv/view?usp=sharing)**\n\n**Credits:** Your lord Adam, Ubisoft (for models), Xyth (for template project), DanyEr12LX",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1GN4ZsBnTLCR4GDbhO0JhLgF8q5RZjAMv/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Your lord Adam",
+    "Ubisoft (for models)",
+    "Xyth (for template project)",
+    "DanyEr12LX"
+  ],
+  "modTags": [
+    "7 days to die weapons"
+  ]
+}

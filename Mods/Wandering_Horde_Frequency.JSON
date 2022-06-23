@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/wandering-horde-frequency/",
+  "modCreatedTime": "2021-12-05T11:26:00+00:00",
+  "modLastUpdatedTime": "2022-03-03T13:48:01+00:00",
+  "modName": "Wandering Horde Frequency",
+  "modImages": [],
+  "modShortDescription": "Folks may know this from JaWoodle's \"Anywhere, Anytime\" series. It creates random wandering hordes, of a random amount of zombies, a random amount of times per day.",
+  "modDescription": "Folks may know this from JaWoodle’s “Anywhere, Anytime” series. It creates random wandering hordes, of a random amount of [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/), a random amount of times per day. How often (in terms of in-game hours) and how many zombies are configurable in the blocks.xml included in the mod. **IMPORTANT NOTE:** The wandering horde mod is only for vanilla! It is not for DF.\n\nThis is a C# Mod (cannot be server only, EAC must be off!).\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsHarmony/tree/main/KHA20-WanderingHordePatch)**\n\nIf you appreciate KhaineGB’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/khainegb).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsHarmony/tree/main/KHA20-WanderingHordePatch",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "KhaineGB"
+  ]
+}

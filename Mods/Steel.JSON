@@ -1,0 +1,36 @@
+{
+  "modURL": "https://7daystodiemods.com/steel/",
+  "modCreatedTime": "2022-05-23T20:58:00+00:00",
+  "modLastUpdatedTime": "2022-05-23T21:29:14+00:00",
+  "modName": "Steel",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-steel-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-steel-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "Lots of useless steel parts not worth selling? Then just use them to get some steel for something more useful.",
+  "modDescription": "Lots of useless steel parts not worth selling? Then just use them to get some steel for something more useful.\n\n## What This Mod Does\n\n* New category in Forge “Steel”\n* Parts can be recrafted info Steelscrap/Ironscrap (depends on type)  \n   * Steelscrap can be melted in forge\n* Iron and Steel [arrows](https://7daystodiemods.com/tag/7-days-to-die-ammo/) can be recrafted into arrowheads\n* Parts craftable in forge (separated version)\n* Crafrable Beaker\n\n## Changelog\n\n* **v1.0.1:** Fixed scrapping of steel items\n* **v1.0.0:** Created\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Cronosus/7dtd/tree/main/Steel)** Crafftable Parts  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Cronosus/7dtd/tree/main/SteelNP)** Parts Not Craftable\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27853-cronosuss-mods-~a17-a20/).\n\n**Credits:** [CronosusCZ](https://7daystodiemods.com/tag/cronosuscz/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Crafftable Parts",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Cronosus/7dtd/tree/main/Steel",
+      "Version": "v19"
+    },
+    {
+      "Info": "Parts Not Craftable",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Cronosus/7dtd/tree/main/SteelNP",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27853-cronosuss-mods-~a17-a20/",
+  "modAuthors": [
+    "CronosusCZ"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die building materials",
+    "7 days to die melee weapons",
+    "7 days to die weapons",
+    "CronosusCZ"
+  ]
+}

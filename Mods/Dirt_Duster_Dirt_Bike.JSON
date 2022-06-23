@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/dirt-duster-dirt-bike/",
+  "modCreatedTime": "2022-03-16T02:13:57+00:00",
+  "modLastUpdatedTime": "2022-05-11T18:41:00+00:00",
+  "modName": "Dirt Duster Dirt Bike",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-dirt-duster-dirt-bike-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-dirt-duster-dirt-bike-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-dirt-duster-dirt-bike-additional-screenshot-3.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-dirt-duster-dirt-bike-additional-screenshot-4.jpg"
+  ],
+  "modShortDescription": "Introducing The Dirt Duster a new, compact dirt bike. The Dirt Duster is great for off road courses, known for cutting corners and making sharp turns.",
+  "modDescription": "Introducing The Dirt Duster a new, compact dirt [bike](https://7daystodiemods.com/tag/7-days-to-die-motorcycle/).\n\nThe Dirt Duster is great for off road courses, known for cutting corners and making sharp turns.\n\nAn easy way to get around especially when riding on hills, youre sure to make great leaps and reach great heights.\n\nThis hoppy little thing is the dirt bike of Alpha 20 brought to you by The A-Team.\n\n* **Vehicle Name:** [Dirt cross bike](https://sketchfab.com/3d-models/cross-bikes-1419a469bcc14c4ca369836f71348223) by irs1182 is licensed under Creative Commons Attribution.\n* **3D Model Artists Name:** [irs1182](https://sketchfab.com/irs1182)\n* All Models in this mod are subject to [creative commons licence](https://creativecommons.org/licenses/by/4.0/).\n\nNo Models have been altered from the ‘original creator’ they are set up with appropriate lighting shader in unity for 7 Days to Die game.\n\nMod’s that add new assets must be installed on both server and client.\n\n**Important Note:** If you want to include any of their mods in your overhaul please do them the courtesy of asking for permission first. When given you must give the due credit to the authors and any other modders that may be credited under the Additional Credits section if any. Also you are not allowed to extract any unity files without their permission either, if there has been an alpha change then wait and files will be updated. For the new alpha version as soon as they possibly can. Thank You!\n\n**[Download](https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/Dirt%20Duster.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27991-the-a-team-modlets/).\n\n**Credits:** [ActiniumTiger](https://7daystodiemods.com/tag/actiniumtiger/), Ragsy",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/Dirt%20Duster.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27991-the-a-team-modlets/",
+  "modAuthors": [
+    "ActiniumTiger",
+    "Ragsy"
+  ],
+  "modTags": [
+    "7 days to die bike",
+    "7 days to die motorcycle",
+    "7 days to die vehicles",
+    "ActiniumTiger"
+  ]
+}

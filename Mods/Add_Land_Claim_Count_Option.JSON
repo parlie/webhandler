@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/add-land-claim-count-option/",
+  "modCreatedTime": "2022-05-28T18:05:00+00:00",
+  "modLastUpdatedTime": "2022-05-28T18:09:19+00:00",
+  "modName": "Add Land Claim Count Option",
+  "modImages": [],
+  "modShortDescription": "This adds an option to the menu for Land Claim Count with options '1, 2, 3, 4, 5, 10, 20, 25, 50, 100, 150, 200' as Land Claim Block Count choices on the Multiplayer Tab with the rest of the Land Claim options.",
+  "modDescription": "This adds an option to the [menu](https://7daystodiemods.com/tag/7-days-to-die-menu/) for Land Claim Count with options ‘1, 2, 3, 4, 5, 10, 20, 25, 50, 100, 150, 200’ as Land Claim Block Count choices on the Multiplayer Tab with the rest of the Land Claim options.\n\nThese options are also added as available filter choices in the server browser.\n\n## Changelog\n\nFixed Land Claim Count display after search has completed & selecting server.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/RELXIX-7DTD/A20_XML_Modlets/tree/main/RELXIX_UIMENU_AddLandClaimCountOption)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25785-relxix-a20-xml-modlets/).\n\n**Credits:** [Red Eagle LXIX](https://7daystodiemods.com/tag/red-eagle-lxix/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/RELXIX-7DTD/A20_XML_Modlets/tree/main/RELXIX_UIMENU_AddLandClaimCountOption",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25785-relxix-a20-xml-modlets/",
+  "modAuthors": [
+    "Red Eagle LXIX"
+  ],
+  "modTags": [
+    "7 days to die menu",
+    "Red Eagle LXIX"
+  ]
+}

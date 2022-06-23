@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/underwater-breathing-diving-mask/",
+  "modCreatedTime": "2022-05-10T20:37:15+00:00",
+  "modLastUpdatedTime": "2022-05-10T20:37:16+00:00",
+  "modName": "Underwater Breathing Diving Mask",
+  "modImages": [],
+  "modShortDescription": "For when you need to build underwater without drowning, this crafted diving mask keeps you oxygenated and somewhat warm under the surface.",
+  "modDescription": "For when you need to build underwater without drowning, this crafted diving mask keeps you oxygenated and somewhat warm under the surface.\n\nTiny server-side modlet. The [mask](https://7daystodiemods.com/tag/7-days-to-die-clothing/) does not require any perks, books or workbench to craft. It looks like a hazmat mask when worn. Very dashing.\n\n**[Download](https://github.com/CupOfTeal/UnderWaterBreathingDivingMask/archive/refs/heads/main.zip)**\n\n**Credits:** [Khym](https://7daystodiemods.com/tag/khym/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/CupOfTeal/UnderWaterBreathingDivingMask/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Khym"
+  ],
+  "modTags": [
+    "7 days to die clothing",
+    "Khym"
+  ]
+}

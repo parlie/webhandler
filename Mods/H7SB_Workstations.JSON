@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/h7sb-workstations/",
+  "modCreatedTime": "2022-04-28T13:18:00+00:00",
+  "modLastUpdatedTime": "2022-05-31T21:12:00+00:00",
+  "modName": "H7SB Workstations",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/04/7-days-to-die-h7sb-mods-yt.jpg"
+  ],
+  "modShortDescription": "H7SB Workstations is a server-side mod that contains some new and colored variants of all vanilla workstations.",
+  "modDescription": "H7SB Workstations is a server-side mod that contains some new and colored variants of all vanilla workstations.\n\nThis mod has additional modules that can be optionally activated.\n\n## Rainbow Workstations\n\nAll workstations (except campfire) are available in 12 further color variations.\n\nThese can be selected via a helper block by holding down the “R” button.\n\nNew Forge Variante (12 Colors)\n\nNew Chemistry Station Variantes\n\n## New Kitchen Blocks\n\nThese recipes are learnable via chef perk (1).\n\n* Stoves (2) / Visual improved campfire.\n* Grill / Can only make food.\n* Smoker / Can only make smoked meat.\n* Coffe Machines (2) / Can only make drinks.\n* Toaster / Can only toast bread.\n* Ice Machine / Can only make snowballs.\n\n## Reworked Snow\n\nSnow terrain gives max. 9 snow at harvest.\n\nTo make water you need 3 snowballs.\n\nWhen you snowball a player, his vision is briefly impaired.\n\n## Optional: Modules\n\n* “jWorkstations(CustomRecipes)” Hook to add custom recipes for smoker and toaster.\n* “xWorkstations(3SlotForge)” Increases forge slots.\n\nLeave a thumbs up on the mod (youtube) you like to ensure that it gets an update for A21\\. Mods (youtube) with less thumbs up may be depreciated or deleted.\n\n## Mod Installation\n\n1. Download and unpack (“extract here”) the Zip data.\n2. Place it into your “Mods” folder.\n3. Have fun!\n\n## Module Installation\n\n1. Go inside the h7sb mod folder.\n2. Copy & paste (NOT drag & drop) the module you like into the main “Mods” folder.\n3. Have fun!\n\n## Copyrights: Attribution-NonCommercial-NoDerivatives 4.0 International\n\n* You are allowed to use this mod for your private use (singleplayer/multiplayer/server).\n* You are allowed to use this mod as part of your custom modpack (as separated mod).\n* You are not allow to reupload it without permission (exception mentioned)!\n* Of cause your allow to take inspiration to improve your existing code!\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Workstations)**\n\nIf you appreciate Eihwaz’s work and you want to show support, use this [donate link](https://streamlabs.com/eihwazde/tip).\n\nIf you need help, you can use this [support link](https://discord.com/invite/StrFn7X).\n\n**Credits:** [Eihwaz](https://7daystodiemods.com/tag/eihwaz/), AgentRain, Khaine",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Workstations",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Eihwaz",
+    "AgentRain",
+    "Khaine"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die drinks",
+    "7 days to die food",
+    "Eihwaz"
+  ]
+}

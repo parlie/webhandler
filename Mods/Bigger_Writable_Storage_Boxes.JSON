@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/bigger-writable-storage-boxes/",
+  "modCreatedTime": "2022-03-02T17:20:00+00:00",
+  "modLastUpdatedTime": "2022-03-02T17:22:59+00:00",
+  "modName": "Bigger Writable Storage Boxes",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-bigger-writable-storage-boxes-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Adds a Writable Storage Box tier 2, which has more storage at a slightly higher resource cost. The original Writable Storage Box is still there, unchanged.",
+  "modDescription": "Adds a Writable Storage Box tier 2, which has more [storage](https://7daystodiemods.com/tag/7-days-to-die-storage/) at a slightly higher resource cost. The original Writable Storage Box is still there, unchanged.\n\n**[Download](https://github.com/Alyssuu/Bigger-Writable-Storage-Boxes/raw/main/Alyssas%20scuffed%20storage%20VANILLA.zip)** Vanilla version with 100 slots _(recommended)_  \n**[Download](https://github.com/Alyssuu/Bigger-Writable-Storage-Boxes-DF/raw/main/Alyssas%20scuffed%20storage%20DF.zip)** Version for Darkness Falls _(it has 120 slots so its exactly the same size as the “lockables” there, do not use in vanilla, it will not work.)_\n\n**Credits:** Alyssa, Everyone who helped me from Guppy’s modding Discord",
+  "modDownloadURLs": [
+    {
+      "Info": "Vanilla version with 100 slots (recommended)",
+      "URL": "https://github.com/Alyssuu/Bigger-Writable-Storage-Boxes/raw/main/Alyssas%20scuffed%20storage%20VANILLA.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Version for Darkness Falls (it has 120 slots so its exactly the same size as the “lockables” there, do not use in vanilla, it will not work.)",
+      "URL": "https://github.com/Alyssuu/Bigger-Writable-Storage-Boxes-DF/raw/main/Alyssas%20scuffed%20storage%20DF.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Alyssa",
+    "Everyone who helped me from Guppy’s modding Discord"
+  ],
+  "modTags": [
+    "7 days to die storage"
+  ]
+}

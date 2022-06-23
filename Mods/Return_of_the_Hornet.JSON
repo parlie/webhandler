@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/return-of-the-hornet/",
+  "modCreatedTime": "2022-05-17T07:39:00+00:00",
+  "modLastUpdatedTime": "2022-05-17T07:51:45+00:00",
+  "modName": "Return of the Hornet",
+  "modImages": [],
+  "modShortDescription": "Adds the cut hornet from A15 (and earlier) back to the game. Spawns as an enemy animal in the forest biome. Does not spawn on horde nights.",
+  "modDescription": "Adds the cut hornet from A15 (and earlier) back to the game. Spawns as an enemy [animal](https://7daystodiemods.com/tag/7-days-to-die-animals/) in the forest biome. Does not spawn on horde nights.\n\n## Changelog\n\nLocalization fixes.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsXML/tree/main/KHA20-Hornet)** for A20  \n**[Download](https://gitlab.com/KhaineGB/khaines-modlets-a19/-/archive/master/khaines-modlets-a19-master.zip?path=KHA19-Hornet)** for A19\n\nIf you appreciate KhaineGB’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/khainegb).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsXML/tree/main/KHA20-Hornet",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/KhaineGB/khaines-modlets-a19/-/archive/master/khaines-modlets-a19-master.zip?path=KHA19-Hornet",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die zombies",
+    "KhaineGB"
+  ]
+}

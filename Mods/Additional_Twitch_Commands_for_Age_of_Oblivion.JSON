@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/additional-twitch-commands-for-age-of-oblivion/",
+  "modCreatedTime": "2021-11-17T23:18:00+00:00",
+  "modLastUpdatedTime": "2022-05-11T07:32:17+00:00",
+  "modName": "Additional Twitch Commands for Age of Oblivion",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/11/7-days-to-die-additional-twitch-commands-for-age-of-oblivion-additional-screenshot-1b.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/11/7-days-to-die-additional-twitch-commands-for-age-of-oblivion-additional-screenshot-2b.jpg"
+  ],
+  "modShortDescription": "Adds commands for Age of Oblivion mod. Localized in English and Japanese.",
+  "modDescription": "Adding the following commands for [Age of Oblivion](https://7daystodiemods.com/age-of-oblivion/) mod. Localized in English and Japanese.\n\n```\n#spawn_animalGuard:Spawn Oblivion AnimalGuard\n#spawn_humanGuard:Spawn Oblivion HumanGuard\n#spawn_juggernaut:Spawn Oblivion Juggernaut\n#spawn_nightWatcher1:Spawn Night Watcher A\n#spawn_nightWatcher2:Spawn Night Watcher B\n#spawn_nightWatcher3:Spawn Night Watcher C\n#spawn_nightWatcher4:Spawn Night Watcher D\n#spawn_totem1:Spawn Oblivion Tier1 Totem\n#spawn_totem2:Spawn Oblivion Tier2 Totem\n#spawn_totem3:Spawn Oblivion Tier3 Totem\n#spawn_wendigo:Spawn Oblivion Wendigo\n#spawn_westland:Spawn Oblivion Westland Entity\n#spawn_zombieGuard:Spawn Oblivion ZombieGuard\n#spawn_zombieGuardF:Spawn Oblivion ZombieGuard Feral\n#spawn_zombieGuardR:Spawn Oblivion ZombieGuard Radiated\n```\n\nAlso available command [copy tool](https://7daystodie.net/doku.php?id=menu_special_tools:twitch_command_tool_aoo:list) in our website.\n\nFor Twitch Streamers, we support to develop, modify your Twitch integration. Please visit our Steam group(Support link) and tell us what do you want.\n\n## Changelog\n\n**Version 1.1**\n\nCompatible with Age of Oblivion A3.0 version.\n\n**[Download](https://github.com/7DaystoDie-JP/Additional-Twitch-Commands-for-Age-of-Oblivion/archive/refs/heads/main.zip)**\n\nIf you need help, you can use this [support link](https://discord.com/invite/wkHPjEj7ry).\n\n**Credits:** [7 Days to Die Gaming Community Japan](https://7daystodiemods.com/tag/7-days-to-die-gaming-community-japan/), Ritoni",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/7DaystoDie-JP/Additional-Twitch-Commands-for-Age-of-Oblivion/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "7 Days to Die Gaming Community Japan",
+    "Ritoni"
+  ],
+  "modTags": [
+    "7 Days to Die Gaming Community Japan"
+  ]
+}

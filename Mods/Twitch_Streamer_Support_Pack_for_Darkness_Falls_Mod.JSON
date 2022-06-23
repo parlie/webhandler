@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/twitch-streamer-support-pack-for-darkness-falls-mod/",
+  "modCreatedTime": "2022-05-22T20:58:00+00:00",
+  "modLastUpdatedTime": "2022-05-22T21:43:04+00:00",
+  "modName": "Twitch Streamer Support Pack for Darkness Falls Mod",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-twitch-streamer-support-pack-for-darkness-falls-mod-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Added several contents for Twitch streamer who are playing Darkness Falls Mod.",
+  "modDescription": "Added several contents for Twitch streamer who are playing [Darkness Falls Mod](https://7daystodiemods.com/darkness-falls-mod/).\n\n## Contents\n\nAdded Twitch integration commands for Darkness Falls Mod. Added Special supply box for Darkness Falls Mod.\n\n* #supply\\_gachabox: Free supply box to streamer once a day. There are 7 of rarity.\n* #survivor: Spawn survivors. They maybe or may not be helped you…\n* #minihorde Tier1 to 6: Spawn zombie waves. Zombie waves maybe increased depends on your game stage.\n\n## Future Updates\n\n* Review/Update Twitch integration commands\n* Review/Update Special supply box\n\n**Please Note:** Mini Horde Tier2 to 6 are disabled by default. Please streamer enable them if needed.\n\n**[Download](https://github.com/7DaystoDie-JP/Twitch_Streamer_Support_Pack_for_Darkness_Falls_Mod/archive/refs/heads/main.zip)**\n\nIf you need help, you can use this [support link](https://discord.gg/bdW6msJ6M2).\n\n**Credits:** [7 Days to Die Gaming Community Japan](https://7daystodiemods.com/tag/7-days-to-die-gaming-community-japan/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/7DaystoDie-JP/Twitch_Streamer_Support_Pack_for_Darkness_Falls_Mod/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "7 Days to Die Gaming Community Japan"
+  ],
+  "modTags": [
+    "7 Days to Die Gaming Community Japan"
+  ]
+}

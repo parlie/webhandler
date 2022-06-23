@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/lawn-mower/",
+  "modCreatedTime": "2022-06-12T16:36:00+00:00",
+  "modLastUpdatedTime": "2022-06-12T16:39:36+00:00",
+  "modName": "Lawn Mower",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/06/7-days-to-die-lawn-mower-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/06/7-days-to-die-lawn-mower-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/06/7-days-to-die-lawn-mower-additional-screenshot-3.jpg"
+  ],
+  "modShortDescription": "Do you hate manually punching all the grass around your base? Well then the ride on lawn mower is a perfect vehicle for you. Cut all the grass around your base with ease!",
+  "modDescription": "This mod adds a ride on lawn mower that can cut grass.\n\nDo you hate manually punching all the grass around your base? Well then the ride on lawn mower is a perfect [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) for you. Cut all the grass around your base with ease!\n\nThe lawn mower blades can be turned on by pressing F, and it will cut any grass you drive over. It can be unlocked by grease monkey level 4 or by schematics.\n\n## Features\n\n* Grass cutting functionality\n* Can be dyed\n\nSpecial thanks to ocbMaurice for the grass cutting code. Tested and working for A20.5\n\n**IMPORTANT NOTE:** This mod needs to be installed on both client and server for multiplayer. This is a C# mod so **EAC must be OFF**.\n\n**[Download](https://gitlab.com/Zilox/A20Modlets/-/archive/main/A20Modlets-main.zip?path=Lawn%20Mower)**\n\nIf you appreciate Zilox’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/zilox135).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/29115-lawn-mower/).\n\n**Credits:** [Zilox](https://7daystodiemods.com/tag/zilox/), ocbMaurice",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/Zilox/A20Modlets/-/archive/main/A20Modlets-main.zip?path=Lawn%20Mower",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/29115-lawn-mower/",
+  "modAuthors": [
+    "Zilox",
+    "ocbMaurice"
+  ],
+  "modTags": [
+    "7 days to die tools",
+    "7 days to die vehicles",
+    "Zilox"
+  ]
+}

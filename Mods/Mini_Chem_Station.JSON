@@ -1,0 +1,21 @@
+{
+  "modURL": "https://7daystodiemods.com/mini-chem-station/",
+  "modCreatedTime": "2022-04-30T18:21:24+00:00",
+  "modLastUpdatedTime": "2022-04-30T19:36:27+00:00",
+  "modName": "Mini Chem Station",
+  "modImages": [],
+  "modShortDescription": "Creates a table top chem station. 1 block. No fuel is used. (Runs on Candles, which are ingredients for creation.) Uses all native resources.",
+  "modDescription": "Creates a table top chem station. 1 block. No fuel is used. (Runs on Candles, which are ingredients for creation.) Uses all native resources. Works local and dedicated server. Does not have to be installed on client for server deployment.\n\n**[Download](https://drive.google.com/file/d/11wcCBqCJQjueDLpyllFDnaLWi9xpr863/view?usp=sharing)**\n\n**Credits:** ptfrpg",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/11wcCBqCJQjueDLpyllFDnaLWi9xpr863/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "ptfrpg"
+  ],
+  "modTags": []
+}

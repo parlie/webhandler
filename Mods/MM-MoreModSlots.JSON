@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/mm-moremodslots/",
+  "modCreatedTime": "2022-06-20T00:27:19+00:00",
+  "modLastUpdatedTime": "2022-06-20T00:27:47+00:00",
+  "modName": "MM-MoreModSlots",
+  "modImages": [],
+  "modShortDescription": "Dead simple modlet that increased the number of mod slots of an item to match the item level. Level 5 shotgun? 5 mod slots. That kind of thing.",
+  "modDescription": "Dead simple modlet that increased the number of mod slots of an item to match the item level. Level 5 shotgun? 5 mod slots. That kind of thing.\n\n**NOTE!** This only affects NEWLY ACQUIRED items. Find a new [shotgun](https://7daystodiemods.com/tag/7-days-to-die-weapons/)? It will have a right number of mod slots. Have one in a box? It will have the OLD number of mod slots. Buy one from a trader before a re-stock? Old number.\n\nAs long as you find, or craft a new item after installing this mod it will have the increased number of [slots](https://7daystodiemods.com/tag/7-days-to-die-more-slots/). If you start a new game with the mod installed then of course you won’t have to worry about it because every item will be created after the mod was active.\n\n**[Download](https://drive.google.com/file/d/1cqiBnR1Z1pqfNgmIsdM_p0AFPxJhmMjn/view?usp=sharing)**\n\n**Credits:** [ModMangler](https://7daystodiemods.com/tag/modmangler/) and all of the brave modders before me. 🙂",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1cqiBnR1Z1pqfNgmIsdM_p0AFPxJhmMjn/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "ModMangler and all of the brave modders before me. 🙂"
+  ],
+  "modTags": [
+    "7 days to die melee weapons",
+    "7 days to die more slots",
+    "7 days to die weapons",
+    "ModMangler"
+  ]
+}

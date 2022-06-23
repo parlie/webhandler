@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/ak47-auto-turret/",
+  "modCreatedTime": "2022-03-17T17:26:14+00:00",
+  "modLastUpdatedTime": "2022-03-17T17:26:15+00:00",
+  "modName": "AK47 Auto Turret",
+  "modImages": [],
+  "modShortDescription": "Adds a buildable / buyable auto turret that uses 7.62 HP ammo.",
+  "modDescription": "Adds a buildable / buyable auto turret that uses 7.62 HP ammo.\n\nIt has longer range and more damage than the vanilla game 9mm [auto turret](https://7daystodiemods.com/tag/7-days-to-die-traps/), but within the parameters of the game as not to be overpowering.\n\nShould be compatible with any other mods.\n\n## Installation\n\nSimply unzip into main … 7daystodie / Mods … folder as any other simple mod. If u have no Mods folder under main game directory, simply create one and unzip it there so it ends up like … <game folder> / Mods / <MyMod>\n\nEnjoy!\n\n**[Download](https://drive.google.com/file/d/1kgnJIviVCgFBztnKtN0i_4k4158Z260s/view?usp=sharing)**\n\n**Credits:** [Furious Angel](https://7daystodiemods.com/tag/furious-angel/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1kgnJIviVCgFBztnKtN0i_4k4158Z260s/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Furious Angel"
+  ],
+  "modTags": [
+    "7 days to die traps",
+    "7 days to die weapons",
+    "Furious Angel"
+  ]
+}

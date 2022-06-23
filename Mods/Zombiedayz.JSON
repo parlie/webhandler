@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/zombiedayz/",
+  "modCreatedTime": "2022-02-09T06:48:00+00:00",
+  "modLastUpdatedTime": "2022-02-09T06:59:17+00:00",
+  "modName": "Zombiedayz",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/07/7-days-to-die-zombiedayz-additional-screenshot-1a.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/07/7-days-to-die-zombiedayz-additional-screenshot-2a.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/07/7-days-to-die-zombiedayz-additional-screenshot-3a.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/07/7-days-to-die-zombiedayz-additional-screenshot-4a.jpg"
+  ],
+  "modShortDescription": "The time has come for our Zombiedayz Mod to be stable on A20.2 and can also be used for A20/A20.1./A20.2.",
+  "modDescription": "The time has come for our Zombiedayz Mod to be stable on A20.2 and can also be used for A20/A20.1./A20.2.\n\nIt has become a little different and offers players a lot of fun and entertainment.\n\nThanks to the new [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/), many new decorative items that make building more beautiful, also many new workbenches that make crafting much easier for you. But [farming](https://7daystodiemods.com/tag/7-days-to-die-farming/) should also help you to make life much better. We put a lot of work into the mod and we hope you enjoy it.\n\nPlease keep in mind, the mod is not 100% finished yet and there could still be some bugs, which we are gradually fixing. This is the first own mod where we hardly have any mods from other modders. Of course we got a lot of help from the other modders, without them it would never have been possible. But we’re getting better and better and we’re doing our best.\n\nYou can download the mod via this link, it is local and at the same time intended for the server. We also offer you a large 10K [map](https://7daystodiemods.com/tag/7-days-to-die-maps/) that you can use under World. We keep working on this mod and hope to bring you another update soon.\n\n**[Download](https://dev.azure.com/DeftCHIMP/_git/Zombiedayz-A20)**\n\nIf you appreciate Sechsterversuch’s work and you want to show support, use this [donate link](https://www.paypal.me/7daysserver584).\n\nIf you need help, you can use this [support link](https://discord.gg/eHC8PREwnn).\n\n**Credits:** [Sechsterversuch](https://7daystodiemods.com/tag/sechsterversuch/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://dev.azure.com/DeftCHIMP/_git/Zombiedayz-A20",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Sechsterversuch"
+  ],
+  "modTags": [
+    "7 days to die farming",
+    "7 days to die maps",
+    "7 days to die zombies",
+    "Sechsterversuch"
+  ]
+}

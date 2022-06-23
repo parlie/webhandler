@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/quickstack/",
+  "modCreatedTime": "2022-04-16T18:20:31+00:00",
+  "modLastUpdatedTime": "2022-04-16T18:20:32+00:00",
+  "modName": "Quickstack",
+  "modImages": [],
+  "modShortDescription": "Enables the player to quickly deposit items from their inventory to nearby containers without the need to open them. The range is currently 7 blocks in each direction.",
+  "modDescription": "Current version: 1.5.1\n\nEnables the player to quickly deposit items from their inventory to nearby containers without the need to open them. The range is currently 7 blocks in each direction i.e. 15x15x15 area cenetered on the player. The player can also press Left Alt + X to trigger the same functionality.\n\nEnables the player to quickly restock items from nearby [containers](https://7daystodiemods.com/tag/7-days-to-die-storage/) to their inventory without the need to open them. The range is currently 7 blocks in each direction i.e. 15x15x15 area cenetered on the player. The player can also press Left Alt + Z to trigger the same functionality.\n\nEnables the player to lock specific slots by holding Left Alt and left clicking on the desired slot.\n\n**[Download](https://drive.google.com/file/d/1wv_xGVb6OHYlBoBdmtGpPIiLIOub6Y9L)** from Google Drive  \n**[Download](https://github.com/Westwud1/QuickStack/archive/refs/heads/master.zip)** from GitHub (with source code)\n\n**Credits:** Westwud",
+  "modDownloadURLs": [
+    {
+      "Info": "from Google Drive",
+      "URL": "https://drive.google.com/file/d/1wv_xGVb6OHYlBoBdmtGpPIiLIOub6Y9L",
+      "Version": "v19"
+    },
+    {
+      "Info": "from GitHub (with source code)",
+      "URL": "https://github.com/Westwud1/QuickStack/archive/refs/heads/master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Westwud"
+  ],
+  "modTags": [
+    "7 days to die storage"
+  ]
+}

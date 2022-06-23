@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/youve-got-mail/",
+  "modCreatedTime": "2022-03-12T20:53:00+00:00",
+  "modLastUpdatedTime": "2022-03-12T21:58:05+00:00",
+  "modName": "You've Got Mail",
+  "modImages": [],
+  "modShortDescription": "This mod adds a bunch of fun items into the game that you can find in places where mail would be found (mailboxes, desks, dressers, trash).",
+  "modDescription": "This mod adds a bunch of “fun” items into the game that you can find in places where mail would be found (mailboxes, desks, dressers, trash) or “personal/people items” in order to add a bit of backstory to the residents of the city, the outbreak and fall of civilization, and a bit of much needed whimsy.\n\nThis mod can be slightly NSFW at times. If you’re using the “No Potty Mouth” or similar mods you might want to edit out a few items.\n\n**This mod is purposefully made for/to:**\n\n1. Servers/clients: To not require any custom graphics/sounds/items so at times you may have to be a bit imaginative. When TFP allows icons/graphics suncing in mods maybe he’ll add some.\n2. Loot thinning: By adding ‘junk’ (or mostly junk) items, you thin out the loot tables for those containers a bit, so some things (like perk books) should be harder to find. Additionally, now you can find more types of stuff in loot containers that you may not normally search.\n3. New ideas from old items: Not everything is junk! Most items can be scrapped, or used in some recipies as additional methods of crafting.\n4. More careful looting?: Most of the time looting you find items that are always useful in some context. This is to partially put a stop to that and make you have to be a little more careful with backpack management. Possibly not for everyone 🙂 so hopefully the added humor in a lot of the items will make up for it. Some things give you many items and may fall all over the place if you open them and your backpack is too full. 🙂\n\n## Details\n\nThere are a few general types of items in this mod.\n\n* \\~80+ “useless” items: Items that are not of any use, clutter up your inventory, OR can be scrapped or used in recipes. You never know until you try!\n* \\~45+ books. So you can find more in places you normally find books. Books currently are for fun and can read for a little EXP, burned for fuel, or sold.\n* \\~80+ paper items/notes\n* \\~20 poems: “Dark Love” Collectible Series and a few others.\n* \\~40 unopened parcels/boxes: Contain various items. Some good, some bad, some really good.\n* 1 games to play: Soduku. If you have time to burn. Specially sized container for the game board. Collect them all!\n* 1 “Geocaching” treasure map: Who knows what it will contain?\n* 1 Weapon: BB gun\n* 1 Blade mod: Rage Blade. 25% chance of bleeding on hit. (Craftable only)\n\n**PvP or Multiplayer**\n\n* 4 nice/4 not nice notes to leave other players, or package some up in a box and leave for them.\n* 10 “Player craftable gift boxes” to give out or place in loot, etc. Most items are jokes/not usable.\n* 3 games to play: Chess, Checkers, Tic-Tac-Toe. If you have time to burn. Specially sized containers for the game boards. Have to find or craft the pieces/puzzles depending on the game. Collect them all!\n\n**Other**\n\nTo encourage “collecting”, a lot of items can be crafted into bundles and sold/used for more EXP/Dukes than the individual items. Some of the items (books usually) are color coded in the description so you will know if its collectible and what collection it belongs to without looking at the recipe. Some games can be boxed up for transport/selling.\n\n## Changelog\n\n* **_(new)_** Fixed Breath mints buff now being removed. Thank you to Swmeekfor reporting this!\n* Recipe fixes.\n* Serious loot re-balance. Loot contents and items seems to be “better” now. You should no longer be opening a mailbox and getting 10 items on day 1\\. Hopefully book loot is working now (didn’t test too much though so any feedback is welcome). Doughphunghus want items to “be found occasionally” even on day 1 but not “every time he open something” or “never can find”. Note: Not using “loot scaling templates” because he doesn’t want you to miss an item ( like book) and not be able to get it just because you’re out of the “stone age”. He will likely add this looting effect later once he make “new” a20 updates for this (more items, things to do, recipes, etc)\n* Bug fixes for unopened parcels.\n* Patch for bad container loot list.\n* Conversion to a20.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a20/tree/main/Doughs-YouveGotMail)** for A20  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-YouveGotMail)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a20/tree/main/Doughs-YouveGotMail",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a19/tree/main/Doughs-YouveGotMail",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "Doughphunghus"
+  ]
+}

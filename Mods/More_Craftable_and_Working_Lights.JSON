@@ -1,0 +1,34 @@
+{
+  "modURL": "https://7daystodiemods.com/more-craftable-and-working-lights/",
+  "modCreatedTime": "2022-02-12T00:31:00+00:00",
+  "modLastUpdatedTime": "2022-02-12T00:34:14+00:00",
+  "modName": "More Craftable and Working Lights",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-more-craftable-and-working-lights-additional-screenshot-1a.jpg"
+  ],
+  "modShortDescription": "Updated it for you to work with Alpha 20 and made it even better. Most lamps and new lights from Alpha 20 are already there.",
+  "modDescription": "Updated it for you to work with Alpha 20 and made it even better. Most lamps and new [lights](https://7daystodiemods.com/tag/7-days-to-die-lights/) from Alpha 20 are already there 🙂 Feel free to try it out and please report any bug you will find.\n\nThis is a server side mod. There is no need to install it in the game.\n\n**What Can Be Expected for 1.5**\n\n* Adjusted Power Consumption\n* Rest of the lights from Alpha 20\n* And any fix for a glitch etc you will find\n\n**Changed With 1.4.1**\n\nFixed Progression XML (now contains a comma, does no longer ruin cement mixer)\n\n**Changed With 1.4**\n\n* All items were renamed. They now start with modlight (Just search for them under receipes with modlight first)\n* Added already some of the new lights from Alpha 20 (Store light, recessed ceiling light)\n* Added working streetlights (inc the new ones from A20)\n* All new receipes to match the items crafted\n* Added Beamer (it cant display anything yet, but creates a lot of light)\n\n**Changed 1.3.1**\n\nBugfixes for 1.3\n\n**Changed With 1.3**\n\n* Updated to work with A19.5\n* Modified some lamps light behaviour\n* Modified lamps to drop brass if they contain brass\n\n**Changed With 1.2**\n\n* Updated the mod to work with A18\n* Fixed Script collissions\n\n**Added With 1.1**\n\n* Desk Lamp (Blockname: deskLampLight\\_Player)\n* Table Lamp (Blockname: tableLampLight\\_Player)\n* Work Light (Blockname: workLightPOI\\_Player)\n* Ceiling Fan Light (Blockname: ceilingFanLight\\_Player)\n* Exit Sign (Blockname: signExitLight\\_Player)\n* Red Industrial Light (Blockname: industrialLight02Red\\_Player)\n\n**Content 1.0**\n\n* Industrial Light 01 (Blockname: industialLight01\\_player)\n* Industrial Light 02 (Blockname: industrialLight02\\_player)\n* Porch Light (Blockname: porchLight04\\_player)\n* Porch Light Brass (Blockname: porchLight04Brass\\_player)\n* Old Outdoor Light (Blockname: porchLight01\\_player)\n* Ceiling Light 05 Brass (Blockname: ceilingLight05Brass\\_player)\n* Ceiling Light 05 (Blockname: ceilingLight05\\_player)\n* Ceiling Light 044 (Blockname: ceilingLight04\\_player)\n* Ceiling Light 02 Brass (Blockname: ceilingLight02Brass\\_player) (Silver Dome Light)\n* Ceiling Light 02 (Blockname: ceilingLight02\\_player)\n* Ceiling Light 07 (Blockname: ceilingLight07\\_player) (Fluorescent Light)\n* Table Lamp (Blockname: endTableLampPlayer) (Lamp has its own table)\n\n**[Download](https://drive.google.com/file/d/1el9quoyFR4sCPgTfSrMFKxQpNzZZdnLO/view?usp=sharing)** 1.4.1 A20 Version  \n**[Download](https://drive.google.com/file/d/189P-eiImEqsTxKnOyBelv1r4Y8Mhl4r3/view)** 1.3.1 A19 Version\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/24681-mod-alpha-20-more-craftable-and-working-lights/).\n\n**Credits:** BastiAKA, JaxTeller718",
+  "modDownloadURLs": [
+    {
+      "Info": "1.4.1 A20 Version",
+      "URL": "https://drive.google.com/file/d/1el9quoyFR4sCPgTfSrMFKxQpNzZZdnLO/view?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "1.3.1 A19 Version",
+      "URL": "https://drive.google.com/file/d/189P-eiImEqsTxKnOyBelv1r4Y8Mhl4r3/view",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/24681-mod-alpha-20-more-craftable-and-working-lights/",
+  "modAuthors": [
+    "BastiAKA",
+    "JaxTeller718"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die electricity",
+    "7 days to die lights"
+  ]
+}

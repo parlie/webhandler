@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/wights-only/",
+  "modCreatedTime": "2022-03-06T17:22:00+00:00",
+  "modLastUpdatedTime": "2022-03-06T17:24:32+00:00",
+  "modName": "Wights Only",
+  "modImages": [],
+  "modShortDescription": "This modlet makes all zombies becomes Feral Wights or Radiated Wights. Even zombie bears and dogs can be changed.",
+  "modDescription": "This modlet makes all [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) becomes Feral Wights or Radiated Wights. Even zombie bears and dogs can be changed.\n\nWill you take the challenge to see how long you can survive in a feral wight world?\n\n## Full Changes\n\n* Zombies are Feral Wight, with a couple changes into Radiated Wight in limited groups. You can choose to have it include zombie animals.\n* Feral Wights now have only 250 health while Radiated Wights have 500 health. You need to have some chance against them with a club after all.\n\n### Version 2\n\nFixed where zombie animals were not converted into Wights. Added an option to install to have zombie animals on or off. Just install the correct version.\n\n**[Download](https://drive.google.com/uc?export=download&id=1WOgPRFTQQuAQ8obsZfsuLEcGgMVetRB0)**\n\n**Credits:** Zami (It was Rusher’s idea, I just made it work.)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/uc?export=download&id=1WOgPRFTQQuAQ8obsZfsuLEcGgMVetRB0",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Zami (It was Rusher’s idea",
+    "I just made it work.)"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die zombies"
+  ]
+}

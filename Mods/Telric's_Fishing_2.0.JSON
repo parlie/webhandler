@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/telrics-fishing-2-0/",
+  "modCreatedTime": "2021-12-28T20:56:00+00:00",
+  "modLastUpdatedTime": "2022-05-21T01:11:06+00:00",
+  "modName": "Telric's Fishing 2.0",
+  "modImages": [],
+  "modShortDescription": "In this version of the fishing mod, you no longer get bait from punching grass. Instead you need to craft a bug net and hunt bugs to use as bait.",
+  "modDescription": "In this version of the [fishing](https://7daystodiemods.com/tag/7-days-to-die-fishing/) mod, you no longer get bait from punching grass. Instead you need to craft a bug net and hunt bugs to use as bait. Equipping a bug net and crouching will allow you to hear the chirps. Follow those chirps until you find the bait to catch. You can also find worms quite commonly by digging dirt, though they are quite expendable and don’t offer too much bait catch chance.\n\nThe fish have undergone some changes as well. You still fish with left click and reel in with F (or your activate key), but catching the fish is automatic. The fish that you catch will be random, based on biome. Day or night also play a factor in the fish type you catch. Several fish are also used in recipes that give bonus buffs when consumed, so fish in all of the biomes during day or night to find which fish is where!\n\nBe sure to also craft a fishing chair to fish from your own docks, and even the new tackle boxes to store some goodies in, near those chairs.\n\nAnd don’t forget to download [Ragsy’s raft mod](https://7daystodiemods.com/the-working-tfp-raft/) for A20 so you can fish directly from a raft!\n\n**Note to other modders:** If you want this mod to work on your own rafts or boats, first you need to be able to walk on the boat, using unity and colliders. Then, you need to add the correct tag to the entityclasses file. The tag is: fish. Very simple.\n\nDoes not require restart.\n\nTested and works with Alpha 20.4 (b42).\n\nRequires client to install as well as server.\n\n**Does not work with [Telrics Fishing](https://7daystodiemods.com/telrics-fishing/).**\n\n**[Download](https://www.dropbox.com/s/0bhhhndbgxrrzie/TelricsFishingV2A20.zip?dl=1)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26175-telrics-a20-modlets-new-fishing-mod-added-12172021/).\n\n**Credits:** [Telric](https://7daystodiemods.com/tag/telric/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/s/0bhhhndbgxrrzie/TelricsFishingV2A20.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26175-telrics-a20-modlets-new-fishing-mod-added-12172021/",
+  "modAuthors": [
+    "Telric"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die fishing",
+    "7 days to die food",
+    "Telric"
+  ]
+}

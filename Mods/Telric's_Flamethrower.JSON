@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/telrics-flamethrower/",
+  "modCreatedTime": "2021-12-20T00:22:00+00:00",
+  "modLastUpdatedTime": "2022-05-21T01:11:12+00:00",
+  "modName": "Telric's Flamethrower",
+  "modImages": [],
+  "modShortDescription": "The new release of the flamethrower. Telric retextured it, as well as changed the particles a bit.",
+  "modDescription": "The new release of the flamethrower. Telric retextured it, as well as changed the particles a bit. It no longer does direct damage, but all of it’s power comes from a debuff on the enemy. Your first attack will start this debuff, giving a growing damage over time effect. The longer you burn the enemy, the more damage it will do, up to a point. Over time, this effect will slow down, so finding the sweet spot of burning and allowing to cool off a bit will increase your efficiency. This debuff also deals increased damage to radiated zombies. Flamethrowers deal an additional 300% damage to wood, making it a quick breaking and entering tool on wooden structures.\n\nThe flamethrower uses Demolition Expert perks to increase crafting quality, however as stated before, it does minimal direct damage. You can craft this once you’ve found the schematic. It’s possible to loot as well, being part of the Tier 2 demolition [weapons](https://7daystodiemods.com/tag/7-days-to-die-weapons/). You can also find and purchase flamethrower canisters which change your flamethrower’s flame color, as well as the flames on enemies.\n\n**Note:** This has had a little testing for balance, but not excessively. Any input on the balance would be greatly appreciated.\n\nDoes not require restart.\n\nRequires client to install as well as server.\n\nTested and works with Alpha 20.4 (b42).\n\n**[Download](https://www.dropbox.com/s/f33zdjcyx1t909f/TelricsFlamethrowerA20.zip?dl=1)** for A20  \n**[Download](https://www.dropbox.com/s/3w4shuth4k22b0n/TelricsFlamethrower.zip?dl=1)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26175-telrics-a20-modlets-new-flamethrower-mod-added-12192021/).\n\n**Credits:** [Telric](https://7daystodiemods.com/tag/telric/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://www.dropbox.com/s/f33zdjcyx1t909f/TelricsFlamethrowerA20.zip?dl=1",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://www.dropbox.com/s/3w4shuth4k22b0n/TelricsFlamethrower.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26175-telrics-a20-modlets-new-flamethrower-mod-added-12192021/",
+  "modAuthors": [
+    "Telric"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die weapons",
+    "Telric"
+  ]
+}

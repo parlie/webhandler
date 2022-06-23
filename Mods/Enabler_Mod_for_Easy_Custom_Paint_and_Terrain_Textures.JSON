@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/enabler-mod-for-easy-custom-paint-and-terrain-textures/",
+  "modCreatedTime": "2022-03-30T00:09:36+00:00",
+  "modLastUpdatedTime": "2022-03-30T00:09:37+00:00",
+  "modName": "Enabler Mod for Easy Custom Paint and Terrain Textures",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-enabler-mod-for-easy-custom-paint-and-terrain-textures-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "A mod that enables other mods to \"easily\" add custom block paint and/or terrain textures.",
+  "modDescription": "ocbMaurice would like to introduce a mod he has created last week that might be interesting to other modders. A mod that enables other mods to “easily” add custom block paint and/or terrain [textures](https://7daystodiemods.com/tag/7-days-to-die-textures/). It reduces the needed work to a proper unity3d resource file and the accompanying xml.\n\nHaven’t tested it that thoroughly yet, so there might be a few bugs left. On the other hand it already supports automatic scaling for half/quad texture sizes.\n\n**[Download](https://github.com/OCB7D2D/OcbCustomTextures/archive/refs/tags/0.1.0.zip)** Custom Textures  \n**[Download](https://github.com/OCB7D2D/OcbCustomTexturesDemo/archive/refs/tags/0.1.0.zip)** Custom Textures Demo\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/28269-enabler-mod-for-easy-custom-paint-and-terrain-textures/).\n\n**Credits:** [ocbMaurice](https://7daystodiemods.com/tag/ocbmaurice/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Custom Textures",
+      "URL": "https://github.com/OCB7D2D/OcbCustomTextures/archive/refs/tags/0.1.0.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Custom Textures Demo",
+      "URL": "https://github.com/OCB7D2D/OcbCustomTexturesDemo/archive/refs/tags/0.1.0.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/28269-enabler-mod-for-easy-custom-paint-and-terrain-textures/",
+  "modAuthors": [
+    "ocbMaurice"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die textures",
+    "ocbMaurice"
+  ]
+}

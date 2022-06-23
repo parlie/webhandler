@@ -6,7 +6,7 @@
  * Sitemap URL.
  */
 //const siteMapPath = "https://7daystodiemods.com/post-sitemap.xml";
-const siteMapPath = "https://7daystodiemods.com/post-sitemap.xml";
+const siteMapPath = "https://7daystodiemods.com/post-sitemap2.xml";
 const { exec } = require("child_process");
 
 /**
@@ -294,7 +294,8 @@ function ProcessModImagesFromPage(attribut) {
  */
 function ProcessModNameFromPage(attribut){
     var loc = attribut.replace(':',' ');
-    loc = loc.replace('"','')
+    loc = loc.replace('"','');
+    loc = loc.replace('"','');
     return loc.substr(0,attribut.length-21);
 }
 
@@ -365,14 +366,14 @@ function ProcessModNameFromPage(attribut){
 
 function UpdateModObjects()
 {
-    var newLenght = siteMapXML['urlset']['url'].length % 41;
+    var newLenght = siteMapXML['urlset']['url'].length;
 
     sitemapTimestamp = siteMapXML['urlset']['url'][0]['lastmod'];
     fs.writeFileSync("variables.json",JSON.stringify({siteMapTimestamp:sitemapTimestamp}));
 
     var tempArray = [];
 
-    for (let i = 0; i < newLenght+1; i++) {
+    for (let i = 0; i < newLenght; i++) {
         var currentElement = siteMapXML['urlset']['url'][i]
         var url = currentElement['loc'].toString();
         var timestamp = currentElement['lastmod'].toString();

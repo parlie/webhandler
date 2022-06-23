@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/h7sb-admin-blocks/",
+  "modCreatedTime": "2022-04-28T13:06:00+00:00",
+  "modLastUpdatedTime": "2022-05-31T21:12:19+00:00",
+  "modName": "H7SB Admin Blocks",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/04/7-days-to-die-h7sb-mods-yt.jpg"
+  ],
+  "modShortDescription": "H7SB Admin Blocks is a server-side mod that includes indestructible blocks and miscs to build POIs and mini games (eg. race).",
+  "modDescription": "H7SB Admin Blocks is a server-side mod that includes indestructible blocks and miscs to build POIs and mini games (eg. race).\n\nThis mod former named Dungeons Blocks – old POIs cannot be updated.\n\n## New: Admin Welder\n\nNew item to remove (RMB) admin blocks.\n\nCan melt (LMB) or upgrade (RMB) nearby blocks.\n\n## New: Admin Blocks/Glass\n\nAdmin Blocks/Glass are indestructible and can only be removed with the Admin Welder (RMB).\n\nPressing and holding the R key opens the selection menu for shapes.\n\nThey also have the ability to fly, which unfortunately gets lost when copied in as a prefab.\n\nIn this case it is recommended to use invisible pillars from Admin Miscs\n\nIn the prefab editor you have to destroy admin blocks debris.\n\n## New: Admin Miscs\n\n**Terrain** – These blocks looks like terrain (incl. no stability support variante).\n\n**Spy Glass** – This block allows one-sided viewing through other blocks.\n\n**Invisible Pillars** – These blocks makes it possible to build flying things (5m/15m/45m).\n\n**Doors/Hatches** – These blocks are available as password, locked and powered variante.\n\n**Key Box/Key** – This box contains the (new) key to open (LMB/RMB) [doors](https://7daystodiemods.com/tag/7-days-to-die-doors/).\n\n**Writeable Signs** – These blocks are writable and indestructible.\n\n**Switch/Pressureplates** – These blocks require no electricity and are indestructible.\n\n**Workstations** – These blocks are functional and indestructible.\n\n## New: Racing Blocks (Inside Miscs)\n\n**Stopwatch** – Can be used (LMB) to change the number of laps or restart (RMB) races.\n\n**Starting Line** – When you cross the starting line, the stopwatch starts counting.\n\n**Finish Line** – When you reach the finish line, the time stops and is saved in the character window.\n\n**Super Jump** – These blocks temporarily increase jump strength and prevents fall damage (6m/15m/30m).\n\n**Super Running Speed** – This block temporarily increase movement speed.\n\n**Super Acceleration** – This block temporarily increases the speed of [vehicles](https://7daystodiemods.com/tag/7-days-to-die-vehicles/).\n\n## Planned: Capture the Flag\n\nThis extension depends on your support on Youtube and Twitch.\n\n## Rework: God Mode\n\nThe god mode is now called admin mode and is gold colored.\n\n## Rework: Admin Tool\n\nFrequently used [tools](https://7daystodiemods.com/tag/7-days-to-die-tools/) have been moved from the Dev menu to the regular Creative menu.\n\nThe names of some items have been changed and all are now gold colored.\n\nLeave a thumbs up on the mod (youtube) you like to ensure that it gets an update for A21\\. Mods (youtube) with less thumbs up may be depreciated or deleted.\n\n## Mod Installation\n\n1. Download and unpack (“extract here”) the Zip data.\n2. Place it into your “Mods” folder.\n3. Have fun!\n\n## Copyrights: Attribution-NonCommercial-NoDerivatives 4.0 International\n\n* You are allowed to use this mod for your private use (singleplayer/multiplayer/server).\n* You are allowed to use this mod as part of your custom modpack (as separated mod).\n* You are not allow to reupload it without permission (exception mentioned)!\n* Of cause your allow to take inspiration to improve your existing code!\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_AdminBlocks)**\n\nIf you appreciate Eihwaz’s work and you want to show support, use this [donate link](https://streamlabs.com/eihwazde/tip).\n\nIf you need help, you can use this [support link](https://discord.com/invite/StrFn7X).\n\n**Credits:** [Eihwaz](https://7daystodiemods.com/tag/eihwaz/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_AdminBlocks",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Eihwaz"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die doors",
+    "7 days to die electricity",
+    "7 days to die icons",
+    "7 days to die tools",
+    "7 days to die vehicles",
+    "Eihwaz"
+  ]
+}

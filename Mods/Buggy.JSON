@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/buggy/",
+  "modCreatedTime": "2022-01-12T10:08:00+00:00",
+  "modLastUpdatedTime": "2022-06-17T20:12:34+00:00",
+  "modName": "Buggy",
+  "modImages": [],
+  "modShortDescription": "Adds in a quick 2 seater buggy! Unlocks with Grease Monkey 4.",
+  "modDescription": "Adds in a quick 2 seater [buggy](https://7daystodiemods.com/tag/7-days-to-die-vehicles/)! Unlocks with Grease Monkey 4.\n\n## Changelog\n\n* **_(new)_** Updated for A20.\n* Added new engine/horn sounds.\n\n**[Download](https://gitlab.com/bdubyah/Mods---A20/-/archive/main/Mods---A20-main.zip?path=Buggy)** for A20  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Buggy)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11875-bdubyahs-modlets/).\n\n**Credits:** [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://gitlab.com/bdubyah/Mods---A20/-/archive/main/Mods---A20-main.zip?path=Buggy",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Buggy",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/11875-bdubyahs-modlets/",
+  "modAuthors": [
+    "Bdubyah"
+  ],
+  "modTags": [
+    "7 days to die vehicles",
+    "Bdubyah"
+  ]
+}

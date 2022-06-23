@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/hide-hp-bar-but-show-name/",
+  "modCreatedTime": "2022-03-12T20:55:00+00:00",
+  "modLastUpdatedTime": "2022-03-12T22:05:43+00:00",
+  "modName": "Hide HP Bar But Show Name",
+  "modImages": [],
+  "modShortDescription": "This mod hides the HP bar (another mod REQUIRED to enable the HP bar) coloring and the hit points of the zombie/entity, but leaves the name visible.",
+  "modDescription": "This mod hides the HP bar (another mod REQUIRED to enable the HP bar) coloring and the hit points of the zombie/entity, but leaves the name visible.\n\n## Requirements\n\n* This mod requires a mod that makes the HP bar show up, like [KhaineGB’s HP Bar Mod](https://7daystodiemods.com/hp-bars/)\n* Doughphunghus is not sure if it works with any other UI mods (like SMX, etc)\n\n**Note:** There are 2 commented out settings in the mods “windows.xml” file. You can uncomment and change them to center the name/text (default = left justified), and also to change the color of the text (default = white)\n\n## Why?\n\n* So you can see the Zombie names but nothing else about the zombie. Not being able to see health or current hit points makes judging an encounter more difficult. Being able to see the zombie name is just 1 step up from not being able to see any info at all (which is the games default).\n* There are zombie/entity renaming mods like [Ztensity’s Vanilla Creature Renaming](https://7daystodiemods.com/ztensitys-vanilla-creature-renaming/), so this allows you to see those names.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a20/tree/main/Doughs-UI-Hide-HPBarButShowName)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/17197-doughs-modlets/).\n\n**Credits:** [Doughphunghus](https://7daystodiemods.com/tag/doughphunghus/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/doughphunghus/7D2D-Doughs-Mods-a20/tree/main/Doughs-UI-Hide-HPBarButShowName",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/17197-doughs-modlets/",
+  "modAuthors": [
+    "Doughphunghus"
+  ],
+  "modTags": [
+    "Doughphunghus"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/mm-silentflags/",
+  "modCreatedTime": "2022-06-19T20:57:00+00:00",
+  "modLastUpdatedTime": "2022-06-19T21:45:21+00:00",
+  "modName": "MM-SilentFlags",
+  "modImages": [],
+  "modShortDescription": "A trivial modlet that silences the flags at trading posts because they sound way too much like a shuffling zombie.",
+  "modDescription": "A trivial modlet that silences the flags at trading posts because they [sound](https://7daystodiemods.com/tag/7-days-to-die-sound-mod/) way too much like a shuffling zombie.\n\n**[Download](https://drive.google.com/file/d/1LvvMzzsRpAz0864tqgFj2DliCTQotZsO/view?usp=sharing)**\n\n**Credits:** [ModMangler](https://7daystodiemods.com/tag/modmangler/), Flexible Games (modding video)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1LvvMzzsRpAz0864tqgFj2DliCTQotZsO/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "ModMangler",
+    "Flexible Games (modding video)"
+  ],
+  "modTags": [
+    "7 days to die sound mod",
+    "ModMangler"
+  ]
+}

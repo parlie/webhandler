@@ -1,0 +1,29 @@
+{
+  "modURL": "https://7daystodiemods.com/ztensitys-vanilla-creature-renaming/",
+  "modCreatedTime": "2022-03-04T04:39:00+00:00",
+  "modLastUpdatedTime": "2022-03-04T05:02:32+00:00",
+  "modName": "Ztensity's Vanilla Creature Renaming",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/01/7-days-to-die-ztensitys-vanilla-creature-renaming-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "I believe this is the most important modlet for each player using a health bar mod, as it will improve immersiveness when viewing vanilla creatures.",
+  "modDescription": "Ztensity’s Creature Renaming Modlet! Select A20 Patches That Renames Zombies, Animals & Machines!\n\n## INTRODUCTION\n\nAfter hours of playing 7 Days to Die and diving into the vast modding community, I decided to use Sirillion’s entire [SMX](https://7daystodiemods.com/tag/7-days-to-die-smx-mods/) series. His modlets overhaul the UI of 7 Days to Die, which make changes to the HUD, Menu and general UI. I realized that my favorite modlet of this series was Sirillion’s optional Target Health Bar designed for compatibility with his UI overhaul.\n\nAfter playing 7 Days to Die with a full list of modlets including the SMX series, I quickly realized that some animals, zombies, machines, etc. would show up in the health bar from the Target Health Bar modlet as “animalZombieBear” and “zombieJoeRadiated,” instead of “Infected Bear” or “Radiated Cadaver.” I then began writing my creature renaming modlet to increase immersiveness when encountering different creatures in game.\n\n## DEPENDENCIES\n\nBefore deciding to install any of my modlets, you must first have to have a Health Bar modlet to see the name changes.\n\n* Sirillion’s [SMX Series Target Health Bar](https://7daystodiemods.com/zmxhudcpthb-the-target-health-bar-extension-mod/)\n* Khaine’s [HP Bars](https://7daystodiemods.com/hp-bars/)\n\nIt’s worthy to note that if you are using the Mod Launcher, you can install all of Sirillion’s SMX series of modlets there. That said, once you have installed one of the health bar modlets, you can then download my “vanilla” modlet and the others if you have their appropriate modlet they are patching in your “Mods” folder.\n\n## VANILLA CREATURE RENAMING\n\nThis modlet can be installed right away for Alpha 20.3 above or on the launcher. After the recent update, there are still some zombies, animals and machines that could be renamed. Some entities were added, some were changed, and some still felt like they could still use more immersive names. I believe this is the most important modlet for each player using a health bar mod, as it will improve immersiveness when viewing vanilla creatures.\n\n## SHOUT OUTS\n\nIf it wasn’t for discussion, guidance and help getting started from other mod authors in Guppy’s Discord like wrathmaniac, TSBX, Xyth, Mumpfy, sphereii, Sirillion, saminal, Khaine, chiko and Guppy himself, none of this would have been possible.\n\n## CREDITS\n\nNone of Xyth’s Creature Packs would be possible either if it wasn’t for the hard work and communication of this powerful modding community. Primarily, I want to give an extra thank you to not only Xyth, but also DarkStarDragon, Guppycur and TSBX for work on the zombies, Robeloto for work on Spider sounds, Mumpfy for work on re-texturing and new asset creation, and XML work by Kergan, SaltyAF and Chikorina (Chiko).\n\n**[Download](https://drive.google.com/u/0/uc?id=1A574nGSb8gqp72LD3OltP0nzfn1ah0AQ&export=download)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/28021-ztensitys-vanilla-creature-renaming/).\n\n**Credits:** [Ztensity](https://7daystodiemods.com/tag/ztensity/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/u/0/uc?id=1A574nGSb8gqp72LD3OltP0nzfn1ah0AQ&export=download",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/28021-ztensitys-vanilla-creature-renaming/",
+  "modAuthors": [
+    "Ztensity"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die traps",
+    "7 days to die zombies",
+    "Ztensity"
+  ]
+}

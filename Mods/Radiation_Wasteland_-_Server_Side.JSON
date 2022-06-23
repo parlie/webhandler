@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/radiation-wasteland-server-side/",
+  "modCreatedTime": "2022-03-22T13:10:00+00:00",
+  "modLastUpdatedTime": "2022-03-22T13:15:50+00:00",
+  "modName": "Radiation Wasteland - Server Side",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-radiation-wasteland-server-side-additional-screenshot-1.jpg"
+  ],
+  "modShortDescription": "A radioactive zone in the wasteland biome that kills the player without a hazmat mask. More dangerous zombies in it. Loot is better than regular biomes.",
+  "modDescription": "A radioactive zone in the wasteland biome that kills the player without a hazmat mask. More dangerous zombies in it. Loot is better than regular [biomes](https://7daystodiemods.com/tag/7-days-to-die-biomes/).\n\nAdded version that you need a full hazmat suit.\n\nPlayers do not need to download when entering the server.\n\n**[Download](https://drive.google.com/drive/folders/1TGIUxGFjhwmI9wG2molP7ENlYsGWfnMv?usp=sharing)** Radiation Wasteland  \n**[Download](https://drive.google.com/drive/folders/1JLlzpHNlrHdDXhWXv9E1gRGiS0YYBIDM?usp=sharing)** Full Hazmat Suit\n\nIf you need help, you can use this [support link](https://discord.gg/sYjzfXPPya).\n\n**Credits:** gemini",
+  "modDownloadURLs": [
+    {
+      "Info": "Radiation Wasteland",
+      "URL": "https://drive.google.com/drive/folders/1TGIUxGFjhwmI9wG2molP7ENlYsGWfnMv?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "Full Hazmat Suit",
+      "URL": "https://drive.google.com/drive/folders/1JLlzpHNlrHdDXhWXv9E1gRGiS0YYBIDM?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "gemini"
+  ],
+  "modTags": [
+    "7 days to die biomes",
+    "7 days to die loot",
+    "7 days to die zombies"
+  ]
+}

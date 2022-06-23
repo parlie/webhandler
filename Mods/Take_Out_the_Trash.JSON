@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/take-out-the-trash/",
+  "modCreatedTime": "2021-12-23T20:54:00+00:00",
+  "modLastUpdatedTime": "2022-04-25T18:34:03+00:00",
+  "modName": "Take Out the Trash",
+  "modImages": [],
+  "modShortDescription": "This mod is will allow the destruction of all trash/garbage bags and also the foul trash/garbage piles after you loot them (not birdsnests)",
+  "modDescription": "This mod is will allow the destruction of all trash/garbage bags and also the foul trash/garbage piles after you loot them (not birdsnests)\n\nThis version will not destroy all the small waste bins you find in toilets/bathrooms (as they used same lootlist id’s).\n\nKeep your local zombie infested neighbourhood clean without destroying it completely.\n\nPlease be aware that you have to start a new save if you install this mod.\n\n**Important Note:** If you want to include any of his vehicle mods or other mods in a ‘mod overhaul’ please do him the courtesy of asking for permission first… when given you must give the due credit to himself and any other modders that may be credited under the “Credits & Additional Credits” sections if any. Also you are not allowed to extract any unity files without his permission either, if there has been an alpha change then wait and files will be updated for the new alpha version as soon as he possibly can. Thank you!\n\n**[Download](https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Take_Out_The_Trash_V4_A20)** for A20  \n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Take_Out_The_Trash_V3_A19)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Take_Out_The_Trash_V4_A20",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Take_Out_The_Trash_V3_A19",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "Ragsy2145"
+  ]
+}

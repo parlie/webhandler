@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/powered-neon-signs/",
+  "modCreatedTime": "2022-03-18T14:43:26+00:00",
+  "modLastUpdatedTime": "2022-03-18T19:32:55+00:00",
+  "modName": "Powered Neon Signs",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/03/7-days-to-die-powered-neon-signs-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Neon Signs updated for A20! These neon signs require power and can be toggled on/off like a normal light. They also can be picked up if inside a land claim zone.",
+  "modDescription": "[Neon Signs](https://7daystodiemods.com/neon-signs/) updated for A20! These neon signs require power and can be toggled on/off like a normal light. They also can be picked up if inside a land claim zone.\n\nAll credit for this mod goes to Three08\\. I have just updated it to work with A20 and added a few tweaks such as a recipe for crafting the signs.\n\nThese neon [lights](https://7daystodiemods.com/tag/7-days-to-die-lights/) can be unlocked by Advanced Engineering level 3 or by schematic. They can also be found in loot.\n\n## Included Signs\n\n* Open x 3\n* Gun\n* Pizza\n* Bowling\n* Chinese Food\n\n**IMPORTANT NOTE:** This is a C# mod so EAC must be OFF.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Zilox135/A20Modlets/tree/main/Neon%20Signs)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/28158-powered-neon-signs/).\n\n**Credits:** [Zilox](https://7daystodiemods.com/tag/zilox/), Three08",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Zilox135/A20Modlets/tree/main/Neon%20Signs",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/28158-powered-neon-signs/",
+  "modAuthors": [
+    "Zilox",
+    "Three08"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die electricity",
+    "7 days to die lights",
+    "Zilox"
+  ]
+}

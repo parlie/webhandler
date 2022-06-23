@@ -1,0 +1,35 @@
+{
+  "modURL": "https://7daystodiemods.com/jetski-mod/",
+  "modCreatedTime": "2021-12-29T05:30:00+00:00",
+  "modLastUpdatedTime": "2022-04-25T18:33:56+00:00",
+  "modName": "Jetski Mod",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-jetski-mod-changelog-screenshot-1a.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-jetski-mod-changelog-screenshot-2a.jpg"
+  ],
+  "modShortDescription": "A slightly faster form of water transport with two seats so take a friend.",
+  "modDescription": "A slightly faster form of water transport with two seats so take a friend.\n\nExperimental work in progress version 2.\n\n## Launch\n\nPlace the jetski on/in water in a ‘shallow water’ area that has fairly flat ground underneath, if you have no shallow water in your map then build a small launch dock, then add fuel to the Jetski and off you go.\n\nThe Jetski will behave irratically if placed on land and will damage player made blocks and is not controllable.\n\n## Controls\n\n* Steering is A and D as per vanilla settings… mouse is for looking around only and has no affect on steering a boat.\n* Space bar and c control the up and down angles (same as a gyro) which you will need to adjust slightly as you travel on water otherwise you may sink.\n* W is forwards and S is slow down/reverse. If you let go of w and shift (Turbo) then the [Jetski](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) slowly comes to a stop, pressing s will slow the Jetski down more quickly this replaces spacebar as the brake key.\n\n## Crafting\n\nThe Jetski is craftable in a standard workbench with no progression needed at the cost of resources by creating the required assemblies to build it, it will help early game if you actually find a ‘working workbench’ and allow you to make the bath tub a lot sooner.\n\n## Other Info\n\nTo anchor the Jetski and stop it drifting away use c and spacebar to level the Jetski till it stops drifting.\n\nParticle system added… this can be toggled via the ‘F’ key (headlight function)\n\nThe Jetski can be picked up into inventory, if you sink it at any point, although be careful if you sink it too far away from the shores as it could be a long swim back.\n\nBest to not store stuff as Zombies now can attack water vehicles in game.\n\n**Important Note:** If you want to include any of his vehicle mods or other mods in a ‘mod overhaul’ please do him the courtesy of asking for permission first… when given you must give the due credit to himself and any other modders that may be credited under the “Credits & Additional Credits” sections if any. Also you are not allowed to extract any unity files without his permission either, if there has been an alpha change then wait and files will be updated for the new alpha version as soon as he possibly can. Thank you!\n\n## Changelog\n\n**_(new)_** Bathtub boat and Jetski have had some texture changes, feet and hand positions also altered from original release… not essential that you update but they are both a new version for A20 now.\n\n**Version 2**\n\n1. Adapted to A20 XML including some physics changes\n2. Resized Jetski and adjusted seat positions to match – may add option later for modding in the second seat at the moment has two ‘fixed’ seats.\n3. Vehicle Mods enabled – Fuel Saver and reserve tank, dye useable and will tint the flash trim only, rest of jetski has a custom texture.\n\n**Important:** This mod has custom assets and must be installed on both client and the server to use the mod in multiplayer.\n\n**[Download](https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Jet_Ski_A20)** for A20  \n**[Download](https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Jet_Ski)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/14070-water-vehicle-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/), ActiniumTiger (for new rusted texture for Jetski)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://gitlab.com/Ragsy2145/ragsy-a20-modlets/-/archive/main/ragsy-a20-modlets-main.zip?path=Ragsy_Jet_Ski_A20",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/Ragsy2145/alpha-19-modlets/-/archive/master/alpha-19-modlets-master.zip?path=Ragsy_Jet_Ski",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/14070-water-vehicle-modlets/",
+  "modAuthors": [
+    "Ragsy2145",
+    "ActiniumTiger (for new rusted texture for Jetski)"
+  ],
+  "modTags": [
+    "7 days to die boat",
+    "7 days to die vehicles",
+    "Ragsy2145"
+  ]
+}

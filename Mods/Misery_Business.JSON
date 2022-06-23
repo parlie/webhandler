@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/misery-business/",
+  "modCreatedTime": "2022-06-16T19:36:00+00:00",
+  "modLastUpdatedTime": "2022-06-16T19:38:27+00:00",
+  "modName": "Misery Business",
+  "modImages": [],
+  "modShortDescription": "This modpack doesn't really add anything new, but instead adjusts existing features to make surviving harder and the player think more about their actions.",
+  "modDescription": "This modpack doesn’t really add anything new, but instead adjusts existing features to make surviving harder and the player think more about their actions. The player character isn’t as fitted for the survival whereas zombies are more fierce than before. Items aren’t often as effective as they used to be and many buffs have been weakened. Traders require more quests to advance and the rewards are usually worse. Overall, things are looking quite a bit more miserable.\n\nDue to the nature of this modpack, it is completely server-side and consists only of XML files. It is also divided into three parts: items, player and [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/). These let you easily decide which part(s) of the changes you want into your game. The mod is still very much in progress when it comes to balancing, so voice your feedback!\n\nSome of the main modifications for items include:\n\n* Reduced mod slots\n* Reduced mod economic value increase and made it %-based instead\n* Reduced healing values across the board\n* Reduced duration and intensity of various [medical](https://7daystodiemods.com/tag/7-days-to-die-medical-supplies/) items\n* Lowered food, water and health gains on most, if not all, foods and drinks\n* Added dysentery chance to canned food\n\nSome of the main modifications for the player include:\n\n* Lower movement speed\n* Lower stamina and health regeneration\n* Higher food and water consumption\n* Lower [carrying](https://7daystodiemods.com/tag/7-days-to-die-backpack/) capacity (before being encumbered).\n* Increased the effect of wetness\n\nSome of the main modifications for quests include:\n\n* Raised the amount of quests needed for a tier completion\n* Lowered the duke and exp rewards from [quests](https://7daystodiemods.com/tag/7-days-to-die-quests/)\n* Lowered the amount of choices in tier completion rewards\n* Lowered the chance to get higher quality items as rewards\n* Reduced the amount of ammo gained as rewards\n\nSome of the main modifications for zombies include:\n\n* Removed knockdown completely\n* Increased feral sense range\n* Increased pain resist and movement speeds\n* Increased max health and radiated health regen.\n* Increased chance of inflicting a debuff\n* Decreased [exp](https://7daystodiemods.com/tag/7-days-to-die-experience/).\n\n## Changelog\n\nPerformed some updates on the files. The folder “Misery Business-Quests” is now called “Misery Business-Traders-and-Loot” to reflect the contents better. You may remove the Quests folder after downloading the new folder if you’re updating the mod. Changes in the mod include:\n\n* Reduced the chance to get workstations or their schematics from traders\n* Removed the chance to find workstation schematics from broken workstations\n* Increased the effect of wetness\n* Fixed dysentery chance to show on honey and canned food that provides water.\n\n**[Download](https://github.com/Gako21/Misery-Business/archive/refs/heads/Mod.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/29134-misery-business-a20-modpack/).\n\n**Credits:** Gako21",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Gako21/Misery-Business/archive/refs/heads/Mod.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/29134-misery-business-a20-modpack/",
+  "modAuthors": [
+    "Gako21"
+  ],
+  "modTags": [
+    "7 days to die backpack",
+    "7 days to die drinks",
+    "7 days to die experience",
+    "7 days to die food",
+    "7 days to die medical supplies",
+    "7 days to die quests",
+    "7 days to die stamina",
+    "7 days to die zombies"
+  ]
+}

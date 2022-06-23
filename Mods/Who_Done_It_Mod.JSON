@@ -1,0 +1,23 @@
+{
+  "modURL": "https://7daystodiemods.com/who-done-it-mod/",
+  "modCreatedTime": "2022-04-22T08:21:22+00:00",
+  "modLastUpdatedTime": "2022-04-22T08:21:24+00:00",
+  "modName": "Who Done It Mod",
+  "modImages": [],
+  "modShortDescription": "This is a simple server-side mod that announces to the server whenever someone attacks the detonator on a demolisher.",
+  "modDescription": "This is a simple server-side mod that announces to the server whenever someone attacks the detonator on a [demolisher](https://7daystodiemods.com/tag/7-days-to-die-zombies/).\n\n**[Download](https://drive.google.com/file/d/1ESQKGhiBGDG6AAZWJnPzTrNtMKbwcNEk/view?usp=sharing)**\n\n**Credits:** EugeneBeanblossom",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1ESQKGhiBGDG6AAZWJnPzTrNtMKbwcNEk/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "EugeneBeanblossom"
+  ],
+  "modTags": [
+    "7 days to die zombies"
+  ]
+}

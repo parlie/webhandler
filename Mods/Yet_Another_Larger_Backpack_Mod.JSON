@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/yet-another-larger-backpack-mod/",
+  "modCreatedTime": "2020-10-24T03:20:51+00:00",
+  "modLastUpdatedTime": "2022-03-10T12:37:18+00:00",
+  "modName": "Yet Another Larger Backpack Mod",
+  "modImages": [],
+  "modShortDescription": "Bigger Backpack xml only (works server side). Main one is 90 slots, which also includes extra crafting slot, larger output, and expanded vehicle storage.",
+  "modDescription": "Yet another larger [backpack](https://7daystodiemods.com/tag/7-days-to-die-backpack/) mod. Many of them are made to be compatible with specific mods. This one is simple and standalone… except the 90 slot is recommended to have some kind of HUD mod that lowers the toolbelt. More details below.\n\nBigger Backpack xml only (works server side). Main one is 90 slots, which also includes extra crafting slot, larger output, and expanded vehicle [storage](https://7daystodiemods.com/tag/7-days-to-die-storage/). (Requires a HUD that lowers the toolbelt). Other option is 60 slot, which works just like vanilla but with extra slots (does not require HUD modification).\n\n**[Download](https://drive.google.com/file/d/1ZmbUIf_tOyRkYs4IOsXQdbgnycITrngv/view?usp=sharing)** 60 Slot Version _(Basically vanilla with a larger inventory.)_  \n**[Download](https://drive.google.com/file/d/15Ss4odBYR64b0jrVi4WA-7Dm0NFYKWYp/view?usp=sharing)** 90 Slot Version _(With the 90 Slot option, it is recommended to use a modified HUD in which the toolbelt is lowered. One option is [Riles HUDPlus](https://7daystodiemods.com/agf-hudplus/).)_\n\nIf you need help, you can use this [support link](https://discord.gg/Vm5eyW6N4r).\n\n**Credits:** [Riles](https://7daystodiemods.com/tag/riles/)",
+  "modDownloadURLs": [
+    {
+      "Info": "60 Slot Version (Basically vanilla with a larger inventory.)",
+      "URL": "https://drive.google.com/file/d/1ZmbUIf_tOyRkYs4IOsXQdbgnycITrngv/view?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "90 Slot Version (With the 90 Slot option, it is recommended to use a modified HUD in which the toolbelt is lowered. One option is Riles HUDPlus.)",
+      "URL": "https://drive.google.com/file/d/15Ss4odBYR64b0jrVi4WA-7Dm0NFYKWYp/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Riles"
+  ],
+  "modTags": [
+    "7 days to die backpack",
+    "7 days to die bigger backpack",
+    "7 days to die more slots",
+    "7 days to die storage",
+    "Riles"
+  ]
+}

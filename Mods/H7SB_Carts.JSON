@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/h7sb-carts/",
+  "modCreatedTime": "2022-04-28T12:56:00+00:00",
+  "modLastUpdatedTime": "2022-05-31T21:12:34+00:00",
+  "modName": "H7SB Carts",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/04/7-days-to-die-h7sb-mods-yt.jpg"
+  ],
+  "modShortDescription": "H7SB Carts is a server-side mod that includes pushable carts that have an inventory. Shopping Cart, Utility Cart, Janitor Car and more.",
+  "modDescription": "H7SB Carts is a server-side mod that includes pushable carts that have an inventory.\n\nThis mod has additional modules that can be optionally activated.\n\n## New: 5 Different Carts\n\n* Shopping Cart // 30 [Slots](https://7daystodiemods.com/tag/7-days-to-die-storage/) // passenger seat\n* Utility Cart // 50 Slots // slightly faster\n* Janitor Car // 50 Slots // passenger seat\n* Tilt Truck // 90 Slots // passenger seat\n* Laundry Trolley // 90 Slots // passenger seat\n\n## New: 2 Additional “Carts”\n\n* Trashcan // 90 Slots // –\n* Stretcher // passenger seat // slightly faster\n\nCarts work best on flat surfaces – avoid crossing slopes horizontal.\n\nTry to shake the cart (C) if you get stuck.\n\nCarts have an activatable (X) sound effect.\n\n## New: Vehicle Encumbrance\n\nThe speed reduction that you suffer when encumbered also affects [vehicles](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) that consume stamina.\n\n## Rework: Bicycle\n\nAdapted to the Vehicle-Encumbrance-System.\n\nLeave a thumbs up on the mod (youtube) you like to ensure that it gets an update for A21\\. Mods (youtube) with less thumbs up may be depreciated or deleted.\n\n## Mod Installation\n\n1. Download and unpack (“extract here”) the Zip data.\n2. Place it into your “Mods” folder.\n3. Have fun!\n\n## Copyrights: Attribution-NonCommercial-NoDerivatives 4.0 International\n\n* You are allowed to use this mod for your private use (singleplayer/multiplayer/server).\n* You are allowed to use this mod as part of your custom modpack (as separated mod).\n* You are not allow to reupload it without permission (exception mentioned)!\n* Of cause your allow to take inspiration to improve your existing code!\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Carts)**\n\nIf you appreciate Eihwaz’s work and you want to show support, use this [donate link](https://streamlabs.com/eihwazde/tip).\n\nIf you need help, you can use this [support link](https://discord.com/invite/StrFn7X).\n\n**Credits:** [Eihwaz](https://7daystodiemods.com/tag/eihwaz/), Snufkin",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Carts",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Eihwaz",
+    "Snufkin"
+  ],
+  "modTags": [
+    "7 days to die car mods",
+    "7 days to die storage",
+    "7 days to die truck mods",
+    "7 days to die vehicles",
+    "Eihwaz"
+  ]
+}

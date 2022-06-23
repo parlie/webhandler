@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/cessna-172-skyhawk-plane/",
+  "modCreatedTime": "2022-02-07T15:17:00+00:00",
+  "modLastUpdatedTime": "2022-02-07T15:19:37+00:00",
+  "modName": "Cessna 172 Skyhawk Plane",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-cessna-172-skyhawk-plane-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-cessna-172-skyhawk-plane-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-cessna-172-skyhawk-plane-additional-screenshot-3.jpg"
+  ],
+  "modShortDescription": "This mod adds a cessna 172 skyhawk plane. The controls are the same as the gyrocopter, but with slightly tweaked handling to make it feel more like a plane.",
+  "modDescription": "This mod adds a cessna 172 skyhawk plane. The controls are the same as the gyrocopter, but with slightly tweaked handling to make it feel more like a plane. It can be unlocked with grease monkey level 5 or by finding the schematics to craft it. You can also find the parts bundle for completing tier 5 quests.\n\n## Features\n\n* Faster flying speed\n* Larger storage\n* More fuel capacity\n* Takes all [vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) mods\n* 3 seats (with seating mod installed)\n\n**Note:** This mod needs to be installed on both client and server for multiplayer.\n\n## Changelog\n\n**V1.1**\n\n* Fixed an issue that caused the plane to be stuck moving forward if W was pressed.\n* Tweaked the tilt angle of the plane so it can not tilt as much.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Zilox135/A20Modlets/tree/main/Cessna%20172%20Skyhawk%20Modlet)**\n\nIf you appreciate Zilox’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/zilox135).\n\nIf you need help, you can use this [support link](https://github.com/Zilox135/A20Modlets/issues).\n\n**Credits:** [Zilox](https://7daystodiemods.com/tag/zilox/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Zilox135/A20Modlets/tree/main/Cessna%20172%20Skyhawk%20Modlet",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Zilox"
+  ],
+  "modTags": [
+    "7 days to die plane",
+    "7 days to die quests",
+    "7 days to die vehicles",
+    "Zilox"
+  ]
+}

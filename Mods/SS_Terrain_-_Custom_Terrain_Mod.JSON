@@ -1,0 +1,34 @@
+{
+  "modURL": "https://7daystodiemods.com/ss-terrain-custom-terrain-mod/",
+  "modCreatedTime": "2022-02-24T07:42:58+00:00",
+  "modLastUpdatedTime": "2022-02-24T07:43:00+00:00",
+  "modName": "SS Terrain - Custom Terrain Mod",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-ss-terrain-custom-terrain-mod-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-ss-terrain-custom-terrain-mod-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-ss-terrain-custom-terrain-mod-additional-screenshot-3.jpg"
+  ],
+  "modShortDescription": "This mod adds 80 new terrain textures and includes instructions to add your own, be warned, that requires a bit of know-how, modding, and unity experience.",
+  "modDescription": "This mod adds 80 new terrain textures and includes instructions to add your own, be warned, that requires a bit of know-how, modding, and unity experience.\n\nThese are not just ordinary blocks, they are and function as terrain. They fade into one another, mold together, and work like vanilla grass, dirt, or stone.\n\nThis mod has been tested and works on servers as well as locally. Both the server and the client will need it in the mods folder.\n\nCurrently, these blocks are only accessible through the creative menu. LiquidxSunshine’s goal is to make a bench and recipes for all of them in the future, but that’s a bit down the line.\n\n## Requirements\n\n* Turn EAC (Easy Anti-Cheat) off! Or the mod will not work!\n* Sphereii’s Legacy Distant Terrain mod is required in order to function.\n\n## Instructions\n\n1. Download Sphereii’s Legacy Distant Terrain Mod and put it into your mods folder.\n2. Download SS Terrain and put it into your mods folder.\n3. Ensure that EAC (Easy Anti Cheat) is OFF!\n4. You’re good to go!\n\nIt is recommended to read the first page of the included Instructions.pdf as it contains answers to many questions that you may have, as well as instructions for adding your own Terrain.\n\n## Conflicts\n\nNo known conflicts.\n\nSS Terrain does use harmony and csharp in order to edit, append, and patch the original game files. There are no other mods that currently edit these files, so there shouldn’t be any conflicts.\n\n## Known Issues\n\nIf you put more than two [textures](https://7daystodiemods.com/tag/7-days-to-die-textures/) in close proximity, there can be weird lines that show up in the blending. This is something that is not possible to fix at this time. It’s recommended to cover these weird areas with trees or bushes. 😉\n\nIf you want to add your own custom terrain, follow the instruction manual in the downloads section.\n\n## Note From Sunshine and Thank Yous!\n\nShe’s the Sunshine part of Srsly\\_Sunshine mod team. This is her first mod, her first time coding, and so on.\n\nFirstly, she’d like to dedicate this mod to any and all those affected by Covid-19 and the frontline workers that put their lives on the line to help others.\n\nSecondly, she’d like to mention some special folks!\n\nTormentedEmu, the super special person who laid the groundwork and gave the generous permission to use her base code to get this mod to work, along with tons of help throughout the process.\n\nGuppycur, for use (and abuse) of his modding discord server, helping with this guide and throughout the whole process, and allowing her to use terrain textures that he had previously!\n\nSphereii, for a lot of coding help, as well as his Legacy Distant Terrain mod that makes this all possible.\n\n**[Download](https://gitlab.com/liquidxsunshine/SS-Terrain/-/archive/main/SS-Terrain-main.zip)** SS Terrain  \n**[Download](https://gitlab.com/sphereii/SphereII-Mods/-/archive/master/SphereII-Mods-master.zip?path=SphereII%20Legacy%20Distant%20Terrain)** Sphereii’s Legacy Distant Terrain\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27933-ss-terrain-custom-terrain-mod-a20/).\n\n**Credits:** LiquidxSunshine",
+  "modDownloadURLs": [
+    {
+      "Info": "SS Terrain",
+      "URL": "https://gitlab.com/liquidxsunshine/SS-Terrain/-/archive/main/SS-Terrain-main.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Sphereii’s Legacy Distant Terrain",
+      "URL": "https://gitlab.com/sphereii/SphereII-Mods/-/archive/master/SphereII-Mods-master.zip?path=SphereII%20Legacy%20Distant%20Terrain",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27933-ss-terrain-custom-terrain-mod-a20/",
+  "modAuthors": [
+    "LiquidxSunshine"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "7 days to die textures"
+  ]
+}

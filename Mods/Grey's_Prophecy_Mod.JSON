@@ -1,0 +1,41 @@
+{
+  "modURL": "https://7daystodiemods.com/greys-prophecy-mod/",
+  "modCreatedTime": "2022-02-17T17:32:00+00:00",
+  "modLastUpdatedTime": "2022-04-04T21:53:39+00:00",
+  "modName": "Grey's Prophecy Mod",
+  "modImages": [],
+  "modShortDescription": "Grey's Prophecy is a flavoring of the default game. The goal of the mod is to add fun stuff, and some humor, while keeping close to the vanilla formula.",
+  "modDescription": "Grey’s Prophecy A20 is officially stable!\n\nGrey’s Prophecy is a flavoring of the default game. The goal of the mod is to add fun stuff, and some humor, while keeping close to the vanilla formula.\n\n## Updates From A19\n\n**Alchemy Overhaul**\n\n* Lots of new potions and elixirs\n* Alchemy Table workstation\n* Mortar and Pestle is now part of the Alchemy Table\n\n**New Herbs and Plant Models**\n\n* Vanilla\n* Ginger\n* Peppermint\n* Cinnamon\n* Allspice\n* Peppercorn\n\n**New Minerals and Surface Boulders**\n\n* Garnet\n* Flint\n* Topaz\n* Moonstone\n\n**Lockpicking Minigame**\n\nSimilar to the minigame in Skyrim and Fallout 4\\. Thanks to Sphereii and Xyth for code and inspiration.\n\n**UI Reskin**\n\n**Vanilla Gun, [Tool](https://7daystodiemods.com/tag/7-days-to-die-tools/), Weapon, Etc… Parts Have Been Replaced by His Custom Ones**\n\n* Scrapping these items will give the custom parts\n* All recipes have been updated to use the custom parts\n\n**Blacksmith Forge Smelts Lead and Has Been Resized**\n\nWill now be a viable replacement to the vanilla forge\n\n**The General Lee Got a New Paint Job**\n\n**New Dyes**\n\n* Orange\n* Grey\n* Seafoam Blue\n\n**[Vehicle](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) Only Dyes**\n\n* Savage Green\n* Crimson Thirst\n* Sovereign Blue\n* Night Knight\n* Sizzling Pink\n* Rainslick Yellow\n* Royal Purple\n* Brown Brawn\n\n**New Twitch Integration Commands**\n\n* #banana\n* #banana\\_boat\n* #sexy\\_time\n\n**Custom Twitch Channel Point Commands**\n\n* Spawn Vulture\n* Same as the Pimp Points command\n* Supply [Ammo](https://7daystodiemods.com/tag/7-days-to-die-ammo/)  \n   * Each supply event automatically adjusts for gamestage at the same thresholds as the Twitch integration #supply commands that they emulate.  \n         * Supply Medicine  \n         * Supply Sustenance  \n         * Silly [Sounds](https://7daystodiemods.com/tag/7-days-to-die-sound-mod/)!  \n                  * Same as the Pimp Points command  \n         * Celebrate!  \n                  * Same as the Pimp Points command  \n         * No Stealth  \n                  * Same as the Pimp Points command  \n         * Exchange for SP  \n                  * Exchange your channel points for SP points\n\n## Terms of Use\n\nThe majority of the modifications are using the game’s built in models, materials, icons, etc… Have been found as free assets in the Unity store, or have been created by author. As such these are available for use. But the General Lee model was purchased and is not available for use or redistribution! If you like the model, and want it for your project, you can find it [here](https://assetstore.unity.com/packages/3d/vehicles/land/hd-car-american-muscle-01-101297).Also Coka’s Skyline model was purchased and is not available for use or redistribution! If you like the model, and want it for your project, you can find it [here](https://www.cgtrader.com/3d-models/car/racing/nissan-skyline-gtr-fast-and-furious).\n\n## Special Thanks\n\n* Guppy’s Discord modding server for help with issues and ideas\n* Xyth and Sphereii for the lockpicking help, and their continued work on modding!\n* Mumpfy for the zombie texture variations\n* UncleSamIAm, Shugg, NoxAegis, AlphaDragonGaming, LoriannTucker, PayneStoneback, biggytoe, and Bluejoy for the original QA\n* CokaGaming, TexCubSF, NoxAegis, and PandaPants75 for their continued support!\n* And of course TFP for creating this game in the first place!\n\n**[Download](https://dev.azure.com/pouellette25/Greys%20Prophecy%20a20/_git/Greys%20Prophecy%20a20)** Grey’s Prophecy Mod  \n**[Download](https://dev.azure.com/pouellette25/Greys%20Prophecy%20a20/_git/Greys%20Prophecy%20a20%20NPC%20Experimental)** Experimental NPC Mod Version  \nAlso available on the mod launcher!\n\nIf you appreciate GanTheGrey’s work and you want to show support, use this [donate link](https://www.patreon.com/ganthegrey).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/18933-greys-prophecy-mod/).\n\n**Credits:** GanTheGrey, Savage Harbinger",
+  "modDownloadURLs": [
+    {
+      "Info": "Grey’s Prophecy Mod",
+      "URL": "https://dev.azure.com/pouellette25/Greys%20Prophecy%20a20/_git/Greys%20Prophecy%20a20",
+      "Version": "v19"
+    },
+    {
+      "Info": "Experimental NPC Mod Version",
+      "URL": "https://dev.azure.com/pouellette25/Greys%20Prophecy%20a20/_git/Greys%20Prophecy%20a20%20NPC%20Experimental",
+      "Version": "v19"
+    },
+    {
+      "Info": "Also available on the mod launcher!",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/18933-greys-prophecy-mod/",
+  "modAuthors": [
+    "GanTheGrey",
+    "Savage Harbinger"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die drinks",
+    "7 days to die medical supplies",
+    "7 days to die recipes",
+    "7 days to die sound mod",
+    "7 days to die tools",
+    "7 days to die vehicles",
+    "7 days to die weapons"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/claim-auto-repair-block/",
+  "modCreatedTime": "2022-05-21T03:48:00+00:00",
+  "modLastUpdatedTime": "2022-05-21T03:50:39+00:00",
+  "modName": "Claim Auto Repair Block",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/10/7-days-to-die-claim-auto-repair-block-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "Introducing a Claim Auto Repair Block to ease the chore to clean up after horde night.",
+  "modDescription": "Introducing a Claim Auto Repair Block to ease the chore to clean up after horde night.\n\nDo you also hate to have to look around your base after every horde night to repair what has been broken by the Zeds? Don’t worry anymore, here comes the Claim Auto Repair Mod.\n\n## Module Description\n\nThe Block is based on a storage chest, as you need to put the necessary repair materials into it.\n\nIt will randomly check blocks in its perimeter if they need repair and if the required materials are in storage. If both requirements are met, the block will start to be repaired. This will take some time and the repair sound will be played while repair is undergoing. If the block is damaged during that process, the whole repair will be aborted. Also only blocks that are within a claim you belong to (e.g. can pickup items) are repaired.\n\nSo far the UI is really just the standard storage chest, and no further information about which block is being repaired etc. is displayed. Only some sounds will play according to what is happening. For ocbMaurice that is probably enough, although he doesn’t know if the sounds might be too annoying after some time. Feel free to open a pull request on GitHub if you have any improvements in that direction.\n\nAlso multiplayer hasn’t really been tested yet, but should work ™.\n\n## Multiplayer Bugfix Release (0.7.5)\n\n* Fix issue not reporting missing land claim\n* Improve multiplayer support for new features\n\n## UL Release (0.7.4)\n\nAdded compatibility with UL out of the box, e.g. no further compatibility patches are needed. But you will need to make sure that this mod loads after the regular UL mods. You can e.g. accomplish this simply by renaming the folder to ‘ZClaimAutoRepair’.\n\n* Fix issue with outline not moving fast enough\n* Fix high CPU usage (left dev mode on in 0.7.3)\n* Add compatibility (recipes etc.) for UL\n* Also chat about missing land claim block\n\n## Update (0.7.3)\n\nImproved visual/textual feedback and added translations:\n\n* Shows red outline if land claim is found missing\n* Shows orange outline if repair materials missing\n* Progresses outline from yellow to green on repair\n* Chats you about last missing material when opened\n* Add Simplified Chinese Translations (thx future93)\n* Automated deployment and release packaging\n* Expose repair speed factor to block xml config\n\n## Update (0.7.1)\n\nMade repair speed configurable via block xml (finding speed still hardcoded)\n\n## Important Update (0.7.0)\n\nHe has finished porting this mod over to A20 (current latest version 0.7.0) which makes this harmony mod now standalone and working out of the box with 7D2D A20\n\n* Increased repair speed by factor 2.6\n* Decreased storage size for UI real-estate\n\n**[Download](https://github.com/OCB7D2D/ClaimAutoRepair/releases/download/0.7.5/OcbClaimAutoRepair-0.7.5.zip)** for A20  \n**[Download](https://github.com/OCB7D2D/ClaimAutoRepair/archive/refs/tags/0.1.0.zip)** for A19 _(This A19 version requires [DMT Modding Tool](https://community.7daystodie.com/topic/13037-dmt-modding-tool/).)_\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25520-claim-auto-repair-block/).\n\n**Credits:** [ocbMaurice](https://7daystodiemods.com/tag/ocbmaurice/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://github.com/OCB7D2D/ClaimAutoRepair/releases/download/0.7.5/OcbClaimAutoRepair-0.7.5.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19 (This A19 version requires DMT Modding Tool.)",
+      "URL": "https://github.com/OCB7D2D/ClaimAutoRepair/archive/refs/tags/0.1.0.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25520-claim-auto-repair-block/",
+  "modAuthors": [
+    "ocbMaurice"
+  ],
+  "modTags": [
+    "7 days to die building materials",
+    "ocbMaurice"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/donovan-ui-simple/",
+  "modCreatedTime": "2022-02-06T07:56:00+00:00",
+  "modLastUpdatedTime": "2022-02-06T08:08:50+00:00",
+  "modName": "Donovan UI (Simple)",
+  "modImages": [],
+  "modShortDescription": "A very simple customized UI which moves the food/water bars out from under the toolbelt and adds then underneath the health/stamina bars.",
+  "modDescription": "A very simple customized UI which moves the food/water bars out from under the [toolbelt](https://7daystodiemods.com/tag/7-days-to-die-hud-mod/) and adds then underneath the health/stamina bars.\n\nAlso adds the “locked slots” functionality to the UI for the sort/stash buttons.\n\n## Changelog\n\nUpdated for A20.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-ui-simple)**\n\nIf you need help, you can use this [support link](https://github.com/Donovan522/donovan-7d2d-modlets/issues).\n\n**Credits:** [Donovan](https://7daystodiemods.com/tag/donovan/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Donovan522/donovan-7d2d-modlets/tree/stable/donovan-ui-simple",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Donovan"
+  ],
+  "modTags": [
+    "7 days to die backpack",
+    "7 days to die buttons",
+    "7 days to die hud mod",
+    "Donovan"
+  ]
+}

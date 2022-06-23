@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/skyrim-style-lockpicking-minigame/",
+  "modCreatedTime": "2022-02-23T20:55:00+00:00",
+  "modLastUpdatedTime": "2022-04-30T03:25:47+00:00",
+  "modName": "Skyrim Style Lockpicking MiniGame",
+  "modImages": [],
+  "modShortDescription": "Xyth is releasing a mod of the locks that work with the lockpicking code added to SphereII's Core.",
+  "modDescription": "Like the title says, SphereII and Xyth missed the Skyrim style lockpicking mini game so they introduced it into the [WinterWeen](https://7daystodiemods.com/winterween-project/) mod. It was well received, so Xyth is releasing a mod of the locks that work with the lockpicking code added to SphereII’s Core.\n\nThe difficulty of the locks is configurable in the core, but it set to offer a challenge but not be impossible for folks that didn’t master lockpicking in Skyrim. To pick a lock, press “E” on any locked door or chest. A lock will appear, and you must guess the position of the top lockpick by moving it with the arrow keys or mouse. Once you think you have the position, press the spacebar to turn the lock. The locks are tied into the perk system and the inventory system, so you will need [lockpicks](https://7daystodiemods.com/tag/7-days-to-die-tools/) in your inventory. Each perk level into lockpicking make it less likely you will break a pick, and reduced the time between attempts. However, they randomized lock difficulty so any one can be really hard or almost too easy.\n\nThis mod contain some purchased assets and code, so while you may use or include this mod in you game or overhaul, you cannot make edits to the models or code without purchasing your own copy of the assets from the Unity store. It’s cheap though.\n\nIf this mod is popular they may add additional features in A20.\n\nThanks to Mumpfy for adding the branding to the lock textures!\n\n**Turn EAC Off when using this mod!**\n\n## Changelog\n\n* **_(new)_** Reduced the zoom and removed additional culling to see if it helps. New version uploaded.\n* Xyth uploaded a new version with minor tweaks that should do nothing, but he wasnt able to make it glitch after, so maybe fixed.\n* Pushed an update to the locks. Reduced the amount of time for lockpicking to begin, reduced mod file size 75%.\n* The one person to give feedback said picks break too easy, so that will be adjusted in the next version of the SCore code that this mod uses.\n* Once more features are exposed in xml, Xyth will share how you can adjust both lock difficulty and pick breaktime.\n\n## Installation\n\n[0-SCore](https://github.com/SphereII/SphereII.Mods/tree/master/0-SCore) mod is REQUIRED, as it has the code for the locks to work.\n\n**[Download](https://github.com/7D2D/A20Mods/raw/main/Locks.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/23100-skyrim-style-lockpicking/).\n\n**Credits:** [Xyth](https://7daystodiemods.com/tag/xyth/), SphereII",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/7D2D/A20Mods/raw/main/Locks.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/23100-skyrim-style-lockpicking/",
+  "modAuthors": [
+    "Xyth",
+    "SphereII"
+  ],
+  "modTags": [
+    "7 days to die tools",
+    "Xyth"
+  ]
+}

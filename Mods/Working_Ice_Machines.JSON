@@ -1,0 +1,37 @@
+{
+  "modURL": "https://7daystodiemods.com/working-ice-machines/",
+  "modCreatedTime": "2022-02-20T18:45:46+00:00",
+  "modLastUpdatedTime": "2022-02-20T18:45:48+00:00",
+  "modName": "Working Ice Machines",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-working-ice-machines-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-working-ice-machines-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-working-ice-machines-additional-screenshot-3.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-working-ice-machines-additional-screenshot-4.jpg"
+  ],
+  "modShortDescription": "Did you also wonder why only some vending machines still working? I changed even Ice machines to be still working with loot inside.",
+  "modDescription": "Did you also wonder why only some vending machines still working? I changed even Ice machines to be still working with loot inside.\n\nWhat this mod does:\n\n* Adds new item “Ice Pack” (Sack)\n* Changes “Ice Cold” machines to be lootable, and include up to 10 Sacks of [Ice](https://7daystodiemods.com/tag/7-days-to-die-food/) inside\n* Added SnowBall -NEW\n\nAll ideas for improving this mod are welcome.\n\nCreated for A20.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Cronosus/7dtd/tree/main/IceMachine)** Client-side version (with icon)  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/Cronosus/7dtd/tree/main/IceMachineS)** Server-side version (without icon)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27853-cronosuss-mods-~a17-a20/).\n\n**Credits:** [CronosusCZ](https://7daystodiemods.com/tag/cronosuscz/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Client-side version (with icon)",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Cronosus/7dtd/tree/main/IceMachine",
+      "Version": "v19"
+    },
+    {
+      "Info": "Server-side version (without icon)",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/Cronosus/7dtd/tree/main/IceMachineS",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27853-cronosuss-mods-~a17-a20/",
+  "modAuthors": [
+    "CronosusCZ"
+  ],
+  "modTags": [
+    "7 days to die drinks",
+    "7 days to die food",
+    "7 days to die loot",
+    "CronosusCZ"
+  ]
+}

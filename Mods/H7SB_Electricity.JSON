@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/h7sb-electricity/",
+  "modCreatedTime": "2022-06-10T20:33:53+00:00",
+  "modLastUpdatedTime": "2022-06-10T20:33:54+00:00",
+  "modName": "H7SB Electricity",
+  "modImages": [],
+  "modShortDescription": "H7SB Electricity is a server-side mod that includes many quality of life improvements for electricity.",
+  "modDescription": "## Features\n\nH7SB Electricity is a **server-side** mod that includes many quality of life improvements for electricity.\n\n### New Rainbow Components\n\nMany electrical components are available in 12 different colors for a better overview.\n\n(Switches / Pressureplates / Relays / Batterybanks / Blade Traps)\n\n### New Wireless Power Transfer\n\nAll incoming and outgoing connections from these two new blocks are invisible.\n\n### New Electrical Traps\n\nHot Wire – Works like a electric fence post and burns enemys.\n\nAcid Thrower – Works like a dart [trap](https://7daystodiemods.com/tag/7-days-to-die-traps/) and shoots acid that corroded enemys.\n\n### New Tool Turrets\n\nAuger Turret – Can be placed like other turrets and attack enemys in melee range.\n\nChainsaw Turret – Can be placed like other turrets and attack enemys in melee range.\n\n### New Control Panels\n\nFunctional control panels that works like switches with light effects.\n\n### New Generators\n\nMore powerful [generators](https://7daystodiemods.com/tag/7-days-to-die-electricity/) with larger fuel capacity (small, medium, large)\n\n### New Laptops\n\nFunctional laptops that are used to play CDs that can be found in the world.\n\n(CD: Disco Dance Off / CD: Beautiful Biomes / CD: Relaxing Rain)\n\nUse (RMB) a CD on a laptop to put it in. After it you have to reconnect the power.\n\n**It is a known bug that the block can twist in the process. Pick up the block and reposition it.**\n\n### Other Changes\n\n_New_ Gold Nugget Recipe – Used in futur tec blocks.\n\n_New_ Large Engine – Used in large generators.\n\n_New_ Futur Tec Schematic – Contains all high quality recipes.\n\n_Rework_ All new/reworked blocks are added to vanilla schematics.\n\n## Mod Installation\n\n1. Download and unpack (“extract here”) the Zip data.\n2. Place it into your “Mods” folder.\n3. Have fun!\n\n**Caution! There may be complications when integrating into existing saved games.** \n**If you miss recipes from perks you have already learned, use a schematic to fix it.**\n\n## Copyrights: Attribution-NonCommercial-NoDerivatives 4.0 International\n\n* You are allowed to use this mod for your private use (singleplayer/multiplayer/server).\n* You are allowed to use this mod as part of your custom modpack (as separated mod).\n* You are not allow to reupload it without permission (exception mentioned)!\n* Of cause your allow to take **inspiration** to improve your **existing** code!\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Electricity)**\n\nIf you appreciate Eihwaz’s work and you want to show support, use this [donate link](https://streamlabs.com/eihwazde/tip).\n\nIf you need help, you can use this [support link](https://discord.com/invite/StrFn7X).\n\n**Credits:** [Eihwaz](https://7daystodiemods.com/tag/eihwaz/), Arramus",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Electricity",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Eihwaz",
+    "Arramus"
+  ],
+  "modTags": [
+    "7 days to die electricity",
+    "7 days to die tools",
+    "7 days to die traps",
+    "7 days to die weapons",
+    "Eihwaz"
+  ]
+}

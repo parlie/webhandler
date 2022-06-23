@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/ratbertts-primitive-days/",
+  "modCreatedTime": "2022-06-01T07:14:47+00:00",
+  "modLastUpdatedTime": "2022-06-01T07:14:48+00:00",
+  "modName": "Ratbertts Primitive Days",
+  "modImages": [],
+  "modShortDescription": "This mod removes advanced weapons from the game leaving only melee, bows, and pipe guns. There's also some custom quests to enable a new bench.",
+  "modDescription": "This mod removes advanced weapons from the game leaving only melee, bows, and pipe guns. There’s also some custom quests to enable a new bench so you can improve your pipe [weapons](https://7daystodiemods.com/tag/7-days-to-die-weapons/) to make them better. Been working on this mod on and off for a few months though. Hope it helps you provide a bigger challenge to your server. It is a pretty big mod so check out the readme to see if there any compatibility issues with other mods. It is best to start Day 1 with this mod and not install it on an already existing server/map as it will remove guns and create lots of issues for people. So best you start with a fresh map Day 1.\n\nSome stuff is tied to perks in the game. This makes having the gun perks a bit more useful to improve the pipe weapons.\n\n## Removes\n\n* All advanced weapons leaving only the pipe pistols, bows and melee weapons.\n* Removes grenades and timed charges as well\n* Removes all [vehicles](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) except minibike and bicycle\n* Removes rocket launchers\n* Nerfs pipe weapons to only have 1 mod slot (improved pipe weapons have more)\n* Nerfs pipe machine gun to bring it more inline with the quality of other pipe weapons\n* Ability to make pipe guns at level 1\n* Removes Shotgun and SMG turrets (makes you rely more on traps/explosives for horde nights)\n* Removes drones because they are awful anyways\n* Nerfs lucky looting (to promote crafting)\n\n## Adds\n\n* Pipe weapon toolbox so you can craft pipe weapons (Bench) either from schematic or gunslinger level 1\n* Improved pipe weapon toolbox so you can craft improved weapons (bench)\n* Crappy shotgun [turret](https://7daystodiemods.com/tag/7-days-to-die-traps/)\n* Tech Junkie Tier 5 now allows you 3 junk turrets instead of 2\n* Resource steel pipe for improved gunsmithing\n* Resource sheet metal for improved gunsmithing\n\n## Quests\n\n* Adds a small [quest](https://7daystodiemods.com/tag/7-days-to-die-quests/) line for improving your pipe weapons\n* Adds ability to craft level 6 improved pipe weapons (tied to perks)\n* A shock arrow/bolt you can learn via a quest you find looting\n\n## Traders\n\nCompletely removes the traders and rebuilds them to be less useful. This promotes more crafting in the game and keeps people from dumping points into better barter and instantly getting good gear at low levels. Now people have to EARN their stuff. [Traders](https://7daystodiemods.com/tag/7-days-to-die-trader/) will still have all crafting things including books. Just removing a lot of high end gear so forcing you to craft/loot.\n\nYou can find support at the link below by following it to our discord and looking for Ratbertt.\n\n**[Download](https://drive.google.com/file/d/1Lc9_V8poLvQ5hwFce5BgmkrRhScxDmX0/view?usp=sharing)**\n\nIf you need help, you can use this [support link](https://discord.gg/8tgQDSNbYk).\n\n**Credits:** [Ratbertt](https://7daystodiemods.com/tag/ratbertt/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1Lc9_V8poLvQ5hwFce5BgmkrRhScxDmX0/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Ratbertt"
+  ],
+  "modTags": [
+    "7 days to die quests",
+    "7 days to die trader",
+    "7 days to die traps",
+    "7 days to die vehicles",
+    "7 days to die weapons",
+    "Ratbertt"
+  ]
+}

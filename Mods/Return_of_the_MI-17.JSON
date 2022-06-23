@@ -1,0 +1,35 @@
+{
+  "modURL": "https://7daystodiemods.com/return-of-the-mi-17/",
+  "modCreatedTime": "2022-02-25T10:59:00+00:00",
+  "modLastUpdatedTime": "2022-05-11T18:41:06+00:00",
+  "modName": "Return of the MI-17",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-return-of-the-mi-17-additional-screenshot-1a.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/02/7-days-to-die-return-of-the-mi-17-additional-screenshot-2a.jpg"
+  ],
+  "modShortDescription": "Whether you need to travel to far away places or just to get away from those pesky zombies, this helicopter will get the job done while riding in style.",
+  "modDescription": "This mod is based around the idea of traveling faster. Whether you need to travel to far away places or just to get away from those pesky zombies, this [helicopter](https://7daystodiemods.com/tag/7-days-to-die-vehicles/) will get the job done while riding in style.\n\nActiniumTiger put together this design from the MI 17 model, re-textured to fit the theme and added particle effects. He hope you all like what he put together. Enjoy!\n\n* **Vehicle Name:** Mi-17\n* **3D Model Artist Name:** [msart](https://www.cgtrader.com/msart)\n* All Models in this mod are subject to [Creative Commons License](https://creativecommons.org/licenses/by/4.0/).\n* No Models have been altered from the ‘original creator’ they are set up with an extra overlay texture and appropriate lighting in unity for 7 Days to Die game.\n\nThis version has an alternate vehicle file for those that like the older style heli controls Ragsy and Bdub came up with for the [MD 500](https://7daystodiemods.com/md-500/) way back. Just simply rename existing vehicles.xml to oldvehicles.xml and rename the one called RagsnBdubstyleoldvehicles.xml to vehicles.xml\n\n**Important Note:** If you want to include any of their mods in your overhaul please do them the courtesy of asking for permission first. When given you must give the due credit to the authors and any other modders that may be credited under the Additional Credits section if any. Also you are not allowed to extract any unity files without their permission either, if there has been an alpha change then wait and files will be updated. For the new alpha version as soon as they possibly can. Thank You!\n\n## Changelog\n\n**Version 2**\n\n1. Updated to A20 XML\n2. Reworked the Helicopter physics\n3. New unity file has compressed textures and other changes.\n4. Has fixed seats 5\n5. Vehicle mods are vfuel, vengine and vlight (no Cosmetic mod)\n6. Added smoke particles\n7. Helicopter placing improved\n8. Reduced size a bit as it is a game after all\n\n**[Download](https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/MI-17-A20Update.zip)** for A20  \n**[Download](https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/MI-17-A19Update.zip)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27991-the-a-team-modlets/).\n\n**Credits:** [ActiniumTiger](https://7daystodiemods.com/tag/actiniumtiger/), Ragsy",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/MI-17-A20Update.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/MI-17-A19Update.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27991-the-a-team-modlets/",
+  "modAuthors": [
+    "ActiniumTiger",
+    "Ragsy"
+  ],
+  "modTags": [
+    "7 days to die helicopter mod",
+    "7 days to die vehicles",
+    "ActiniumTiger"
+  ]
+}

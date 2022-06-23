@@ -1,0 +1,23 @@
+{
+  "modURL": "https://7daystodiemods.com/no-road-decals-on-world-generation/",
+  "modCreatedTime": "2022-02-07T07:28:00+00:00",
+  "modLastUpdatedTime": "2022-02-07T07:31:34+00:00",
+  "modName": "No Road Decals on World Generation",
+  "modImages": [],
+  "modShortDescription": "This mod edits the biomes.xml file to prevent road decals (newspapers, blood splatters, plastic bags, etc.) from being created on world generation.",
+  "modDescription": "This mod edits the [biomes](https://7daystodiemods.com/tag/7-days-to-die-biomes/).xml file to prevent road decals (newspapers, blood splatters, plastic bags, etc.) from being created on world generation. This mod will not affect existing saved games and worlds.\n\nKorgX3 made this mod because littering makes the Baby KorgX3 cry.\n\n**[Download](https://github.com/KorgX2/7d2d-No-Road-Decals/archive/refs/heads/main.zip)**\n\n**Credits:** KorgX3",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/KorgX2/7d2d-No-Road-Decals/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "KorgX3"
+  ],
+  "modTags": [
+    "7 days to die biomes"
+  ]
+}

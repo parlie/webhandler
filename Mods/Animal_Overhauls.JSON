@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/animal-overhauls/",
+  "modCreatedTime": "2022-04-28T01:30:00+00:00",
+  "modLastUpdatedTime": "2022-04-28T01:33:19+00:00",
+  "modName": "Animal Overhauls",
+  "modImages": [],
+  "modShortDescription": "This adds Baby and Teen animals to the game. EVERY animal in the game has a Baby and Teen version. Adds variety and some complexity.",
+  "modDescription": "Variety is the spice of life. Iceburg71 updated his baby animals mod to now include more, thus the name change. A20 ready.\n\nThis adds Baby and Teen [animals](https://7daystodiemods.com/tag/7-days-to-die-animals/) to the game. EVERY animal in the game has a Baby and Teen version. Adds variety and some complexity. Baby animals can actually “hide” under the parent thus making them harder to see and kill. Smaller animals are harder to hit as well.\n\nServer Side only for all you server folks out there. No client download needed.\n\n## Changelog\n\n**Version 1.2**\n\nUpdated entitygroups.xml to add in the baby and teen animals where they are supposed to be. Loads with no errors or warnings on vanilla A20.4 b42\n\n**Version 1.1**\n\nUpdated values for animals to represent the changes to those values from A19 to A20 in the default animals.\n\n**Version 1.0**\n\n* Initial release and upgrade from [Baby Animals](https://7daystodiemods.com/baby-animals/) mod (which is no longer being worked on).\n* A20 ready.\n\n**[Download](https://github.com/Iceburg71/Iceburg-Animals-Overhaul/archive/refs/heads/main.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26823-iceburg71-animal-overhauls/).\n\n**Credits:** [Iceburg71](https://7daystodiemods.com/tag/iceburg71/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Iceburg71/Iceburg-Animals-Overhaul/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26823-iceburg71-animal-overhauls/",
+  "modAuthors": [
+    "Iceburg71"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "Iceburg71"
+  ]
+}

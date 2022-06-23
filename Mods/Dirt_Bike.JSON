@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/dirt-bike/",
+  "modCreatedTime": "2022-01-12T10:14:00+00:00",
+  "modLastUpdatedTime": "2022-03-16T01:59:18+00:00",
+  "modName": "Dirt Bike",
+  "modImages": [],
+  "modShortDescription": "A quick dirt bike. Only one seat. Same storage as bicycle. Unlocks with Grease Monkey 3. Decent fuel mileage, but low capacity.",
+  "modDescription": "A quick dirt [bike](https://7daystodiemods.com/tag/7-days-to-die-bike/). And no neighbors to complain about it!\n\nOnly one seat. Same storage as a bicycle.\n\nUnlocks with Grease Monkey 3\\. Decent fuel mileage, but low capacity.\n\n## Changelog\n\n* **_(new)_** Updated for A20.\n* Added new engine/horn sounds.\n\n**[Download](https://gitlab.com/bdubyah/Mods---A20/-/archive/main/Mods---A20-main.zip?path=Dirt%20Bike)** for A20  \n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Dirt%20Bike)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11875-bdubyahs-modlets/).\n\n**Credits:** [Bdubyah](https://7daystodiemods.com/tag/bdubyah/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://gitlab.com/bdubyah/Mods---A20/-/archive/main/Mods---A20-main.zip?path=Dirt%20Bike",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/bdubyah/Mods---A19/tree/master/Dirt%20Bike",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/11875-bdubyahs-modlets/",
+  "modAuthors": [
+    "Bdubyah"
+  ],
+  "modTags": [
+    "7 days to die bike",
+    "7 days to die motorcycle",
+    "7 days to die vehicles",
+    "Bdubyah"
+  ]
+}

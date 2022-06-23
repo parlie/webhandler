@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/jeos-weapon-armor-tool-modifications-extender/",
+  "modCreatedTime": "2022-05-21T20:55:30+00:00",
+  "modLastUpdatedTime": "2022-06-07T21:06:15+00:00",
+  "modName": "Jeos Weapon/Armor/Tool Modifications Extender",
+  "modImages": [],
+  "modShortDescription": "Extends maximum available mods for items and armors from 4 to 6, 1 for each item level. Should work for future releases.",
+  "modDescription": "Extends maximum available mods for items and [armors](https://7daystodiemods.com/tag/7-days-to-die-armor-mods/) from 4 to 6, 1 for each item level.\n\nShould work for future releases. Made it since I could not find a simple mod just for this.\n\nIt’s a patch, so it should be compatible with most mods that do not modify mod count.\n\nI did not know how to increase UI size for more mods to be visible (if files get modified to increase beyond 6, you can put mods with shift+click, but you can’t see them or take them back from the item).\n\n**[Download](https://drive.google.com/file/d/1-0o9grNeB3BUXUgTrvb7NPIWUku13ShD/view?usp=sharing)**\n\n**Credits:** [Jeo](https://7daystodiemods.com/tag/jeo/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1-0o9grNeB3BUXUgTrvb7NPIWUku13ShD/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Jeo"
+  ],
+  "modTags": [
+    "7 days to die armor mods",
+    "7 days to die tools",
+    "7 days to die weapons",
+    "Jeo"
+  ]
+}

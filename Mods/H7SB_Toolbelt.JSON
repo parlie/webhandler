@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/h7sb-toolbelt/",
+  "modCreatedTime": "2022-04-28T13:14:00+00:00",
+  "modLastUpdatedTime": "2022-05-31T21:12:07+00:00",
+  "modName": "H7SB Toolbelt",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/04/7-days-to-die-h7sb-mods-yt.jpg"
+  ],
+  "modShortDescription": "H7SB Toolbelt is a server-side mod that reduces the size of tool belts and change the HUD.",
+  "modDescription": "H7SB Toolbelt is a server-side mod that reduces the size of tool belts and change the HUD.\n\nThis mod has additional modules that can be optionally activated.\n\n## Rework: Tool Belt Size\n\nThe size of the tool belt has been reduced to 5 slots.\n\nNumbers have been added to the slots for easier use.\n\n## Rework: HUD\n\nThe [HUD](https://7daystodiemods.com/tag/7-days-to-die-hud-mod/) has been centered around the tool belt and adjusted to its size.\n\nThe button to clear the inventory in creative mode has been removed.\n\n## Optional: Modules\n\n“xToolbelt(Hardcore)” Removes additional the compass and add time to menue.\n\nLeave a thumbs up on the mod (youtube) you like to ensure that it gets an update for A21\\. Mods (youtube) with less thumbs up may be depreciated or deleted.\n\n## Mod Installation\n\n1. Download and unpack (“extract here”) the Zip data.\n2. Place it into your “Mods” folder.\n3. Have fun!\n\n## Module Installation\n\n1. Go inside the h7sb mod folder.\n2. Copy & paste (NOT drag & drop) the module you like into the main “Mods” folder.\n3. Have fun!\n\n## Warnings!\n\nThis mod requires a new savegame.\n\nThe option for players to keep their tool belt after death must be enabled.\n\nIt’s a known bug that you can “overwind” while scrolling. It is recommended to use the hotkeys.\n\n## Copyrights: Attribution-NonCommercial-NoDerivatives 4.0 International\n\n* You are allowed to use this mod for your private use (singleplayer/multiplayer/server).\n* You are allowed to use this mod as part of your custom modpack (as separated mod).\n* You are not allow to reupload it without permission (exception mentioned)!\n* Of cause your allow to take inspiration to improve your existing code!\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Toolbelt)**\n\nIf you appreciate Eihwaz’s work and you want to show support, use this [donate link](https://streamlabs.com/eihwazde/tip).\n\nIf you need help, you can use this [support link](https://discord.com/invite/StrFn7X).\n\n**Credits:** [Eihwaz](https://7daystodiemods.com/tag/eihwaz/), Scomar82, R.E.LXIX",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Toolbelt",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Eihwaz",
+    "Scomar82",
+    "R.E.LXIX"
+  ],
+  "modTags": [
+    "7 days to die hud mod",
+    "Eihwaz"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "modURL": "https://7daystodiemods.com/gmo-farming/",
+  "modCreatedTime": "2022-06-14T19:46:00+00:00",
+  "modLastUpdatedTime": "2022-06-15T17:51:01+00:00",
+  "modName": "GMO Farming",
+  "modImages": [],
+  "modShortDescription": "Have you ever wanted to customize your seeds so they can meet your personal needs?",
+  "modDescription": "Have you ever wanted to customize your seeds so they can meet your personal needs?\n\n## Compatibility\n\nThis modlet is compatible with servers and clients:\n\n* If you’re playing on a server, only the server needs to be running this mod.\n* If playing on a P2P multiplayer game, only the host needs to have the mod.\n\n## Seed Enhancement\n\nWith the help of a new workstation (the Hot Box), you’ll expose seeds to abnormally high levels of the zombie virus, doubling their crop yield and making them capable of taking on various special traits.\n\n* Bonus: further doubles crop yield (4x yield over unmodified crops)\n* Explosive: triggers a concealed explosive \\[comparable to cooking pot [mine](https://7daystodiemods.com/tag/7-days-to-die-traps/)\\] when stepped on, struck with a melee weapon, or hit with an arrow. Due to the flexible nature of plants, the detonator will not trigger if struck with bullets or other explosives\n* Fast: reaches maturity in half the time\n* Renewable: clean, healthy water allows this plant to spread out its roots and bolster its nutrition absorption and allowing it to produce crops endlessly\n* Thorny: integrates with sharp, metal thorns. Touching them will cause one to bleed\n* Underground: fused with mushroom dna, allowing growth without the need for sunlight\n\n## Effects of Trait Combination\n\nIn situations where two different traits are adopted, the plant will benefit from each trait in equal measure.\n\nBut in situations where a trait is doubled, the name of the trait changes in the following ways:\n\n* Bountiful Bonus: further quadruples crop yield (8x yield over unmodified crops)\n* Extremely Explosive: triggers a concealed explosive with a large payload \\[comparable to hubcap mine\\] when stepped on, struck with a melee weapon, or hit with an arrow. Due to the flexible nature of plants, the detonator will not trigger if struck with bullets or other explosives\n* Rapid Growth: reaches maturity in a quarter of the time\n* Extra Thorny: integrates with many sharp, metal thorns. Touching them will cause one to bleed profusely\n\n## 2 Editions to Choose From\n\nThis modlet comes with 2 Editions: Standard and Researcher. The one you choose for your game or community should be carefully considered.\n\n### Standard Experience\n\nThis Edition is the most vanilla-friendly experience you can expect from a mod like this:\n\n* Players unlock content by leveling up in Living off the Land\n* Each skill level the player adds after level 2 will unlock new content\n* Primary focus of this Edition is to encourage use and expand the base game’s content\n\n### Researcher Experience\n\nThis Edition is more focused on player specialization and giving the player a new challenge to overcome.\n\n* Instead of unlocking these new seed recipes by leveling up Living off the Land, the player unlock the opportunity to learn these new recipes by researching them (crafting schematics).\n* Such research is time and resource intensive, requiring intentional effort in working towards the player’s desired seeds and traits. Naturally, this will be a challenge and require a significant amount of [farming](https://7daystodiemods.com/tag/7-days-to-die-farming/).\n* Primary focus of this Edition is to provide a difficulty barrier to crafting these new seeds. While the recipes to craft the seeds aren’t complicated or challenging, researching them is and this requires players to invest the time if they want the benefit from these enhanced crops. This Edition is also an effort to prevent the GMO Farming mod from totally throwing the game out of whack with easy-to-craft super-crops.\n\n## Recognition\n\n* Huge recognition for Shavick who spent a lot of time brainstorming and proving out this concept with me!  \n   * His input into this project made most of its coolest ideas possible.  \n   * He plans to use this mod in his own Overhaul called Crystal Hell. This mod is only a small piece if the awesome stuff they’ve got going on over there!\n* Obviously The Fun Pimps for making a fun game to play and mod :\\]\n\n**[Download](https://github.com/jonathan-robertson/gmo-farming/releases/latest/download/gmo-farming.zip)** Standard Experience  \n**[Download](https://github.com/jonathan-robertson/gmo-farming/releases/latest/download/gmo-farming-researcher.zip)** Researcher Experience\n\nIf you need help, you can use this [support link](https://github.com/jonathan-robertson/gmo-farming/issues).\n\n**Credits:** [Jonathan Robertson (Kanaverum)](https://7daystodiemods.com/tag/jonathan-robertson-kanaverum/), Shavick",
+  "modDownloadURLs": [
+    {
+      "Info": "Standard Experience",
+      "URL": "https://github.com/jonathan-robertson/gmo-farming/releases/latest/download/gmo-farming.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Researcher Experience",
+      "URL": "https://github.com/jonathan-robertson/gmo-farming/releases/latest/download/gmo-farming-researcher.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Jonathan Robertson (Kanaverum)",
+    "Shavick"
+  ],
+  "modTags": [
+    "7 days to die farming",
+    "7 days to die traps",
+    "Jonathan Robertson (Kanaverum)"
+  ]
+}

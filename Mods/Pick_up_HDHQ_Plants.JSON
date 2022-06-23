@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/pick-up-hdhq-plants/",
+  "modCreatedTime": "2020-07-01T01:32:00+00:00",
+  "modLastUpdatedTime": "2022-04-25T18:34:41+00:00",
+  "modName": "Pick up HDHQ Plants",
+  "modImages": [],
+  "modShortDescription": "Two 7DTD mod 'patch versions' for the A16 Style press \"E\" to pick up HDHQ Plants used in DUST2DEATH's amazing texture, lighting and environment overhaul.",
+  "modDescription": "Two 7DTD mod ‘patch versions’ for the A16 Style press “**E**” to pick up HDHQ Plants used in DUST2DEATH’s amazing texture, lighting and environment overhaul.\n\nThere are now 2 mod versions for HDHQ Plants:\n\n1. Pickup HDHQ Plants gives option to pick up only the HDHQ Plants\n2. Pickup HDHQ Plants Plus allows player to pick up all plants with A16 press\n\nPick up the beautiful HDHQ Plants used in DUST2DEATH’s amazing texture, lighting and environment overhaul which can be found here: [HDHQ Overhaul Mod](https://7daystodiemods.com/hdhq-overhaul-mod/)\n\n**Note:** You must have the HDHQ Plants modlet installed for this modlet to work correctly!\n\nA big thanks to DUST2DEATH for allowing Ragsy2145 to post this mod.\n\n**Important Note:** If you want to include any of his vehicle mods or other mods in a ‘mod overhaul’ please do him the courtesy of asking for permission first… when given you must give the due credit to himself and any other modders that may be credited under the “Credits & Additional Credits” sections if any. Also you are not allowed to extract any unity files without his permission either, if there has been an alpha change then wait and files will be updated for the new alpha version as soon as he possibly can. Thank you!\n\n**[Download](https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets/-/archive/master/other-7-days-to-die-mods-and-modlets-master.zip?path=Pickup_HDHQPlants)** Pick up HDHQ Plants  \n**[Download](https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets/-/archive/master/other-7-days-to-die-mods-and-modlets-master.zip?path=Pickup_HDHQPlants_Plus)** Pick up HDHQ Plants Plus\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Pick up HDHQ Plants",
+      "URL": "https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets/-/archive/master/other-7-days-to-die-mods-and-modlets-master.zip?path=Pickup_HDHQPlants",
+      "Version": "v19"
+    },
+    {
+      "Info": "Pick up HDHQ Plants Plus",
+      "URL": "https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets/-/archive/master/other-7-days-to-die-mods-and-modlets-master.zip?path=Pickup_HDHQPlants_Plus",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die farming",
+    "Ragsy2145"
+  ]
+}

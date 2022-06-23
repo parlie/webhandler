@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/h7sb-domestication/",
+  "modCreatedTime": "2022-04-28T12:58:00+00:00",
+  "modLastUpdatedTime": "2022-05-31T21:12:31+00:00",
+  "modName": "H7SB Domestication",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/04/7-days-to-die-h7sb-mods-yt.jpg"
+  ],
+  "modShortDescription": "H7SB Domestication is a server-side mod that includes functional chickens (catching, keeping, breeding). The mod has special additional modules (boar) that can be optionally activated.",
+  "modDescription": "H7SB Domestication is a server-side mod that includes functional chickens (catching, keeping, breeding).\n\nThe mod has special additional modules (boar) that can be optionally activated.\n\n## New: Tranquillizer Dart\n\nCrafted with (new) snake poision and required to capture [animals](https://7daystodiemods.com/tag/7-days-to-die-animals/).\n\nCan be fired with any bow, but has a strong pull downward.\n\nA short signal buff indicates when you hit your target.\n\n## New: Chicken Cage\n\nAfter the animal is tranquillized, quickly wrestle it down and use (RMB) a [cage](https://7daystodiemods.com/tag/7-days-to-die-traps/).\n\nThe hitbox is a bit inaccurate – click on/below the region around the animal’s feet.\n\nCaptured animals disappear (or can no longer be touched and despawn).\n\n## New: Chicken Feed\n\nRequired to feed captured chickens with a (new) carrot and stick.\n\n## New: Chicken\n\nPlace the captured chicken and stand back until it appears.\n\nUse (LMB) carrot and stick to feed the animal with [food](https://7daystodiemods.com/tag/7-days-to-die-food/).\n\nThen wait until the chicken is ready and you can loot the nest.\n\nRepeat the process until the chicken dies or becomes pregnant.\n\nSwap the fertilized egg with carrot and stick (LMB) before the next loot.\n\nIf an animal gets sick use (new) animal medicine with carrot and stick.\n\nKilled chickens (aim for nest) and dead ones can be dismantled normally.\n\nThe particle effects and sound effects reflect the animal’s current status.\n\nIf no chicken appears you can simply place the nest again (or continue without).\n\nIf a chicken get pushed out its nest, it disappears (but the process continues).\n\nTo interact, aim at the nest and not the animal\n\n## Rework: Bird Nests & Grass Seeds\n\nBird nests disappear after looting.\n\nGrass Seed crafting cost has been reduced and growing time raised.\n\n## Optional: iDomestication(Boar)\n\nNew: Boar Cage, Boar Feed\n\nBasically, boar [farming](https://7daystodiemods.com/tag/7-days-to-die-farming/) works like chicken farming.\n\nHowever, the boar cage also has to be mucked out, which requires hay.\n\nAnd instead of giving eggs, the animal gets fatter and gives more meat when slaughtered.\n\nFully grown pigs have a chance of producing offspring.\n\nRework: Rotten Flesh has been renamed to Organic Garbage.\n\nThe boar cage must be placed on flat surface or the animal will disappear.\n\n## Optional: Modules\n\n“xDomestication(Nests)” Let bird nests respawn again.\n\nLeave a thumbs up on the mod (youtube) you like to ensure that it gets an update for A21\\. Mods (youtube) with less thumbs up may be depreciated or deleted.\n\n## Mod Installation\n\n1. Download and unpack (“extract here”) the Zip data.\n2. Place it into your “Mods” folder.\n3. Have fun!\n\n## Module Installation\n\n1. Go inside the h7sb mod folder.\n2. Copy & paste (NOT drag & drop) the module you like into the main “Mods” folder.\n3. Have fun!\n\n## Copyrights: Attribution-NonCommercial-NoDerivatives 4.0 International\n\n* You are allowed to use this mod for your private use (singleplayer/multiplayer/server).\n* You are allowed to use this mod as part of your custom modpack (as separated mod).\n* You are not allow to reupload it without permission (exception mentioned)!\n* Of cause your allow to take inspiration to improve your existing code!\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Domestication)**\n\nIf you appreciate Eihwaz’s work and you want to show support, use this [donate link](https://streamlabs.com/eihwazde/tip).\n\nIf you need help, you can use this [support link](https://discord.com/invite/StrFn7X).\n\n**Credits:** [Eihwaz](https://7daystodiemods.com/tag/eihwaz/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Domestication",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Eihwaz"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die animals",
+    "7 days to die farming",
+    "7 days to die food",
+    "7 days to die traps",
+    "Eihwaz"
+  ]
+}

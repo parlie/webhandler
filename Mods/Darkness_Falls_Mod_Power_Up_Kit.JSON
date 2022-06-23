@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/darkness-falls-mod-power-up-kit/",
+  "modCreatedTime": "2022-05-22T20:56:00+00:00",
+  "modLastUpdatedTime": "2022-05-22T21:44:56+00:00",
+  "modName": "Darkness Falls Mod Power Up Kit",
+  "modImages": [],
+  "modShortDescription": "Improved Japanese localization and added missing localize data for Japanese survivor. If your servers are allowed Japanese player, it helps for them.",
+  "modDescription": "Improved Japanese localization and added missing localize data for Japanese survivor. If your servers are allowed Japanese player, it helps for them.\n\n* Ver.4.03 Rev.07  \n   * Revised Localization.\n* Ver.4.03 Rev.06  \n   * Updated Japanese Localization for [Darkness Falls Mod](https://7daystodiemods.com/darkness-falls-mod/) Ver4.03.\n* Ver.4.03 Rev.05  \n   * Revised Localization.\n* Ver.4.03 Rev.04  \n   * Revised Localization.\n* Ver.4.03 Rev.03  \n   * Revised Skill Window.\n* Ver.4.03 Rev.02  \n   * Added Action Skill values in UI.\n* Ver.4.03 Rev.01  \n   * Original Release\n\n**[Download](https://github.com/7DaystoDie-JP/Darkness_Falls_Mod_Power_Up_Kit/archive/refs/heads/main.zip)**\n\nIf you need help, you can use this [support link](https://discord.gg/bdW6msJ6M2).\n\n**Credits:** [7 Days to Die Gaming Community Japan](https://7daystodiemods.com/tag/7-days-to-die-gaming-community-japan/), gelengelen",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/7DaystoDie-JP/Darkness_Falls_Mod_Power_Up_Kit/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "7 Days to Die Gaming Community Japan",
+    "gelengelen"
+  ],
+  "modTags": [
+    "7 Days to Die Gaming Community Japan"
+  ]
+}

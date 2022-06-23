@@ -1,0 +1,35 @@
+{
+  "modURL": "https://7daystodiemods.com/classic-style-hardcore-mod/",
+  "modCreatedTime": "2022-06-06T09:55:00+00:00",
+  "modLastUpdatedTime": "2022-06-06T10:05:20+00:00",
+  "modName": "Classic Style Hardcore Mod",
+  "modImages": [],
+  "modShortDescription": "Classic Style Hardcore continues to develop the original idea laid down in the early Alphas of 7 Days to Die.",
+  "modDescription": "Classic Style Hardcore continues to develop the original idea laid down in the early Alphas of 7 Days to Die.\n\nThese great tools used to create this mod:\n\n* “Prefab Editor” (Thanks Pillle)\n* “UABE” (Thanks DerPopo)\n* “Hal’s Prefab Editor” (Thanks HAL9000)\n\nn2n1’s [first original thread](https://community.7daystodie.com/topic/3993-classic-style-hardcore-mod/) (credits and old additional info).\n\nHere you can see how people who are not afraid of difficulties play this mod:\n\nHere is a right attitude to survival, in Japanese:\n\nSeason#2 from Dayther やまだ (In Japanese):\n\nMod showcase from channel Camoes Gamer:\n\n## Changelog\n\n**UPDATE – CSH\\_v20.4.02**\n\n* A lot of small and no important fixes\n* The texture pack has also been updated\n\n_**(This should not be compatible with previous worlds and saves)**_\n\nStill as a test.\n\nThis is the version for A20.4! n2n1 will be waiting for the final patch for A20\\. If it be A20.5, then he will switch to it when confirming that it is final.\n\n## Terms of Use\n\n1. Content created by the author of the mod or third parties, which NOT based on the developments of “The Fun Pimps” – belongs to the creators of this content.\n2. The terms below do not apply to the owners of the game “The Fun Pimps”, as they already have the right to use their own content or code, including those that were created on the basis of their development. The author of this mod does not mind that “The Fun Pimps” use any ideas or materials from this mod to improve the quality of the Game “7 Days to Die”.\n3. You can use the mod, change or take any of the content for personal use outside of the public – without permission.\n4. You can use the mod without changes (as is) on public servers for non-commercial purposes or show the gameplay – without permission.\n5. To use the mod in public, or create a public server with changes in the configuration files xml, txt, dll or other resources – you must ask the author of the mod for permission.\n6. If you want to publicly use any materials or content from this mod outside of this mod, you must ask the author of the mod for permission.\n\n**Still has the test status. (for A20.4 b42)**\n\n**[Download](https://gitlab.com/n2n1/Classic-Style-Hardcore-MOD/-/archive/master/Classic-Style-Hardcore-MOD-master.zip)**  \nAlso available on the mod launcher!\n\nYou can also download an archive with corrected textures. It will be suitable and will not require updating for the duration of the entire version A20.4 (B42). This is an optional extension: [Fixed Textures](https://disk.yandex.ru/d/36PRCN5rnjtwNw)\\~1.6Gb (now it just corrects the brightness of some trees, corrects old weapon textures, and other things)\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/22253-classic-style-hardcore-mod/).\n\n**Credits:** n2n1",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/n2n1/Classic-Style-Hardcore-MOD/-/archive/master/Classic-Style-Hardcore-MOD-master.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Also available on the mod launcher!",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/22253-classic-style-hardcore-mod/",
+  "modAuthors": [
+    "n2n1"
+  ],
+  "modTags": [
+    "7 days to die farming",
+    "7 days to die food",
+    "7 days to die hud mod",
+    "7 days to die icons",
+    "7 days to die loot",
+    "7 days to die maps",
+    "7 days to die menu",
+    "7 days to die zombies"
+  ]
+}

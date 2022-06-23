@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/medic-plus/",
+  "modCreatedTime": "2022-03-05T20:54:00+00:00",
+  "modLastUpdatedTime": "2022-03-05T21:25:07+00:00",
+  "modName": "Medic Plus",
+  "modImages": [],
+  "modShortDescription": "Medic Plus adds more variety to the medicine and healing items of the game. Early game healing is weaker but late game healing is stronger.",
+  "modDescription": "Medic Plus adds more variety to the [medicine](https://7daystodiemods.com/tag/7-days-to-die-medical-supplies/) and healing items of the game. Early game healing is weaker but late game healing is stronger. Candy and Drugs are more viable for any build and offer stronger buffs but carry the risk of addiction! Each addiction is unique to each [candy](https://7daystodiemods.com/tag/7-days-to-die-food/) and drug.\n\n## Planned Changes (None Are Guaranteed)\n\n* Healing darts ammunition\n* Deployable healing items (healing areas)\n* Medic Armor or Armor Mods (self healing / drug application)\n\n## Changelog\n\n**v1.2.2**\n\nFixed some Buffs not properly shutting down\n\n**v1.2.1**\n\nFixed Withdrawals not properly shutting down\n\n**v1.2**\n\n* Fixed Fort Bites display\n* Adjusted Infection chances on medical items to be lower\n* Adjusted Addiction chances to be lower\n* Fixed items not healing others properly\n\n**[Download](https://drive.google.com/file/d/1QZ6fTkszg0gS2H2f6FQy-d8F30K-e9d0/view?usp=sharing)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27927-medic-plus/).\n\n**Credits:** Player Intrepid",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1QZ6fTkszg0gS2H2f6FQy-d8F30K-e9d0/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27927-medic-plus/",
+  "modAuthors": [
+    "Player Intrepid"
+  ],
+  "modTags": [
+    "7 days to die food",
+    "7 days to die medical supplies"
+  ]
+}

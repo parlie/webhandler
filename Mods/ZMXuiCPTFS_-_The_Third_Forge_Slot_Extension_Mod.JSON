@@ -1,0 +1,29 @@
+{
+  "modURL": "https://7daystodiemods.com/zmxuicptfs-the-third-forge-slot-extension-mod/",
+  "modCreatedTime": "2022-01-20T16:54:00+00:00",
+  "modLastUpdatedTime": "2022-03-01T06:54:48+00:00",
+  "modName": "ZMXuiCPTFS - The Third Forge Slot Extension Mod",
+  "modImages": [],
+  "modShortDescription": "ZMXhudCPTFS adds the third forge slot to the vanilla forge for SMXui.",
+  "modDescription": "ZMXhudCPTFS adds the third forge [slot](https://7daystodiemods.com/tag/7-days-to-die-more-slots/) to the vanilla forge for SMXui.\n\n* **Verified to work with:** A20.3B3\n* **Dependencies:** [SMXui](https://7daystodiemods.com/smxui-the-ui-replacement-mod/).\n* **Compatibility:** Will probably work with most mods that doesn’t modify the same windows in the XUI files.\n\n## Terms of Use\n\nYou are allowed to use this modlet as is for your own personal use and/or on a server you run and/or administrate.\n\nYou are under no circumstance allowed to distribute any SMX and/or ZMX branded modlets without written consent from the main developer.\n\nIf you wish to distribute SMX and/or ZMX branded modlets as part of your own project and consent have been given you are required to do so in such a way so that all the files of the SMX and/or ZMX modlet or modlets in question remain unaltered and you cannot under any circumstance claim credit for creating the modlet or modlets or any of the files provided with it/them.\n\nIf consent is given you are required to make any changes as a new modlet that injects into the modlet in question and keeping load order in mind it is to be named so that it loads AFTER the original modlet. The original modlet shall be distributed as is with no change to its files what so ever.\n\nIf consent is given it is only given on a case to case basis and those that receive consent cannot pass that consent on to another party or project. Nor will the consent pass on to other creators that opt to include consented work into their project.\n\nYou are not allowed to use any of the assets bundled with SMX and/or ZMX branded modlets in other projects. This restriction applies to all files that the SMX and/or ZMX modlets consist of. **EXCEPTION:** The content of the Harmony folder is to be considered open source and can be used freely as long as the original credit comments within the files are not removed or altered other than adding to.\n\nYou are required to seek special consent from the main developer should you wish to make changes to any asset files provided with the SMX and/or ZMX branded modlets.\n\nYou are required to inform the main developer when your project that contains any SMX and/or ZMX modlet or modlets have been made available to the public.\n\n## Meet the Team\n\nAs of A20 Sirillion decided to move SMX into the lands of Harmony and with that digging even deeper into what they can do with modding the game. This requires knowledge that he does not possess enough of to be able to continue working on this on his own. As a result the team has grown and they have added some supernerds that know this stuff.\n\n**Main Credits**\n\n* Sirillion (main developer/designer/xml/coding)\n* Sphereii (developer/coding)\n* TormentedEmu (developer/coding)\n* Laydor (developer/coding)\n\n**Contributors:** Mumpfy(art)\n\n## Installation and Removal Procedures\n\n* First and foremost, the most important thing you need to do with SMX in A20: **TURN OFF EAC!**\n* Backup your save game before installing ANY mods to the game. They don’t expect SMX to cause any issues, it is just good practice!\n* Download the mod.\n* Decompress the downloaded files with WinRAR or a compatible compression software like 7zip.\n* Copy or move the Mods folder you just decompressed into your 7 Days to Die installation folder. Overwrite if prompted.\n* Verify your install by checking that the ModInfo.xml file is located in this Hierarchy: “\\\\Mods\\\\modletname\\\\ModInfo.xml”\n* Remove by deleting the modlet folder in question from within the Mods folder.\n\n**[Download](https://github.com/Sirillion/ZMXuiCPTFS/archive/refs/heads/master.zip)**\n\nIf you appreciate Sirillion’s work and you want to show support, use this [donate link](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=5VLRBAFXDCXBC&item_name=SMX+Development%C2%A4cy_code=NOK&source=url).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/14615-smx-alpha191/).\n\n**Credits:** [Sirillion](https://7daystodiemods.com/tag/sirillion/), SphereII, TormentedEmu, Laydor",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Sirillion/ZMXuiCPTFS/archive/refs/heads/master.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/14615-smx-alpha191/",
+  "modAuthors": [
+    "Sirillion",
+    "SphereII",
+    "TormentedEmu",
+    "Laydor"
+  ],
+  "modTags": [
+    "7 days to die more slots",
+    "7 days to die smx mods",
+    "Sirillion"
+  ]
+}

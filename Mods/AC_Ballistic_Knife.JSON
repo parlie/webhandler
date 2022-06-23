@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/ac-ballistic-knife/",
+  "modCreatedTime": "2022-05-11T18:41:11+00:00",
+  "modLastUpdatedTime": "2022-05-23T21:29:11+00:00",
+  "modName": "AC Ballistic Knife",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-ac-ballistic-knife-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "The Ballistic Knife adds a new look to the weapon selection. With blade animation and range it adds a slight touch to damage.",
+  "modDescription": "Introducing The AC Ballistic Knife.\n\nThis Ballistic Knife for Alpha 20 brought to you by The A-Team.\n\nThe Ballistic Knife adds a new look to the [weapon](https://7daystodiemods.com/tag/7-days-to-die-weapons/) selection. With blade animation and range it adds a slight touch to damage. All around a simple weapon mod that adds more variety.\n\n* **Weapon Name:** [Ballistic Knife](https://sketchfab.com/3d-models/ballistic-knife-2f365e26c98343ecb07af71a9b3801f1) by ARIA is licensed under Creative Commons Attribution.\n* **3D Model Artists Name:** [ARIA](https://sketchfab.com/I_Live)\n* All Models in this mod are subject to [creative commons licence](https://creativecommons.org/licenses/by/4.0/).\n\nNo Models have been altered from the ‘original creator’ they are set up with appropriate lighting shader in unity for 7 Days to Die game.\n\nMod’s that add new assets must be installed on both server and client.\n\n**Important Note:** If you want to include any of their mods in your overhaul please do them the courtesy of asking for permission first. When given you must give the due credit to the authors and any other modders that may be credited under the Additional Credits section if any. Also you are not allowed to extract any unity files without their permission either, if there has been an alpha change then wait and files will be updated. For the new alpha version as soon as they possibly can. Thank You!\n\n**[Download](https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/AC_BallisticKnife.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27991-the-a-team-modlets/).\n\n**Credits:** [ActiniumTiger](https://7daystodiemods.com/tag/actiniumtiger/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/ActiniumTiger/actiniumtigers-modlets/-/raw/main/AC_BallisticKnife.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27991-the-a-team-modlets/",
+  "modAuthors": [
+    "ActiniumTiger"
+  ],
+  "modTags": [
+    "7 days to die melee weapons",
+    "7 days to die weapons",
+    "ActiniumTiger"
+  ]
+}

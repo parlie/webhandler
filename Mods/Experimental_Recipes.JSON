@@ -1,0 +1,45 @@
+{
+  "modURL": "https://7daystodiemods.com/experimental-recipes/",
+  "modCreatedTime": "2022-06-18T20:05:00+00:00",
+  "modLastUpdatedTime": "2022-06-18T20:07:13+00:00",
+  "modName": "Experimental Recipes",
+  "modImages": [],
+  "modShortDescription": "This mod add in game many items/blocks/recipes and new capabilities like a fishing, takeble grass and some others blocks. It makes the game look like game.",
+  "modDescription": "This mod add in game many items/blocks/recipes and new capabilities like a fishing, takeble grass and some others blocks. It makes the game look like game.\n\n## Added\n\n* 1448 items.\n* 159 new blocks.\n* New [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) and animals.\n* 1527 recipes.\n* 306 skills.\n\n## Capabilities\n\n* Extended blocks for construction.\n* Advanced Agriculture and Livestock.\n* Extended cooking.\n* The ability to recruit from gasoline refueling.\n* The need to wash\n* [Fishing](https://7daystodiemods.com/tag/7-days-to-die-fishing/)\n* Pick-objects.\n* Mod “The Master”\n* Tips Survivors (from 7DaysFan).\n* Extended ore.\n* Advanced Materials and ranking system materials.\n* Miscellaneous-metal armor, and [tools](https://7daystodiemods.com/tag/7-days-to-die-tools/).\n* New types of buildings, fashion “Prefabs-Compo-Pack” (from “Magoli”).\n* New Craft table.\n* Many skills\n\nAnd a lot of more…\n\nMore description is in the ReadMe.\n\n## How to Install Mod?\n\n1. Download the archive mod.\n2. Open the archive of the mod and copy the contents to the game directory agreeing to the replacement.\n3. Run the game.\n\n## How to Install the Patch?\n\n1. Download the archive patch.\n2. Copy the contents of the archive in the game directory, while agreeing on a replacement.\n3. Run the game\n\n## How Do I Delete Mod?\n\n* Go to the game options to the steam and click on “recalculate the cache.”\n* Go to the game folder and delete folder “Mods”.\n\n## Important\n\n* Files fashion spread only in .rar .zip or .7z No selfinstallers.\n* After installing the mod, if you have not played it, it is desirable to start a new game.\n\n**PS:** Sorry for English, it’s not Sergant1000’s native language.\n\n## Changelog\n\n**Mod Updated to Version 44.409**\n\n**Added**\n\n* Added snake nests to the desert in place of birds.\n* Added recipe for gas and charcoal grills. Stove alternative.\n* Updated and converted for a20 module “Snufkin\\_CustomVehicles”. Disabled “PeNa1979Express” added “CatfishBlimp”.\n* Added 10 hats. (Does not appear in the character menu)\n* Updated module “Snufkin\\_CustomZombies” to a20\\. Added new zombies and adapted to the existing system.\n* A plastic bag with meat has been added to the loot. When opened, some good or rotten meat will drop out.\n\n**Changed**\n\n* Changes have been made to the localization.\n* Fixed gear unlock.\n* Fixed a bug when selecting Shepherd’s Pie.\n* Fixed the display of characteristics for porridge and fried meat.\n* Wheat seed recipe corrected.\n* Fixed the disappearance of the flask when taking water.\n* Reduced the number of olives for vegetable oil.\n* The Butcher skill has been reworked. Opens after pumping a knife, increases the collection of resources for a knife and other tools.\n* Corrected material for blocks made of cobblestone, concrete, Reinforced Concrete.\n* The flagstone and brick upgrade has been removed for the nail gun.\n* Changed the recipe and group of a simple grenade for a grenade launcher.\n* Removed pickup from paintings with a hidden safe\n* Fixed interaction with Geist and zombieScarecrow\n* Increased drop rate for books and blueprints.\n* Webs have been added to the insectarium.\n\n**Additionally**\n\nUpdated readme file.\n\n**Mod Updated to Version 44.325**\n\n**Added**\n\n* Added recipes for yeast.\n* Black pepper added to the drop.\n* Added oil, buckwheat and buckwheat.\n* Added new icons.\n* Flask added to loot.\n* Added Rabbit Cage and Pig Pen.\n\n**Changed**\n\n* Changes have been made to the localization.\n* Cooking recipes have been changed.\n* Updated the Bird’s Nest, Rabbit and Pig rearing model.\n* Updated rabbit model.\n* Changed rabbit and pig.\n\n**Mod Updated to Version 44.301**\n\n**Added**\n\n* Added silver and gold scrap metal recipe.\n* Added buff to juices. Increases movement speed by 5%.\n\n**Changed**\n\n* Fixed seeds in packages.\n* Reduced seed price.\n* Increased fruit price\n* Increased the chance of Rutile, Silver, and Gold spawning in a destroyed biome.\n* Removed electrical parts.\n* Fixed bug with leather windings.\n* Improved lift operation.\n* Increased water addition to juices.\n\n**Additionally**\n\nThe hdd is died, some of the information on the work done was lost.\n\n**[Download](https://drive.google.com/file/d/15h-zrSVCaUCVidrSnsKj-at1GrPdP3NJ/view?usp=sharing)** Mod Version: 44.266  \n**[Download](https://drive.google.com/file/d/1Y4-5k-7SXRjQl2mEvqQUkwEpf8oR9cnG/view?usp=sharing)** Patch Version: 44.266- 44.325  \n**[Download](https://drive.google.com/file/d/1zabktGMPuPzhKmzuBuIzKft7k2fyY9Tg/view?usp=sharing)** Patch Version: 44.266- 44.409\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/1958-experimental-recipes/).\n\n**Credits:** Sergant1000",
+  "modDownloadURLs": [
+    {
+      "Info": "Mod Version: 44.266",
+      "URL": "https://drive.google.com/file/d/15h-zrSVCaUCVidrSnsKj-at1GrPdP3NJ/view?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "Patch Version: 44.266- 44.325",
+      "URL": "https://drive.google.com/file/d/1Y4-5k-7SXRjQl2mEvqQUkwEpf8oR9cnG/view?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "Patch Version: 44.266- 44.409",
+      "URL": "https://drive.google.com/file/d/1zabktGMPuPzhKmzuBuIzKft7k2fyY9Tg/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/1958-experimental-recipes/",
+  "modAuthors": [
+    "Sergant1000"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die armor mods",
+    "7 days to die building materials",
+    "7 days to die farming",
+    "7 days to die fishing",
+    "7 days to die food",
+    "7 days to die ore",
+    "7 days to die prefab",
+    "7 days to die recipes",
+    "7 days to die skill points",
+    "7 days to die tools",
+    "7 days to die zombies"
+  ]
+}

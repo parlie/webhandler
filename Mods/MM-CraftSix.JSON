@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/mm-craftsix/",
+  "modCreatedTime": "2022-06-19T20:55:00+00:00",
+  "modLastUpdatedTime": "2022-06-19T21:45:17+00:00",
+  "modName": "MM-CraftSix",
+  "modImages": [],
+  "modShortDescription": "Simple modlet that allows crafting of level 6 devices. It works for tools, weapons and armour.",
+  "modDescription": "Simple modlet that allows crafting of level 6 devices. It works for tools, [weapons](https://7daystodiemods.com/tag/7-days-to-die-weapons/) and armour. The armour is a bit weird because you jump from level 4 straight to level 6 because there is no fifth skill level of those perks. It works, but maybe not optimally. Maybe in the future I will expand this to add a fifth level to the armour perks so that it can scale a bit more smoothly. For now it works and I’m not going to sweat it.\n\nOh, the reason I wrote this is because it was ticking me off that my level 100+ character still hadn’t found a level 6 sniper rifle yet. Not cool.\n\n**[Download](https://drive.google.com/file/d/1lRVb7hYxNYqCHLehzrouEHXzOlIzoz7r/view?usp=sharing)**\n\n**Credits:** [ModMangler](https://7daystodiemods.com/tag/modmangler/), Flexible Games (modding video)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1lRVb7hYxNYqCHLehzrouEHXzOlIzoz7r/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "ModMangler",
+    "Flexible Games (modding video)"
+  ],
+  "modTags": [
+    "7 days to die armor mods",
+    "7 days to die tools",
+    "7 days to die weapons",
+    "ModMangler"
+  ]
+}

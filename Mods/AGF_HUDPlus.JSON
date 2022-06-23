@@ -1,0 +1,36 @@
+{
+  "modURL": "https://7daystodiemods.com/agf-hudplus/",
+  "modCreatedTime": "2022-03-10T12:18:00+00:00",
+  "modLastUpdatedTime": "2022-03-10T12:24:21+00:00",
+  "modName": "AGF HUDPlus",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2020/10/7-days-to-die-agf-hudplus-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2020/10/7-days-to-die-agf-hudplus-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "AuroraGiggleFairy (Previously known as RilesPlus) has updated the HUD for A20. This overhaul provides additional information while attempting to keep the minimalist appeal.",
+  "modDescription": "AuroraGiggleFairy (Previously known as RilesPlus) has updated the [HUD](https://7daystodiemods.com/tag/7-days-to-die-hud-mod/) for A20\\. This overhaul provides additional information while attempting to keep the minimalist appeal.\n\n* Works server side\n* Wider and more accurate compass\n* Chatbox improvement\n* Time and Date shown on menus\n* Simple Container Status Colors\n* FULL Language Support!\n* (Optional) Enhanced Patch Available\n\n**[Download](https://drive.google.com/file/d/1DvwHAeYdqLgZ3_1ao4TnvfYBwc-SzFVA/view?usp=sharing)** AGF HUDPlus  \n**[Download](https://drive.google.com/file/d/1HQdmJJsuzWXYwPPLRNGXgPDN12x3wHHp/view?usp=sharing)** Enhanced Patch  \n**[Download](https://drive.google.com/file/d/1L9fSOBADyX_zGVz4VNH7mv2lT0yuSa9F/view?usp=sharing)** Khaine’s [15 Slot Toolbelt](https://7daystodiemods.com/15-slot-toolbelt/) Compatibility Patch\n\nIf you appreciate AuroraGiggleFairy’s work and you want to show support, use this [donate link](https://www.paypal.com/donate/?hosted_button_id=2AM5XX8GPXCTN).\n\nIf you need help, you can use this [support link](https://discord.gg/Vm5eyW6N4r).\n\n**Credits:** AuroraGiggleFairy",
+  "modDownloadURLs": [
+    {
+      "Info": "AGF HUDPlus",
+      "URL": "https://drive.google.com/file/d/1DvwHAeYdqLgZ3_1ao4TnvfYBwc-SzFVA/view?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "Enhanced Patch",
+      "URL": "https://drive.google.com/file/d/1HQdmJJsuzWXYwPPLRNGXgPDN12x3wHHp/view?usp=sharing",
+      "Version": "v19"
+    },
+    {
+      "Info": "Khaine’s 15 Slot Toolbelt Compatibility Patch",
+      "URL": "https://drive.google.com/file/d/1L9fSOBADyX_zGVz4VNH7mv2lT0yuSa9F/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "AuroraGiggleFairy"
+  ],
+  "modTags": [
+    "7 days to die hud mod"
+  ]
+}

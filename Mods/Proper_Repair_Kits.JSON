@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/proper-repair-kits/",
+  "modCreatedTime": "2022-04-09T02:05:00+00:00",
+  "modLastUpdatedTime": "2022-04-09T02:10:15+00:00",
+  "modName": "Proper Repair Kits",
+  "modImages": [],
+  "modShortDescription": "Repair kits have always been odd. Always using the same 2 items to repair anything just seemed wrong. So here is a fix for that.",
+  "modDescription": "**Warning:** This will change the way you play the game!\n\nRepair kits have always been odd. Always using the same 2 items to repair anything just seemed wrong. So here is a fix for that.\n\nEach kit will handle a certain type or group of Items. Each type of repair kit is color coded and has an item icon in the corner as well so you can find the type you are looking for easier.\n\n## Repair Kit Types\n\n* **Iron Repair Kit** – This is just the current repair kit in the game. Any non-vanilla items will still be repaired with this.\n* **Steel Repair Kit** – Repairs Steel [Tools](https://7daystodiemods.com/tag/7-days-to-die-tools/).\n* **Motor Repair Kit** – Repairs all tools that have a motor on them and the Generic Motor.\n* **Pistol Repair Kit** – Repairs the Pistol, Magnum 44, SMG, and Desert Vulture.\n* **Shotgun Repair Kit** – Repairs the Double Barrel, Pump, and Auto shotguns.\n* **Rifle Repair Kit** – Repairs the Hunting, Marksman, and Sniper rifles.\n* **Machine Gun Repair Kit** – Repairs the AK-47, Tactical AR, and M60.\n* **Bow Repair Kit** – Repairs the Wooden Bow, Compound Bow, Iron Crossbow, and Compound Crossbow.\n* **Non-Metal Armor Repair Kit** – Repairs [cloth](https://7daystodiemods.com/tag/7-days-to-die-clothing/) and leather armor.\n* **Metal Armor Repair Kit** – Repairs Iron and Steel Armor.\n* **Military Armor Repair Kit** – Repairs Military Armor.\n\nA few items require JUST the parts of the item to be repaired. Those are the Steel Sledge, Stun Baton, Steel Club, and Machete. Those items just require the parts of that item to repair them.\n\nThere will be some updates for sure, but this is a pretty good start on it.\n\n## Changelog\n\n**Version 1.7**\n\n* Fixed a bug with robotic items.\n* Localization.txt updates\n\n**Version 1.6**\n\nFixed to work with A20\\. Will not work correctly with previous alphas.\n\n**Version 1.5**\n\n* Fixed a bug that caused the game to crash.\n* Added a lot of stuff to the Localization.txt file changing the descriptions of items.\n* Changed the repair times on some things.\n\n**Version 1.4.0**\n\nAdded the repair kits to the trader.\n\n**Version 1.3.0**\n\n* Big Changes to the recipes and what repairs what.\n* Repair kits now require the Parts for the item to be repaired, Pistol repair kit requires Pistol Parts, etc…\n* Recipes for these have changed. Iceburg71 think it is balanced pretty good, but let him know what you think.\n* Updated Loot.xml so you can find these is certain spots. Still checking on these so it may change in the future as he discover new places to put these.\n\n**Version 1.2.0**\n\nBug Fix for proper repair kit for the Steel Fireaxe, Steel Spear, and Steel Knuckles.\n\n**Version 1.1.0**\n\n* Bug Fix for not being able to use the repair kits to repair the item it was meant to repair\n* Added configuration for loot.xml so that you can find these in the same locations in the world where you would find normal repair kits\n\n**Version 1.0.0**\n\nInitial release\n\nFuture Versions will add these to the trader to be able to be bought and sold as well.\n\nThis mod is server side friendly, so you can just drop it in and go.\n\n**[Download](https://github.com/Iceburg71/Iceburg-Proper-Repair-Kits/archive/refs/heads/main.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/18680-proper-repair-kits/).\n\n**Credits:** [Iceburg71](https://7daystodiemods.com/tag/iceburg71/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/Iceburg71/Iceburg-Proper-Repair-Kits/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/18680-proper-repair-kits/",
+  "modAuthors": [
+    "Iceburg71"
+  ],
+  "modTags": [
+    "7 days to die armor mods",
+    "7 days to die clothing",
+    "7 days to die tools",
+    "7 days to die weapons",
+    "Iceburg71"
+  ]
+}

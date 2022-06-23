@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/auto-dart-turret/",
+  "modCreatedTime": "2022-03-17T17:26:23+00:00",
+  "modName": "Auto Dart Turret",
+  "modImages": [],
+  "modShortDescription": "Adds an auto dart shooting turret to the game.",
+  "modDescription": "Adds an auto dart shooting turret to the game.\n\nComparable to 9mm vanilla game turret, but shoots darts, is bit less accurate, does less damage than bullets and has a shorter range than 9mm auto turret (20m, which is comparable to 30m of 9mm turret or 15m of shotgun turret).\n\nDarts are dirt cheap so now u finally have an [auto turret](https://7daystodiemods.com/tag/7-days-to-die-traps/) using them well …automatically… also u can load up to 1500 of darts into the turret and it shoots them out much faster than a dart trap.\n\n## Installation\n\nUnzip the mod under … <main 7d2d game folder> / Mods … directory. If u don’t have yet other mods, create the Mods folder under main game directory and put my files there.\n\nThis mod should be compatible with any other mods.\n\nTested on 20.3 version of the game\n\nEnjoy!\n\n**[Download](https://drive.google.com/file/d/1O5HtHaw7UzXUAyr_qYD20wAvQeXfEniW/view?usp=sharing)**\n\n**Credits:** [Furious Angel](https://7daystodiemods.com/tag/furious-angel/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1O5HtHaw7UzXUAyr_qYD20wAvQeXfEniW/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Furious Angel"
+  ],
+  "modTags": [
+    "7 days to die traps",
+    "7 days to die weapons",
+    "Furious Angel"
+  ]
+}

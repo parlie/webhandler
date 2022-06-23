@@ -1,0 +1,34 @@
+{
+  "modURL": "https://7daystodiemods.com/ah-64-apache-helicopter/",
+  "modCreatedTime": "2022-05-28T18:03:00+00:00",
+  "modLastUpdatedTime": "2022-05-30T10:40:52+00:00",
+  "modName": "AH-64 Apache Helicopter",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-ah-64-apache-helicopter-additional-screenshot-1b.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-ah-64-apache-helicopter-additional-screenshot-2b.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-ah-64-apache-helicopter-additional-screenshot-3b.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-ah-64-apache-helicopter-additional-screenshot-4a.jpg"
+  ],
+  "modShortDescription": "This mod adds a AH-64 Apache Helicopter. Working missiles, faster flying speed, larger storage, more fuel capacity, high durability, can be dyed and 2 seats.",
+  "modDescription": "This mod adds a AH-64 Apache Helicopter. The controls are the same as the [gyrocopter](https://7daystodiemods.com/tag/7-days-to-die-vehicles/), except W will lift you upward instead of forward like a helicopter would.\n\nThe AH-64 Apache Helicopter can be unlocked with grease monkey level 5 or by finding the schematics to make the parts. You can also find the parts bundle for completing tier 5 quests. Missiles can be fired from the helicopter by pressing the right mouse button while you have the helicopter missile ammo in your inventory. Alternatively you can use the number keys to fire each weapon individually, numbers 1 and 2 are used for the helicopter. The controls settings can also be changed in the settings menu under the vehicles section.\n\n## Features\n\n* Working missiles\n* Faster flying speed\n* Larger storage\n* More fuel capacity\n* High durability\n* Can be dyed\n* 2 seats\n\nSpecial thanks to Closer\\_Ex for the vehicle weapon system and Ragsy and Bdubyah for the helicopter xml.\n\n**Note:** This mod needs to be installed on both client and server for multiplayer. This mod is for A20 ONLY. **EAC MUST BE OFF!**\n\n## Changelog\n\n**Version 1.3**\n\n* Helicopter missiles are now fired from the right mouse button and can be configured in settings\n* Number keys 1 and 2 can now fire each weapon individually\n* Updated vehicle weapon mod to the latest version\n* Added custom player actions manager mod\n* Added Quartz mod for vehicle weapon controls UI\n\n**Version 1.2**\n\n* Updated vehicle weapon mod to latest version\n* Added new reload sound\n\n**Version 1.1**\n\nAdded functional missile firing system\n\n**[Download](https://gitlab.com/Zilox/A20Modlets/-/archive/main/A20Modlets-main.zip?path=Apache%20Helicopter%20Mods/Mods)**\n\nIf you appreciate Zilox’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/zilox135).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27534-ah-64-apache-helicopter/).\n\n**Credits:** [Zilox](https://7daystodiemods.com/tag/zilox/), Closer\\_Ex",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/Zilox/A20Modlets/-/archive/main/A20Modlets-main.zip?path=Apache%20Helicopter%20Mods/Mods",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27534-ah-64-apache-helicopter/",
+  "modAuthors": [
+    "Zilox",
+    "Closer_Ex"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die helicopter mod",
+    "7 days to die vehicles",
+    "7 days to die weapons",
+    "Zilox"
+  ]
+}

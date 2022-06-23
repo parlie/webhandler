@@ -1,0 +1,26 @@
+{
+  "modURL": "https://7daystodiemods.com/classic-style-zombies/",
+  "modCreatedTime": "2020-01-07T17:32:30+00:00",
+  "modLastUpdatedTime": "2022-04-25T18:34:49+00:00",
+  "modName": "Classic Style Zombies",
+  "modImages": [],
+  "modShortDescription": "A 7DTD mod that will send you back the classic style zombies. This mod makes a few changes to zombie behaviour to make them more in the classic style.",
+  "modDescription": "A 7DTD mod that will send you back the classic style zombies. Note: In A18 the mod stops [Rage Zombies](https://7daystodiemods.com/rage-zombies/). AI is dumbed down and will walk into spikes more, making too much noise means hordes will form on your location.\n\nThis mod makes a few changes to zombie behaviour to make them more in the classic style and is best used with other mods that increase zombie counts such as.\n\n## Zombie Changes\n\nEnhanced sound detection rate for zombies so they can now hear you from a lot further away.\n\nReduced zombie sight range to fit with zombies more sensitive to sound than sight.\n\nReduced view angle of zombies to let sound be the key.\n\nAdjusted maximum aggro speed to apply to all types of zombies so they will shamble around until they hear you, this can catch you out as you may think you are ok then suddenly they converge on your position and seek an audience with your body parts.\n\nImportant: Recommend Server/ Game setting at **_Walk_** on all options.\n\nAdded AI pathing changes courtesy of Tete1805, Haidrgna, KhaineGB, Xyth and HAL9000.\n\nZombies will now be much dumber than before and will path directly toward player and walk into [spikes](https://7daystodiemods.com/tag/7-days-to-die-spikes/) more often.\n\nAlso following the theme of more traditional classic style zombies Ragsy has adapted [REV6:7-8’s reality check](https://7daystodiemods.com/reality-check-removing-some-zombies-animals/) zombie replacements to suit this mod.\n\n## This (Ragsy’s) version\n\nRagsy’s personal thoughts are wolves, bears, dogs, vultures could be viable in the Apocalypse but not glowy screamy or super strength versions. Snakes he hate so they are out.\n\n* Replace zombieScreamer with zombieMarlene\n* Replace animalZombieBear with normal animalBear\n* Replace animalSnake with animalChicken\n* Replace zombieFatCop with zombieFatHawiian\n* Replace zombieSpider with zombieSoldier\n* Replace Feral Zombies all types replaced by zombieMaleHazmat\n* Replace animalZombieVultureRadiated with animalRabbit\n* Replace Radiated zombies replaced with zombieBiker\n* Replace animalDireWolf with animalStag\n\nIf you prefer to keep the original zombie of your choice then you can commenting any line out in the entitygroups.xml Using as shown below\n\n**Example:**\n\n```\n<!-- <set xpath=\"/entitygroups/entitygroup[contains(@name, '')]/entity[contains(@name, 'zombieScreamer')]/@name\">zombieMarlene</set> -->\n```\n\nNote: If you are using REV’s Zombie Replacement Modlets and prefer them then simply delete entitygroups.xml in Ragsy’s modlet’s Config folder.\n\nRagsy also recommend Kheldons Bigger bunny and chicken modlet for better rabbit and chicken hunts Khelldon-s-Modlets. This is still available on the mod launcher although there seems to be no download available in the forums.\n\nAlso adds a [perk](https://7daystodiemods.com/tag/7-days-to-die-perks/) for headshot system and this is also PvP friendly – Original Code credits to Spider (JZ\\_Mod), adjusted damage modifiers to suit this mod.\n\n[Zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) will not climb ladders included.\n\nPlease remove any previous version of the **no ladder climbing** mods.\n\nNow at Version 3\\. Mod works with Both **A17.4** and **A18**.\n\nRagsy will look to improve this mod as time goes by.\n\n**Important Note:** If you want to include any of his vehicle mods or other mods in a ‘mod overhaul’ please do him the courtesy of asking for permission first… when given you must give the due credit to himself and any other modders that may be credited under the “Credits & Additional Credits” sections if any. Also you are not allowed to extract any unity files without his permission either, if there has been an alpha change then wait and files will be updated for the new alpha version as soon as he possibly can. Thank you!\n\n**[Download](https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets/-/archive/master/other-7-days-to-die-mods-and-modlets-master.zip?path=Ragsy_Classic_Style_Zombies)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/11266-ragsy-s-modlets/).\n\n**Credits:** [Ragsy2145](https://7daystodiemods.com/tag/ragsy2145/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets/-/archive/master/other-7-days-to-die-mods-and-modlets-master.zip?path=Ragsy_Classic_Style_Zombies",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/11266-ragsy-s-modlets/",
+  "modAuthors": [
+    "Ragsy2145"
+  ],
+  "modTags": [
+    "7 days to die perks",
+    "7 days to die zombies",
+    "Ragsy2145"
+  ]
+}

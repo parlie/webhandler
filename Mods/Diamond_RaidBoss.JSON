@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/diamond-raidboss/",
+  "modCreatedTime": "2022-04-10T08:07:04+00:00",
+  "modLastUpdatedTime": "2022-04-10T08:07:05+00:00",
+  "modName": "Diamond RaidBoss",
+  "modImages": [],
+  "modShortDescription": "Adds a challenging, end-game Raid Boss, party girl Diamond, to the Wastelands. Server-side only - Players do not need to download!",
+  "modDescription": "Adds a challenging, end-game Raid Boss, [party girl](https://7daystodiemods.com/tag/7-days-to-die-zombies/) Diamond, to the Wastelands. Server-side only – Players do not need to download! It should play nicely with other mods but let me know! You may want to change the xp/coin reward and/or need to tone down the difficulty by reducing the entity health/regen, but see what you think.\n\nWe have a ton of other unique, complex enemies on our BlewBarry Farms 7d2d [server](http://www.blewbarryfarms.com/) and we may release more for the community in the coming months! Come see what we have if you don’t want to wait!\n\n**[Download](https://drive.google.com/file/d/1xEZ4kYzJD_pQrcJ1kaoWnT2q8y9diBys/view?usp=sharing)**\n\n**Credits:** Arcueid-Gray Sage",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1xEZ4kYzJD_pQrcJ1kaoWnT2q8y9diBys/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Arcueid-Gray Sage"
+  ],
+  "modTags": [
+    "7 days to die biomes",
+    "7 days to die zombies"
+  ]
+}

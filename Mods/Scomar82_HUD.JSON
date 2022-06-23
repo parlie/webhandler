@@ -1,0 +1,59 @@
+{
+  "modURL": "https://7daystodiemods.com/scomar82-hud/",
+  "modCreatedTime": "2021-12-24T15:58:00+00:00",
+  "modLastUpdatedTime": "2022-04-15T21:16:10+00:00",
+  "modName": "Scomar82 HUD",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-scomar82-hud-additional-screenshot-1b.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-scomar82-hud-changelog-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2021/12/7-days-to-die-scomar82-hud-changelog-screenshot.jpg"
+  ],
+  "modShortDescription": "HUD for A20 is ready. The refresh of the counters doesn't work at the moment. They refresh only by joining the game.",
+  "modDescription": "[HUD](https://7daystodiemods.com/tag/7-days-to-die-hud-mod/) for A20 is ready. The refresh of the counters doesn’t work at the moment. They refresh only by joining the game. Scomar will looking foreward to solve this somehow.\n\nHe added for both HUD’s a download without toolbeltnumbers (HUDwn and HUD2wn).\n\n**Alternative Display (Cash, Zombiekills left – Lootstage, Deaths right):**\n\n## Changelog\n\n**v2.4**\n\n* Fixed no display of Health/Stamina/Food/Water while ride a vehicle\n* Fixed display of the fields left/right from toolbelt when UI Background Opacity is < 100\n\n**v2.3**\n\nThe Playerlevel is back.\n\n**v2.2**\n\n* He added 2 links for Download: 15Toolbelt and withoutCounter.\n* For HUD2 version he changed the display from Playerlevel to Cash. Also the alignment of the values are changed to center. He added 2 more optional downloadfiles, this are the Versions for both HUD’s without numbers above the toolbelt.\n\n**v2.1**\n\nCounters are working now.\n\n**v2.0**\n\n* Small fix for health and stamina display.\n* First version of his HUD for A20 is ready. There are some little things that doesn’t work at the moment (e.g. the counter left and right from the toolbelt), but he’s on it.\n\n**Important:** If you use the 15 Slot UI you must also use the [15 Slot Toolbelt](https://7daystodiemods.com/15-slot-toolbelt/) from KhaineGB. If you use this you must play with EAC off, then you can access all slots. If you play with EAC on, you cant reach the slots 11-15 with closed backpack.\n\n**[Download](https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUD.zip)** HUD  \n**[Download](https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUDwn.zip)** HUDwn  \n**[Download](https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUDwithoutCounter.zip)** HUDwithoutCounter  \n**[Download](https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUD15Toolbelt.zip)** HUD15Toolbelt  \n**[Download](https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUD2.zip)** HUD2  \n**[Download](https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUD2wn.zip)** HUD2wn  \n**[Download](https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUD2_15Toolbelt.zip)** HUD2\\_15Toolbelt\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25909-scomar82_hud-a20/).\n\n**Credits:** [Scomar](https://7daystodiemods.com/tag/scomar/)",
+  "modDownloadURLs": [
+    {
+      "Info": "HUD",
+      "URL": "https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUD.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "HUDwn",
+      "URL": "https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUDwn.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "HUDwithoutCounter",
+      "URL": "https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUDwithoutCounter.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "HUD15Toolbelt",
+      "URL": "https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUD15Toolbelt.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "HUD2",
+      "URL": "https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUD2.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "HUD2wn",
+      "URL": "https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUD2wn.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "HUD2_15Toolbelt",
+      "URL": "https://github.com/Scomar82/7-Days-Modlets/raw/master/Scomar82_HUD2_15Toolbelt.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25909-scomar82_hud-a20/",
+  "modAuthors": [
+    "Scomar"
+  ],
+  "modTags": [
+    "7 days to die hud mod",
+    "Scomar"
+  ]
+}

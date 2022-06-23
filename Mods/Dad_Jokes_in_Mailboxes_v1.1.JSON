@@ -1,0 +1,24 @@
+{
+  "modURL": "https://7daystodiemods.com/dad-jokes-in-mailboxes/",
+  "modCreatedTime": "2022-04-04T20:51:00+00:00",
+  "modLastUpdatedTime": "2022-05-10T20:37:10+00:00",
+  "modName": "Dad Jokes in Mailboxes v1.1",
+  "modImages": [],
+  "modShortDescription": "Tired of only finding empty paper and boring books in mailboxes? This tiny server-side modlet adds a small chance to find an awful dad joke when looting mailboxes.",
+  "modDescription": "Tired of only finding empty paper and boring books in mailboxes? This tiny server-side modlet adds a small chance to find an awful dad joke when looting mailboxes.\n\nCurrently 50+ jokes.\n\n**[Download](https://github.com/CupOfTeal/DadJokesinMailboxes/archive/refs/heads/main.zip)**\n\nIf you need help, you can use this [support link](https://www.reddit.com/r/7daystodie/comments/th3iyp/zombie_apocalypse_dad_jokes/).\n\n**Credits:** [Khym](https://7daystodiemods.com/tag/khym/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/CupOfTeal/DadJokesinMailboxes/archive/refs/heads/main.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Khym"
+  ],
+  "modTags": [
+    "7 days to die loot",
+    "Khym"
+  ]
+}

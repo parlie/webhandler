@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/mickkpewpews-server-side-zeds-20-5/",
+  "modCreatedTime": "2022-05-28T19:06:26+00:00",
+  "modLastUpdatedTime": "2022-05-28T19:06:27+00:00",
+  "modName": "MickkPewPews Server Side Zeds 20.5",
+  "modImages": [],
+  "modShortDescription": "I've reworked some of the bosses and added some new mechanics too. Lucifer, Pyromaniac, Vulture Radiated Boss, Mutated Radiated Boss and more.",
+  "modDescription": "I’ve reworked some of the bosses and added some new mechanics too.\n\nLucifer makes his return with a new ranged attack, he will no longer have perfect accuracy when targeting a player; Instead now he will scatter his range attack toward the player giving them chances to dodgy the fireballs he launches, Reduced the block hit from 1 tile to 0.5 tiles also.\n\nPyromaniac is mostly unchanged but now gives a better loot bag when killed.\n\nThe Shinigami has been removed but will make a comeback once I add new mechanics to it, if you want the Shinigami in your game simple add him from the [older mod](https://7daystodiemods.com/mickkpewpews-server-side-zombies-and-bosses/), it will still work fine.\n\nVulture Radiated Boss now has a new ranged attack.\n\nSome new [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/) I’d like to introduce you too are the following:\n\n* Mutated Radiated Boss\n* Spider Radiated Boss\n* Burnt Feral Boss\n* Lumberjack Boss\n* MountainLion Boss\n* DireWolf Boss\n* Zombie Dog Boss\n* Wraith (Rebalanced)\n* Balor The Malevolent World Boss _(This does spawn naturally \\[Wasteland only\\] but is mainly for Admins of servers to spawn during events or bloodmoon for players to engage with – Trust me, you’ll want a team to take on this boss, he’s designed to take on multiple players and forces them to use different weapons, The longer he’s left alive the worse his debuffs to the player becomes.)_\n\nThese will all spawn in the Wasteland both during the day and the night. If you’re running a server and don’t want this function simply delete the “Entitygroups.xml” from the mods folder, This way they’ll be exclusive to Admin spawns only.\n\nThis mod has been tested on A20.5 up to recently (28.05.2022).\n\nThis mod won’t require any of your players to download anything, just the server owner, the files will then push to all players who join.\n\n**Note:** If spawning these in on bloodmoon be careful, as some of them have abilities that nerf the player in one way or another, Having multiple out may cause the player to rack up debuffs which can be frustrating, I.E Nerfed Range damage, Nerfed Melee Damage, Nerfed Movement, Etc… etc…\n\nFinally, these bosses are all balanced around Vanilla weapons and so the use of external mods that add weapons/damagebuffs may cause these to feel slightly underpowered in groups.\n\nAny issues please feel free to message me here, I’ll try watch this page over the next few days.\n\n**[Download](https://www.dropbox.com/sh/bfak73qpkcblm4r/AAB6LdSxjsDgo8pe2MUYp4iya?dl=1)**\n\n**Credits:** [Mickkpewpew](https://7daystodiemods.com/tag/mickkpewpew/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://www.dropbox.com/sh/bfak73qpkcblm4r/AAB6LdSxjsDgo8pe2MUYp4iya?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Mickkpewpew"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die zombies",
+    "Mickkpewpew"
+  ]
+}

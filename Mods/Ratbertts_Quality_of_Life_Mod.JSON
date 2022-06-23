@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/ratbertts-quality-of-life-mod/",
+  "modCreatedTime": "2022-04-13T15:47:00+00:00",
+  "modLastUpdatedTime": "2022-04-13T15:50:27+00:00",
+  "modName": "Ratbertts Quality of Life Mod",
+  "modImages": [],
+  "modShortDescription": "Simple changes I typically put on all Kitten Me Gaming servers before launch. Just some tweaks to things that improve some areas of the game that I felt needed some love.",
+  "modDescription": "Simple changes I typically put on all Kitten Me Gaming servers before launch. Just some tweaks to things that improve some areas of the game that I felt needed some love.\n\n## Ratbertts Quality of Life 1.0\n\n### Stack Sizes Changes\n\n**Food Items**\n\nFollowing [stack](https://7daystodiemods.com/tag/7-days-to-die-stack-size/) up to 500 (up from 125)\n\n* Blueberries\n* Corn\n* Super Corn\n* Potato\n* Mushrooms\n* Yucca Fruit\n* [Pumpkin](https://7daystodiemods.com/tag/7-days-to-die-food/)\n* Raw Meat\n\n**Medical Items**\n\nFollowing stack up to 10 (up from 5)\n\n* Bandage\n* First Aid Bandage\n* First Aid Kit\n\nFollowing stack up to 20 (up from 10)\n\n* Splint\n* Vitamins\n* [Painkillers](https://7daystodiemods.com/tag/7-days-to-die-medical-supplies/)\n* HerbalAntibiotics\n* Antibiotics\n\nFollowing stack up to 30 (up from 15)\n\nBlood Bag\n\n### Recipe Changes\n\n* Added Recipe for stone arrow that uses cloth instead of feather (both exist, and added bundle recipe)\n* Added Recipe for stone [crossbow](https://7daystodiemods.com/tag/7-days-to-die-weapons/) bolt that uses cloth instead of feather (both exist, and added bundle recipe)\n* Added all dyes to chem bench so you can craft them if you don’t want to wait to find them in loot (now under their own category on bench)\n* Modified all starting meet recipes to reduce meats.  \n   * Bacon and Eggs down to 3 meats (from 5)  \n   * Boiled, Charred, Grilled meats down to 2 (from 5)\n* All [seed](https://7daystodiemods.com/tag/7-days-to-die-farming/) recipes reduced from 5 items to 3 items to craft a seed. Example: 3 corn makes 1 seed\n* Changed First Aid Kit, replaced beer with medical aloe cream instead\n\n## Ratbertts Quality of Life 1.2 Updates\n\n* Added an admin concrete block that is not destroyable (for admins building public areas)\n* Modified gas generators to hold up to 2k in gas and provide a bit more [electrical](https://7daystodiemods.com/tag/7-days-to-die-electricity/) output.\n* Improved spear dmg in perk tree Javelin Master\n* Improved the durability of electric fence posts from 250 to 500\n* Added working jail doors to crafting\n* Added Beaker to crafting\n* Added Battery Acid to crafting (improved looting is still in mod, but commented out if you wish to re-add the increased battery acid spawns, you can)\n* Made player purchased vending machines more difficult to destroy, best if used with Admin Concrete block(because trolls)\n* Added eggs to fridges for looting\n\n**[Download](https://drive.google.com/file/d/1YreEdcZ5x2XJubi0CGPkMH9C-jcyhlcE/view?usp=sharing)**\n\nIf you need help, you can use this [support link](https://discord.gg/D7MTN8RZqu).\n\n**Credits:** [Ratbertt](https://7daystodiemods.com/tag/ratbertt/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1YreEdcZ5x2XJubi0CGPkMH9C-jcyhlcE/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Ratbertt"
+  ],
+  "modTags": [
+    "7 days to die ammo",
+    "7 days to die doors",
+    "7 days to die electricity",
+    "7 days to die farming",
+    "7 days to die food",
+    "7 days to die loot",
+    "7 days to die medical supplies",
+    "7 days to die recipes",
+    "7 days to die stack size",
+    "7 days to die weapons",
+    "Ratbertt"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "modURL": "https://7daystodiemods.com/telrics-fishing/",
+  "modCreatedTime": "2021-12-19T18:12:00+00:00",
+  "modLastUpdatedTime": "2022-05-21T01:11:09+00:00",
+  "modName": "Telric's Fishing",
+  "modImages": [],
+  "modShortDescription": "The latest version of fishing! It’s had some changes since a19. You’ll need to craft yourself a fishing rod to start fishing.",
+  "modDescription": "The latest version of fishing! It’s had some changes since a19\\. You’ll need to craft yourself a fishing rod to start [fishing](https://7daystodiemods.com/tag/7-days-to-die-fishing/). This rod has a base line 4% chance to catch fish. Not very high. But no worries, with perks in Living off the Land, you can increase that chance by 3%, 6%, and finally 16%, bring it to a max of 20% chance. It doesn’t stop there. You can find bait in loot, or through harvesting grass. Each perk point in living off the land increases the chance you’ll get bait from harvesting. There are three bait tiers. Worms, which give 5% additional catch chance, grubs with a 9% chance, and the more rare dragonfly with a whopping 25%. These baits have individual chances to be consumed when you get a bite, and a 100% chance should you fail to reel the fish in.\n\nThere have been more fish, along with more recipes added, but most of these recipes will require fish fillets of a certain type. To get these fillets, you must have a knife weapon equipped. This will unlock the fillet items. There are grilled, fried, marinated, and other foods that can be crafted.\n\nBe sure to also craft a fishing chair to fish from your own docks, and even the new tackle boxes to store some goodies in near those chairs.\n\nAnd don’t forget to download [Ragsy’s Raft Mod for A20](https://7daystodiemods.com/the-working-tfp-raft/) so you can fish directly from a raft!\n\n**Note to other modders:** If you want this mod to work on your own rafts or boats, first you need to be able to walk on the boat, using unity and colliders. Then, you need to add the correct tag to the entityclasses file. The tag is: fish. Very simple.\n\nDoes not require restart.\n\nTested and works with Alpha 20.4 (b42).\n\nRequires client to install as well as server.\n\n## Changelog\n\nJust put a fix out for the fishing mod. It was adding bait to all blocks, not just grass. That’s now been fixed. No need to restart, just redownload and it’ll work.\n\n**[Download](https://www.dropbox.com/s/f7uv3gy6mgircoq/TelricsFishingA20.zip?dl=1)** for A20  \n**[Download](https://www.dropbox.com/s/7sg7di56ox7abw3/TelricsFishingA19.zip?dl=1)** for A19\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26175-telrics-a20-modlets-new-fishing-mod-added-12172021/).\n\n**Credits:** [Telric](https://7daystodiemods.com/tag/telric/)",
+  "modDownloadURLs": [
+    {
+      "Info": "for A20",
+      "URL": "https://www.dropbox.com/s/f7uv3gy6mgircoq/TelricsFishingA20.zip?dl=1",
+      "Version": "v19"
+    },
+    {
+      "Info": "for A19",
+      "URL": "https://www.dropbox.com/s/7sg7di56ox7abw3/TelricsFishingA19.zip?dl=1",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26175-telrics-a20-modlets-new-fishing-mod-added-12172021/",
+  "modAuthors": [
+    "Telric"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die fishing",
+    "7 days to die food",
+    "Telric"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "modURL": "https://7daystodiemods.com/shallow-ground/",
+  "modCreatedTime": "2021-06-26T04:45:12+00:00",
+  "modLastUpdatedTime": "2022-06-14T19:28:48+00:00",
+  "modName": "Shallow Ground",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2021/06/7-days-to-die-shallow-ground-additional-screenshot.jpg"
+  ],
+  "modShortDescription": "This modlet greatly reduces the depth to bedrock, which encourages stable building and discourages the hiding of underground buildings.",
+  "modDescription": "This modlet greatly reduces the depth to bedrock (just 2M deep), which encourages stable building (reducing possibility of base-drop) and discourages the hiding of underground buildings.\n\nBalancing LCB Strength will be key to this kind of change being accepted since it’s focused on getting players to show off their structures and have to defend them. But as a server admin, you can also set LCB Strength to -1, which will make the blocks in your LCB zones invincible if you’re trying to go for a no-raid PVP or straight-up PVE server.\n\nIf you have any questions/requests or need help understanding how to set this up, reach out to us at the discord link provided on this page 🙂\n\n## Features\n\n1. Biome depths are all adjusted for a more shallow, trench-warfare experience  \nDrastically reduces time necessary to set up a stable base (bedrock is just 2M down)  \nTo help address how often players will encounter bedrock as a result, we swapped the trader/lcb/bedrock “gong” sound with something more subtle  \nWe have also boosted terrain resource yield to roughly 4x\n2. Mineral veins are replaced with just [boulders](https://7daystodiemods.com/tag/7-days-to-die-mining/)  \nTo offset the reduction of resources, we’ve boosted boulder resource yield to roughly 4x\n3. Removed buried supply and treasure quests to avoid cutting any deeper into the ground\n\n## How to Use\n\nThis modlet can be used with any [map](https://7daystodiemods.com/tag/7-days-to-die-maps/), but you’d want to have this modlet installed before creating a new instance of that map (in other words, if you’re ok with deleting your region files and effectively wiping the map or you haven’t played in a map yet, you’re good to go).\n\nThis modlet is 100% safe to use in a server, meaning your players will not have to download this mod on their own machines and everything will still work as expected.\n\n**[Download](https://github.com/raid-teams/shallow-ground/releases/latest)**\n\nIf you need help, you can use this [support link](https://discord.gg/at5eqAmHpN).\n\n**Credits:** [Jonathan Robertson (Kanaverum)](https://7daystodiemods.com/tag/jonathan-robertson-kanaverum/), AlluCash",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/raid-teams/shallow-ground/releases/latest",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Jonathan Robertson (Kanaverum)",
+    "AlluCash"
+  ],
+  "modTags": [
+    "7 days to die biomes",
+    "7 days to die maps",
+    "7 days to die mining",
+    "7 days to die quests",
+    "Jonathan Robertson (Kanaverum)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "modURL": "https://7daystodiemods.com/h7sb-backpacks/",
+  "modCreatedTime": "2022-04-28T12:54:00+00:00",
+  "modLastUpdatedTime": "2022-05-31T21:12:38+00:00",
+  "modName": "H7SB Backpacks",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/04/7-days-to-die-h7sb-mods-yt.jpg"
+  ],
+  "modShortDescription": "H7SB Backpacks is a server-side mod that changes the existing inventory system and adds visible backpacks.",
+  "modDescription": "H7SB Backpacks is a server-side mod that changes the existing inventory system and adds visible backpacks.\n\nThis mod has additional modules that can be optionally activated.\n\n## New: 5 Different Backpacks\n\n* Bumbag // 10/12/15 Slots // always unlocked // –\n* Small Backpack // 20/24/30 Slots // always unlocked // –\n* Backpack (blue/orange) // 30/48/60 Slots // always unlocked // Trader\n* Large Backpack // 40/72/90 Slots // Needle and Thread Vol 7 // Trader (Secret Stash 1-3)\n\nAll backpacks can be placed as a block and have an inventory.\n\nNew: The starting inventory size is now 2 rows by default.\n\n## New: Lockable Inventory Slots\n\nLockable inventory slots to avoid automatic sorting.\n\n## New: Orange Dye\n\nNew dye that can be found and is required to craft [backpacks](https://7daystodiemods.com/tag/7-days-to-die-backpack/).\n\n## Rework: Back & Accessory Slot\n\nAll face slot items have been moved to the eye slot to make room for the backpacks.\n\n## Rework: Pocket Mods\n\nRemoved the functionality of the pocket armor mods. They still exist to avoid errors, but have no no use.\n\n* Small Pocket Mod // 2.5/3/4 Slots // always unlocked\n* Large Pocket Mod // 5/6/7.5 Slots // Needle and Thread Vol 7\n\n## Rework: Packmule/Steroids\n\n* Packmule 4,8,12,16,20/4,8,12,18,24/6,12,18,25,30 Slots\n* Steroids 20/24/30 Slots\n\n## Rework: Encumbrance\n\nAfter 1 row encumbrance you come to a standstill.\n\n## Optional: Modules\n\n* “zBackpacks(96)” Increases inventory to 96 slots.\n* “zBackpacks(120)” Increases inventory to 120 [slots](https://7daystodiemods.com/tag/7-days-to-die-more-slots/).\n* “xBackpacks(Hardcore)” Reduces starting inventory size to 0 slots.\n\nLeave a thumbs up on the mod (youtube) you like to ensure that it gets an update for A21\\. Mods (youtube) with less thumbs up may be depreciated or deleted.\n\n## Mod Installation\n\n1. Download and unpack (“extract here”) the Zip data.\n2. Place it into your “Mods” folder.\n3. Have fun!\n\n## Module Installation\n\n1. Go inside the h7sb mod folder.\n2. Copy & paste (NOT drag & drop) the module you like into the main “Mods” folder.\n3. Have fun!\n\n## Copyrights: Attribution-NonCommercial-NoDerivatives 4.0 International\n\n* You are allowed to use this mod for your private use (singleplayer/multiplayer/server).\n* You are allowed to use this mod as part of your custom modpack (as separated mod).\n* You are not allow to reupload it without permission (exception mentioned)!\n* Of cause your allow to take inspiration to improve your existing code!\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Backpacks)**\n\nIf you appreciate Eihwaz’s work and you want to show support, use this [donate link](https://streamlabs.com/eihwazde/tip).\n\nIf you need help, you can use this [support link](https://discord.com/invite/StrFn7X).\n\n**Credits:** [Eihwaz](https://7daystodiemods.com/tag/eihwaz/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/EihwazDE/7d2d/tree/main/H7SB_Backpacks",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Eihwaz"
+  ],
+  "modTags": [
+    "7 days to die backpack",
+    "7 days to die bigger backpack",
+    "7 days to die more slots",
+    "Eihwaz"
+  ]
+}

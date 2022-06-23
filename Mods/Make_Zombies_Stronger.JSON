@@ -1,0 +1,29 @@
+{
+  "modURL": "https://7daystodiemods.com/make-zombies-stronger/",
+  "modCreatedTime": "2022-05-03T14:38:54+00:00",
+  "modLastUpdatedTime": "2022-05-03T14:38:55+00:00",
+  "modName": "Make Zombies Stronger",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-make-zombies-stronger-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-make-zombies-stronger-additional-screenshot-2.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-make-zombies-stronger-additional-screenshot-3.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/05/7-days-to-die-make-zombies-stronger-additional-screenshot-4.jpg"
+  ],
+  "modShortDescription": "This mod increases the HP of all default zombies (not animals) depending on their default characteristics.",
+  "modDescription": "This mod increases the HP of all default zombies (not animals) depending on their default characteristics.\n\n## Detailed List\n\n_(The Values mean Max HP for Normal/Feral/Radiated [zombies](https://7daystodiemods.com/tag/7-days-to-die-zombies/))_\n\n### ZOMBIES: SLIM\n\n* zombieArlene (300/500/700)\n* zombieMarlene (350/550/700)\n* zombiePartyGirl (350/500/800)\n* zombieNurse (300/500/700)\n* zombieJoe (350/550/700)\n* zombieSteve (350/550/700)\n* zombieTomClark (350/550/800)\n* zombieBusinessMan (350/550/800)\n* zombieBurnt (350/550/700)\n* zombieSpider (600/800/1200)\n\n### ZOMBIES: NORMAL\n\n* zombieBoe (450/750/1000)\n* zombieJanitor (500/750/1100)\n* zombieMoe (450/750/1200)\n* zombieLab (400/600/800)\n* zombieDarlene (400/550/800)\n* zombieYo (450/600/850)\n* zombieUtilityWorker (550/750/1250)\n\n### ZOMBIES: STRONG\n\n* zombieBiker (700/1000/1500)\n* zombieLumberjack (600/850/1200)\n* zombieFemaleFat (700/900/1200)\n* zombieFatHawaiian (700/900/1300)\n* zombieFatCop (700/900/1350)\n\n### ZOMBIES: FIT\n\n* zombieSkateboarder (450/700/850)\n* zombieSoldier (800/1000/1600)\n* zombieWightFeral (1000/1600)\n\n###  ZOMBIES: SPECIAL\n\n* zombieScreamer (800/1000/1500)\n* zombieMutated (800/1000/1500)\n* zombieDemolition (1000)\n* zombieSteveCrawler (800/1000)\n\n**[Download](https://drive.google.com/file/d/1dFUwF1fsIwpbJ1O56Xtvc3frdGJ-bUlx/view?usp=sharing)**\n\n**Credits:** [Vasiliy](https://7daystodiemods.com/tag/vasiliy/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://drive.google.com/file/d/1dFUwF1fsIwpbJ1O56Xtvc3frdGJ-bUlx/view?usp=sharing",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modAuthors": [
+    "Vasiliy"
+  ],
+  "modTags": [
+    "7 days to die zombies",
+    "Vasiliy"
+  ]
+}

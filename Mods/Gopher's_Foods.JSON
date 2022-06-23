@@ -1,0 +1,44 @@
+{
+  "modURL": "https://7daystodiemods.com/gophers-foods/",
+  "modCreatedTime": "2022-02-17T00:10:00+00:00",
+  "modLastUpdatedTime": "2022-02-17T00:13:06+00:00",
+  "modName": "Gopher's Foods",
+  "modImages": [],
+  "modShortDescription": "New food mod released! Formerly known as More Cooked Foods, this mod has been updated and rebalanced for Alpha 20.",
+  "modDescription": "New [food](https://7daystodiemods.com/tag/7-days-to-die-food/) mod released! Formerly known as More Cooked Foods, this mod has been updated and rebalanced for Alpha 20.\n\n## Changelog\n\n**v1.2**\n\n**Added New Items**\n\n* Banana\n* Egg & Cheese Sandwich\n\nNew icons for some items! (Big thanks to Recon\\_Reality for These New Icons!) – Listed as follows:\n\nChicken Nuggets, Cabbage, Hamburger & Fries Meal, Hamburger, Hot Sour Soup, Mongolian Beef, Brownie, Broccoli, Butter, Carrots, Cheese, Wontons (Cheese), Chicken Bones, Powdered Sugar, Ramen Noodles, Slice of Bread, Tomato.\n\n**Alpha 20 Version**  \n**[Download](https://github.com/GopherMods/7DTDMods/raw/master/Alpha20/GophersFoods_A20.zip)** Gopher’s Foods for **A20**  \n**Alpha 19 Versions**  \n**[Download](https://github.com/GopherMods/7DTDMods/raw/master/Alpha19/MoreCookedFoods.zip)** More Cooked Foods for **A19**  \n**[Download](https://github.com/GopherMods/7DTDMods/raw/master/Alpha19/MoreCookedFoods_NoMODS_Prefix.zip)** No (MOD) Prefix Version for **A19**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/27669-gophers-modlets-a20/).\n\n**Credits:** [Gopher](https://7daystodiemods.com/tag/gopher/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Alpha 20 Version",
+      "Version": "v19"
+    },
+    {
+      "Info": "Gopher’s Foods for A20",
+      "URL": "https://github.com/GopherMods/7DTDMods/raw/master/Alpha20/GophersFoods_A20.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Alpha 19 Versions",
+      "Version": "v19"
+    },
+    {
+      "Info": "More Cooked Foods for A19",
+      "URL": "https://github.com/GopherMods/7DTDMods/raw/master/Alpha19/MoreCookedFoods.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "No (MOD) Prefix Version for A19",
+      "URL": "https://github.com/GopherMods/7DTDMods/raw/master/Alpha19/MoreCookedFoods_NoMODS_Prefix.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/27669-gophers-modlets-a20/",
+  "modAuthors": [
+    "Gopher"
+  ],
+  "modTags": [
+    "7 days to die drinks",
+    "7 days to die food",
+    "Gopher"
+  ]
+}

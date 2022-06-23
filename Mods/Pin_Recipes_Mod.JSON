@@ -1,0 +1,33 @@
+{
+  "modURL": "https://7daystodiemods.com/pin-recipes-mod/",
+  "modCreatedTime": "2022-05-12T20:56:00+00:00",
+  "modLastUpdatedTime": "2022-05-12T21:24:34+00:00",
+  "modName": "Pin Recipes Mod",
+  "modImages": [
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-pin-recipes-mod-additional-screenshot-1.jpg",
+    "https://7daystodiemods.com/wp-content/uploads/2022/01/7-days-to-die-pin-recipes-mod-additional-screenshot-2.jpg"
+  ],
+  "modShortDescription": "A rather small A20 Harmony mod to pin recipes on the UI. Pinned recipes are queued until user removes them via \"x\" icon.",
+  "modDescription": "A rather small A20 Harmony mod to pin recipes on the UI.\n\nPinned recipes are queued until user removes them via “x” icon. Basic functionality is there, more features might be added. Has a good chance to be incompatible with other HUD mods!\n\nThere is also an alternative and slightly bigger UI (thx Tdrhart):\n\n## Changelog\n\n**Bugfix Release for New Worlds (0.5.1)**\n\n* Fix a few edge cases for brand new players/worlds. When a new world was loaded, the player wouldn’t be attached to the recipe manager, which lead to issues like recipes seemingly being craftable even though you don’t have the required ingredients.\n* Pins are now correctly cleared when switching maps.\n\n**Released Version 0.5.0**\n\n* Improves performance due to extensive caching\n* Less overhead due to using more correct hooks\n* Allows to change recipe count via mouse wheel\n* Shows small red overlay for locked recipes\n\n**Update (version 0.4.1)**\n\n* Small UI adjustments for better readability\n* Alternative bigger UI added (thx Tdrhart)\n\n**[Download](https://github.com/OCB7D2D/OcbPinRecipes/releases/download/0.5.1/OcbPinRecipes-0.5.1.zip)** Pin Recipes  \n**[Download](https://github.com/OCB7D2D/OcbPinRecipesUiTdrHart/archive/refs/tags/0.2.0.zip)** Alternative and Slightly Bigger UI\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26859-pin-recipes-mod/).\n\n**Credits:** [ocbMaurice](https://7daystodiemods.com/tag/ocbmaurice/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Pin Recipes",
+      "URL": "https://github.com/OCB7D2D/OcbPinRecipes/releases/download/0.5.1/OcbPinRecipes-0.5.1.zip",
+      "Version": "v19"
+    },
+    {
+      "Info": "Alternative and Slightly Bigger UI",
+      "URL": "https://github.com/OCB7D2D/OcbPinRecipesUiTdrHart/archive/refs/tags/0.2.0.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26859-pin-recipes-mod/",
+  "modAuthors": [
+    "ocbMaurice"
+  ],
+  "modTags": [
+    "7 days to die recipes",
+    "ocbMaurice"
+  ]
+}

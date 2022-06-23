@@ -1,0 +1,25 @@
+{
+  "modURL": "https://7daystodiemods.com/electricity-wind-power/",
+  "modCreatedTime": "2022-05-21T01:33:00+00:00",
+  "modLastUpdatedTime": "2022-05-21T01:36:47+00:00",
+  "modName": "Electricity Wind Power",
+  "modImages": [],
+  "modShortDescription": "Adds a modern windmill to produce electricity from wind power. Works the same as a solar power bank, but gets the energy from wind not from light.",
+  "modDescription": "Small Mod re-using one of Xyth’s older models (thx)!\n\nHas custom Harmony code, thus EAC incompatible!\n\nAdds a modern windmill to produce [electricity](https://7daystodiemods.com/tag/7-days-to-die-electricity/) from wind power. Works the same as a solar power bank, but gets the energy from wind not from light. Wind power isn’t (yet) linked to biome weather, as ocbMaurice doesn’t know how to sync it on a server. Instead we completely simulate the wind speed and direction via 2d perlin noise sampling.\n\nFirst release and only barely tested, but seems to work well enough, so enjoy if you want to go for more green energy. Also looking for people who would like to contribute other custom models, as the one used is rather dull. But should do the job for initial testing and further improvements on the code side.\n\nAlso works with his [Electricity Overhaul Mod](https://7daystodiemods.com/electricity-overhaul-mod/). Further stats/recipe nerving might be needed…\n\n**UL Support (0.3.0)**\n\n* Introducing compatibility for UL (experimental). Rename this mod to e.g ZElectricityWindPower to load after UL\n* Add German translations\n\n**[Download](https://github.com/OCB7D2D/ElectricityWindPower/releases/download/0.3.0/ElectricityWindPower-0.3.0.zip)**\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/26803-electricity-wind-power/).\n\n**Credits:** [ocbMaurice](https://7daystodiemods.com/tag/ocbmaurice/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://github.com/OCB7D2D/ElectricityWindPower/releases/download/0.3.0/ElectricityWindPower-0.3.0.zip",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/26803-electricity-wind-power/",
+  "modAuthors": [
+    "ocbMaurice"
+  ],
+  "modTags": [
+    "7 days to die electricity",
+    "ocbMaurice"
+  ]
+}

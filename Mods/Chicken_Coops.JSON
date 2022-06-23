@@ -1,0 +1,27 @@
+{
+  "modURL": "https://7daystodiemods.com/chicken-coops/",
+  "modCreatedTime": "2022-05-17T07:37:00+00:00",
+  "modLastUpdatedTime": "2022-05-17T07:51:42+00:00",
+  "modName": "Chicken Coops",
+  "modImages": [],
+  "modShortDescription": "Adds a chicken coop to the game that works the same way as the Darkness Falls one. Unlocked with Living off the Land 1. Craft, place, wait, loot.",
+  "modDescription": "Adds a chicken coop to the game that works the same way as the [Darkness Falls](https://7daystodiemods.com/darkness-falls-mod/) one. Unlocked with Living off the Land 1\\. Craft, place, wait, loot. Once you’ve looted it, hold animal feed in your hand (so toolbelt and select it), then right-click on the chicken coop to “feed the [chickens](https://7daystodiemods.com/tag/7-days-to-die-animals/)” so they can start producing again.\n\n## Terms of Use\n\n* These use purchased assets. The mod is available for personal use (even for servers). However, anyone including this mod in their own modpack needs to make sure they purchase the following assets in order to have the correct licence.  \n   * [Chickens](https://assetstore.unity.com/packages/3d/characters/animals/animal-pack-deluxe-99702)  \n   * [Chicken Coop](https://www.turbosquid.com/3d-models/henhouse-modeled-games-3d-model/986709)\n\n## Changelog\n\nLocalization fixes.\n\n**[Download](https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsXML/tree/main/KHA20-ChickenCoops)**\n\nIf you appreciate KhaineGB’s work and you want to show support, use this [donate link](https://www.paypal.com/paypalme/khainegb).\n\nThe forum topic of the mod is [here](https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/).\n\n**Credits:** [KhaineGB](https://7daystodiemods.com/tag/khainegb/)",
+  "modDownloadURLs": [
+    {
+      "Info": "Download",
+      "URL": "https://yehonal.github.io/DownGit/#/home?url=https://github.com/KhaineGB/KhaineA20ModletsXML/tree/main/KHA20-ChickenCoops",
+      "Version": "v19"
+    }
+  ],
+  "modPotentialyOutdated": false,
+  "modForumURL": "https://community.7daystodie.com/topic/25751-khaines-a20-modlets-bigger-backpacks-lockable-slots-behemoths-random-wandering-hordes-etc/",
+  "modAuthors": [
+    "KhaineGB"
+  ],
+  "modTags": [
+    "7 days to die animals",
+    "7 days to die farming",
+    "7 days to die food",
+    "KhaineGB"
+  ]
+}
